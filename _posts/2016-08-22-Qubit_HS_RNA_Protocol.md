@@ -6,9 +6,9 @@ title: RNA Quantification Protocol
 Protocol for the quantification of RNA.
 Provides RNA sample concentration
 
-##Qubit RNA HS Assay Kit (Qubit RNA HS Assay Kit, ThermoFisher, Catalog # Q32852)
+## Qubit RNA HS Assay Kit (Qubit RNA HS Assay Kit, ThermoFisher, Catalog # Q32852)
 * [Qubit RNA HS Assay Kit Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/Qubit_RNA_HS_Assay_UG.pdf)
-* "The Qubit® RNA HS Assay Kit, when used with the Qubit® Fluorometer, provides an accurate and selective method for the quantitation of low-abundance RNA samples. The assay is highly selective for RNA and will not quantitate DNA, protein, or free nucleotides. Common contaminants, such as salts, free nucleotides, solvents, detergents, or protein, are well-tolerated in the assay. The assay kit is designed to be accurate for RNA sample concentrations between 250 pg/µL and 100 ng/µL"
+* "The Qubit RNA HS Assay Kit, when used with the Qubit Fluorometer, provides an accurate and selective method for the quantitation of low-abundance RNA samples. The assay is highly selective for RNA and will not quantitate DNA, protein, or free nucleotides. Common contaminants, such as salts, free nucleotides, solvents, detergents, or protein, are well-tolerated in the assay. The assay kit is designed to be accurate for RNA sample concentrations between 250 pg/µL and 100 ng/µL"
 
 ## Protocol for Quantification of RNA
 * **_Use only thin-wall, clear, 0.5-mL PCR tubes. Acceptable tubes include Qubit assay tubes (Catalog # Q32856) or Axygen PCR-05-C tubes (Catalog # 10011-830)._**

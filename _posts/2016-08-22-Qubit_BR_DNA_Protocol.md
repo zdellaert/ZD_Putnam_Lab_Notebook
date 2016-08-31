@@ -8,7 +8,7 @@ Provides DNA sample concentration
 
 ## Qubit dsDNA BR Assay Kit (Qubit dsDNA BR Assay Kit, ThermoFisher, Catalog # Q32850)
 * [Qubit dsDNA BR Assay Kit Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/Qubit_dsDNA_BR_Assay_UG.pdf)
-* "The Qubit (previously known as Quant-iT) dsDNA BR Assay Kit is designed specifically for use with the Qubit Fluorometer. The assay is highly selective for double-stranded DNA (dsDNA) over RNA and is designed to be accurate for initial sample concentration from 100 pg/µl–1,000 ng/µl."
+* "The Qubit dsDNA BR Assay Kit is designed specifically for use with the Qubit Fluorometer. The assay is highly selective for double-stranded DNA (dsDNA) over RNA and is designed to be accurate for initial sample concentration from 100 pg/µl–1,000 ng/µl."
 
 ## Protocol for Quantification of DNA
 * **_Use only thin-wall, clear, 0.5-mL PCR tubes. Acceptable tubes include Qubit assay tubes (Catalog # Q32856) or Axygen PCR-05-C tubes (Catalog # 10011-830)._**
