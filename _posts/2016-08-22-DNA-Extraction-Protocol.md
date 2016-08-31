@@ -34,6 +34,7 @@ DNeasy Blood and Tissue Kit (DNeasy Blood and Tissue Kit, Qiagen, Catalog # 6950
 * Place spin column in new collection tube
 * Add 0.5ml Buffer **AW2**
 * Centrifuge at 20,000g for 3min and discard flow through and collection tube
+
 **_Dry column completely, Do not allow column to come in contact with flow through when moving to new tube_**
 
 * Place spin column in new 1.5ml or 2ml microfuge tube (not included in kit)
@@ -42,7 +43,7 @@ DNeasy Blood and Tissue Kit (DNeasy Blood and Tissue Kit, Qiagen, Catalog # 6950
 * Centrifuge at 6,000g for 1min
 * Aliquot DNA into 4 tubes (3µl for gel, 3µl for Qubit, 2x ~80µl for downstream applications
 
-For maximum DNA yeild repeat elution
+### For maximum DNA yeild repeat elution
 * Place spin column in new 1.5ml or 2ml microfuge tube (not included in kit)
 * Add 0.1ml of Buffer AE directly to the membrane
 * Incubate at room temperature for 1min
