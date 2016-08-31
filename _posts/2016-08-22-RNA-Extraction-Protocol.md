@@ -3,7 +3,7 @@ layout: post
 title: RNA Extraction Protocol
 ---
 
-Protocol for the extraction of total RNA for use in QPCR and Next Generation Sequencing
+Protocol for the extraction of total RNA for use in QPCR and Next Generation Sequencing.
 Yeilds total RNA that has been DNAse treated and is ready for downstream applications.
 
 RNAzol Extraction Reagent (RNAzol RT, Molecular Research Center, Catalog # RN 190)
