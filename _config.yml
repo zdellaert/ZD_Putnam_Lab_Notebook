@@ -9,7 +9,7 @@ name: Putnam Open Lab Notebook
 description: www.hollieputnam.com
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: "/images/HolliePutnam.JPG"
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: hollieputnam@gmail.com
   facebook:
   flickr:
   github: hputnam
@@ -26,9 +26,9 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: HolliePutnam
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCElsoEvxIn_2phhG3e86Saw # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
