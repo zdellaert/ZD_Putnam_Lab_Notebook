@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![image](https://hputnam.github.io/Putnam_Lab_Notebook/images/HolliePutnam.jpg)
+![image](https://github.com/hputnam/Putnam_Lab_Notebook/tree/master/images/HolliePutnam.jpg)
 
 I am an integrative marine eco-physiologist. I strive to understand how the immediate abiotic environment and biotic interactions drive organism phenotype,  ecological patterning, and evolutionary processess through the interaction of symbiosis, genetics, and epigenetics. 
 
