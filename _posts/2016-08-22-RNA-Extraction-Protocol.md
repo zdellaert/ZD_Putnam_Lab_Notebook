@@ -3,6 +3,9 @@ layout: post
 title: RNA Extraction Protocol
 ---
 
+Protocol for the extraction of total RNA for use in QPCR and Next Generation Sequencing
+Yeilds total RNA that has been DNAse treated and is ready for downstream applications.
+
 RNAzol Extraction Reagent (RNAzol RT, Molecular Research Center, Catalog # RN 190)
 * [RNAzol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/RNAzolRTOct2015.pdf)
 * "RNAzol RT is used to isolate RNA from tissues, cells, liquid samples or blood. One milliliter is sufficient to process up to 100 mg tissue yielding 50 – 700 μg of large RNA (>200 bases) and 8 – 120μg of small RNA (200 – 10 bases)."
@@ -28,7 +31,7 @@ Direct-zol RNA MiniPrep (Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050
 * Transfer mixture to Zymo-Spin IIC Column in collection tube 0.7ml at a time
 * Centrifuge at 12,000g for 30sec
 * Discard flow through and repeat additions and centrifugation as necessary for full mixture
-* Add 0.4ml _RNA Wash Buffer_ to the column
+* Add 0.4ml **RNA Wash Buffer** to the column
 * Centrifuge at 12,000g for 30sec and discard flow through
 
 *On Column DNAse Treatment*
