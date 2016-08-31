@@ -17,14 +17,14 @@ DNeasy Blood and Tissue Kit (DNeasy Blood and Tissue Kit, Qiagen, Catalog # 6950
 ## Protocol for Isolation of total DNA from Animal Tissues (Spin-Column Protocol)
  
 ## Procedure
-* Add 0.180ml of Buffer ATL to no more than 25mg of tissue in sterile RNAse DNAse free microfuge tube 
+* Add 0.180ml of Buffer **ATL*** to no more than 25mg of tissue in sterile RNAse DNAse free microfuge tube 
 * Homogenize tissue and buffer mix with teflon microfuge pestle
 * Add 20µl of Proteinase K (included in kit) and mix by vortexing 
 * Incubate at 56°C until tissue is lysed (1-3hr)
 * Add 4µl of RNase A (100mg/ml, not included in kit) and mix by vortexing
 * Incubate at room temperature for 2min
 * Vortex for 15sec
-* Add 0.2ml Buffer AL to sample and mix by vortexing
+* Add 0.2ml Buffer **AL** to sample and mix by vortexing
 * Add 0.2ml ethanol (96-100%) to sample and mix by vortexing
 * Add the mixture to the DNeasy Mini spin column in collection tube
 * Centrifuge at 6,000g for 1min and discard flow through and collection tube
@@ -38,10 +38,10 @@ DNeasy Blood and Tissue Kit (DNeasy Blood and Tissue Kit, Qiagen, Catalog # 6950
 **_Dry column completely, Do not allow column to come in contact with flow through when moving to new tube_**
 
 * Place spin column in new 1.5ml or 2ml microfuge tube (not included in kit)
-* Add 0.2ml of Buffer AE directly to the membrane
+* Add 0.2ml of Buffer **AE** directly to the membrane
 * Incubate at room temperature for 1min
 * Centrifuge at 6,000g for 1min
-* Aliquot DNA into 4 tubes (3µl for gel, 3µl for Qubit, 2x ~80µl for downstream applications
+* Aliquot DNA into 4 tubes (3µl for gel, 3µl for Qubit, 2x ~90µl for downstream applications
 
 ### For maximum DNA yeild repeat elution
 * Place spin column in new 1.5ml or 2ml microfuge tube (not included in kit)
