@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![](https://github.com/hputnam/Putnam_Lab_Notebook/tree/master/images/HolliePutnam.jpg)
+
+I am an integrative marine eco-physiologist. I strive to understand how the immediate abiotic environment and biotic interactions drive organism phenotype,  ecological patterning, and evolutionary processess through the interaction of symbiosis, genetics, and epigenetics. 
+
+I am dedicated to open, rigorous, and reproducible experiments and analyzes.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+wwww.hollieputnam.com
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hollieputnam@gmail.com](mailto:hollieputnam@gmail.com)
