@@ -4,12 +4,12 @@ title: RNA Extraction Protocol
 ---
 
 RNAzol Extraction Reagent (RNAzol RT, Molecular Research Center, Catalog # RN 190)
-[RNAzol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/RNAzolRTOct2015.pdf)
->RNAzol RT is used to isolate RNA from tissues, cells, liquid samples or blood. One milliliter is sufficient to process up to 100 mg tissue yielding 50 – 700 μg of large RNA (>200 bases) and 8 – 120μg of small RNA (200 – 10 bases).
+* [RNAzol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/RNAzolRTOct2015.pdf)
+* "RNAzol RT is used to isolate RNA from tissues, cells, liquid samples or blood. One milliliter is sufficient to process up to 100 mg tissue yielding 50 – 700 μg of large RNA (>200 bases) and 8 – 120μg of small RNA (200 – 10 bases)."
 
 Direct-zol RNA MiniPrep (Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050)
-[Direct-zol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/directzol_zymo_r2050i.pdf)
->Quick, spin column purification of high-quality (DNA-free) total RNA directly from TRIzol®, TRI Reagent® and other acid-guanidinium-phenol based reagents (RNAzol®, QIAzol®, TriPureTM, TriSureTM, etc.).
+* [Direct-zol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/directzol_zymo_r2050i.pdf)
+* "Quick, spin column purification of high-quality (DNA-free) total RNA directly from TRIzol®, TRI Reagent® and other acid-guanidinium-phenol based reagents (RNAzol®, QIAzol®, TriPureTM, TriSureTM, etc.)"
 
 
 
@@ -32,14 +32,14 @@ Direct-zol RNA MiniPrep (Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050
 * Centrifuge at 12,000g for 30sec and discard flow through
 
 *On Column DNAse Treatment*
-_* Mix 75µl of DNA Digestion Buffer with 5µl of DNase I (6U/µl)_
-_* Incubate at room temperature for 15min_
+* _Mix 75µl of DNA Digestion Buffer with 5µl of DNase I (6U/µl)_
+* _Incubate at room temperature for 15min_
 
-* Add 0.4ml _RNA PREWash_ to the column 
+* Add 0.4ml **RNA PREWash** to the column 
 * Centrifuge at 12,000g for 30sec and discard flow through
-* Add 0.4ml _RNA PREWash_ to the column 
+* Add 0.4ml **RNA PREWash** to the column 
 * Centrifuge at 12,000g for 30sec and discard flow through
-* Add 0.7ml _RNA Wash Buffer_ to the column 
+* Add 0.7ml **RNA Wash Buffer** to the column 
 * Centrifuge at 12,000g for 2min and discard flow through
 * Transfer the column to a new RNAse DNAse free microfuge tube
 * Elute RNA by adding 50µl of DNAse/RNase-Free water directly to the column
