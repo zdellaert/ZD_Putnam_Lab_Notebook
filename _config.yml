@@ -47,7 +47,7 @@ url: "http://hputnam.github.io"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Putnam_LabNotebook"
+baseurl: "/Putnam_Lab_Notebook"
 
 #
 # !! You don't need to change any of the configuration flags below !!
