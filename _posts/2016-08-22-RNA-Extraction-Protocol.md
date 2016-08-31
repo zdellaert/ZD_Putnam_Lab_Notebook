@@ -13,14 +13,15 @@ Direct-zol RNA MiniPrep (Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050
 
 
 
-##Protocol for Isolation of Total RNA 
-###RNAzol Steps
-*Add 1ml of RNAzol RT to no more than 100mg of tissue in sterile RNAse DNAse free microfuge tube 
-*Homogenize tissue and RNAzol mix with teflon microfuge pestle
-*Add 0.4ml of Nuclease Free water per 1ml of RNAzol 
-*Shake vigorously for 15sec and let sit at room temperature for 5-15min (e.g., for 100mg/ml use 15min)
-*Centrifuge samples at 12,000g for 15min
-*Remove supernatant into a new RNAse DNAse free microfuge tube 
+##Protocol for Isolation of Total RNA
+ 
+##RNAzol Steps
+* Add 1ml of RNAzol RT to no more than 100mg of tissue in sterile RNAse DNAse free microfuge tube 
+* Homogenize tissue and RNAzol mix with teflon microfuge pestle
+* Add 0.4ml of Nuclease Free water per 1ml of RNAzol 
+* Shake vigorously for 15sec and let sit at room temperature for 5-15min (e.g., for 100mg/ml use 15min)
+* Centrifuge samples at 12,000g for 15min
+* Remove supernatant into a new RNAse DNAse free microfuge tube 
 
 ## Direct-zol RNA MiniPrep Steps
 * Add an equal volume of 96-100% ethanol to the supernatant from the step above and mix thoroughly
