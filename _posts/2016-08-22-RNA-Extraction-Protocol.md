@@ -31,9 +31,9 @@ Direct-zol RNA MiniPrep (Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050
 * Add 0.4ml _RNA Wash Buffer_ to the column
 * Centrifuge at 12,000g for 30sec and discard flow through
 
-### On Column DNAse Treatment
-### * Mix 75µl of DNA Digestion Buffer with 5µl of DNase I (6U/µl)
-### * Incubate at room temperature for 15min
+*On Column DNAse Treatment*
+_* Mix 75µl of DNA Digestion Buffer with 5µl of DNase I (6U/µl)_
+_* Incubate at room temperature for 15min_
 
 * Add 0.4ml _RNA PREWash_ to the column 
 * Centrifuge at 12,000g for 30sec and discard flow through
