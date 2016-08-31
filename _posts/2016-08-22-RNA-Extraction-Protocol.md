@@ -3,8 +3,6 @@ layout: post
 title: RNA Extraction Protocol
 ---
 
-#RNA Extraction Protocol used for Geoduck Experiments
-
 RNAzol Extraction Reagent (RNAzol RT, Molecular Research Center, Catalog # RN 190)
 [RNAzol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/RNAzolRTOct2015.pdf)
 "RNAzol RT is used to isolate RNA from tissues, cells, liquid samples or blood. One milliliter is sufficient to process up to 100 mg tissue yielding 50 – 700 μg of large RNA (>200 bases) and 8 – 120μg of small RNA (200 – 10 bases)."
@@ -15,8 +13,8 @@ Direct-zol RNA MiniPrep (Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050
 
 
 
-#Protocol for Isolation of Total RNA 
-##RNAzol Steps
+##Protocol for Isolation of Total RNA 
+###RNAzol Steps
 *Add 1ml of RNAzol RT to no more than 100mg of tissue in sterile RNAse DNAse free microfuge tube 
 *Homogenize tissue and RNAzol mix with teflon microfuge pestle
 *Add 0.4ml of Nuclease Free water per 1ml of RNAzol 
