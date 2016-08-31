@@ -15,9 +15,9 @@ Qubit dsDNA BR Assay Kit (Qubit dsDNA BR Assay Kit, ThermoFisher, Catalog # Q328
 ## Protocol for Quantification of DNA
  
 ## Procedure
-**_Use only thin-wall, clear, 0.5-mL PCR tubes. Acceptable tubes include Qubit assay tubes (Catalog # Q32856) or Axygen PCR-05-C tubes (Catalog # 10011-830)._**
-**_If approximate sample concentration is unknown prior to measurement, run a dilution series with 1-2 samples to bring concentration within range of the assay (e.g., 1:1, 1:10, and 1:100)_**
-**_record any dilutions done prior to measurement in order to back calculate original concentration_**
+* **_Use only thin-wall, clear, 0.5-mL PCR tubes. Acceptable tubes include Qubit assay tubes (Catalog # Q32856) or Axygen PCR-05-C tubes (Catalog # 10011-830)._**
+* **_If approximate sample concentration is unknown prior to measurement, run a dilution series with 1-2 samples to bring concentration within range of the assay (e.g., 1:1, 1:10, and 1:100)_**
+* **_record any dilutions done prior to measurement in order to back calculate original concentration_**
 
 * Label tubes for each of your samples and 2 standards (Label lids only!)
   * Broad Range (standard 1 = 0 ng/μL DNA in TE buffer, standard 2 = 100 ng/μL DNA in TE buffer)  
