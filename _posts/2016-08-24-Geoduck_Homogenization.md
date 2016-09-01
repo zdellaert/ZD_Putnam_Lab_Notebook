@@ -58,6 +58,27 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 |===
 
 ## RNA Quality 20160826
-* [BioAnalyzer Chip 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100 expert_Eukaryote Total RNA Pico_DE72902486_2016-08-26_12-00-14_chip1.pdf)
+* Ran [**RNA Quality Check Protocol**]({% post_url 2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
+
+* Diluted above 1:100 dilution of samples again 1:10 and ran on bioanalyzer (plus test sample EPI 291)
+* [BioAnalyzer 20160826 Chip 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-08-26_12-00-14_chip1.pdf)
+
+* Used samples from above 1:100 dilute and ran on bioanalyzer (plus test sample EPI 291)
+* [BioAnalyzer 20160826 Chip 2]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-08-26_12-48-37_chip2.pdf)
+
+* Results were very noisy and degraded, ladder did not display correctly despite the fact it was new
+* Appears to be a problem with chip, kit, ladder, or setup
+
+## RNA Quality 20160829
+* Issue with 8-26 Bioanalyzer was identified as wrong clip position on loading syringe. Moved clip to top position.
+* Ran [**RNA Quality Check Protocol**]({% post_url 2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
+
+* Diluted samples extracted on 20160824 - 20160825 1:100 and ran on bioanalyzer along with a positive control from larval geoduck RNA extracted by SJW (#35)
+* [BioAnalyzer 20160829 Chip 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-08-29_11-19-26_chip1.pdf)
 
 
+## Conclusions
+* **Only a single large peak is expected for geoduck RNA, as the in the rRNA the 28S contains a hidden break that when the sample is heat denatured will break the 28S in half and these fragments will co-migrate with the 18S** 
+* Many peaks seen prior to the tall single peak, some potential for genomic DNA to be present after the large rRNA peak
+* The identical patterns of the smaller peaks prior to the large rRNA peak suggests the small peaks are not due to degradation. It is possible they are RNAs from other "symbiotic" or prey organisms as the geoducks are fed diatoms and dinoflagellates. The positive control would not have these small peaks as the prey is in too low of concentration at the larval stage the RNA was obtained from.
+* To check for degradation and to minimize genomic carry over, RNA extraction should be repeated with a higher RNAzol to tissue ratio to minimize genomic DNA carryover and to prevent the capacity of the spin columns from being overwhelmed.
