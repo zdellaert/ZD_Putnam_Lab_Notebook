@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNA Quantification Protocol
+date: '2016-08-31 23:00:00 -0000'
+categories: Protocols
 ---
 
 Protocol for the quantification of genomic DNA.

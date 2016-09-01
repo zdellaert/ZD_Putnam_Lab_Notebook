@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Tissue Homogenization for Nucleic Acid Analysis
+date: '2016-08-31 23:00:00 -0000'
+categories: Protocols
 ---
 
 Protocol for the homogenization of tissues by grinding on liquid nitrogen to maintain nucleic acid integrity and produce a homogenous tissue distribution for each downstream assay.
