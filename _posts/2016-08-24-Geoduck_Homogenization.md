@@ -2,16 +2,17 @@
 layout: post
 title: Geoduck homogenization and RNA extraction
 date: '2016-08-24'
-categories: Organismal Sample Processing
+categories: Sample Processing
 tags: Panopea generosa
+tags: shellfish
 ---
 
 Homogenization of juvenile geoduck samples for use in nucleic acid extractions
 
 [**Tissue Homogenization for Nucleic Acid Analysis Protocol**]({% post_url 2016-08-26-Homogenization-N2-protocol %})
 
-## Sample list 20160824
-###EPI Tubes  
+## Sample list 20160824  
+EPI Tubes  
 * 276 
 * 282
 * 283
@@ -22,8 +23,8 @@ Homogenization of juvenile geoduck samples for use in nucleic acid extractions
 * 302
 * 303
    
-## Sample list 20160825
-###EPI Tubes  
+## Sample list 20160825  
+EPI Tubes  
 * 275 
 
 Homogenized samples on liquid nitrogen and split in half for RNA and DNA extractions
