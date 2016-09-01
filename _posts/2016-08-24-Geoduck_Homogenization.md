@@ -10,7 +10,7 @@ Homogenization of juvenile geoduck samples for use in nucleic acid extractions
 
 
 Used the [**Tissue Homogenization for Nucleic Acid Analysis Protocol**] ({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/_posts/2016-08-26-Homogenization_N2_protocol.md) to grind tissue on liquid nitrogen
-[Direct-zol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/directzol_zymo_r2050i.pdf)
+
 ## Sample list 20160824
 EPI TUBES: 
   * 276 
