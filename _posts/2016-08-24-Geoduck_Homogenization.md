@@ -41,18 +41,33 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
 
 RNA Concentrations
-Sample.ID | Concentration(ng/µl) 
---- | --- 
-EPI-275 | 582
-EPI-276 | 1180
-EPI-282 | 1160
-EPI-283 | 1160
-EPI-289 | 790
-EPI-290 | 1060
-EPI-298 | 1020
-EPI-299 | 762
-EPI-302 | 888
-EPI-303 | 706
+|---
+|Right aligned|Right aligned|
+|Sample.ID | Concentration(ng/µl) |
+|--- | --- |
+|EPI-275 | 582 |
+|EPI-276 | 1180 |
+|EPI-282 | 1160 |
+|EPI-283 | 1160 |
+|EPI-289 | 790 |
+|EPI-290 | 1060 |
+|EPI-298 | 1020 |
+|EPI-299 | 762 |
+|EPI-302 | 888 |
+|EPI-303 | 706 |
 
 ## RNA Quality 20160826
 
+
+
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+| Second body
+| 2 line
+|===
+| Footer row
