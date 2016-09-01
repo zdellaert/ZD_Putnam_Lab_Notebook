@@ -38,9 +38,10 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 ## RNA Quantification 20160826
 * Diluted samples 1:100 in nucelase-free water
 * Used 10µl of sample and 190µl of Qubit Mix
-Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
+* Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
 
 ## RNA Concentrations
+
 |---
 |-:|-:
 | Sample.ID | Concentration(ng/µl) 
@@ -57,8 +58,6 @@ Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protoc
 |===
 
 ## RNA Quality 20160826
-
-
 
 |---
 | Default aligned | Left aligned | Center aligned | Right aligned
