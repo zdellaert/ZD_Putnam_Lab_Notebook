@@ -40,7 +40,7 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 * Used 10µl of sample and 190µl of Qubit Mix
 Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
 
-RNA Concentrations
+## RNA Concentrations
 |---
 |-:|-:
 | Sample.ID | Concentration(ng/µl) 
