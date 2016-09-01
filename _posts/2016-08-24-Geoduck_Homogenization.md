@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geoduck homogenization and RNA extraction
+title: Geoduck homogenization and RNA extraction 20160824-20160829
 date: '2016-08-24'
 categories: Sample Processing
 tags: Panopea generosa

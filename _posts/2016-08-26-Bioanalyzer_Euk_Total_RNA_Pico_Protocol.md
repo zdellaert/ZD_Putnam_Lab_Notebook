@@ -14,7 +14,7 @@ Provides RNA integrity number and microgel to assess degradation and DNA contami
 
 ## Protocol for Quantification of RNA
 * **_Heat denature samples at 70°C for 2min and place on ice immediately prior to use_**
-* **_Qualitative range 50–5000 pg/μl for Total RNA, and 250–5000 pg/μl mRNA
+* Qualitative range 50–5000 pg/μl for Total RNA, and 250–5000 pg/μl mRNA
 
 ## Procedure
 * Follow Manufacturer's Instructions exactly
