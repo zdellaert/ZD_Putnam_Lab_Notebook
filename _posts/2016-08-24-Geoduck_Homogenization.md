@@ -8,7 +8,7 @@ tags: Panopea generosa
 
 Homogenization of juvenile geoduck samples for use in nucleic acid extractions
 
-[**Tissue Homogenization for Nucleic Acid Analysis Protocol**]({% post_url /Putnam_Lab_Notebook/2016-08-26-Homogenization-N2-protocol %})
+[**Tissue Homogenization for Nucleic Acid Analysis Protocol**]({% post_url Putnam_Lab_Notebook/2016-08-26-Homogenization-N2-protocol %})
 
 ## Sample list 20160824
 EPI TUBES: 
