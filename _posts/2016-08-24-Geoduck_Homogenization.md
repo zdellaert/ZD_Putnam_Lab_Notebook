@@ -44,7 +44,7 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 
 |---
 |-:|-:
-| Sample.ID | Concentration(ng/µl) 
+| **Sample.ID** | **Conc.(ng/µl)** 
 | EPI-275 | 582 
 | EPI-276 | 1180 
 | EPI-282 | 1160 
@@ -58,15 +58,6 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 |===
 
 ## RNA Quality 20160826
+* [BioAnalyzer Chip 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100 expert_Eukaryote Total RNA Pico_DE72902486_2016-08-26_12-00-14_chip1.pdf)
 
-|---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
-| Second body
-| 2 line
-|===
-| Footer row
+
