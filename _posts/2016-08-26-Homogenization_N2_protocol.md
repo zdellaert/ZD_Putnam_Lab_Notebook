@@ -14,3 +14,6 @@ Yields tissue powder that is stored at -80°C for downstream analyses.
 * Remove any extra liquid from sample and add sample to liquid nitrogen in mortar 
 * Crush and grind sample until powder is formed
 * Add additional liquid nitrogen as necessary to ensure sample remains frozen. 
+* Chill funnel in liquid nitrogen
+* Add homogenate powder to microfuge tubes
+* Store tubes at -80°C until ready for downstream processing
