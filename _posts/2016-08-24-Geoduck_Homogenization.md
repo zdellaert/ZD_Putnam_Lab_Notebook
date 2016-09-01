@@ -43,18 +43,18 @@ Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protoc
 RNA Concentrations
 |---
 |-:|-:
-| Sample.ID | Concentration(ng/µl) |
-| EPI-275 | 582 |
-| EPI-276 | 1180 |
-| EPI-282 | 1160 |
-| EPI-283 | 1160 |
-| EPI-289 | 790 |
-| EPI-290 | 1060 |
-| EPI-298 | 1020 |
-| EPI-299 | 762 |
-| EPI-302 | 888 |
-| EPI-303 | 706 |
-|---
+| Sample.ID | Concentration(ng/µl) 
+| EPI-275 | 582 
+| EPI-276 | 1180 
+| EPI-282 | 1160 
+| EPI-283 | 1160 
+| EPI-289 | 790 
+| EPI-290 | 1060 
+| EPI-298 | 1020 
+| EPI-299 | 762 
+| EPI-302 | 888 
+| EPI-303 | 706 
+|===
 
 ## RNA Quality 20160826
 
