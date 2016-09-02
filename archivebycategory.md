@@ -1,35 +1,24 @@
-    ---
-    layout: page
-    title: Post by Category
-    permalink: /categoryview/
-    sitemap: false
-    ---
-    
-<div>
-{% assign categories = site.categories | sort %}
-{% for category in categories %}
- <span class="site-tag">
-	<a href="#{{ category | first | slugify }}">
-			{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
-	</a>
-</span>
-{% endfor %}
-</div>
-    
-<div id="index">
+---
+title: Post by Category
+permalink: /categoryview/
+active: archivebycategory
+sitemap: false
+layout: page
+---
 
-{% for category in categories %}
-<a name="{{ category[0] }}"></a><h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h2>
+[By Date]({{"/monthview" | prepend: site.baseurl}}) | [By Tag Cloud]({{"/tagcloudview" | prepend: site.baseurl}})
+
+{% assign tags = site.categories | sort %}
 {% assign sorted_posts = site.posts | sort: 'title' %}
-{% for post in sorted_posts %}
-{%if post.categories contains category[0]%}
-
-  <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <p class="date">{{ post.date |  date: "%B %e, %Y" }}</p></a></h3>
-   <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-
-{%endif%}
-{% endfor %}
-
-{% endfor %}
+<div> 
+{% for tag in tags %}
+<a href="#{{ tag | first | slugify }}">{{ tag | first | replace: '-', ' ' }}({{ tag | last | size }})</a>{% if forloop.last == false %} • {% endif %}{% endfor %}
 </div>
-    
+<p>&nbsp;</p>
+
+{% for tag in tags %}
+<p><a name="{{ tag | first | slugify }}"></a>&nbsp;</p>
+<h3 class="archivetitle">{{ tag | first | replace:'-', ' ' }} <i class="badge">{{ tag | last | size }}</i> </h3>
+
+<ul>{% for post in sorted_posts %}{%if post.categories contains tag[0]%}<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.author %} • {{ post.author }}{% endif %}{% if post.date %} • {{ post.date | date: "%B %e, %Y" }}{% endif %}</li>{%endif%}{% endfor %}</ul>
+{% endfor %}
