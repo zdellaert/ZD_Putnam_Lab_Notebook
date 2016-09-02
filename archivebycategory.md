@@ -15,7 +15,6 @@
     </span>
     {% endfor %}
     </div>
-    
         <div id="index">
 
     {% for category in categories %}
