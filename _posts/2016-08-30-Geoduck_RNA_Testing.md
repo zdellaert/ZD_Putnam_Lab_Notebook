@@ -7,7 +7,7 @@ tags: Panopea generosa
 tags: shellfish
 ---
 
-20160829-20160830
+20160829-20160830 Testing for improved yield of RNA with no genomic DNA contamination and for removal of rRNA through one round of polyA selection on total RNA
 
 ## Sample list from samples with additional RNAzol on 20160825   
 * EPI-275
