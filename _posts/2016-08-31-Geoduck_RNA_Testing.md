@@ -3,6 +3,7 @@ layout: post
 title: Geoduck RNA ReExtraction and Testing
 date: '2016-08-31'
 categories: Sample Processing
+tags: RNA
 tags: Panopea generosa
 tags: shellfish
 ---
