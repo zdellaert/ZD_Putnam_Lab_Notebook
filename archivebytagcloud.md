@@ -10,7 +10,7 @@ sitemap: false
 
 
 <div>
-{% assign tags = site.categories | sort %}
+{% assign tags = site.tags | sort %}
 {% for tag in tags %}
 <a href="#{{ tag | first | slugify }}" style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">{{ tag | first | replace:'-', ' ' }}({{ tag | last | size }})</a>
 {% endfor %}
