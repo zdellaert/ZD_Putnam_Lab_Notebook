@@ -1,11 +1,11 @@
     ---
     layout: page
     title: Post by Category
-    permalink: https://hputnam.github.io/Putnam_Lab_Notebook/categoryview/
+    permalink: /categoryview/
     sitemap: false
     ---
     
-        <div>
+<div>
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
      <span class="site-tag">
@@ -14,8 +14,9 @@
         </a>
     </span>
     {% endfor %}
-    </div>
-        <div id="index">
+</div>
+    
+<div id="index">
 
     {% for category in categories %}
     <a name="{{ category[0] }}"></a><h2>{{ category[0] | replace:'-', ' ' }} ({{ category | last | size }}) </h2>
@@ -30,5 +31,5 @@
     {% endfor %}
 
     {% endfor %}
-    </div>
+</div>
     
