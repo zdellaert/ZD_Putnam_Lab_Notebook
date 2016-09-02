@@ -1,7 +1,7 @@
     ---
     layout: page
     title: Post by Category
-    permalink: /categoryview/
+    permalink: https://hputnam.github.io/Putnam_Lab_Notebook/categoryview/
     sitemap: false
     ---
     
