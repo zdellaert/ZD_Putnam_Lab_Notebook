@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tissue Homogenization for Nucleic Acid Analysis Protocol
-date: '2016-08-20'
+date: '2016-08-26'
 categories: Protocols
 ---
 
