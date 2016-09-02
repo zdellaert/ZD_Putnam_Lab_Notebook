@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RNA Quality Check Protocol
-date: '2016-08-31'
+date: '2016-08-26'
 categories: Protocols
 tags: RNA
 tags: 
