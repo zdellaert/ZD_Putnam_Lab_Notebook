@@ -25,7 +25,7 @@ tags: shellfish
 ## RNA Extractions 20160829
 * moved 0.5ml of RNAzol/homogenate mix to new tube
 * Added 0.2ml of nuclease free water to each new tube
-* Proceeded with [**RNA Extraction Protocol**]({% post_url /Putnam_Lab_Notebook/_posts/2016-08-26-RNA-Extraction-Protocol %})
+* Proceeded with [**RNA Extraction Protocol**]({% post_url /_posts/2016-08-26-RNA-Extraction-Protocol %})
 * After initial centrifugation mixed yielded ~0.65ml of supernatant that was mixed with 0.65ml of 100% ethanol and was added to the spin column step
 
 ## RNA Quantification 20160829
