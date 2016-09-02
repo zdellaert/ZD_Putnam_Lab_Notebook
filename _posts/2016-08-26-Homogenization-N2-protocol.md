@@ -3,7 +3,7 @@ layout: post
 title: Tissue Homogenization for Nucleic Acid Analysis Protocol
 date: '2016-08-26'
 categories: Protocols
-tags: organismal
+tags: Organismal
 tags: 
 ---
 

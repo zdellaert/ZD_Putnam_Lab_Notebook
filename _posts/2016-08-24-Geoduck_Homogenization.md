@@ -2,8 +2,8 @@
 layout: post
 title: Geoduck homogenization and RNA extraction
 date: '2016-08-24'
-categories: Sample Processing
-tags: Panopea generosa
+categories: Processing
+tags: P.generosa
 tags: shellfish
 ---
 
