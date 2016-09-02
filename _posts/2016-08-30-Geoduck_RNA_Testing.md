@@ -54,15 +54,14 @@ tags: shellfish
 
 * a 20µl aliquot with an average of ~500ng/µl the samples has ~10µg of total RNA, more than necessary (4µg) for Illumina mRNASeq library prep
 
-## rRNA Removal 20160830
-from samples extracted 20160825
+## rRNA Removal 20160830 from samples extracted 20160825
+To test for removal of rRNA the samples were run through the Ambion rRNA Poly(A) Purist kit. One of the ~20µl aliquots of RNA from each sample was used. 
+
 * EPI-283
 * EPI-289
 * EPI-290
 * EPI-298
 
-To test for removal of rRNA the samples were run through the Ambion rRNA Poly(A) Purist kit
-One of the ~20µl aliquots of RNA from each sample was used. 
 * Added 0.23ml of nuclease free water to each sample
 * Added 0.25ml of 2x binding solution and mixed thoroughly
 * Added mix to Oligo(dT) Cellulose and mixed by pipetting
@@ -121,9 +120,10 @@ One of the ~20µl aliquots of RNA from each sample was used.
 
 ## Conclusions
 * **Only a single large peak is expected for total geoduck RNA, as the in the rRNA the 28S contains a hidden break that when the sample is heat denatured will break the 28S in half and these fragments will co-migrate with the 18S** 
-* Many peaks seen prior to the tall single peak, some potential for genomic DNA to be present after the large rRNA peak
 * The identical patterns of the smaller peaks prior to the large rRNA peak again suggests the small peaks are not due to degradation. It is possible they are RNAs from other "symbiotic" or prey organisms as the geoducks are fed diatoms and dinoflagellates. 
 * The use of a higher RNAzol:Tissue ratio minimized the genomic DNA carryover in chip1 samples
 * PolyA selection resulted in total removal of the large 18S and 28S single peak, which was only visible in the rRNA supernatant fraction and not the mRNA fraction
 * Due to eluting in 200µl of THE RNA Storage Solution, the mRNA was of low concentration and barely detectable on the Bioanalyzer (chip 1 sample 283) and was not detectable in the diluted mRNA samples
-* One round of polyA selection appears to be enough to remove rRNA. This will be done as part of the Illumina library prep kit, step 1.
+* One round of polyA selection appears to be enough to remove rRNA. This will be done as part of the Illumina library prep kit, step 1
+
+* Assuming that the identical patterned smaller peaks are from feeding of diatoms and dinoflagellates, will continue with homogenizations and extractions of RNA for Illumina library prep
