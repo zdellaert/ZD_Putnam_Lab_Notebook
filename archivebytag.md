@@ -1,5 +1,5 @@
 ---
-title: Post by tag
+title: Post by Tag
 permalink: /tagview/
 active: archivebytag
 sitemap: false
@@ -8,7 +8,7 @@ layout: page
 
 [By Date]({{"/monthview" | prepend: site.baseurl}}) | [By Category]({{"/categoryview" | prepend: site.baseurl}})
 
-{% assign tags = site.categories | sort %}
+{% assign tags = site.tags | sort %}
 {% assign sorted_posts = site.posts | sort: 'title' %}
 <div> 
 {% for tag in tags %}
