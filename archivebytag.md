@@ -6,7 +6,7 @@ sitemap: false
 layout: page
 ---
 
-[By Date]({{"/monthview" | prepend: site.baseurl}}) | [[By Category]({{"/categoryview" | prepend: site.baseurl}})
+[By Date]({{"/monthview" | prepend: site.baseurl}}) | [By Category]({{"/categoryview" | prepend: site.baseurl}})
 
 {% assign tags = site.categories | sort %}
 {% assign sorted_posts = site.posts | sort: 'title' %}
