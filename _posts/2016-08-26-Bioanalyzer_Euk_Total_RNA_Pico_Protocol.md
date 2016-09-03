@@ -3,8 +3,7 @@ layout: post
 title: RNA Quality Check Protocol
 date: '2016-08-26'
 categories: Protocols
-tags: RNA
-tags: 
+tags: [RNA]
 ---
 
 Protocol for checking the quality of RNA.
