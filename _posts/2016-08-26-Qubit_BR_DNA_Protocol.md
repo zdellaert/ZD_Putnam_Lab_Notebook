@@ -3,8 +3,7 @@ layout: post
 title: DNA Quantification Protocol
 date: '2016-08-26'
 categories: Protocols
-tags: DNA
-tags: 
+tags: [DNA]
 ---
 
 Protocol for the quantification of genomic DNA.

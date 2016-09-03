@@ -3,8 +3,7 @@ layout: post
 title: DNA Extraction Protocol
 date: '2016-08-26'
 categories: Protocols
-tags: DNA
-tags: 
+tags: [DNA]
 ---
 
 Protocol for the extraction of genomic DNA for use in PCR and Next Generation Sequencing.

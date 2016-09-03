@@ -3,8 +3,7 @@ layout: post
 title: RNA Quantification Protocol
 date: '2016-08-26'
 categories: Protocols
-tags: RNA
-tags: 
+tags: [RNA]
 ---
 
 Protocol for the quantification of RNA.

@@ -3,9 +3,7 @@ layout: post
 title: Geoduck RNA ReExtraction and Testing
 date: '2016-08-31'
 categories: Processing
-tags: RNA
-tags: P.generosa
-tags: shellfish
+tags: [RNA, P. generosa, shellfish]
 ---
 
 20160829-20160830 Testing for improved yield of RNA with no genomic DNA contamination and for removal of rRNA through one round of polyA selection on total RNA

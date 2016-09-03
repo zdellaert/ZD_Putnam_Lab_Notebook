@@ -3,8 +3,7 @@ layout: post
 title: RNA Extraction Protocol
 date: '2016-08-26'
 categories: Protocols
-tags: RNA
-tags: 
+tags: [RNA]
 ---
 
 Protocol for the extraction of total RNA for use in QPCR and Next Generation Sequencing.

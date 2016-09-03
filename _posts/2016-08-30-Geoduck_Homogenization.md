@@ -3,8 +3,7 @@ layout: post
 title: Geoduck homogenization and RNA extraction
 date: '2016-08-30'
 categories: Processing
-tags: P.generosa
-tags: shellfish
+tags: [P. generosa, shellfish]
 ---
 
 20160824-20160829
