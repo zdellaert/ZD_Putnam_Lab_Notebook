@@ -3,7 +3,7 @@ layout: post
 title: Geoduck Sample Homogenization Summary
 date: '2016-09-12'
 categories: Processing
-tags: [RNA, DNA, P. generosa, shellfish]
+tags: [P. generosa, shellfish]
 ---
 
 20160901-20160912 
