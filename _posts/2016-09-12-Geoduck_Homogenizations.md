@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geoduck RNA ReExtraction and Testing
+title: Geoduck Sample Homogenization Summary
 date: '2016-09-12'
 categories: Processing
 tags: [RNA, DNA, P. generosa, shellfish]
