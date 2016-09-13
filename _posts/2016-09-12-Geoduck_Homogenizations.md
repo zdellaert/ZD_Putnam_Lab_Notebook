@@ -82,8 +82,10 @@ Homogenization of juvenile geoduck samples for use in nucleic acid extractions
 * EPI-161
 * EPI-162
 
-Homogenization method was changed to crushing with metal pestle in plastic tube to minimize loss of tissue homogenate on the side of the mortar due to the small size of the samples
+
 ## Sample list 20160912
+Homogenization method was changed to crushing with metal pestle in plastic tube to minimize loss of tissue homogenate on the side of the mortar due to the small size of the samples
+
 * EPI-41
 * EPI-42
 * EPI-43
