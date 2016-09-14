@@ -7,3 +7,4 @@ tags: [RNA, P. generosa, shellfish]
 ---
 
 20160901-20160912 
+Homogenization of juvenile geoduck samples for use in nucleic acid extractions
