@@ -42,7 +42,7 @@ Tested RNA extractions for improving quality and identifying if peaks prior to m
 |===
 
 
-## RNA Quality check of re-extracted samples, mRNA, and rRNA 20160830
+## RNA Quality check of total RNA
 * Ran [**RNA Quality Check Protocol**]({% post_url 2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
 
 * Diluted samples with a 1:100 dilution and ran on bioanalyzer
