@@ -19,13 +19,13 @@ Tested RNA extractions for improving quality and identifying if peaks prior to m
 ## Extraction Procedure
 * Used ~10mg plastic scoops to transfer 4 scoops (~40mg) of ground tissue to 0.5ml RNAzol
 * Homogenized again with teflon pestles in microfuge tubes with RNAzol
-* Proceeded with [**RNA Extraction Protocol**]({% post_url 2016-08-26-RNA-Extraction-Protocol %})
+* Proceeded with [**RNA Extraction Protocol**]({% post_url /2016-08-26-RNA-Extraction-Protocol %})
 * After initial centrifugation, yielded ~0.65ml of supernatant that was mixed with 0.65ml of 100% ethanol and was added to the spin column step
 
 ## RNA Quantification 
 * Diluted samples 1:100 in nucelase-free water
 * Used 10µl of sample and 190µl of Qubit Mix
-* Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
+* Ran [**RNA Quantification Protocol**]({% post_url /2016-08-26-Qubit_HS_RNA_Protocol %})
 * Saved samples at -80°C in 3 aliquots (3,~22,~22µl)
 
 ## RNA Concentrations
@@ -43,7 +43,7 @@ Tested RNA extractions for improving quality and identifying if peaks prior to m
 
 
 ## RNA Quality check of total RNA
-* Ran [**RNA Quality Check Protocol**]({% post_url 2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
+* Ran [**RNA Quality Check Protocol**]({% post_url /2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
 
 * Diluted samples with a 1:100 dilution and ran on bioanalyzer
 * [BioAnalyzer 20160913 Chip]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-09-13_14-38-49.pdf)
