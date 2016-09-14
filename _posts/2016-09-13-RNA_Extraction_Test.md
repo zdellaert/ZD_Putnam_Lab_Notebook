@@ -33,12 +33,12 @@ Tested RNA extractions for improving quality and identifying if peaks prior to m
 |---
 |-:|-:
 | **Sample.ID** | **Conc.(ng/µl)** 
-| EPI-M-309 | x
-| EPI-S-309 |  x
-| Geo-10 | x
-| EPI-56 | x 
-| EPI-103  | x 
-| Blank | x
+| EPI-M-309 | 4.1
+| EPI-S-309 | 2.58
+| Geo-10 | 2
+| EPI-56 | 2.78 
+| EPI-103  | 6.14 
+| Blank | 0
 |===
 
 
