@@ -50,11 +50,12 @@ Tested RNA extractions for improving quality and identifying if peaks prior to m
 
 ## Conclusions
 * To test of there is degradation due to storage in RNA later sample EPI-56, EPI-M-309, and EPI-103 were compared. EPI-M-309 and EPI-103 stored in RNAlater showed much more degradation than the sample stored at -80.
-* **This suggests storage in RNAlater causes more degradation than directly sampling to -80**
+* This suggests storage in RNAlater causes more degradation than directly sampling to -80
 
 * To test of there is "gut content" RNAs in whole body extractions, sample EPI-S-309 (siphon only, no guts) and sample EPI-M-309 (siphon and guts, whole body) were compared. M-309 (whole body) again showed much more degradation. S-309 (siphon only) may have background pattern of "gut contents", but it is much reduced compared to M-309 and prior sample results.
-* **This suggests there may be some RNAs from "gut contents", but reduced in siphon only tissue where food buildup would be low**
-* **This suggests it is not the storage in RNAlater alone that is causing the degradation, as the siphon tissue stored in RNA later decent quality. Hypotheses: There maybe some interaction of RNAlater and calcium carbonate shell reducing the stabilization of the RNA, or some tissues are differentially degraded in terms of their RNA and the whole body extraction reflects noisy degradation with no role of the shell in extraction inhibition**
+* This suggests there may be some RNAs from "gut contents", but reduced in siphon only tissue where food buildup would be low
+* This suggests it is not the storage in RNAlater alone that is causing the degradation, as the siphon tissue stored in RNA later decent quality
+* Hypotheses: There maybe some interaction of RNAlater and calcium carbonate shell reducing the stabilization of the RNA, or some tissues are differentially degraded in terms of their RNA and the whole body extraction reflects noisy degradation with no role of the shell in extraction inhibition
 
 * The adult geoduck tissue (Geo-10) stored at -80 had the highest quality with no discernible degradation
 * The blank had no detectable carry-over contamination from the extraction procedure.
