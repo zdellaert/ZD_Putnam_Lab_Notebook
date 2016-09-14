@@ -19,7 +19,7 @@ Tested RNA extractions for improving quality and identifying if peaks prior to m
 ## Extraction Procedure
 * Used ~10mg plastic scoops to transfer 4 scoops (~40mg) of ground tissue to 0.5ml RNAzol
 * Homogenized again with teflon pestles in microfuge tubes with RNAzol
-* Proceeded with [**RNA Extraction Protocol**]({% post_url Putnam_Lab_Notebook/RNA-Extraction-Protocol/ %})
+* Proceeded with [**RNA Extraction Protocol**]({% post_url /Putnam_Lab_Notebook/RNA-Extraction-Protocol/ %})
 * After initial centrifugation, yielded ~0.65ml of supernatant that was mixed with 0.65ml of 100% ethanol and was added to the spin column step
 
 ## RNA Quantification 
