@@ -7,7 +7,7 @@ tags: [RNA, P. generosa, shellfish]
 ---
 
 Tested RNA extractions using Ambion RiboPure Kit
-Protocol [**RNA Extraction Protocol RiboPure Kit**](/https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/_posts/2016-09-28-RNA_Extraction_Test_RiboPure.md)
+Protocol [**RNA Extraction Protocol RiboPure Kit**](https://hputnam.github.io/Putnam_Lab_Notebook/RNA-Extraction-Protocol-RiboPure/)
 
 
 ## Sample list used for comparisons with Directzol Kit
