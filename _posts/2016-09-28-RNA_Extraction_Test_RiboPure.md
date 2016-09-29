@@ -26,13 +26,13 @@ Protocol [**RNA Extraction Protocol RiboPure Kit**](https://hputnam.github.io/Pu
 ## Extraction Procedure
 * Used ~10mg plastic scoops to transfer 2-4 scoops (~40mg) of ground tissue to 0.5ml TRI Reagent
 * Homogenized again with teflon pestles in microfuge tubes with TRI Reagent
-* Proceeded with [**RNA Extraction Protocol RiboPure Kit**]({% post_url /2016-09-28-RNA-Extraction-Protocol-RiboPure %})
+* Proceeded with [**RNA Extraction Protocol RiboPure Kit**](https://hputnam.github.io/Putnam_Lab_Notebook/RNA-Extraction-Protocol-RiboPure/)
 * After initial centrifugation, yielded ~0.3ml of supernatant that was mixed with 0.15ml of 100% ethanol and was added to the spin column step
 
 ## RNA Quantification 
 * Diluted samples 1:50 in nucelase-free water
 * Used 10µl of sample and 190µl of Qubit Mix
-* Ran [**RNA Quantification Protocol**]({% post_url /2016-08-26-Qubit_HS_RNA_Protocol %})
+* Ran [**RNA Quantification Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Qubit_HS_RNA_Protocol/)
 * Saved samples at -80°C in 2 aliquots (~35µl each)
 
 ## RNA Concentrations
@@ -58,7 +58,7 @@ Protocol [**RNA Extraction Protocol RiboPure Kit**](https://hputnam.github.io/Pu
 
 
 ## RNA Quality check of total RNA
-* Ran [**RNA Quality Check Protocol**]({% post_url /2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
+* Ran [**RNA Quality Check Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Bioanalyzer_Euk_Total_RNA_Pico_Protocol/)
 
 * Used 1:50 dilution from Qubit above and ran on bioanalyzer
 * [BioAnalyzer 20160928 Chip]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-09-28_15-34-44.pdf)
