@@ -49,6 +49,13 @@ q:before, q:after {
 table, th, td {
     border: 1px solid black;
 }
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
 // Apply a natural box layout model to all elements
 // from: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
 *, *:before, *:after {
