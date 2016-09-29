@@ -10,7 +10,7 @@ tags: [RNA, P. generosa, shellfish]
 Homogenization of juvenile geoduck samples for use in nucleic acid extractions
 
 Processed samples saved in RNA later and those saved at -80 by grinding the tissues to a powder as described.
-**Tissue Homogenization for Nucleic Acid Analysis Protocol**
+[**Tissue Homogenization for Nucleic Acid Analysis Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Homogenization-N2-protocol/)
 
 ## Sample list 20160901   
 * EPI-250

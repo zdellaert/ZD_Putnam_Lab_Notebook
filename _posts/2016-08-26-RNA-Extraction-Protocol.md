@@ -9,11 +9,15 @@ tags: [RNA]
 Protocol for the extraction of total RNA for use in QPCR and Next Generation Sequencing.
 Yeilds total RNA that has been DNAse treated and is ready for downstream applications.
 
-RNAzol Extraction Reagent (RNAzol RT, Molecular Research Center, Catalog # RN 190)
+#RNAzol Extraction Reagent 
+(RNAzol RT, Molecular Research Center, Catalog # RN 190)  
+
 * [RNAzol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/RNAzolRTOct2015.pdf)
 * "RNAzol RT is used to isolate RNA from tissues, cells, liquid samples or blood. One milliliter is sufficient to process up to 100 mg tissue yielding 50 – 700 μg of large RNA (>200 bases) and 8 – 120μg of small RNA (200 – 10 bases)."
 
-Direct-zol RNA MiniPrep (Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050)
+#Direct-zol RNA MiniPrep 
+(Direct-zol RNA MiniPrep, Zymo Research, Catalog # R2050)  
+
 * [Direct-zol Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/directzol_zymo_r2050i.pdf)
 * "Quick, spin column purification of high-quality (DNA-free) total RNA directly from TRIzol®, TRI Reagent® and other acid-guanidinium-phenol based reagents (RNAzol®, QIAzol®, TriPureTM, TriSureTM, etc.)"
 

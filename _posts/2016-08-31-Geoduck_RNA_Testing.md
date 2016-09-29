@@ -24,13 +24,13 @@ tags: [RNA, P. generosa, shellfish]
 ## RNA Extractions 20160829
 * moved 0.5ml of RNAzol/homogenate mix to new tube
 * Added 0.2ml of nuclease free water to each new tube
-* Proceeded with [**RNA Extraction Protocol**]({% post_url /2016-08-26-RNA-Extraction-Protocol %})
+* Proceeded with [**RNA Extraction Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/RNA-Extraction-Protocol/)
 * After initial centrifugation mixed yielded ~0.65ml of supernatant that was mixed with 0.65ml of 100% ethanol and was added to the spin column step
 
 ## RNA Quantification 20160829
 * Diluted samples 1:100 in nucelase-free water
 * Used 10µl of sample and 190µl of Qubit Mix
-* Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
+* Ran [**RNA Quantification Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Qubit_HS_RNA_Protocol/)
 * Saved samples at -80°C in 4 aliquots (3,3,~20,~20µl)
 
 ## RNA Concentrations
@@ -89,7 +89,7 @@ To test for removal of rRNA the samples were run through the Ambion rRNA Poly(A)
 ## RNA Quantification of polyA selected samples and supernatant with other RNAs 20160830
 * For mRNA samples used 20µl of sample and 180µl of Qubit Mix
 * For rRNA (supernatant) samples used 1µl of sample and 199µl of Qubit Mix
-* Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
+* Ran [**RNA Quantification Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Qubit_HS_RNA_Protocol/)
 
 ## RNA Concentrations
 
@@ -108,7 +108,7 @@ To test for removal of rRNA the samples were run through the Ambion rRNA Poly(A)
 
 
 ## RNA Quality check of re-extracted samples, mRNA, and rRNA 20160830
-* Ran [**RNA Quality Check Protocol**]({% post_url 2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
+* Ran [**RNA Quality Check Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Bioanalyzer_Euk_Total_RNA_Pico_Protocol/)
 
 * Diluted RNA ReExtraction 10 samples from 20160829 with a 1:100 dilution and ran on bioanalyzer, also added one sample of mRNA from polyA selection 20160830 with no dilution (283 mRNA)
 * [BioAnalyzer 20160830 Chip 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-08-30_14-41-55_chip1.pdf)

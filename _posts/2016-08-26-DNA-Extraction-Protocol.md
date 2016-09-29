@@ -9,7 +9,9 @@ tags: [DNA]
 Protocol for the extraction of genomic DNA for use in PCR and Next Generation Sequencing.
 Yeilds total DNA that has been proteinase and RNase treated and is ready for downstream applications.
 
-DNeasy Blood and Tissue Kit (DNeasy Blood and Tissue Kit, Qiagen, Catalog # 69504)
+#DNeasy Blood and Tissue Kit 
+(DNeasy Blood and Tissue Kit, Qiagen, Catalog # 69504)  
+
 * [DNeasy Kit Manufacturer's Instructions]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/EN-DNeasy-Blood--Tissue-Handbook.pdf)
 * "For purification of total DNA from animal blood and tissues and from cells, yeast, bacteria, or viruses"
 * All centrifugation steps are carried out at room temperature (15–25°C) in a microcentrifuge.
