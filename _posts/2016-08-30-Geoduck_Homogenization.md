@@ -9,7 +9,7 @@ tags: [P. generosa, shellfish]
 20160824-20160829
 Homogenization of juvenile geoduck samples for use in nucleic acid extractions
 
-[**Tissue Homogenization for Nucleic Acid Analysis Protocol**]({% post_url 2016-08-26-Homogenization-N2-protocol %})
+[**Tissue Homogenization for Nucleic Acid Analysis Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Homogenization-N2-protocol/)
 
 ## Sample list 20160824   
 * EPI-276 
@@ -33,12 +33,12 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 * moved 0.5ml of homogenate to new tube
 * Added 0.4ml of nuclease free water to each new tube
 * Added 0.5ml of RNAzol to the initial homogenate-RNAzol mix and replaced at -80°C
-* Proceeded with [**RNA Extraction Protocol**]({% post_url 2016-08-26-RNA-Extraction-Protocol %})
+* Proceeded with [**RNA Extraction Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/RNA-Extraction-Protocol/)
 
 ## RNA Quantification 20160826
 * Diluted samples 1:100 in nucelase-free water
 * Used 10µl of sample and 190µl of Qubit Mix
-* Ran [**RNA Quantification Protocol**]({% post_url 2016-08-26-Qubit_HS_RNA_Protocol %})
+* Ran [**RNA Quantification Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Qubit_HS_RNA_Protocol/)
 
 ## RNA Concentrations
 
@@ -58,7 +58,7 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 |===
 
 ## RNA Quality 20160826
-* Ran [**RNA Quality Check Protocol**]({% post_url 2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
+* Ran [**RNA Quality Check Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Bioanalyzer_Euk_Total_RNA_Pico_Protocol/)
 
 * Diluted above 1:100 dilution of samples again 1:10 and ran on bioanalyzer (plus test sample EPI 291)
 * [BioAnalyzer 20160826 Chip 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-08-26_12-00-14_chip1.pdf)
@@ -71,7 +71,7 @@ Placed samples immediately on dry ice and moved them directly to -80° storage
 
 ## RNA Quality 20160829
 * Issue with 8-26 Bioanalyzer was identified as wrong clip position on loading syringe. Moved clip to top position.
-* Ran [**RNA Quality Check Protocol**]({% post_url 2016-08-26-Bioanalyzer_Euk_Total_RNA_Pico_Protocol %})
+* Ran [**RNA Quality Check Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Bioanalyzer_Euk_Total_RNA_Pico_Protocol/)
 
 * Diluted samples extracted on 20160824 - 20160825 1:100 and ran on bioanalyzer along with a positive control from larval geoduck RNA extracted by SJW (#35)
 * [BioAnalyzer 20160829 Chip 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-08-29_11-19-26_chip1.pdf)
