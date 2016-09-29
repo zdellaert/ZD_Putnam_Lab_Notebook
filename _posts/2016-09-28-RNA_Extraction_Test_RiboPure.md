@@ -61,7 +61,7 @@ Protocol [**RNA Extraction Protocol RiboPure Kit**]({% post_url /2016-09-28-RNA-
 * [BioAnalyzer 20160928 Chip]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-09-28_15-34-44.pdf)
 
 ## Conclusions
-* There is not a substantial increased in RNA quality between the Directzol kit and the RiboPure Kit. 
+* There is not a substantial increase in RNA quality between the Directzol kit and the RiboPure Kit. 
 * There still appears to be degradation in some samples. 
 * Will proceed by extracting all homogenized samples with the Directzol protocol and check quality
 * If extracted samples are of poor quality will think about proceeding with siphon only tissue.
