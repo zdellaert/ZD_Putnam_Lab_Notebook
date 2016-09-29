@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RNA Extraction Protocol - RiboPure Kit
-date: '2016-08-26'
+date: '2016-09-28'
 categories: Protocols
 tags: [RNA]
 ---
@@ -40,7 +40,7 @@ RiboPure RNA Purification Kit (RiboPure Kit, ThermoFisher, Catalog # AM1924)
 * _Mix 75µl of DNA Digestion Buffer with 5µl of DNase I (6U/µl)_ from Directzol RNA mini prep 
 * _Incubate at room temperature for 15min_
 
-* Add 0.5ml **Wash Solution** to the column (**add EtOH to solution concentration prior to use**)
+* Add 0.5ml **Wash Solution** to the column 
 * Centrifuge at 12,000g for 30sec and discard flow through
 * Centrifuge at 12,000g for 30sec to dry column
 * Transfer the column to a new RNAse DNAse free microfuge tube
