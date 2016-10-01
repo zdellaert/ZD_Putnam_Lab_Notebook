@@ -34,6 +34,7 @@ Extracted DNA from Juvenile Geoduck Tissue previously homogenized using the [**S
 * Saved samples at -80°C in 2 aliquots (6µl,~190µl)
 
 ## DNA Concentrations  
+
 **Sample.ID** | **Qubit Conc(ng/µl)** | **Dilution** | **Initial Conc(ng/µl)**
  ---|---|---|---
  EPI-230 | 10.1 | 1 | 10.1 

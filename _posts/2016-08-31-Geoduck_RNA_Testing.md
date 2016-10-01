@@ -1,4 +1,57 @@
-m
+---
+layout: post
+title: Geoduck RNA ReExtraction and Testing
+date: '2016-08-31'
+categories: Processing
+tags: [RNA, P. generosa, shellfish]
+---
+
+20160829-20160830 Testing for improved yield of RNA with no genomic DNA contamination and for removal of rRNA through one round of polyA selection on total RNA
+
+## Sample list from samples with additional RNAzol on 20160825   
+* EPI-275
+* EPI-276 
+* EPI-282
+* EPI-283
+* EPI-289
+* EPI-290
+* EPI-298
+* EPI-299
+* EPI-302
+* EPI-303
+   
+
+## RNA Extractions 20160829
+* moved 0.5ml of RNAzol/homogenate mix to new tube
+* Added 0.2ml of nuclease free water to each new tube
+* Proceeded with [**RNA Extraction Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/RNA-Extraction-Protocol/)
+* After initial centrifugation mixed yielded ~0.65ml of supernatant that was mixed with 0.65ml of 100% ethanol and was added to the spin column step
+
+## RNA Quantification 20160829
+* Diluted samples 1:100 in nucelase-free water
+* Used 10µl of sample and 190µl of Qubit Mix
+* Ran [**RNA Quantification Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/Qubit_HS_RNA_Protocol/)
+* Saved samples at -80°C in 4 aliquots (3,3,~20,~20µl)
+
+## RNA Concentrations
+
+|---
+|-:|-:
+| **Sample.ID** | **Conc.(ng/µl)** 
+| Standard2 | 10.2
+| EPI-275 | 390 
+| EPI-276 | 420 
+| EPI-282 | 1040 
+| EPI-283 | 572 
+| EPI-289 | 210 
+| EPI-290 | 614 
+| EPI-298 | 632 
+| EPI-299 | 290 
+| EPI-302 | 336 
+| EPI-303 | 418 
+|===
+
+* a 20µl aliquot with an average of ~500ng/µl the samples has ~10µg of total RNA, more than necessary (4µg) for Illumina mRNASeq library prep
 
 ## rRNA Removal 20160830 from samples extracted 20160825
 To test for removal of rRNA the samples were run through the Ambion rRNA Poly(A) Purist kit. One of the ~20µl aliquots of RNA from each sample was used. 
