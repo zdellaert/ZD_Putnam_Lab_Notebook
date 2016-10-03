@@ -94,12 +94,12 @@ TAE
 * Once gel was set, Added 6µl of 6x loading dye to each sample of 6µl of DNA (6x purple loading dye #B70245 New Endland BioLabs)
 * Added 5µl of the sample-loading dye mix to each well
 * Ran gel at 100v for 45 minutes
-
-##Gel 1  
+  
+**Gel 1**  
 
 ![Gel 1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161003_DNA_Gel_1.jpeg?raw=true)
 
-##Gel 2  
+**Gel 2**  
 
 ![Gel 2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161003_DNA_Gel_2.jpeg?raw=true)
 
