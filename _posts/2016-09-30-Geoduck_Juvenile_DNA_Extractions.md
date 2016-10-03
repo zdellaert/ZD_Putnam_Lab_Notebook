@@ -65,7 +65,8 @@ TAE
 
 ## Samples  
   
-###Gel 1
+###Gel 1  
+
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
 * Test 1
 * Test 2
@@ -79,7 +80,8 @@ TAE
 * EPI-206
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
 
-###Gel 2
+###Gel 2  
+
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
 * EPI-220
 * EPI-221
