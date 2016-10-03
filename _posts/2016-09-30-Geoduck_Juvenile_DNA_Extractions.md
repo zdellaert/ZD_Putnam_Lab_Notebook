@@ -64,6 +64,7 @@ TAE
 * 1 mM EDTA
 
 ## Samples  
+  
 ###Gel 1
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
 * Test 1
@@ -107,7 +108,11 @@ TAE
 * Samples are more difficult to see in Gel 1
 * Appears to be large band >10,000 bp and some smear below
 * Samples in Gel 2 are more clear and appear to have relatively discrete bands with minimial smear
-* The data from Gel 2 suggest a good quality DNA extraction with minimial DNA degradation or contamination
+* The data from Gel 2 suggest a good quality DNA extraction with minimial DNA degradation or contamination  
+
+* Will move forward with DNeasy [**DNA Extraction Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/DNA-Extraction-Protocol/)
+ 
+
 
 
 
