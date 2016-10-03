@@ -95,15 +95,15 @@ TAE
 * Added 5µl of the sample-loading dye mix to each well
 * Ran gel at 100v for 45 minutes
 
-[Gel 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_1.jpg)
+[Gel 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_1.pdf)
 
 [Gel 2]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_2.jpg)
 
 ## Conclusions  
-* samples more difficult to see in Gel 1
+* Samples are more difficult to see in Gel 1
 * Appears to be large band >10,000 bp and some smear below
 * Samples in Gel 2 are more clear and appear to have relatively discrete bands with minimial smear
-* The data from Gel 2 suggest a good quality DNA extration with minimial DNA degradation or contamination
+* The data from Gel 2 suggest a good quality DNA extraction with minimial DNA degradation or contamination
 
 
 
