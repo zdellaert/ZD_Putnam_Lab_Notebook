@@ -95,9 +95,11 @@ TAE
 * Added 5µl of the sample-loading dye mix to each well
 * Ran gel at 100v for 45 minutes
 
-[Gel 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_1.pdf)
+##Gel 1
+![Gel 1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161003_DNA_Gel_1.jpeg?raw=true)
 
-[Gel 2]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_2.pdf)
+##Gel 2
+![Gel 2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161003_DNA_Gel_2.jpeg?raw=true)
 
 ## Conclusions  
 * Samples are more difficult to see in Gel 1
