@@ -52,3 +52,55 @@ Extracted DNA from Juvenile Geoduck Tissue previously homogenized using the [**S
  
 * a 190µl aliquot with an average of ~17.5ng/µl has ~3µg of DNA
 * need to run gel quality check of DNA
+
+## DNA Quality 20161003
+Ran a quality check of DNA using a 1% TAE gel in 1x TAE running buffer
+
+### Gel Preparation
+TAE  
+
+* 40 mM Tris (pH 7.6) 
+* 20 mM acetic acid
+* 1 mM EDTA
+
+## Samples  
+
+* O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
+* Test 1
+* Test 2
+* EPI-167
+* EPI-168 
+* EPI-175
+* EPI-176
+* EPI-187
+* EPI-188
+* EPI-205
+* EPI-206
+* O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
+
+* O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
+* EPI-220
+* EPI-221
+* EPI-229
+* EPI-230 
+* O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
+
+## Gel Setup
+
+* Added 0.75g of Agarose to 75ml of TAE and heated until clear
+* Added 6µl of Ethidium Bromide to gel
+* Poured gel with 12 upper wells and 8 lower wells
+* Added 6µl of 6x loading dye to each sample of 6µl of DNA (6x purple loading dye #B70245 New Endland BioLabs)
+* Added 5µl of the sample-loading dye mix to each well
+* Ran gel at 100v for 45 minutes
+
+[Gel 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_1.jpg)
+
+[Gel 2]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_2.jpg)
+
+## Conclusions
+
+
+
+
+
