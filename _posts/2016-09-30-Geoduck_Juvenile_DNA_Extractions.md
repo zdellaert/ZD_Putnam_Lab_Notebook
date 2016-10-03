@@ -64,7 +64,7 @@ TAE
 * 1 mM EDTA
 
 ## Samples  
-
+###Gel 1
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
 * Test 1
 * Test 2
@@ -78,6 +78,7 @@ TAE
 * EPI-206
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
 
+###Gel 2
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
 * EPI-220
 * EPI-221
@@ -90,7 +91,7 @@ TAE
 * Added 0.75g of Agarose to 75ml of TAE and heated until clear
 * Added 6µl of Ethidium Bromide to gel
 * Poured gel with 12 upper wells and 8 lower wells
-* Added 6µl of 6x loading dye to each sample of 6µl of DNA (6x purple loading dye #B70245 New Endland BioLabs)
+* Once gel was set, Added 6µl of 6x loading dye to each sample of 6µl of DNA (6x purple loading dye #B70245 New Endland BioLabs)
 * Added 5µl of the sample-loading dye mix to each well
 * Ran gel at 100v for 45 minutes
 
@@ -98,7 +99,11 @@ TAE
 
 [Gel 2]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_2.jpg)
 
-## Conclusions
+## Conclusions  
+* samples more difficult to see in Gel 1
+* Appears to be large band >10,000 bp and some smear below
+* Samples in Gel 2 are more clear and appear to have relatively discrete bands with minimial smear
+* The data from Gel 2 suggest a good quality DNA extration with minimial DNA degradation or contamination
 
 
 
