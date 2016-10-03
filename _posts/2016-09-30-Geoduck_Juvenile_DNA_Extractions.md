@@ -97,11 +97,7 @@ TAE
 
 [Gel 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_1.pdf)
 
-![Gel 1]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_1.jpg)
-
 [Gel 2]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_2.pdf)
-
-![Gel 2]({{ https://hputnam.github.io}}/project_juvenile_geoduck_OA/Sample_Processing/Gels/20161003_DNA_Gel_2.jpg)
 
 ## Conclusions  
 * Samples are more difficult to see in Gel 1
