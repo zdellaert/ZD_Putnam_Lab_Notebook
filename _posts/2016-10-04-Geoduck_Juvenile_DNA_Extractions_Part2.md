@@ -12,41 +12,41 @@ Extracted DNA from Juvenile Geoduck Tissue frozen at -80°C
 Whole issue was previously homogenized using the [Sample Homogenization Protocol](https://hputnam.github.io/Putnam_Lab_Notebook/Homogenization-N2-protocol/)
 
 ## Sample list    
- EPI-303
- EPI-302 
- EPI-283
- EPI-282
- EPI-258
- EPI-257
- EPI-236
- EPI-235
- EPI-215
- EPI-214
- EPI-200
- EPI-199
- EPI-194
- EPI-193 
- EPI-182
- EPI-181
- EPI-160
- EPI-159
- EPI-152
- EPI-151
- EPI-136
- EPI-135
- EPI-128
- EPI-127    
+ * EPI-303
+ * EPI-302 
+ * EPI-283
+ * EPI-282
+ * EPI-258
+ * EPI-257
+ * EPI-236
+ * EPI-235
+ * EPI-215
+ * EPI-214
+ * EPI-200
+ * EPI-199
+ * EPI-194
+ * EPI-193 
+ * EPI-182
+ * EPI-181
+ * EPI-160
+ * EPI-159
+ * EPI-152
+ * EPI-151
+ * EPI-136
+ * EPI-135
+ * EPI-128
+ * EPI-127    
 
 ## DNA Extractions 
- added ~20mg of tissue to 180µl of Buffer ATL and 20µl of Proteinase K
- Proceeded with [DNA Extraction Protocol](https://hputnam.github.io/Putnam_Lab_Notebook/DNA-Extraction-Protocol/)
- Did not do the RNase treatment
- Eluted in 150µl of AE Buffer
+ * added ~20mg of tissue to 180µl of Buffer ATL and 20µl of Proteinase K
+ * Proceeded with [DNA Extraction Protocol](https://hputnam.github.io/Putnam_Lab_Notebook/DNA-Extraction-Protocol/)
+ * Did not do the RNase treatment
+ * Eluted in 150µl of AE Buffer
 
 ## DNA Quantification 
- Used 1µl of sample and 199µl of Qubit Mix
- Ran Qubit dsDNA BR [DNA Quantification Protocol](https://hputnam.github.io/Putnam_Lab_Notebook/Qubit_BR_DNA_Protocol/)
- Saved samples at -80°C in 2 aliquots (3µl for gel,~140µl)
+ * Used 1µl of sample and 199µl of Qubit Mix
+ * Ran Qubit dsDNA BR [DNA Quantification Protocol](https://hputnam.github.io/Putnam_Lab_Notebook/Qubit_BR_DNA_Protocol/)
+ * Saved samples at -80°C in 2 aliquots (3µl for gel,~140µl)
 
 ## DNA Concentrations  
 
