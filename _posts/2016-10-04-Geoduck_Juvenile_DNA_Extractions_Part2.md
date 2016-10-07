@@ -85,7 +85,7 @@ Sample.ID | Qubit Conc(ng/µl) | Dilution | Initial Conc(ng/µl)
  ## DNA Quality 20161006
 Ran a quality check of DNA using a 1% TAE gel in 1x TAE running buffer
 
-### Gel Preparation
+## Gel Preparation
 TAE  
 
 * 40 mM Tris (pH 7.6) 
@@ -94,7 +94,7 @@ TAE
 
 ## Samples  
 
-###Gel Top  
+## Gel Top  
 
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
  * EPI-303
@@ -109,7 +109,7 @@ TAE
  * EPI-214
  * EPI-200   
  
-###Gel Bottom  
+## Gel Bottom  
 
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
  * EPI-199
