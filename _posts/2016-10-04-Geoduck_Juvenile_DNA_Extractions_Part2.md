@@ -137,7 +137,7 @@ TAE
   
 **Gel 1**  
 
-![Gel 1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161006_DNA_Gel_1.jpeg?raw=true)
+![Gel 1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161006_DNA_Gel_1.jpg?raw=true)
 
 
 ## Conclusions  
@@ -145,7 +145,7 @@ TAE
 * Appears to be large band >10,000 bp and some smear below
 * All samples have high molecular weight DNA present 
 
-* Will move forward with DNeasy [**DNA Extraction Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/DNA-Extraction-Protocol/)
+* Will continue to move forward with DNeasy [**DNA Extraction Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/DNA-Extraction-Protocol/)
  
 
 
