@@ -80,3 +80,76 @@ Sample.ID | Qubit Conc(ng/µl) | Dilution | Initial Conc(ng/µl)
  
  * a 140µl aliquot with an average of ~18.5ng/µl has ~2.8µg of DNA
  * need to run gel quality check of DNA
+ 
+ 
+ ## DNA Quality 20161006
+Ran a quality check of DNA using a 1% TAE gel in 1x TAE running buffer
+
+### Gel Preparation
+TAE  
+
+* 40 mM Tris (pH 7.6) 
+* 20 mM acetic acid
+* 1 mM EDTA
+
+## Samples  
+  
+###Gel Top  
+
+* O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
+ * EPI-303
+ * EPI-302 
+ * EPI-283
+ * EPI-282
+ * EPI-258
+ * EPI-257
+ * EPI-236
+ * EPI-235
+ * EPI-215
+ * EPI-214
+ * EPI-200 
+
+###Gel Bottom  
+
+* O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
+ * EPI-199
+ * EPI-194
+ * EPI-193 
+ * EPI-182
+ * EPI-181
+ * EPI-160
+ * EPI-159
+ * EPI-152
+ * EPI-151
+ * EPI-136
+ * EPI-135
+ * EPI-128
+ * EPI-127
+
+## Gel Setup
+
+* Added 1.5g of Agarose to 150ml of TAE and heated until clear
+* Added 12µl of Ethidium Bromide to gel
+* Poured gel with 24 upper wells and 24 lower wells
+* Once gel was set, Added 3µl of 6x loading dye to each sample of 3µl of DNA (6x purple loading dye #B70245 New Endland BioLabs)
+* Added 5µl of the sample-loading dye mix to each well
+* Ran gel at 100v for 60 minutes
+  
+**Gel 1**  
+
+![Gel 1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161006_DNA_Gel_1.jpeg?raw=true)
+
+
+## Conclusions  
+* Samples are more difficult to see then on actual gel
+* Appears to be large band >10,000 bp and some smear below
+* All samples have high molecular weight DNA present 
+
+* Will move forward with DNeasy [**DNA Extraction Protocol**](https://hputnam.github.io/Putnam_Lab_Notebook/DNA-Extraction-Protocol/)
+ 
+
+
+
+
+
+
