@@ -93,7 +93,7 @@ TAE
 * 1 mM EDTA
 
 ## Samples  
-  
+
 ###Gel Top  
 
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
@@ -107,8 +107,8 @@ TAE
  * EPI-235
  * EPI-215
  * EPI-214
- * EPI-200 
-
+ * EPI-200   
+ 
 ###Gel Bottom  
 
 * O Gene Ruler Mix SM 1173 Thermo Fisher 0.1µg/µl Range 100–10,000 bp
