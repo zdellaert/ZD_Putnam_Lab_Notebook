@@ -39,7 +39,7 @@ Protocol for the preservation of animal tissues for RNA and DNA extraction in th
 * Do not freeze samples in RNAlater Solution immediately; store at 4° C overnight (to allow the solution to thoroughly penetrate the tissue), remove supernatant, then move to –20° C or –80° C for long-term storage.  
 
 
-#Sample Collection  
+# Sample Collection  
 
 ## Tool Sterilzation
 * Make 10% bleach solution in DI water in plastic beaker labeled ```#1 10% Bleach```
