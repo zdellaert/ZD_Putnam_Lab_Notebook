@@ -9,6 +9,7 @@ tags: [RNA, DNA]
 Protocol for the preservation of animal tissues for RNA and DNA extraction in the absence of liquid nitrogen and -80 freezers (i.e., remote field collection protocol)
 
 # Necessities  
+  
 ## Reagents  
 * [RNALater](https://www.thermofisher.com/us/en/home/brands/product-brand/rnalater.html?gclid=CJnGnPO0zs8CFU1cfgodA4EHZA&s_kwcid=AL!3652!3!75498904346!e!!g!!rna%20later&ef_id=V-gV7gAAAV08Fawd:20161009190401:s)
 * Ethanol 100%
@@ -35,8 +36,9 @@ Protocol for the preservation of animal tissues for RNA and DNA extraction in th
 * Place the fresh tissue in 5–10 volumes of RNAlater Solution. 
 * Most samples in RNAlater Solution can be stored at room temperature for 1 week without compromising RNA quality, or at –20° C or –80° C indefinitely. 
 * Do not freeze samples in RNAlater Solution immediately; store at 4° C overnight (to allow the solution to thoroughly penetrate the tissue), remove supernatant, then move to –20° C or –80° C for long-term storage. 
+  
+#Sample Collection  
 
-#Sample Collection
 ## Tool Sterilzation
 * Make 10% bleach solution in DI water in plastic beaker labeled ```#1 10% Bleach```
 * Pour 100% DI water in plastic beaker labeled ```#2 DI Water```
