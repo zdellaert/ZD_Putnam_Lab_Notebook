@@ -63,7 +63,8 @@ Protocol for the preservation of animal tissues for RNA and DNA extraction in th
 * Fill each tube with 1.5ml of RNALater solution
 * Pick up sample with clean glove
 * Cut tissue section ≤0.5 cm in any single dimension
-* place tissue section in prelabeled 2ml tube with 1.5ml of RNAlater
+* Place tissue section in prelabeled 2ml tube with 1.5ml of RNAlater
+* Repeat sample collection process for a duplicate tube for every sample as possible
 
 ## Sample Preservation
 
