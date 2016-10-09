@@ -38,6 +38,7 @@ Protocol for the preservation of animal tissues for RNA and DNA extraction in th
 * Most samples in RNAlater Solution can be stored at room temperature for 1 week without compromising RNA quality, or at –20° C or –80° C indefinitely. 
 * Do not freeze samples in RNAlater Solution immediately; store at 4° C overnight (to allow the solution to thoroughly penetrate the tissue), remove supernatant, then move to –20° C or –80° C for long-term storage.  
 
+
 #Sample Collection  
 
 ## Tool Sterilzation
