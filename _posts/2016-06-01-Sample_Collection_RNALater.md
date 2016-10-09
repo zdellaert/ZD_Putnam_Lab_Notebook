@@ -8,8 +8,8 @@ tags: [RNA, DNA]
 
 Protocol for the preservation of animal tissues for RNA and DNA extraction in the absence of liquid nitrogen and -80 freezers (i.e., remote field collection protocol)
 
-# Necessities
-## Reagents
+# Necessities  
+## Reagents  
 * [RNALater](https://www.thermofisher.com/us/en/home/brands/product-brand/rnalater.html?gclid=CJnGnPO0zs8CFU1cfgodA4EHZA&s_kwcid=AL!3652!3!75498904346!e!!g!!rna%20later&ef_id=V-gV7gAAAV08Fawd:20161009190401:s)
 * Ethanol 100%
 * Bleach 10%
