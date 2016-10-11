@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geoduck Juvenile DNA Extractions (part2)
+title: Geoduck Juvenile DNA Extractions (part3)
 date: '2016-10-07'
 categories: Processing
 tags: [DNA, P. generosa, shellfish]
