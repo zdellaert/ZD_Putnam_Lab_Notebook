@@ -139,9 +139,9 @@ TAE
   
 **Gel 1**  
 
-![Gel 1 Top]()
+![Gel 1 Top](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161026_DNA_Gel_1_top.jpg?raw=true)
 
-![Gel 1 Bottom]()
+![Gel 1 Bottom](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161026_DNA_Gel_1_bottom.jpg?raw=true)
 
 
 ## Conclusions  
