@@ -41,10 +41,11 @@ Whole issue was previously homogenized using the [Sample Homogenization Protocol
  * Had a lot of difficulty concentrating #1 and #78 to remove liquid before extraction. Sample 78 consumed, sample 1 available at -20. 
 
 ## DNA Extractions 
- * added ~40mg of tissue to 180µl of Buffer ATL and 20µl of Proteinase K
- 	* for samples 65 and 66 there was so much material used 4x the buffer and protK
- 	* took 1 180µl aliquot forward into extraction and saved rest of EPI-65 and EPI-66 in ATL buffer at room temp
- 	* Also saved EPI-36 and EPI-38 pellets in new 180µl of ATL buffer at room temp
+
+ * added ~40mg of tissue to 180µl of Buffer ATL and 20µl of Proteinase K  
+ * for samples 65 and 66 there was so much material used 4x the buffer and protK
+ * took 1 180µl aliquot forward into extraction and saved rest of EPI-65 and EPI-66 in ATL buffer at room temp
+ * Also saved EPI-36 and EPI-38 pellets in new 180µl of ATL buffer at room temp
  
  * Proceeded with [DNA Extraction Protocol](https://hputnam.github.io/Putnam_Lab_Notebook/DNA-Extraction-Protocol/)
  * Did not do the RNase treatment
@@ -145,8 +146,7 @@ Ran a quality check of DNA using a 1% TAE gel in 10x TAE running buffer
 * Added 1.5g of Agarose to 150ml of 10X TAE and heated until clear
 * Added 12µl of Ethidium Bromide to gel
 * Poured gel with 16 upper wells and 16 lower wells
-* Once gel was set, Added 5µl of 6x loading dye to each sample of 5µl of DNA (6x purple loading dye #B70245 New Endland BioLabs)
-* Added 4µl of the sample-loading dye mix to each sample and added 8µl of mix to each well
+* Once gel was set, Added 4µl of 6x loading dye to each sample of 4µl of DNA (6x purple loading dye #B70245 New Endland BioLabs) and added 8µl of mix to each well
 * Ran gel at 100v for 60 minutes
   
 **Gel 1**  
