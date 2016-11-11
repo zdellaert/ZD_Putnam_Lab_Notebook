@@ -6,7 +6,7 @@ categories: Goals
 tags: [Proposals, Pipelines, Processing]
 ---
 
-# November 2016 Goals
+List of November 2016 Goals
 
 ## Proposals
 * Finalize NOAA SK proposal
