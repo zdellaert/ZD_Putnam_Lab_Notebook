@@ -39,8 +39,9 @@ To detect methylation, DNA is treated with sodium bisulfite, which leaves methyl
 If all contexts are examined the output is split into multiple files * CpG_OT_sample_bismark.bt2.txt* CpG_OB_sample_bismark.bt2.txt* CHG_OT_sample_bismark.bt2.txt* CHG_OB_sample_bismark.bt2.txt* CHH_OT_sample_bismark.bt2.txt* CHH_OB_sample_bismark.bt2.txt* sample_splitting_report.txt* sample_M-bias.txt
 ## Step 4 - Summarize Methylation Data
 * bismark2summary
+
 
-#20161125 Running Bismark on 18 Oly MBD samples
+# 20161125 Running Bismark on 18 Oly MBD samples
 
 ## Step 1 
 
@@ -67,9 +68,9 @@ If all contexts are examined the output is split into multiple files * CpG_OT_
 ## Error Message
 > Using these input files: /Users/hollie/Documents/Oly_Oyster_DNA_Methylation/Data/MBD/Bismark_Output/Methy_extract_sorted/CpG_OT_zr1394_1_cleaned_all_bismark_bt2_sorted.txt /Users/hollie/Documents/Oly_Oyster_DNA_Methylation/Data/MBD/Bismark_Output/Methy_extract_sorted/CpG_OB_zr1394_1_cleaned_all_bismark_bt2_sorted.txt /Users/hollie/Documents/Oly_Oyster_DNA_Methylation/Data/MBD/Bismark_Output/Methy_extract_sorted/Non_CpG_OT_zr1394_1_cleaned_all_bismark_bt2_sorted.txt /Users/hollie/Documents/Oly_Oyster_DNA_Methylation/Data/MBD/Bismark_Output/Methy_extract_sorted/Non_CpG_OB_zr1394_1_cleaned_all_bismark_bt2_sorted.bam.txt
 
-**Summary of parameters for bismark2bedGraph conversion**
+> **Summary of parameters for bismark2bedGraph conversion**
 
-======================================================
+> ======================================================
 * bedGraph output:		zr1394_1_cleaned_all_bismark_bt2_sorted.bedGraph.gz
 * output directory:		/Users/hollie/Documents/Oly_Oyster_DNA_Methylation/Data/MBD/Bismark_Output/Methy_extract_sorted/<
 * remove whitespaces:		no
@@ -80,20 +81,20 @@ If all contexts are examined the output is split into multiple files * CpG_OT_
 * Coverage threshold:		1
 
 =============================================================================
-**Methylation information will now be written into a bedGraph and coverage file**
+> **Methylation information will now be written into a bedGraph and coverage file**
 
-=============================================================================
+> =============================================================================
 
-Using the following files as Input:
+>Using the following files as Input:
 Writing bedGraph to file: zr1394_1_cleaned_all_bismark_bt2_sorted.bedGraph.gz
 Also writing out a coverage file including counts methylated and unmethylated residues to file: zr1394_1_cleaned_all_bismark_bt2_sorted.bismark.cov.gz
 Also writing out a 0-based, half-open coverage file including counts methylated and unmethylated residues to file: zr1394_1_cleaned_all_bismark_bt2_sorted.bedGraph.gz.bismark.zero.cov
 
-Changed directory to /Users/hollie/Documents/Oly_Oyster_DNA_Methylation/Data/MBD/Bismark_Output/Methy_extract_sorted/
+>Changed directory to /Users/hollie/Documents/Oly_Oyster_DNA_Methylation/Data/MBD/Bismark_Output/Methy_extract_sorted/
 The genome of interest was specified to contain gazillions of chromosomes or scaffolds. Merging all input files and sorting everything in memory instead of writing out individual chromosome files...
 Writing all merged methylation calls to temp file zr1394_1_cleaned_all_bismark_bt2_sorted.bedGraph.gz.methylation_calls.merged
 
-Finished writing methylation calls from CpG_OT_zr1394_1_cleaned_all_bismark_bt2_sorted.txt to merged temp file
+> Finished writing methylation calls from CpG_OT_zr1394_1_cleaned_all_bismark_bt2_sorted.txt to merged temp file
 Finished writing methylation calls from CpG_OB_zr1394_1_cleaned_all_bismark_bt2_sorted.txt to merged temp file
 Sorting input file zr1394_1_cleaned_all_bismark_bt2_sorted.bedGraph.gz.methylation_calls.merged by positions (using -S of 4G)
 **_sort: stray character in field spec: invalid field specification `3,3V'
@@ -150,7 +151,7 @@ sample.id <- list("hc1_2B",
  
  myobj <- processBismarkAln(file.list, sample.id, assembly="10K", treatment=treatment)
  
-* **This processBismarkAln call crashes the kernel in the R notebook, Have tried this on bam and sorted sam and bam**
+* **The processBismarkAln call crashes the kernel in the R notebook, Have tried this on bam and sorted sam and bam**
 
 
 
