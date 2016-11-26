@@ -2,7 +2,7 @@
 layout: post
 title: Oly Oyster DNA Methylation Analysis
 date: '2016-11-25'
-categories: Processing
+categories: Analysis
 tags: [Bioinformatics, shellfish, O. lurida, methylation]
 ---
 
