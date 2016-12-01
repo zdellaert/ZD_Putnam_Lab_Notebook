@@ -28,6 +28,7 @@ To detect methylation, DNA is treated with sodium bisulfite, which leaves methyl
 * 	Use bowtie to align and map reads to the converted reference genome. Bisulfite treatment and subsequent PCR amplification can result in four individual strands of DNA which all have the potential to end up in the sequence data. The four possibilities are aligned and bismark can then determine the strand origin of each read, so bismark can handle sequence data from both directional and non-directional library preps. The output of the bismark call includes  a line for every read with mapping position, stand of alignment, read sequence, genomic sequence, and methylation call.
 	* sample_bismark.bam (contains all alignments plus methylation call strings) 
 	* sample_bismark_SE_report.txt (contains alignment and methylation summary)
+
 	
 ## Step 3 - Methylation Data Extraction
 
