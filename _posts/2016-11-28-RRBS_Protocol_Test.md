@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Geoduck RRBS Testing
@@ -8,7 +7,7 @@ tags: [Bioinformatics, shellfish, P. generosa, methylation, RRBS]
 ---
 
 
-Testing RRBS protocol using MSPI, BS treatment, and Illumina Trueseq DNA methylation kit
+Testing RRBS protocol using MSPI cutting, BS treatment, and Illumina Trueseq DNA methylation kit
 
 MSPI enzyme cuts between Cs at CCGG sites in the genome. When bisulfite treatment is used after cutting, data can be gathered from the beginning of the read CG and at other CGs within the sequence read lenght (~100bp). This cutting and conversion creates the imput material for the library prep. The concern is that the  Illumina Trueseq DNA methylation kit was optimized for whole genome library prep and the DNA following the MSPI cutting and BS treatmetn might have the wrong size and quantitify of frgaments to generate good deqeuncing results. 
 
@@ -22,6 +21,9 @@ Mix the following and incubate overnight at 37°C.
 ---| --- | --- | ---NEBuffer2 10x |	3µl |	3µl |	3µl MSPI 20U/µl	| 1µl |	1µl |	1µl H20|	16.5µl	|13.5µl|	13.3µl1µg DNA|	9.5µl	|12.5µl	|12.7µltotal|	30µl|	30µl|	30µl
 # Step 2 BS treatment
 EZ DNA Methylation-GoldTM Kit Catalog Nos. D5005 & D5006
+
+
+
 Eluted in 10µl and repeated elution in another 10µl
 
 Ran RNA Pico chip to quant ssDNA following bisulfite conversion
