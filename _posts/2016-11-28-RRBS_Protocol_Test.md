@@ -53,7 +53,7 @@ EPI-272 | 272 WG | 6.27µl genomic DNA + 13.73µl H20 | Lambda DNA Added (~0.1%)
 Ran 1µl of each sample on the RNA Pico chip to quant ssDNA following bisulfite conversion
 [BS converson results](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_ssBS_DNA_2016-11-30_14-51-01.pdf)
 
-The comparision of the same sample is highlighted in yellow. MSPI cutting and lambda DNA addtion (top), MSPI cutting and no lambda DNA addtion (middle), Genomic DNA, no cutting, and lambda DNA addtion (bottom).
+The comparision of the same sample is highlighted in yellow. MSPI cutting and lambda DNA addition (top), MSPI cutting and no lambda DNA addition (middle), Genomic DNA, no cutting, and lambda DNA addition (bottom).
 
 ![sample comparison](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161130_ssBSDNA_trace_comparison.jpg?raw=true)
 
