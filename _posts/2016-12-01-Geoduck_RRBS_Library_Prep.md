@@ -22,7 +22,7 @@ MSPI restriction endonuclease in NEBuffer2
 * Lambda DNA (581ng/µl) was diluted 1:1160 for a concentration of 0.5ng/µl and 1µl added to each sample
 * Unmethylated lamda phage DNA (Promega cat: D1501)
 
-Date    | EPI.Tube.Num    |Tank    | Treatment    | TimePoint    | Contents    | Storage    | Homogenization    | DNA.Extraction|     DNA.QC |    DNA.Conc.ng.µl |    DNA.vol.µl     |DNA.amount.µg     |vol.for.100ng |    lambda.0.5%     |Water.µl     |NSBuffer2.µl     |MSPI.µl
+**Date**    | **EPI.Tube.Num**    |**Tank**    | **Treatment**    | **TimePoint**    | **Contents**    | **Storage**    | **Homogenization**    | **DNA.Extraction**|     **DNA.QC** |    **DNA.Conc.ng.µl** |    **DNA.vol.µl**     |**DNA.amount.µg**     |**vol.for.100ng** |    **lambda.0.5%**     |**Water.µl**     |**NSBuffer2.µl**     |**MSPI.µl**
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 26-Mar-16|    EPI_103    |Tank11     |Low    | Day10    | 1 juvenile |    RNALater |    20160912 |    20161028 |    20161028 |    18.3 |    140 |    2.6 |    5.5 |    1 |    19.5 |    3  |    1
 26-Mar-16|    EPI_104    |Tank11     |Low    | Day10    | 1 juvenile |    RNALater |    20160912 |    20161007 |    20161010 |    9.28 |    140 |    1.3 |    10.8 |    1 |    14.2 |    3  |    1
@@ -40,4 +40,4 @@ Date    | EPI.Tube.Num    |Tank    | Treatment    | TimePoint    | Contents    |
 
 ## 20161202
 
-# Step 1 Bisulfite conversion
+# Step 2 Bisulfite conversion
