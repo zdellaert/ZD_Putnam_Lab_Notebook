@@ -184,7 +184,12 @@ EPI_135 WG | 3 | TTAGGC
 
 ### Library Quantification
 20161205
-Libraries were quantified on the Qubit using the dsDNA High Sensitivity Kit
+Libraries were quantified on the Qubit using the [dsDNA High Sensitivity Kit](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/Qubit_dsDNA_HS_Assay_UG.pdf)
+
+* Samples were loaded 1µl of library + 199µl of Qubit dye/buffer mix (1:200)
+* Standards were loaded 10µl of standard + 190µl of Qubit dye/buffer mix (1:200)
+
+* Illumin indicates samples should be >3ng/µl
 
 
 **Sample.ID** | **ng/µl**
@@ -254,7 +259,11 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 
 * Original DNA samples overloaded the chip sensitivity and data are not useful
 
+### RRBS Library Prep Conclusions
 
+* samples have the correct quantity of ~3ng/µl and more than enough ~15µl (45ng) to load for sequencing
+* library size ranges from 150bp to 1000bp and peaks just under 300bp, which matches the expected range in the kit guide
+* libraries appear to be of good quality for sequencing
 
 
 
