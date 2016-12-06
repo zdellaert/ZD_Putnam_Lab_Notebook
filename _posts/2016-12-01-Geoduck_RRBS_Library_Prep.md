@@ -134,7 +134,26 @@ Expected DNA size for Gold kit (A)
 
 # Step 3 Illumina Library Prep
 
-[Ilumina TruSeq DNA Methylation Library Preparation Guide]()
+[Ilumina TruSeq DNA Methylation Library Preparation Guide](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/truseq-dna-methylation-library-prep-guide-15066014-a.pdf)
+
+Illumina Adapter Sequences
+Document # 1000000002694 v01 17 February 2016 
+TruSeq DNA Methylation Index PCR Primers
+5’ CAAGCAGAAGACGGCATACGAGAT[6 bases]GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT 
+
+Index 1: ATCACG 
+Index 2: CGATGT 
+Index 3: TTAGGC 
+Index 4: TGACCA 
+Index 5: ACAGTG 
+Index 6: GCCAAT 
+Index 7: CAGATC 
+Index 8: ACTTGA 
+Index 9: GATCAG 
+Index 10: TAGCTT 
+Index 11: GGCTAC 
+Index 12: CTTGTA 
+
 Illumina library prep was completed according to manufacturer's instructions with modifications as described in red text on the protocol and listed below.
 
 * samples eluted in 12µl post BS conversion
@@ -142,11 +161,31 @@ Illumina library prep was completed according to manufacturer's instructions wit
 * Samples were stored at -20 for ~24h between _Purify the Tagged DNA_ and _Amplify the Library and Add an Index_ steps
 * Library prep was started 20161202
 * Library prep was finished 20121204
+* Individual barcodes were used for each sample from the Illumina TruSeq DNA Methylation Index PCR Primers (10 reactions, 12 indexes Cat #: EGIDX81312)
 
+
+**Sample.ID** | **Index.Number** | **Index.Sequence**
+---|---|---
+EPI_103 | 1 | ATCACG
+EPI_104 | 2 | CGATGT
+EPI_111 | 3 | TTAGGC
+EPI_113 | 4 | TGACCA
+EPI_119 | 5 | ACAGTG
+EPI_120 | 6 | GCCAAT
+EPI_127 | 7 | CAGATC 
+EPI_128 | 8 | ACTTGA
+EPI_135 | 9 | GATCAG
+EPI_136 | 10 | TAGCTT
+EPI_143 | 11 | GGCTAC
+EPI_145 | 12 | CTTGTA
+EPI_111 WG | 1 | ATCACG
+EPI_128 WG | 2 | CGATGT
+EPI_135 WG | 3 | TTAGGC
 
 ### Library Quantification
-20161204
+20161205
 Libraries were quantified on the Qubit using the dsDNA High Sensitivity Kit
+
 
 **Sample.ID** | **ng/µl**
 ---|---
