@@ -141,18 +141,18 @@ Document # 1000000002694 v01 17 February 2016
 TruSeq DNA Methylation Index PCR Primers
 5’ CAAGCAGAAGACGGCATACGAGAT[6 bases]GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT 
 
-Index 1: ATCACG 
-Index 2: CGATGT 
-Index 3: TTAGGC 
-Index 4: TGACCA 
-Index 5: ACAGTG 
-Index 6: GCCAAT 
-Index 7: CAGATC 
-Index 8: ACTTGA 
-Index 9: GATCAG 
-Index 10: TAGCTT 
-Index 11: GGCTAC 
-Index 12: CTTGTA 
+* Index 1: ATCACG 
+* Index 2: CGATGT 
+* Index 3: TTAGGC 
+* Index 4: TGACCA 
+* Index 5: ACAGTG 
+* Index 6: GCCAAT 
+* Index 7: CAGATC 
+* Index 8: ACTTGA 
+* Index 9: GATCAG 
+* Index 10: TAGCTT 
+* Index 11: GGCTAC 
+* Index 12: CTTGTA 
 
 Illumina library prep was completed according to manufacturer's instructions with modifications as described in red text on the protocol and listed below.
 
@@ -223,7 +223,7 @@ Libraries were not concentrated enough to measure using Agilent DNA 12000 kit 20
 Illumina DNA Methylation kit expected library size on high sensitivity chip
 ![expected size](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/expected_librarysize_truseq_meth_.jpg?raw=true =400x200)
 
-[Chip 1 Data](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_High_Sensitivity_DNA_Assay_DE72902486_2016-12-05_15-09-17.pdf)
+[RRBS Chip 1 Data](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_High_Sensitivity_DNA_Assay_DE72902486_2016-12-05_15-09-17.pdf)
 
 ![RRBS Library Chip 1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161205_RRBS_library_traces1.JPG?raw=true =300x200)
 
@@ -240,9 +240,9 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 * EPI_143
 * EPI_1451
 
-[Chip 2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_High_Sensitivity_DNA_Assay_DE72902486_2016-12-05_15-57-57.pdf)
+[RRBS Chip 2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_High_Sensitivity_DNA_Assay_DE72902486_2016-12-05_15-57-57.pdf)
 
-![RRBS Library Chip 2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161205_RRBS_library_traces1.JPG?raw=true =300x200)
+![RRBS Library Chip 2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/20161205_RRBS_library_traces2.JPG?raw=true =300x200)
 
 * EPI_145
 * EPI_111 WG
@@ -263,6 +263,7 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 
 * samples have the correct quantity of ~3ng/µl and more than enough ~15µl (45ng) to load for sequencing
 * library size ranges from 150bp to 1000bp and peaks just under 300bp, which matches the expected range in the kit guide
+* There does not appear to be a difference in library size between whole genome and RRBS preps as seen in the traces of the RRBS chip 2 results
 * libraries appear to be of good quality for sequencing
 
 
