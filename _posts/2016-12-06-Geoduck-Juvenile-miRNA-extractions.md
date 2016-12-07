@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geoduck-Juvenile-miRNA-extractions
+title: Geoduck Juvenile miRNA extractions
 date: '2016-12-06'
 categories: Processing
 tags: [P. generosa, miRNA, RNA, shellfish, geoduck]
