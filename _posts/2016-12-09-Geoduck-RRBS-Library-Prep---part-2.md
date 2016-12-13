@@ -131,3 +131,48 @@ Date|EPI.Tube.Num|Tank|Treatment|TimePoint|Homogenization|DNA.Extraction|DNA.QC|
 * followed protocol steps [EZ DNA Methylation-Gold Manual](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/DNA_Methylation_Gold_Bisulfite_d5005i.pdf)
 
 * Eluted in 12µl of elution buffer
+
+### Bisulfite Conversion ssDNA QC
+* 1µl was used to assess fragment size on the bioanalyzer.  
+
+Expected DNA size for Gold kit (A)
+
+![Expected DNA size](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/expected_DNAsize_truseq_meth.jpg?raw=true =400x200)
+
+### Results of bisulfite converted samples
+ 
+20161209
+
+![chip1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-09_15-06-27.jpg?raw=true =300x300)
+
+* Samples all look good except EPI-44. Will run again
+
+![chip2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-09_15-34-41.jpg?raw=true =300x300)
+
+* Samples 52, 53, 54, 55, 56 are as expected, samples 151, 152, 153, 154, 159, 160 are shifted to a larger proportion of smaller fragments
+
+![chip3](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-09_16-10-55.jpg?raw=true =300x300)
+
+* Samples are shifted to a larger proportion of smaller fragments
+
+20161211
+
+![chip4](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-12_17-13-19.jpg?raw=true =300x300)
+
+* Samples 185, 188, 193, 200, 205, 206, 208, and 209 are shifted to a larger proportion of smaller fragments  
+
+![chip5](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-12_17-40-14.jpg?raw=true =300x300)
+
+* Samples 214, 229, 230, 235, 236, 242 are shifted to a larger proportion of smaller fragments
+
+![chip6](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-12_18-05-35.jpg?raw=true =300x300)
+
+* Samples 243, 246, 247, 250, 251, 258, 264, 265, and 272 are shifted to a larger proportion of smaller fragments 
+
+![chip7](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-12_18-30-34.jpg?raw=true =300x300)
+
+* Sample 275 has abnormal peak around 3000
+* Sample 44 was re-reun and still has strange very small fragment size
+* Samples 275, 276, 282, 283, 298 are shifted to a larger proportion of smaller fragments 
+
+
