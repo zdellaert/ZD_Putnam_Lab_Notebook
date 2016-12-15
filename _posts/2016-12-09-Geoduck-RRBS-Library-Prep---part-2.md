@@ -117,7 +117,7 @@ Date|EPI.Tube.Num|Tank|Treatment|TimePoint|Homogenization|DNA.Extraction|DNA.QC|
 * Proceeded with EZ DNA Methylation-Gold Kit (Catalog Nos. D5005 & D5006)
 [EZ DNA Methylation-Gold Manual](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/DNA_Methylation_Gold_Bisulfite_d5005i.pdf)
 
-### Samples
+
 ### Bisulfite conversion kit prep
 
 * Prepared the **CT Conversion Reagent** for larger DNA samples (30µl) by adding 800µl of water, 300µl of M-Dilution and 50µl of M-Dissolving
@@ -176,3 +176,151 @@ Expected DNA size for Gold kit (A)
 * Samples 275, 276, 282, 283, 298 are shifted to a larger proportion of smaller fragments 
 
 
+20161213
+
+# Step 3 Library Prep
+
+[Ilumina TruSeq DNA Methylation Library Preparation Guide](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/truseq-dna-methylation-library-prep-guide-15066014-a.pdf)
+
+Illumina Adapter Sequences
+Document # 1000000002694 v01 17 February 2016 
+TruSeq DNA Methylation Index PCR Primers
+5’ CAAGCAGAAGACGGCATACGAGAT[6 bases]GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT 
+
+* Index 1: ATCACG 
+* Index 2: CGATGT 
+* Index 3: TTAGGC 
+* Index 4: TGACCA 
+* Index 5: ACAGTG 
+* Index 6: GCCAAT 
+* Index 7: CAGATC 
+* Index 8: ACTTGA 
+* Index 9: GATCAG 
+* Index 10: TAGCTT 
+* Index 11: GGCTAC 
+* Index 12: CTTGTA 
+
+Illumina library prep was completed according to manufacturer's instructions with modifications as described in red text on the protocol and listed below.
+
+* samples eluted in 12µl post BS conversion
+* 200µl of 80% ethanol used for rinsing beads
+* Samples were stored at -20 for ~24h between _Purify the Tagged DNA_ and _Amplify the Library and Add an Index_ steps
+* Library prep was started 20161213
+* Library prep was finished 20161213
+* Individual barcodes were used for each sample from the Illumina TruSeq DNA Methylation Index PCR Primers (10 reactions, 12 indexes Cat #: EGIDX81312)
+
+
+**Sample.ID** | **Index.Number** | **Index.Sequence**
+---|---|---
+EPI_151 | 1 | ATCACG
+EPI_152 | 2 | CGATGT
+EPI_153 | 3 | TTAGGC
+EPI_154 | 4 | TGACCA
+EPI_159 | 5 | ACAGTG
+EPI_160 | 6 | GCCAAT
+EPI_161 | 7 | CAGATC 
+EPI_162 | 8 | ACTTGA
+EPI_167 | 9 | GATCAG
+EPI_168 | 10 | TAGCTT
+EPI_169 | 11 | GGCTAC
+EPI_170 | 12 | CTTGTA
+EPI_175 | 1 | ATCACG
+EPI_176 | 2 | CGATGT
+EPI_181 | 3 | TTAGGC
+EPI_182 | 4 | TGACCA
+EPI_184 | 5 | ACAGTG
+EPI_185 | 6 | GCCAAT
+EPI_187 | 7 | CAGATC 
+EPI_188 | 8 | ACTTGA
+EPI_193 | 9 | GATCAG
+EPI_194 | 10 | TAGCTT
+EPI_199 | 11 | GGCTAC
+EPI_200 | 12 | CTTGTA
+EPI_205 | 1 | ATCACG
+EPI_206 | 2 | CGATGT
+EPI_208 | 3 | TTAGGC
+EPI_209 | 4 | TGACCA
+EPI_214 | 5 | ACAGTG
+EPI_215 | 6 | GCCAAT
+EPI_220 | 7 | CAGATC 
+EPI_221 | 8 | ACTTGA
+EPI_226 | 9 | GATCAG
+EPI_227 | 10 | TAGCTT
+EPI_229 | 11 | GGCTAC
+EPI_230 | 12 | CTTGTA
+EPI_41 | 1 | ATCACG
+EPI_42 | 2 | CGATGT
+EPI_43 | 4 | TGACCA
+
+### Library Quantification
+20161213
+Libraries were quantified on the Qubit using the [dsDNA High Sensitivity Kit](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/Qubit_dsDNA_HS_Assay_UG.pdf)
+
+* Samples were loaded 1µl of library + 199µl of Qubit dye/buffer mix (1:200)
+* Standards were loaded 10µl of standard + 190µl of Qubit dye/buffer mix (1:200)
+
+* Illumina indicates samples should be >3ng/µl
+
+
+**Sample.ID** | **ng/µl**
+---|---
+EPI_151 | 0.242 
+EPI_152 | 0.486 
+EPI_153 | 0.580 
+EPI_154 | 0.320 
+EPI_159 | 0.356 
+EPI_160 | 0.210 
+EPI_161 | 0.226  
+EPI_162 | 0.930 
+EPI_167 | 0.808 
+EPI_168 | 0.880 
+EPI_169 | 0.500 
+EPI_170 | 0.866 
+EPI_175 | 0.552 
+EPI_176 | 0.676 
+EPI_181 | 1.18 
+EPI_182 | 0.902 
+EPI_184 | 0.956
+EPI_185 | 0.972 
+EPI_187 | 0.976 
+EPI_188 | 1.05 
+EPI_193 | 1.74 
+EPI_194 | 0.518
+EPI_199 | 0.464 
+EPI_200 | 0.664 
+EPI_205 | 0.312 
+EPI_206 | 0.270 
+EPI_208 | 0.408 
+EPI_209 | 0.114 
+EPI_214 | 0.350 
+EPI_215 | 1.192 
+EPI_220 | 0.888 
+EPI_221 | 0.492 
+EPI_226 | 1.71 
+EPI_227 | 0.796 
+EPI_229 | 0.808 
+EPI_230 | 0.642 
+EPI_41 | 0.314 
+EPI_42 | 0.740 
+EPI_43 | 0.252
+
+* Library concentration is significantly lower than expected in the majority of the samples 
+
+
+# Library Quality 
+20161214
+
+* 1.0µl of each sample was run on the Agilent DNA High Sensitivity Kit
+
+
+Illumina DNA Methylation kit expected library size on high sensitivity chip
+![expected size](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/expected_librarysize_truseq_meth_.jpg?raw=true =400x200)
+
+[RRBS Chip 1 Data](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_High_Sensitivity_DNA_Assay_DE72902486_2016-12-14_14-05-21.pdf)
+
+![RRBS Chip 1 Data](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_High_Sensitivity_DNA_Assay_DE72902486_2016-12-14_14-05-21.jpg?raw=true =300x300)
+
+### Conclusions
+
+* Library quality is shifted to a smaller size in libraries that are detectable.
+* Given the low concentraiton and poor traces, no further chips were run and the library preps need to be redone.
