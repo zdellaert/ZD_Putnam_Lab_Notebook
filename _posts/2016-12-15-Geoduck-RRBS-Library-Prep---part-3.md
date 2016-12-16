@@ -94,3 +94,21 @@ Date|EPI.Tube.Num|Tank|Treatment|TimePoint|Homogenization|DNA.Extraction|DNA.QC|
 * followed protocol steps [EZ DNA Methylation-Gold Manual](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/DNA_Methylation_Gold_Bisulfite_d5005i.pdf)
 
 * Eluted in 12µl of elution buffer
+
+Expected DNA size for Gold kit (A)
+
+![Expected DNA size](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/expected_DNAsize_truseq_meth.jpg?raw=true =400x200)
+
+### Results of bisulfite converted samples
+ 
+20161215
+
+![chip1](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-15_16-37-44.jpg?raw=true =300x300)
+
+![chip2](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-15_17-02-50.jpg?raw=true =300x300)
+
+![chip3](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-15_17-29-02.jpg?raw=true =300x300)
+
+![chip4](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Gels/2100expert_Eukaryote_Total_RNA_Pico_DE72902486_2016-12-15_17-54-16.jpg?raw=true =300x300)
+
+
