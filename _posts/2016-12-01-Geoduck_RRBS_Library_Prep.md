@@ -267,5 +267,34 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 * libraries appear to be of good quality for sequencing
 
 
+### Library Pooling for seqeuncing submission
+
+Libraries were diluted to 10nM and pooled 2µl each for a pooled sample of 10nM and 24µl
+
+Day|Lane|Sample.ID|Library Concentration (ng/uL)|Library Concentration (ug/uL)|Library Volume (uL)|Molecular Weight pmol/660pg|10^6pg/ug|DNA Size 1/N (N = bp)|pmol DNA|Library Concentration (uM)|Library Concentration (nM)|Dilution Factor for 10nM|Vol Library added µl|Vol Elution Buffer µl
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+Day10|Lane1|EPI_103|4.34|0.0043|15|0.002|1000000|0.0033|0.33|0.022|21.92|0.46|1.8|2.2
+Day10|Lane1|EPI_104|4.8|0.0048|15|0.002|1000000|0.0033|0.36|0.024|24.24|0.41|1.7|2.4
+Day10|Lane1|EPI_111|5.46|0.0055|15|0.002|1000000|0.0033|0.41|0.028|27.58|0.36|1.5|2.5
+Day10|Lane1|EPI_113|4.88|0.0049|15|0.002|1000000|0.0033|0.37|0.025|24.65|0.41|1.6|2.4
+Day10|Lane1|EPI_119|5.1|0.0051|15|0.002|1000000|0.0033|0.39|0.026|25.76|0.39|1.6|2.4
+Day10|Lane1|EPI_120|4.58|0.0046|15|0.002|1000000|0.0033|0.35|0.023|23.13|0.43|1.7|2.3
+Day10|Lane1|EPI_127|4.58|0.0046|15|0.002|1000000|0.0033|0.35|0.023|23.13|0.43|1.7|2.3
+Day10|Lane1|EPI_128|4.8|0.0048|15|0.002|1000000|0.0033|0.36|0.024|24.24|0.41|1.7|2.4
+Day10|Lane1|EPI_135|4.08|0.0041|15|0.002|1000000|0.0033|0.31|0.021|20.61|0.49|1.9|2.1
+Day10|Lane1|EPI_136|3.7|0.0037|15|0.002|1000000|0.0033|0.28|0.019|18.69|0.54|2.1|1.9
+Day10|Lane1|EPI_143|2.88|0.0029|15|0.002|1000000|0.0033|0.22|0.015|14.55|0.69|2.8|1.3
+Day10|Lane1|EPI_145|2.92|0.0029|15|0.002|1000000|0.0033|0.22|0.015|14.75|0.68|2.7|1.3
+
+### Sample QC at Genewiz
+
+Sample ID | GENEWIZ ID | Tape Station From.bp | Tape Station To.bp. | Tape Station Average.bp |Tape Station Conc. (ng/ul) | Tape Station Conc. (nM)| Qubit Dilution Factor | Qubit Conc. (ng/ul) | Qubit Actual Conc. (ng/ul) |Qubit Conc. (nM)
+---|---|---|---|---|---|---|---|---|---|---
+1 | HP01-1 | 106 | 646 | 332 | 0.563 | 3.13 |1 | 0.773 | 0.773 | 3.5277
+
+
+
+
+
 
 

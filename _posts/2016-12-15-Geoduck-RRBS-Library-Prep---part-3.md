@@ -191,7 +191,7 @@ EPI_44 | 8 | ACTTGA
 Libraries were quantified on the Qubit using the [dsDNA High Sensitivity Kit](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/protocols/Qubit_dsDNA_HS_Assay_UG.pdf)
 
 * Samples were loaded 1µl of library + 199µl of Qubit dye/buffer mix (1:200)
-* Standards were loaded 10µl of standard + 190µl of Qubit dye/buffer mix (1:200)
+* Standards were loaded 10µl of standard + 190µl of Qubit dye/buffer mix (1:20)
 
 * Illumina indicates samples should be >3ng/µl
 
@@ -240,6 +240,7 @@ EPI_43 | 0.920
 EPI_44 | 1.02
 
 * Library concentration is lower than expected in the majority of the samples, but higher than previous prep 
+* llumina states "A total of 3 ng is required to run a sample on an entire HiSeq flow cell (8 lanes)."
 
 
 # Library Quality 
@@ -273,4 +274,67 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 * Library quantity is lower than expected, with 1-2ng/µl obtained and ~3ng/µl expected
 * Samples 205, 206, and 208 have unexpected peak above lower marker, samples were run twice to confirm.
 * Samples are ready for pooling and stored at -20°C
+
+### Pooling plans
+
+#### Lane 2
+
+**Sample.ID** | **Index.Number** | **Index.Sequence**
+---|---|---
+EPI_151 | 1 | ATCACG
+EPI_152 | 2 | CGATGT
+EPI_153 | 3 | TTAGGC
+EPI_154 | 4 | TGACCA
+EPI_159 | 5 | ACAGTG
+EPI_160 | 6 | GCCAAT
+EPI_161 | 7 | CAGATC 
+EPI_162 | 8 | ACTTGA
+EPI_167 | 9 | GATCAG
+EPI_168 | 10 | TAGCTT
+EPI_169 | 11 | GGCTAC
+EPI_170 | 12 | CTTGTA
+
+#### Lane 3
+
+**Sample.ID** | **Index.Number** | **Index.Sequence**
+---|---|---
+EPI_175 | 1 | ATCACG
+EPI_176 | 2 | CGATGT
+EPI_181 | 3 | TTAGGC
+EPI_182 | 4 | TGACCA
+EPI_184 | 5 | ACAGTG
+EPI_185 | 6 | GCCAAT
+EPI_187 | 7 | CAGATC 
+EPI_188 | 8 | ACTTGA
+EPI_193 | 9 | GATCAG
+EPI_194 | 10 | TAGCTT
+EPI_199 | 11 | GGCTAC
+EPI_200 | 12 | CTTGTA
+
+#### Lane 4
+
+**Sample.ID** | **Index.Number** | **Index.Sequence**
+---|---|---
+EPI_205 | 1 | ATCACG
+EPI_206 | 2 | CGATGT
+EPI_208 | 3 | TTAGGC
+EPI_209 | 4 | TGACCA
+EPI_214 | 5 | ACAGTG
+EPI_215 | 6 | GCCAAT
+EPI_220 | 7 | CAGATC 
+EPI_221 | 8 | ACTTGA
+EPI_226 | 9 | GATCAG
+EPI_227 | 10 | TAGCTT
+EPI_229 | 11 | GGCTAC
+EPI_230 | 12 | CTTGTA
+
+#### Lane 5
+
+**Sample.ID** | **Index.Number** | **Index.Sequence**
+---|---|---
+EPI_41 | 1 | ATCACG
+EPI_42 | 2 | CGATGT
+EPI_43 | 4 | TGACCA
+EPI_44 | 8 | ACTTGA
+EPI_135 WG | 3 | TTAGGC
 
