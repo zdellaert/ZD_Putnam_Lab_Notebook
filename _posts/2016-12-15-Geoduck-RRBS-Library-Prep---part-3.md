@@ -8,7 +8,7 @@ tags: [DNA, DNA Methylation, geoduck, P. generosa, RRBS]
 
 Prepping 40 RRBS libraries for geoduck juvenile OA acclimatization study.
 
-20161215
+20161214
 100ng was used as the starting amount of DNA for each sample and the volume of water in each reaction was adjusted as necessary. 0.5% unmethylated lambda DNA was spiked in (w/w DNA) to determine conversion efficiency by estimating the error rate at which a C count occurs at an unmethylated C position.
 
 # Step 1 MSPI DNA Cutting
@@ -18,7 +18,7 @@ MSPI restriction endonuclease in NEBuffer2
 * NEBuffer2 10x (NEB cat: B7002S)
 
 ## Reaction Mix
-* Samples were mixed as follows to a total reaction volume of 30µl. Samples were incubated at 37°C starting at 18:00 
+* Samples were mixed as follows to a total reaction volume of 30µl. Samples were incubated at 37°C starting at 18:00 on 20161214
 * Lambda DNA (581ng/µl) was diluted 1:1160 for a concentration of 0.5ng/µl and 1µl added to each sample
 * Unmethylated lamda phage DNA (Promega cat: D1501)
 
@@ -138,9 +138,8 @@ Illumina library prep was completed according to manufacturer's instructions wit
 
 * samples eluted in 12µl post BS conversion
 * 200µl of 80% ethanol used for rinsing beads
-* Samples were stored at -20 for ~24h between _Purify the Tagged DNA_ and _Amplify the Library and Add an Index_ steps
-* Library prep was started 20161213
-* Library prep was finished 20161213
+* Library prep was started 20161216
+* Library prep was finished 20161216
 * Individual barcodes were used for each sample from the Illumina TruSeq DNA Methylation Index PCR Primers (10 reactions, 12 indexes Cat #: EGIDX81312)
 
 
@@ -199,46 +198,46 @@ Libraries were quantified on the Qubit using the [dsDNA High Sensitivity Kit](ht
 
 **Sample.ID** | **ng/µl**
 ---|---
-EPI_151 |  
-EPI_152 |  
-EPI_153 |  
-EPI_154 |  
-EPI_159 |  
-EPI_160 |  
-EPI_161 |   
-EPI_162 |  
-EPI_167 |  
-EPI_168 |  
-EPI_169 |  
-EPI_170 |  
-EPI_175 |  
-EPI_176 |  
-EPI_181 |  
-EPI_182 |  
-EPI_184 | 
-EPI_185 |  
-EPI_187 | 
-EPI_188 |  
-EPI_193 | 
-EPI_194 | 
-EPI_199 | 
-EPI_200 |  
-EPI_205 |  
-EPI_206 |  
-EPI_208 |  
-EPI_209 |  
-EPI_214 |  
-EPI_215 |  
-EPI_220 |  
-EPI_221 |  
-EPI_226 |  
-EPI_227 | 
-EPI_229 |  
-EPI_230 |  
-EPI_41 |  
-EPI_42 |  
-EPI_43 | 
-EPI_44 | 
+EPI_151 |  1.32
+EPI_152 |  1.45
+EPI_153 |  0.928
+EPI_154 |  1.27
+EPI_159 |  1.45
+EPI_160 |  1.37
+EPI_161 |  1.27 
+EPI_162 |  1.72
+EPI_167 |  1.35
+EPI_168 |  1.37
+EPI_169 |  1.42
+EPI_170 |  1.55
+EPI_175 |  2.12
+EPI_176 |  1.81
+EPI_181 |  2.36
+EPI_182 |  2.82
+EPI_184 |  1.71
+EPI_185 |  1.04
+EPI_187 |  1.70
+EPI_188 |  0.986
+EPI_193 |  1.69
+EPI_194 |  2.30
+EPI_199 |  0.888
+EPI_200 |  1.30
+EPI_205 |  1.38
+EPI_206 |  1.90
+EPI_208 |  1.67
+EPI_209 |  1.41
+EPI_214 |  1.75
+EPI_215 |  1.19
+EPI_220 |  0.90
+EPI_221 |  1.03
+EPI_226 |  1.35
+EPI_227 | 1.19
+EPI_229 |  1.44
+EPI_230 |  0.854
+EPI_41 |  0.894
+EPI_42 |  1.14
+EPI_43 | 0.920
+EPI_44 | 1.02
 
 * Library concentration is lower than expected in the majority of the samples, but higher than previous prep 
 
@@ -271,7 +270,7 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 ### Conclusions
 
 * Library quality appears to be of the right size
-* Library quantity is lower than expected (1-2ng/µl obtained, ~3ng/µl expected)
+* Library quantity is lower than expected, with 1-2ng/µl obtained and ~3ng/µl expected
 * Samples 205, 206, and 208 have unexpected peak above lower marker, samples were run twice to confirm.
 * Samples are ready for pooling and stored at -20°C
 
