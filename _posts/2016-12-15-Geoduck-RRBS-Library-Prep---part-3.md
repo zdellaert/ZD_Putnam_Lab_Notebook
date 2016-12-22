@@ -349,4 +349,4 @@ Library QC was completed on 20161221 at Genewiz with tapestation and Qubit assay
 
 ![Batch2 QC Genewiz](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Genewiz_QC_Batch2.jpg?raw=true =400x100)
 
-Samples passed QC and were confirmed for sequencing on a single lane of Illumina Highseq2500 2x100bp on 20161222.
+Samples passed QC and were confirmed for sequencing on a single lane of Illumina Highseq2500 2x100bp for each set of 12 and for the last set of 5 on 20161222.
