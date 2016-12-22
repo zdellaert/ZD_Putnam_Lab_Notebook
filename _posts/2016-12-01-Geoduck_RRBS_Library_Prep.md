@@ -262,14 +262,16 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 ### RRBS Library Prep Conclusions
 
 * samples have the correct quantity of ~3ng/µl and more than enough ~15µl (45ng) to load for sequencing
-* library size ranges from 150bp to 1000bp and peaks just under 300bp, which matches the expected range in the kit guide
+* library size ranges from 150bp to 1000bp and peaks just around 300bp, which matches the expected range in the kit guide
 * There does not appear to be a difference in library size between whole genome and RRBS preps as seen in the traces of the RRBS chip 2 results
 * libraries appear to be of good quality for sequencing
 
 
 ### Library Pooling for seqeuncing submission
 
-Libraries were diluted to 10nM and pooled 2µl each for a pooled sample of 10nM and 24µl
+Libraries were diluted to 10nM and pooled 2µl each for a pooled sample of 10nM in 24µl
+
+Samples were sent to Genewiz on 20161213
 
 Day|Lane|Sample.ID|Library Concentration (ng/uL)|Library Concentration (ug/uL)|Library Volume (uL)|Molecular Weight pmol/660pg|10^6pg/ug|DNA Size 1/N (N = bp)|pmol DNA|Library Concentration (uM)|Library Concentration (nM)|Dilution Factor for 10nM|Vol Library added µl|Vol Elution Buffer µl
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
@@ -288,11 +290,11 @@ Day10|Lane1|EPI_145|2.92|0.0029|15|0.002|1000000|0.0033|0.22|0.015|14.75|0.68|2.
 
 ### Sample QC at Genewiz
 
-Sample ID | GENEWIZ ID | Tape Station From.bp | Tape Station To.bp. | Tape Station Average.bp |Tape Station Conc. (ng/ul) | Tape Station Conc. (nM)| Qubit Dilution Factor | Qubit Conc. (ng/ul) | Qubit Actual Conc. (ng/ul) |Qubit Conc. (nM)
----|---|---|---|---|---|---|---|---|---|---
-1 | HP01-1 | 106 | 646 | 332 | 0.563 | 3.13 |1 | 0.773 | 0.773 | 3.5277
+20161216
 
+![Pool QC Genewiz](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Genewiz_QC_Batch1.jpg?raw=true =400x100)
 
+Samples passed QC and were confirmed for sequencing on a single lane of Illumina Highseq2500 2x100bp on 20161219
 
 
 

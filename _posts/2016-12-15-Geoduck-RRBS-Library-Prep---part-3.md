@@ -275,7 +275,10 @@ Illumina DNA Methylation kit expected library size on high sensitivity chip
 * Samples 205, 206, and 208 have unexpected peak above lower marker, samples were run twice to confirm.
 * Samples are ready for pooling and stored at -20°C
 
-### Pooling plans
+### Library Pooling 
+
+Samples were pooled by Sam White and sent to Genewiz 20161220
+http://onsnetwork.org/kubu4/2016/12/20/sample-submission-geoduck-reduced-representation-bisulfite-pooled-libraries/
 
 #### Lane 2
 
@@ -338,3 +341,12 @@ EPI_43 | 4 | TGACCA
 EPI_44 | 8 | ACTTGA
 EPI_135 WG | 3 | TTAGGC
 
+
+
+### Library QC from Genewiz
+
+Library QC was completed on 20161221 at Genewiz with tapestation and Qubit assays
+
+![Batch2 QC Genewiz](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/Sample_Processing/Genewiz_QC_Batch2.jpg?raw=true =400x100)
+
+Samples passed QC and were confirmed for sequencing on a single lane of Illumina Highseq2500 2x100bp on 20161222.
