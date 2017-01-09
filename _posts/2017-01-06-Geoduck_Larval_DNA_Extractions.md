@@ -197,29 +197,29 @@ Ran a quality check of DNA using a 1.5% TAE gel in 10x TAE running buffer
 
 Samples were selected from [Sample List](https://github.com/hputnam/project_larval_geoduck_OA/blob/master/Larval_Sample_Info.csv)
 
-#### Day 0 Ambient
+#### Day 0 Ambient pCO2
 
 * EPI-3
 * EPI-4
 
-#### Day 6 Ambient
+#### Day 6 Ambient pCO2
 
 * EPI-33
 * EPI-34
 * EPI-35
 
-#### Day 6 High
+#### Day 6 High pCO2
 
 * EPI-29
 * EPI-30
 * EPI-32
 
-#### Day 10 Ambient
+#### Day 10 Ambient pCO2
 
 * EPI-60
 
 
-#### Day 10 High
+#### Day 10 High pCO2
 
 * EPI-66
 
