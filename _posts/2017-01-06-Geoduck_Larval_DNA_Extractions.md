@@ -221,7 +221,7 @@ Samples were selected from [Sample List](https://github.com/hputnam/project_larv
 
 #### Day 10 High pCO2
 
-* EPI-66
+* [EPI-66](https://hputnam.github.io/Putnam_Lab_Notebook/Geoduck_Juvenile_Larval_DNA_Extractions_Part5/)
 
 
 
