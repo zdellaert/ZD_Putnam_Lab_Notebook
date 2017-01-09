@@ -195,6 +195,8 @@ Ran a quality check of DNA using a 1.5% TAE gel in 10x TAE running buffer
  
 ## Sample Selection
 
+Samples were selected from [Sample List](https://github.com/hputnam/project_larval_geoduck_OA/blob/master/Larval_Sample_Info.csv)
+
 #### Day 0 Ambient
 
 * EPI-3
