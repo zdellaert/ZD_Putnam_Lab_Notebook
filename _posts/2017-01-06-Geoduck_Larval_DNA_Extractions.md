@@ -185,7 +185,7 @@ Ran a quality check of DNA using a 1.5% TAE gel in 10x TAE running buffer
 
 
 ## Conclusions  
-* Most samples have DNA with large fragment size and minimal degradation. Samples with ~<20ng/µl are not detectable on gel. 
+* Most samples have DNA with large fragment size and minimal degradation. Samples with ~<10ng/µl are not detectable on gel. 
 
 
 * Samples will be processed for RADseq and EPIRADseq according to previous prep by Jay Dimond
