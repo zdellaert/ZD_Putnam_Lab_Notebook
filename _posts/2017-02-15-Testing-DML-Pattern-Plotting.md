@@ -6,7 +6,7 @@ categories: Analysis
 tags: [R, DNA Methylation]
 ---
 
-# Examination of DML pattern clusters across treatment
+Examination of DML pattern clusters across treatment
 
 ## Includes test R script and output from Geoduck Day 10 5x coverage significant pvalue DMLs after running MACAU 
 
@@ -46,3 +46,8 @@ mtext(side=3, at=6.5, "Low", cex=0.5) #add text to each treatment group
 mtext(side=3, at=11, "Super Low", cex=0.5) #add text to each treatment group
   }
 ```
+
+## Code output 
+Figure - mean z-score of count data for each cluster is shown in red, and individual z-scores for each cluster shown behind in gray
+
+![DML Clustering](https://github.com/hputnam/project_juvenile_geoduck_OA/blob/master/RAnalysis/Output/Test_DML_cluster_patterns.jpeg?raw=true, =400x300)
