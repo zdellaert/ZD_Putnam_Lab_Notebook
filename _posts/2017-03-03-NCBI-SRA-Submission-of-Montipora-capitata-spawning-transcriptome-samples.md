@@ -50,4 +50,4 @@ This project examines gene expression during the normal spawning timing of coral
 
 ### Complete Submission Screenshot
 
-![NCBI Submission]( =300x200)
+![NCBI Submission](https://github.com/hputnam/Montipora_Spawn_Timing/blob/master/Processing/NCBI_Submission.jpg?raw=true =300x500)
