@@ -10,8 +10,8 @@ I am dedicated to open, rigorous, and reproducible experiments and analyses.
 
 ### More Information
 
-wwww.hollieputnam.com
+wwww.putnamlab.com
 
 ### Contact me
 
-[hollieputnam@gmail.com](mailto:hollieputnam@gmail.com)
+[hputnam@uri.edu](mailto:hputnam@uri.edu)
