@@ -27,7 +27,7 @@ echo "Enter categories: (Analysis, Goals, Processing, Protocols)"
 read PHRASE2
 echo "You entered $PHRASE2"
 
-echo "Enter tags: include []"
+echo "Enter tags:"
 read PHRASE3
 echo "You entered $PHRASE3"
 
