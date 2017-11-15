@@ -6,5 +6,8 @@ categories: Goals
 tags: goal
 ---
 
-Goal1
+* Goal 1
+* Goal 2
+* Goal 3
+
 

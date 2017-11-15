@@ -13,3 +13,4 @@ tags: [notebook post]
 
 **Watch Out for edges of scope blurring**
 
+
