@@ -21,7 +21,7 @@ wwww.putnamlab.com
 ### EDUCATIONDate|Position| Affiliation--|--|--2012 |	PhD in Zoology | University of Hawaii, Manoa
  - |Dissertation| Resilience and acclimatization potential of reef corals under predicted climate change stressors 
  2008 |	MSc in Biology | California State University, Northridge (CSUN) - | Thesis| The effects of temperature fluctuations on coral physiology2004 |	BSc | University of Wisconsin, Superior (UWS)- | Dual Majors | Biology and Broad Field Science
-###PUBLICATIONS 
+### PUBLICATIONS 
 (= equal contribution)[Google Scholar Profile](https://scholar.google.com/citations?user=r8AKf2UAAAAJ&hl=en)43. Wall CB, Ricci CA, Foulds GE, Mydlarz LD, Gates RD, Putnam HM (2018) The effects of environmental history and thermal stress on coral physiology and immunity. Marine Biology
 42. Quinlan ZA, Remple K, Fox MD, Silbiger NJ, Sevilla JK, Oliver TA, Putnam HM, Wegley Kelly L, Carlson CA, Donahue MJ and Nelson CE. (2018) Fluorescent organic exudates of corals and algae in tropical reefs are compositionally distinct and increase with nutrient enrichment. Limnology and Oceanography: Letters
 41. Gibbin E Krueger T, Putnam HM, Barrot K, Bodin J, Gates RD, A. Meibom A. (2018) Short-term thermal acclimation modifies the metabolic condition of the coral holobiont. Frontiers in Marine Science 5, 10 https://doi.org/10.3389/fmars.2018.00010
