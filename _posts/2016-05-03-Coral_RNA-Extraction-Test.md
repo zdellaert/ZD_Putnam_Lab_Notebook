@@ -51,10 +51,15 @@ _**Complete these steps 1-12 in a hood**_
 
 11. centrifuge at 12,000x g for 15 min at 4°C
 
+
+
     ### prepare your DNAse mix 
 
 * for each reaction mix 5µl of DNase I (6U/µl) with 75µl of DNA Digestion Buffer (from Direct-zol kit R2050 Zymo)
 * Only mix enough for each day. Save on ice until use.
+
+
+
 
 12. pipette out clear supernatant (~200uL) into the RNase, DNase free 1.5mL tube from step 8 (DO NOT disrupt the interphase)
 
