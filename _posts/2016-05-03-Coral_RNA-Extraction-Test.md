@@ -63,7 +63,7 @@ _**Complete these steps 1-12 in a hood**_
 
 12. pipette out clear supernatant (~200uL) into the RNase, DNase free 1.5mL tube from step 8 (DO NOT disrupt the interphase)
 
-    _**Complete these steps 13-35 in the RNA prep area**_
+    _**Complete the following steps in the RNA prep area**_
 
 13. add 500uL of 70% Ethanol to the tube from steps 8 and 12, vortex for 3 sec and quick spin down
 
