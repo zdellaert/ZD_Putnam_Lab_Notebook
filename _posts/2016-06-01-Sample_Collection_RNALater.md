@@ -12,7 +12,7 @@ Protocol for the preservation of animal tissues for RNA and DNA extraction in th
 
 ## Reagents  
   
-* [RNALater](https://www.thermofisher.com/us/en/home/brands/product-brand/rnalater.html?gclid=CJnGnPO0zs8CFU1cfgodA4EHZA&s_kwcid=AL!3652!3!75498904346!e!!g!!rna%20later&ef_id=V-gV7gAAAV08Fawd:20161009190401:s)
+* [RNA/DNA Shield](https://files.zymoresearch.com/protocols/_r1100-50_r1100-250_r1200-25_r1100-125_dna_rna_shield.pdf)
 * Ethanol 100%
 * Bleach 10%
 * DI water
@@ -29,16 +29,13 @@ Protocol for the preservation of animal tissues for RNA and DNA extraction in th
 * Lighter or matches
 
 ## RNALater Guidelines
-[RNALater]({{ https://hputnam.github.io}}/Putnam_Lab_Notebook/protocols/RNALater_7020M.pdf)  
+[RNA/DNA Shield](https://files.zymoresearch.com/protocols/_r1100-50_r1100-250_r1200-25_r1100-125_dna_rna_shield.pdf)  
 
-* Use RNA later Solution with fresh tissue only; do not freeze tissues before immersion in RNAlater Solution. 
-* Before immersion in RNAlater Solution, cut large tissue samples to 
+* Use RNA/DNA Sheild Solution with fresh tissue only; do not freeze tissues before immersion in RNAlater Solution. 
+* Before immersion in Solution, cut large tissue samples to 
 ≤0.5 cm in any single dimension. 
-* Place the fresh tissue in 5–10 volumes of RNAlater Solution. 
-* Most samples in RNAlater Solution can be stored at room temperature for 1 week without compromising RNA quality, or at –20° C or –80° C indefinitely. 
-* Do not freeze samples in RNAlater Solution immediately; store at 4° C overnight (to allow the solution to thoroughly penetrate the tissue).
-* For storage at -20 keep the sample in RNALater.  
-* For storage at -80 remove RNALater, then move tissue to –80° C for long-term storage.  
+* Place the fresh tissue in shield following manufacturer's instructions. 
+
 
 
 # Sample Collection  
@@ -55,23 +52,30 @@ Protocol for the preservation of animal tissues for RNA and DNA extraction in th
 * Fourth, sterilze tools by burning off the ethanol 
 * Fifth, place tools upside down in tube rack with sterile end up
 
-## Glove Sterilzation
+## Glove Cleaning
 * Make a 5 gallon bucket with 10% bleach
 * Make a 5 gallon bucket with fresh water 
 * Dunk gloved hands in 10% bleach and then fresh water bucket between each sample
 
 ## Sample Collection
 
-* Fill each tube with 1.5ml of RNALater solution
+* Fill each tube with desired volume of RNA DNA Shielf solution
 * Pick up sample with clean glove
 * Cut tissue section ≤0.5 cm in any single dimension
-* Place tissue section in prelabeled 2ml tube with 1.5ml of RNAlater
+* Place tissue section in prelabeled 2ml tube with Shield solution
 * Repeat sample collection process for a duplicate tube for every sample as possible
 
 ## Sample Preservation
 
-* store samples in RNALater at 4° C for 24-48h (to allow the solution to thoroughly penetrate the tissue)
-* remove liquid and move samples to –20° C or –80° C for long-term storage
+* Store and/or transport samples as follows in DNA/RNA Shield for later purification of high-quality DNA and/or RNA 
+
+  
+Temperature | Time |
+--- | --- |
+4°C - 25°C (ambient) | Up to 30 days
+37°C | Up to 3 days
+-20°C and below | >1 year
+
 
 
 
