@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Preservation Protocol RNA Later
+title: Sample Preservation Protocol RNA/DNA Shield
 date: '2016-06-01'
 categories: Protocols
 tags: [RNA, DNA]
