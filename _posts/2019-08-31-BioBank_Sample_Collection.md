@@ -29,7 +29,7 @@ Protocol for the preservation of animal tissues for RNA and DNA and Metabolomics
 * Lighter or matches
 * Gloves
 
-## RNALater Guidelines
+## RNA DNA Shield Guidelines
 [RNA/DNA Shield](https://files.zymoresearch.com/protocols/_r1100-50_r1100-250_r1200-25_r1100-125_dna_rna_shield.pdf)  
 
 * Use RNA/DNA Sheild Solution with fresh tissue 
@@ -39,7 +39,13 @@ Protocol for the preservation of animal tissues for RNA and DNA and Metabolomics
 
 
 
-# Sample Collection  
+# Sample Collection 
+
+## Labeling Guidelines
+* Country Code
+* Timepoint
+* Treatment
+* Tank 
 
 ## Tool Sterilzation
 * Make 10% bleach solution in DI water in plastic beaker labeled ```#1 10% Bleach```
@@ -106,7 +112,10 @@ Store in PFA
 
 ## Sample Collection for Shell
 
-May want to separate the shell before and after OA
+* May want to separate the shell before and after OA?  
+* Shell Rinsing with DI water?
+* Drying at X° for X time
+* Store dry and in the darkness if labeled for Calcein
 
 ## Sample Preservation for Shell
 
