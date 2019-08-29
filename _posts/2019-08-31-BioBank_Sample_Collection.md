@@ -79,7 +79,7 @@ or
 * Fill each tube with desired volume of RNA DNA Shield solution
 * Pick up sample with clean glove
 * Cut muscle tissue section ≤0.5 cm in any single dimension to obtain the mass you choose
-* If you have extra tissue do the same thing for gill, mantle
+* If you have extra tissue do the same thing for gill, mantle, digestive glad
 * Place tissue section in prelabeled 2ml tube with Shield solution as a ratio to your mass
 * Repeat sample collection process for a duplicate tube for every sample as possible
 
@@ -95,7 +95,18 @@ Temperature | Time |
 -20°C and below | >1 year
 
 
+## Sample Collection for Histology
+tubes
+PFA
+Ethanol
+
+## Sample Preservation for Histology
+Store in PFA
+
+
 ## Sample Collection for Shell
+
+May want to separate the shell before and after OA
 
 ## Sample Preservation for Shell
 
