@@ -27,12 +27,13 @@ Protocol for the preservation of animal tissues for RNA and DNA and Metabolomics
 * [Permanent Fine Tip Marking pen](https://www.amazon.com/Sharpie-Permanent-Markers-Ultra-12-Count/dp/B00006IFI3/ref=sr_1_1?s=industrial&ie=UTF8&qid=1476040322&sr=8-1&keywords=ultra+fine+tip+sharpie+black)
 * Plastic Beakers/Cups
 * Lighter or matches
+* Gloves
 
 ## RNALater Guidelines
 [RNA/DNA Shield](https://files.zymoresearch.com/protocols/_r1100-50_r1100-250_r1200-25_r1100-125_dna_rna_shield.pdf)  
 
-* Use RNA/DNA Sheild Solution with fresh tissue only; do not freeze tissues before immersion in RNAlater Solution. 
-* Before immersion in Solution, cut tissue samples to 
+* Use RNA/DNA Sheild Solution with fresh tissue 
+* Before immersion in Sheild Solution, cut tissue samples to 
 ≤0.5 cm in any single dimension. 
 * Place the fresh tissue in shield following [manufacturer's instructions](https://files.zymoresearch.com/protocols/_r1100-50_r1100-250_r1200-25_r1100-125_dna_rna_shield.pdf) for the ratio of tissue to Shield. 
 
@@ -68,7 +69,7 @@ Protocol for the preservation of animal tissues for RNA and DNA and Metabolomics
 
 ## Sample Preservation for Metabolomics
 
-* Place samples at -80 and store without thawing  
+* Place samples at -80° and store without thawing  
 or
 * Lyophilize samples and store X
 
@@ -90,7 +91,7 @@ or
 Temperature | Time |
 --- | --- |
 4°C - 25°C (ambient) | Up to 30 days
-37°C | Up to 3 days
+37°C | Up to 7 days
 -20°C and below | >1 year
 
 
