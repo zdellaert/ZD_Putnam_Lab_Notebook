@@ -10,7 +10,7 @@ tags: [bioinformatics, genomics]
 
 [Perl Script](https://github.com/nextgenusfs/augustus/blob/master/scripts/getAnnoFasta.pl)
 
-`perl getAnnoFasta.pl Structural_annotation_abintio.gff`
+	perl getAnnoFasta.pl Structural_annotation_abintio.gff
 
 - this results in 2 files:
  	- Structural_annotation_abintio.aa
@@ -18,49 +18,52 @@ tags: [bioinformatics, genomics]
 
 ## Files then need to be parsed for the first transcript only (e.g., g1.t1 ... gn.t1)
 
-`grep -c "# start gene" Structural_annotation_abintio.gff`
+	grep -c "# start gene" Structural_annotation_abintio.gff
 ### count of genes in gff 64558
 
-`awk '/^>/ {P=index($0,".t1")==0} {if(!P) print} ' Structural_annotation_abintio.aa > Pact_T1_Structural_annotation_abintio.aa`
-`grep -c ">" Pact_T1_Structural_annotation_abintio.aa`
+	awk '/^>/ {P=index($0,".t1")==0} {if(!P) print} ' Structural_annotation_abintio.aa > Pact_T1_Structural_annotation_abintio.aa
+	grep -c ">" Pact_T1_Structural_annotation_abintio.aa
+	
 ### count of genes in fasta 64554
-`head Pact_T1_Structural_annotation_abintio.aa`
-`tail Pact_T1_Structural_annotation_abintio.aa`
+	head Pact_T1_Structural_annotation_abintio.aa
+	tail Pact_T1_Structural_annotation_abintio.aa
 #### last gene name listed g64558.t1
 #### 4 protein sequences seem to be missing
 #### Is this because some did not generate predicted proteins?
 
 
-`awk '/^>/ {P=index($0,".t1")==0} {if(!P) print} ' Structural_annotation_abintio.codingseq > Pact_T1_Structural_annotation_abintio.codingseq`
-`grep -c ">" Pact_T1_Structural_annotation_abintio.codingseq`
+	awk '/^>/ {P=index($0,".t1")==0} {if(!P) print} ' Structural_annotation_abintio.codingseq > Pact_T1_Structural_annotation_abintio.codingseq
+	
+	grep -c ">" Pact_T1_Structural_annotation_abintio.codingseq	
 ### count of genes in fasta 64558
-`head Pact_T1_Structural_annotation_abintio.codingseq`
-`tail Pact_T1_Structural_annotation_abintio.codingseq`
+	head Pact_T1_Structural_annotation_abintio.codingseq
+	tail Pact_T1_Structural_annotation_abintio.codingseq
+	
 #### last gene name listed scaffold159493cov109.g64558.t1
 #### sequence counts match for CDS
 
 #### Protein file headers
-`grep -e ">" Pact_T1_Structural_annotation_abintio.aa | awk 'sub(/.t1/, "")' | awk 'sub(/>/, "")' > protein.headers`
+	grep -e ">" Pact_T1_Structural_annotation_abintio.aa | awk 'sub(/.t1/, "")' | awk 'sub(/>/, "")' > protein.headers	
 
-`grep -e ">" Pact_T1_Structural_annotation_abintio.codingseq | awk 'sub(/.t1/, "")' | sed 's/^[^.]*.//' > CDS.headers`
+	grep -e ">" Pact_T1_Structural_annotation_abintio.codingseq | awk 'sub(/.t1/, "")' | sed 's/^[^.]*.//' > CDS.headers	
 
-`diff protein.headers CDS.headers > diffs`
+	diff protein.headers CDS.headers > diffs
 
-`
-1243a1244
-> g1244
-12721a12723
-> g12723
-18185a18188
-> g18188
-48165a48169
-> g48169
-`
+
+	1243a1244
+	> g1244
+	12721a12723
+	> g12723
+	18185a18188
+	> g18188
+	48165a48169
+	> g48169
+
 
 ### this adds up to the 4 missing
 #### search these 4 in the augustus ouput
 
-`less Structural_annotation_abintio.gff`
+	less Structural_annotation_abintio.gff
 
 
 	# start gene g1244
