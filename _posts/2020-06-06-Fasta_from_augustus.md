@@ -8,45 +8,53 @@ tags: [bioinformatics, genomics]
 
 # Goal: extract extract CDS and protein sequences from first transcript in Augustus output files
 
+##### count of genes in gff 
+ 	grep -c "# start gene" Structural_annotation_abintio.gff
+##### gene count = 64558
+#### This matches the reported number from the genome (Vidal Dupiol BioRxiv)
+
+## 1. Use this perl script to extract fasta seq file for AUGUSTUS predicted genes and proteins
 [Perl Script](https://github.com/nextgenusfs/augustus/blob/master/scripts/getAnnoFasta.pl)
 
 	perl getAnnoFasta.pl Structural_annotation_abintio.gff
 
-- this results in 2 files:
- 	- Structural_annotation_abintio.aa
- 	- Structural_annotation_abintio.codingseq
+#### this results in 2 files:
+`Structural_annotation_abintio.aa`
+`Structural_annotation_abintio.codingseq`
 
-## Files then need to be parsed for the first transcript only (e.g., g1.t1 ... gn.t1)
 
-	grep -c "# start gene" Structural_annotation_abintio.gff
-### count of genes in gff 64558
+## 2. Files then need to be parsed for the first transcript only (e.g., g1.t1 ... gn.t1)
 
 	awk '/^>/ {P=index($0,".t1")==0} {if(!P) print} ' Structural_annotation_abintio.aa > Pact_T1_Structural_annotation_abintio.aa
-	grep -c ">" Pact_T1_Structural_annotation_abintio.aa
 	
-### count of genes in fasta 64554
-	head Pact_T1_Structural_annotation_abintio.aa
-	tail Pact_T1_Structural_annotation_abintio.aa
-#### last gene name listed g64558.t1
-#### 4 protein sequences seem to be missing
+	sed 's/\..*$//' Pact_T1_Structural_annotation_abintio.aa > Pact_protein.fa
+	
+	awk '/^>/ {P=index($0,".t1")==0} {if(!P) print} ' Structural_annotation_abintio.codingseq > Pact_T1_Structural_annotation_abintio.codingseq
+		
+	sed '/\..*\./s/^[^.]*\./>/' Pact_T1_Structural_annotation_abintio.codingseq > Pact_CDS.fas
+
+	sed 's/\..*$//' Pact_CDS.fas > Pact_CDS.fa
+	
+### Output Sequence Files
+Pact_protein.fa
+Pact_CDS.fa
+
+## 3. Sanity Checks
+### count of genes in fasta files
+	grep -c ">" Pact_protein.fa
+	grep -c ">" Pact_CDS.fa
+	
+	Pact_CDS.fa = 64558
+	Pact_protein.fa = 64554
+
+#### 4 protein sequences seem to be missing from protein
 #### Is this because some did not generate predicted proteins?
 
-
-	awk '/^>/ {P=index($0,".t1")==0} {if(!P) print} ' Structural_annotation_abintio.codingseq > Pact_T1_Structural_annotation_abintio.codingseq
-	
-	grep -c ">" Pact_T1_Structural_annotation_abintio.codingseq	
-### count of genes in fasta 64558
-	head Pact_T1_Structural_annotation_abintio.codingseq
-	tail Pact_T1_Structural_annotation_abintio.codingseq
-	
-#### last gene name listed scaffold159493cov109.g64558.t1
-#### sequence counts match for CDS
-
 #### Protein file headers
-	grep -e ">" Pact_T1_Structural_annotation_abintio.aa | awk 'sub(/.t1/, "")' | awk 'sub(/>/, "")' > protein.headers	
-
-	grep -e ">" Pact_T1_Structural_annotation_abintio.codingseq | awk 'sub(/.t1/, "")' | sed 's/^[^.]*.//' > CDS.headers	
-
+	grep -e ">"  Pact_protein.fa > protein.headers	
+#### CDS file headers
+	grep -e ">" Pact_CDS.fa > CDS.headers	
+#### Check for differences in the headers
 	diff protein.headers CDS.headers > diffs
 
 
@@ -154,6 +162,120 @@ tags: [bioinformatics, genomics]
 	# end gene g48169
 
 # Yes, 4 genes did not have predicted proteins
-# Yes we can move forward with this perl script
+
+# Yes we can move forward with this perl script, followed by cleaning of sequence names to remove extra header information (e.g., .t1)
 
 [Perl Script](https://github.com/nextgenusfs/augustus/blob/master/scripts/getAnnoFasta.pl)
+
+
+
+
+
+
+
+
+
+
+# Compare this to script written by Tejashree Modak
+[August Extract Script by Tejashree Modak](https://github.com/tejashree1modak/AUGUSTUS-helpers/blob/master/get-fasta.sh)
+
+
+	#!/bin/bash
+	PROG="${0##*/}"
+
+	help() {
+    echo -e "$PROG [options] <Agustus gff>\n"
+    echo "Options:"
+    echo "-c <coding file>    Output file for CDS fasta"
+    echo "-p <coding file>    Output file for protein fasta"
+    exit 0
+	}
+
+	while getopts "c:p:h" arg ; do
+    case "$arg" in
+        c)  cfile="$OPTARG" ;;
+        p)  pfile="$OPTARG" ;;
+        *)  help ;;
+    esac
+	done
+
+	shift $((OPTIND-1))
+
+	# pre-process the file to "join" all coding and protein sequences
+	# output will be
+	# >gene1
+	# coding <coding-sequence>
+	# protein <protein-sequence>
+	# coding <coding-sequence>
+	# protein <protein-sequence>
+	# ....
+	# >gene2
+	# ...
+	awk '/^# start gene g/ {
+    print ">" $NF
+    f = ""
+	}
+
+	/^# (coding|protein) sequence/ {
+    f = $NF
+    t = $2
+	}
+
+	length(f) && $1 == "#" && NF == 2 {
+    f = f $NF
+    if ($NF ~ /\]$/) {
+        print t, f; f = ""
+    }
+	} ' $1  | tr -d '[]' > preprocessed
+
+	# after that Pick the gene line and the first two coding and protein lines
+	# and write then out
+	awk -v pfile="$pfile" -v cfile="$cfile" 'BEGIN {
+    pfile = !length(pfile) ? "protein.fasta" : pfile;
+    printf "" > pfile
+    cfile = !length(cfile) ? "coding.fasta" : cfile;
+    printf "" > cfile
+	}
+
+	NF == 1 {
+    gene = $1
+    c = p = 0
+	}
+
+	$1 == "coding" && c == 0 {
+    print gene "\n" $NF >> cfile
+    c++;
+	}
+
+	$1 == "protein" && p == 0 {
+    if (c == 0) {
+        print "WARNING: Protein sequence with no coding sequence for", substr(gene,2), "ignoring.." > "/dev/stderr"
+    } else {
+        print  gene "\n" $NF >> pfile
+        p++;
+    }
+	} ' preprocessed
+
+
+## 1. Run extraction script 
+	bash get-augustus-fasta.sh Structural_annotation_abintio.gff
+
+## 2. Output Files
+coding.fasta
+protein.fasta
+
+## 3. Sanity check against sequence number
+#### - 64558    
+
+	grep -c ">" coding.fasta
+##### 63867
+
+	grep -c ">" protein.fasta
+##### 53452
+
+	grep -e ">" coding.fasta | awk 'sub(/>/, "")' > TM_coding.headers
+	
+	grep -e ">" protein.fasta | awk 'sub(/>/, "")' > TM_protein.headers
+		
+	diff TM_coding.headers TM_protein.headers > TM_diffs
+
