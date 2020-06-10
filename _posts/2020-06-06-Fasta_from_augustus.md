@@ -179,7 +179,6 @@ Pact_CDS.fa
 # Compare this to script written by Tejashree Modak
 [August Extract Script by Tejashree Modak](https://github.com/tejashree1modak/AUGUSTUS-helpers/blob/master/get-fasta.sh)
 
-
 	#!/bin/bash
 	PROG="${0##*/}"
 
@@ -217,13 +216,16 @@ Pact_CDS.fa
 	}
 
 	/^# (coding|protein) sequence/ {
-    f = $NF
-    t = $2
+    f = $NF                     # store the start of sequence
+    t = $2                      # t is either "coding" or "protein"
+    if ($NF ~ /\]$/) {          # for one line sequences, ] is on the same line, so print it out
+        print t, f; f = ""
+    }
 	}
 
-	length(f) && $1 == "#" && NF == 2 {
-    f = f $NF
-    if ($NF ~ /\]$/) {
+	length(f) && $1 == "#" && NF == 2 {    # multiline sequences will continue appending to f
+    f = f $NF                          # first field is '#' second is sequence,
+    if ($NF ~ /\]$/) {                 # once we get to ']' thats the end of sequence, so print it out
         print t, f; f = ""
     }
 	} ' $1  | tr -d '[]' > preprocessed
@@ -237,26 +239,37 @@ Pact_CDS.fa
     printf "" > cfile
 	}
 
-	NF == 1 {
+	NF == 1 && /^>/ {
     gene = $1
     c = p = 0
+    total++
 	}
 
-	$1 == "coding" && c == 0 {
+	$1 == "coding" && c == 0 && NF == 2 {
     print gene "\n" $NF >> cfile
-    c++;
+    c++; codings++;
 	}
 
-	$1 == "protein" && p == 0 {
+	$1 == "protein" && p == 0 && NF == 2 {
+    print  gene "\n" $NF >> pfile
+    p++; proteins++;
+	}
+
+	$1 == "protein" && (c == 0 || p == 0) {
     if (c == 0) {
-        print "WARNING: Protein sequence with no coding sequence for", substr(gene,2), "ignoring.." > "/dev/stderr"
+        missing_codings++;
     } else {
-        print  gene "\n" $NF >> pfile
-        p++;
+        missing_proteins++;
     }
-	} ' preprocessed
+    print "WARNING: Gene", substr(gene, 2), "has", c, "coding sequences and", p, "protein sequences"
+	}
 
+	END {
+    print "Statistics:\nTotal Genes:", total, "\nTotal Coding Sequences:", codings, "\nTotal Protein Sequences:", proteins, "\nEmpty Coding Sequences:", missing_codings, "\nEmpty Protein Sequences:", missing_proteins
+	}' preprocessed
 
+	echo "Total genes in $1: $(grep -c '^# start gene' $1)" 
+	
 ## 1. Run extraction script 
 	bash get-augustus-fasta.sh Structural_annotation_abintio.gff
 
@@ -265,17 +278,20 @@ coding.fasta
 protein.fasta
 
 ## 3. Sanity check against sequence number
-#### - 64558    
+#### Script writes out the following
+	WARNING: Gene g1244 has 1 coding sequences and 0 protein sequences
+	WARNING: Gene g12723 has 1 coding sequences and 0 protein sequences
+	WARNING: Gene g18188 has 1 coding sequences and 0 protein sequences
+	WARNING: Gene g48169 has 1 coding sequences and 0 protein sequences
+	Statistics:
+	Total Genes: 64558
+	Total Coding Sequences: 64558
+	Total Protein Sequences: 64554
+	Empty Coding Sequences:
+	Empty Protein Sequences: 4
+	Total genes in Structural_annotation_abintio.gff: 64558
 
-	grep -c ">" coding.fasta
-##### 63867
 
-	grep -c ">" protein.fasta
-##### 53452
+# Conclusions:
 
-	grep -e ">" coding.fasta | awk 'sub(/>/, "")' > TM_coding.headers
-	
-	grep -e ">" protein.fasta | awk 'sub(/>/, "")' > TM_protein.headers
-		
-	diff TM_coding.headers TM_protein.headers > TM_diffs
-
+### TM script is faster and fewer steps and gives you the output for a sanity check directly
