@@ -5,16 +5,14 @@ date: '2022-04-09'
 categories: Protocols
 tags: [DNA, Gel]
 ---
-Testing Chelex DNA extraction for rapid DNA acquisition for Pocillopora ID in the field
+## Testing Chelex DNA extraction for rapid DNA acquisition for Pocillopora ID in the field
 
 Pocillopora ID [Johnston et al 2018 RFLP](https://peerj.com/articles/4355/)
 
 Extraction adapted from SAKH protocol from [Simon et al. (2020) Biology Methods and Protocols, 5, bpaa009](https://academic.oup.com/biomethods/article/5/1/bpaa009/5828218?login=true) 
 
-[Chelex 100 molecular biology grade resin BioRad Cat #1421253](https://www.bio-rad.com/en-us/product/chelex-100-molecular-biology-grade-resin?ID=bd6fd35e-c8ff-4515-9499-8af8ccbb3ca5)
-
-
 ## Equipment and Reagents
+[Chelex 100 molecular biology grade resin BioRad Cat #1421253](https://www.bio-rad.com/en-us/product/chelex-100-molecular-biology-grade-resin?ID=bd6fd35e-c8ff-4515-9499-8af8ccbb3ca5)   
 Pipettes: 20-200uL single or multichannel, based on your preference  
 Pipette tips: Enough to transfer 100uL of chelex into strip tubes or plate  
 Bone or heavy-duty nail cutters to clip coral samples  
@@ -35,7 +33,7 @@ DNA Samples
 ## Extraction Protocol Steps
 
 
-###Chelex Preparation
+### Chelex Preparation
 Prepare 5% Chelex  
 - Make in small batches of ~45 mL (2.25 g chelex in 45mL of MilliQ H2O)
 
@@ -43,7 +41,7 @@ Pre-heat 5% Chelex solution to 95˚C prior to use for extraction
 
 ----------------
 
-###Microcentrifuge tube (1.5mL) Chelex DNA extraction protocol   
+### Microcentrifuge tube (1.5mL) Chelex DNA extraction protocol   
 	- Make sure Chelex is well-mixed and each tube receives chelex resin (the pipet tip should look a little cloudy with Chelex solution)    
 -	Always include a negative control tube with no sample
 
@@ -67,7 +65,7 @@ Pre-heat 5% Chelex solution to 95˚C prior to use for extraction
 a.		This is the final tube of extracted DNA so we labelled with sample name on the lid and the sample name, extraction date, and initials on the side   
 b.		We stored at 4˚C for immediate use with the following gel, and the remainder was stored at -20˚C.
 
-###Gel Electrophoresis of the DNA on the Bento Lab
+### Gel Electrophoresis of the DNA on the Bento Lab
 
 [Bento Lab Gel Casting Instructions](https://bento.bio/resources/manual/gel-electrophoresis-and-transilluminator/#casting-a-gel)
 
@@ -86,7 +84,7 @@ b.		We stored at 4˚C for immediate use with the following gel, and the remainde
 	Well 8.100bp GeneRuler ladder
 4. Ran the gel for 45 minutes at 50V
 
-#### Gel Results
+### Gel Results
 - TAE gels are consistently melting at the top in the Bento Lab eletrophoresis chamber
 
 - Ladders are difficult to discern
@@ -99,7 +97,8 @@ b.		We stored at 4˚C for immediate use with the following gel, and the remainde
 
 ![1xTAE Gel](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220409_Chelex_DNA_Gel.png)
 
-Next step is to compare amplification of the mtORF region using the extracted DNA and direct samples with both:   
+### Next steps
+Use the extracted DNA and compare amplification of the mtORF region using the extracted DNA and direct samples with both:   
 FERK1071 DREAMTAQ Master Mix   
 F170S PHIRE TISSUE DIRECT PCR Master Mix  
  
