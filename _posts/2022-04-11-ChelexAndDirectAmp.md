@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mtORF
+title: mtORF PCR Test
 date: '2022-04-09'
 categories: Protocols
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
@@ -14,7 +14,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 - [Gel ladder GeneRuler 1kb plus DNA Ladder (Thermo FIsher Catalog SM1333)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/SM1333_GeneRuler_1kb_Plus_DNALadder.pdf)       
 - [FERK1071 DREAMTAQ Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/MAN0012702_DreamTaq_K1071_UG.pdf)   
 - [F170S PHIRE TISSUE DIRECT PCR Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/F-170_QR_TS_5_Phire_PCR_Mix.pdf)  
-- [Gelgreen]()
+- [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
 
 
 ## Prepare Reagents
@@ -92,10 +92,9 @@ Aliquot 13.5µl of master mix into each tube
 * The protocol calls for 5 second steps, but the Bento Lab shortest step time is 10seconds
 
 ####Samples
-scraped samples from the coral plug 
+scraped samples from the coral plug **P. acuta before scraping all 3 samples (left) and after (right)**
+![Plug](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220411_plug_sample.png)
 
-
-P. acuta before scraping all 3 samples and after
 
 1: Cl= Clip1 - largest piece ~2mm x 2mm   
 2: C2= Clip2 - piece 1mm x 1mm   
@@ -117,7 +116,7 @@ Ran the gel in 0.25X TAE to reduce heating in the Bento Lab, but gel melting was
 
 The clippings for the coral inhibited the PCR, the only sample that worked for the direct from tissue PCR was the "Clip 4" which was only coral tissue rubbed from the side of the plug with the pipette tip. The chelex sample H1 and the gDNA E5 sample 253 also worked. 
 
-It seems less is more in this case, so this bodes well for taking swabs of the coral DNA from recruitment plates.
+_**It seems less is more in this case, so this bodes well for taking swabs of the coral DNA from recruitment plates.**_
 
 
 
