@@ -11,7 +11,7 @@ Pocillopora ID [Johnston et al 2018 RFLP](https://peerj.com/articles/4355/)
 
 Extraction adapted from SAKH protocol from [Simon et al. (2020) Biology Methods and Protocols, 5, bpaa009](https://academic.oup.com/biomethods/article/5/1/bpaa009/5828218?login=true) 
 
-## Equipment and Reagents
+l
 [Chelex 100 molecular biology grade resin BioRad Cat #1421253](https://www.bio-rad.com/en-us/product/chelex-100-molecular-biology-grade-resin?ID=bd6fd35e-c8ff-4515-9499-8af8ccbb3ca5)   
 Pipettes: 20-200uL single or multichannel, based on your preference  
 Pipette tips: Enough to transfer 100uL of chelex into strip tubes or plate  
