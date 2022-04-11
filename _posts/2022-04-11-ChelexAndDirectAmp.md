@@ -99,7 +99,7 @@ Aliquot 13.5µl of master mix into each tube
 
 1% TAE Gel
 
-![Phire Direct PCR Results](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20220411_DreamTaq_Gel.jpeg?raw=true)
+![Phire Direct PCR Results](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220411_PhireDirectPCR_Gel.jpeg)
 
 
 
