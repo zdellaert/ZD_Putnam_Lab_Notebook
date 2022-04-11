@@ -8,9 +8,12 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 # Testing Chelex-extracted DNA in comparison to direct PCR of tissuefor Pocillopora ID in the field
 
 ## Equipment and Reagents
-BSA	(2mg/ml) Stock (Catalog #)   
+BSA	(2mg/ml) Stock (Catalog #)   Pierce BCA Kit
 F primer FastP6.1	(200µM) Stock (IDT)   
-R primer RORF	(200µM) Stock (IDT)   
+R primer RORF	(200µM) Stock (IDT) 
+[Gel ladder GeneRuler 1kb plus DNA Ladder (Thermo FIsher Catalog SM1333)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/SM1333_GeneRuler_1kb_Plus_DNALadder.pdf)    
+FERK1071 DREAMTAQ Master Mix   
+F170S PHIRE TISSUE DIRECT PCR Master Mix  
 
 ## Prepare Reagents
 - BSA	 diluted to 0.25mg/ml 
