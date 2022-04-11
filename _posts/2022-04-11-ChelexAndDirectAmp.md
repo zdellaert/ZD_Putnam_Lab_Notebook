@@ -27,7 +27,7 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 
 # TESTING mtORF AMPLIFICATION OF CHELEX EXTRACTED DNA FROM 4/9/22
 
-#Dream Taq PCR Master Mix (2x)
+# Dream Taq PCR Master Mix (2x)
 #### Master Mix:
 
 Reagent | 1Rxn µl | 10 Rxn µl |  
