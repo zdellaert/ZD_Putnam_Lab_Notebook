@@ -8,22 +8,25 @@ tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 # Testing Chelex-extracted DNA in comparison to direct PCR of tissue for Pocillopora ID in the field
 
 ## Equipment and Reagents
-- BSA	(2mg/ml) Stock (Catalog #)   Pierce BCA Kit
-- F primer FastP6.1	(200µM) Stock (IDT)   
-- R primer RORF	(200µM) Stock (IDT)    
-- [Gel ladder GeneRuler 1kb plus DNA Ladder (Thermo FIsher Catalog SM1333)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/SM1333_GeneRuler_1kb_Plus_DNALadder.pdf)       
-- [FERK1071 DREAMTAQ Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/MAN0012702_DreamTaq_K1071_UG.pdf)   
-- [F170S PHIRE TISSUE DIRECT PCR Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/F-170_QR_TS_5_Phire_PCR_Mix.pdf)  
-- [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
+- Bento Lab [Bento Lab thermal cycler, gel, centrifuge](https://bento.bio/)
+- BSA	[Thermo Scientific™ Pierce™ Bovine Serum Albumin Standard Ampules, 2mg/ml, Catalog #PI23209](https://www.fishersci.com/shop/products/pierce-bovine-serum-albumin-standards-2/PI23209#?keyword=PI23209)
+- F primer [FatP6.1 200µM Stock IDT)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/Fatp6.1_IDT_Spec_328104852.pdf) 
+- R primer [RORF 200µM Stock IDT](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/RORF_IDT_Spec_328104853.pdf)    
+- Gel ladder [GeneRuler 1kb plus DNA Ladder (Thermo FIsher Catalog SM1333)](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/SM1333_GeneRuler_1kb_Plus_DNALadder.pdf)       
+- Master Mix [FERK1071 DREAMTAQ Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/MAN0012702_DreamTaq_K1071_UG.pdf)   
+- Direct Master Mix [F170S PHIRE TISSUE DIRECT PCR Master Mix](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/F-170_QR_TS_5_Phire_PCR_Mix.pdf)  
+- Gel Stain [Biotium GelGreen Nucleic Acid Gel Stain, 10,000X in Water Fisher Cat NC9728313](https://www.fishersci.com/shop/products/gel-green-stain-5ml/NC9728313#?keyword=NC9728313)
 
 
 ## Prepare Reagents
-- BSA diluted from 2mg/ml to 0.25mg/ml 
-- F primer FastP6.1	(Added 50µl of stock 2mg/ml plus 950µl of DI water and made 3 aliquots of ~320µl each and stored in reagent box at -20)    
-- R primer RORF	(Added 50µl of stock 2mg/ml plus 950µl of DI water and made 3 aliquots of ~320µl each and stored in reagent box at -20)    
+- diluted BSA from 2mg/ml to 0.25mg/ml in Nuclease Free water
+- F primer FastP6.1	(Added 50µl of stock 2mg/ml plus 950µl of Nuclease Free water and made 3 aliquots of ~320µl each and stored in reagent box at -20)    
+- R primer RORF	(Added 50µl of stock 2mg/ml plus 950µl of Nuclease Free water and made 3 aliquots of ~320µl each and stored in reagent box at -20)    
 
+[Chelex DNA Extraction](https://hputnam.github.io/Putnam_Lab_Notebook/Chelex_DNA_Extraction/) was completed on April 9th 2022 and DNA stored at -20°C
 
 # TESTING mtORF AMPLIFICATION OF CHELEX EXTRACTED DNA FROM 4/9/22
+
 #Dream Taq PCR Master Mix (2x)
 ####Master Mix:
 
@@ -61,13 +64,13 @@ Ran the gel in 0.25X TAE to reduce heating in the Bento Lab, but had to move the
 ####Gel Results
 ![DreamTaq PCR Results](https://github.com/hputnam/Putnam_Lab_Notebook/blob/master/images/20220411_DreamTaq_Gel.jpeg?raw=true)
 
-```3 of the 4 coral samples extracted with Chelex amplified the desired band with the mtORF primers along with the positive control```
+_**3 of the 4 coral samples extracted with Chelex amplified the desired band with the mtORF primers along with the positive control**_
 
 
 
 # TESTING mtORF AMPLIFICATION DIRECT FROM CORAL SAMPLES
 
-##Phire Tag Mix Direct PCR
+##Phire Taq Mix Direct PCR
 
 ####Master Mix:  
 
@@ -114,7 +117,7 @@ Ran the gel in 0.25X TAE to reduce heating in the Bento Lab, but gel melting was
 
 ![Phire Direct PCR Results](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220411_PhireDirectPCR_Gel.jpeg)
 
-The clippings for the coral inhibited the PCR, the only sample that worked for the direct from tissue PCR was the "Clip 4" which was only coral tissue rubbed from the side of the plug with the pipette tip. The chelex sample H1 and the gDNA E5 sample 253 also worked. 
+The clippings for the coral inhibited the PCR, the only sample that worked for the direct from tissue PCR was the "Clip 4" which was only coral tissue rubbed on the side of the plug with the pipette tip. The chelex sample H1 and the gDNA E5 sample 253 also worked. 
 
 _**It seems less is more in this case, so this bodes well for taking swabs of the coral DNA from recruitment plates.**_
 
