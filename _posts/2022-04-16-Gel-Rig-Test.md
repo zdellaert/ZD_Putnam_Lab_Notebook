@@ -27,13 +27,13 @@ gelsize:
 - 150ml 2% agarose gel in TAE 
 
 
-#### Gel protocol
+## Gel protocol
 Prepared a 150ml gel using 150ml of 1xTAE + 3.0g Agarose, melted gel for ~3 minues in the microwave and let cool and added 2µl Gelgreen, mixed and poured in the large gel rig. Used the 14 well comb on top and the 28 well comb on the middel of the gel.
 
 Added 4µl of GeneRuler 1kb plus DNA Ladder already containing dye to gel wells
 Mixed 1.5µl of Purple loading dye with 4µl of GeneRuler 100 bp DNA Ladder and added to gel wells
 
-### Samples
+## Samples
 **Top row with 14 wells**   
 Top1 - GeneRuler 1kb plus DNA Ladder   
 Top2 - Empty     
@@ -82,11 +82,13 @@ Bottom28 - GeneRuler 1kb plus DNA Ladder
 
 Ran the gel in 1X TAE at 70V for 75 minutes
 
-#### Gel Results
+## Gel Results
 
 
+### After 40 minutes at 70V 
+![After 40 minutes at 70V](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220416_GelRig_Test.png)
 
 
-
-
+### After 70 minutes at 70V 
+![After 70 minutes at 70V](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220416_GelRig_Test.png)
 
