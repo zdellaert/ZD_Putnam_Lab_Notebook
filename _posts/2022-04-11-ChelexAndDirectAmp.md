@@ -1,7 +1,7 @@
 ---
 layout: post
-title: mtORF PCR Test
-date: '2022-04-09'
+title: Direct mtORF PCR Test
+date: '2022-04-11'
 categories: Protocols
 tags: [DNA, Gel, PCR, Pocillopora, mtORF]
 ---
