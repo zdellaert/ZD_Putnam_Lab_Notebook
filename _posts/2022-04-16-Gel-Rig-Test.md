@@ -86,9 +86,11 @@ Ran the gel in 1X TAE at 70V for 75 minutes
 
 
 ### After 40 minutes at 70V 
-![After 40 minutes at 70V](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220416_GelRig_Test.png)
+![After 40 minutes at 70V](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220416_GelRig_Test_40min.png)
 
 
 ### After 70 minutes at 70V 
-![After 70 minutes at 70V](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220416_GelRig_Test.png)
+![After 70 minutes at 70V](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/20220416_GelRig_Test_70min.png)
+
+## The 2% gel in 1x TAE run for 70 minutes at 70V provides enough resolution for the GeneRuler 100bp standard and thus fragments ranging from 100-1000bp.
 
