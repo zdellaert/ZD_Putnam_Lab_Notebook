@@ -26,6 +26,12 @@ gelsize:
 - 1x TAE
 - 150ml 2% agarose gel in TAE 
 
+## Gel Rig
+Gel Rig Parts ![Parts](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/gel_rig_parts.jpg)
+
+Gel combs ![Parts](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/Gel_wCombs.jpg)
+
+Gel Running ![Parts](https://raw.githubusercontent.com/hputnam/Putnam_Lab_Notebook/master/images/gel_running.jpg)
 
 ## Gel protocol
 Prepared a 150ml gel using 150ml of 1xTAE + 3.0g Agarose, melted gel for ~3 minues in the microwave and let cool and added 2µl Gelgreen, mixed and poured in the large gel rig. Used the 14 well comb on top and the 28 well comb on the middel of the gel.
