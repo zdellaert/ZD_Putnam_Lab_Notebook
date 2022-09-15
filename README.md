@@ -1,3 +1,5 @@
+Electronic lab notebook, forked from https://github.com/hputnam/Putnam_Lab_Notebook
+
 #Open For Science 
 
 I believe the scientific endeavor is best served by transparent and reproducible work. It is my goal to participate in open science and share not only outcomes but process.
