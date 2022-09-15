@@ -33,8 +33,8 @@ Time|Position| Affiliation
 Date|Position| Affiliation
 --|--|--
 2021 |	BSc | University of Chicago
--- | summa cum laude | Advanced track with specialization in Ecology & Evolution
--- | Thesis | One step forward, two steps back: A characterization of the biomineralization of *Astrangia poculata* and the bioerosion caused by its skeletal inhabitants
+- | summa cum laude | Advanced track with specialization in Ecology & Evolution
+- | Thesis | One step forward, two steps back: A characterization of the biomineralization of *Astrangia poculata* and the bioerosion caused by its skeletal inhabitants
 
 ### PUBLICATIONS 
 
@@ -45,7 +45,15 @@ Date|Position| Affiliation
 ### RESEARCH GRANTS
 
 National Science Foundation (NSF) Graduate Research Fellowship (2022)
+
 First-Year Doctoral Fellowship (2022)
+
 Jeff Metcalf Research Fellowship (2020)
-University of Chicago Dean’s Fund for Undergraduate Research (2020) ASLO Undergraduate Travel Award (2019)
-William D. Cohen Endowed Fund for Undergraduate Education (2019) Jeff Metcalf Summer Undergraduate Research Scholarship (2018-2019)
+
+University of Chicago Dean’s Fund for Undergraduate Research (2020)
+
+ASLO Undergraduate Travel Award (2019)
+
+William D. Cohen Endowed Fund for Undergraduate Education (2019)
+
+Jeff Metcalf Summer Undergraduate Research Scholarship (2018-2019)
