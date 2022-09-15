@@ -1,4 +1,4 @@
-Electronic lab norebook, forked from https://github.com/hputnam/Putnam_Lab_Notebook
+Electronic lab notebook, forked from https://github.com/hputnam/Putnam_Lab_Notebook
 
 #Open For Science 
 
