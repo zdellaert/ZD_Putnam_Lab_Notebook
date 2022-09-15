@@ -24,14 +24,14 @@ wwww.putnamlab.com
 ### POSITIONS HELD
 
 Time|Position| Affiliation
---|--|--
-2021 - 22 		| Research Technician | Iliana Baums Lab, Pennsylvania State University
+:---:|:---:|:---:
+2021 - 22| Research Technician | Iliana Baums Lab, Pennsylvania State University
 
 
 ### EDUCATION
 
 Date|Position| Affiliation
---|--|--
+:---:|:---:|:---:
 2021 |	BSc | University of Chicago
 - | summa cum laude | Advanced track with specialization in Ecology & Evolution
 - | Thesis | One step forward, two steps back: A characterization of the biomineralization of *Astrangia poculata* and the bioerosion caused by its skeletal inhabitants
