@@ -43,18 +43,18 @@ Current | **PhD Student, Evolution and Marine Biology** | University of Rhode Is
 
 1. Dellaert Z, Vargas PA, La Riviere PJ, and Roberson LM. (2022) Uncovering the Effects of Symbiosis and Temperature on Coral Calcification. The Biological Bulletin 242:1, 62-73
 	   
-### RESEARCH GRANTS & FELLOWSHIPS
+### RESEARCH GRANTS & FELLOWSHIPS, Total: $227,975
 
-National Science Foundation (NSF) Graduate Research Fellowship (2022-27)
+National Science Foundation (NSF) Graduate Research Fellowship (2022-27), $147,000
 
-University of Rhode Island (URI) First-Year Doctoral Fellowship (2022-24)
+University of Rhode Island (URI) First-Year Doctoral Fellowship (2022-24), $68,000
 
-Jeff Metcalf Research Fellowship (2020)
+Jeff Metcalf Research Fellowship (2020), $4,000
 
-University of Chicago Dean’s Fund for Undergraduate Research (2020)
+University of Chicago Dean’s Fund for Undergraduate Research (2020), $1,405
 
-ASLO Undergraduate Travel Award (2019)
+ASLO Undergraduate Travel Award (2019), $870
 
-William D. Cohen Endowed Fund for Undergraduate Education (2019)
+William D. Cohen Endowed Fund for Undergraduate Education (2019), $1,700
 
-Jeff Metcalf Summer Undergraduate Research Scholarship (2018-2019)
+Jeff Metcalf Summer Undergraduate Research Scholarship (2018-2019), $5,000
