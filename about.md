@@ -34,8 +34,8 @@ Date|Position| Affiliation
 :---:|:---:|:---:
 Current | **PhD Student, Evolution and Marine Biology** | University of Rhode Island, Kingston, RI
 2021 |	**BSc, Biology** | University of Chicago, Chicago, IL
- | *summa cum laude* | Advanced track with specialization in Ecology & Evolution
- | Thesis | One step forward, two steps back: A characterization of the biomineralization of *Astrangia poculata* and the bioerosion caused by its skeletal inhabitants
+| *summa cum laude* | Advanced track with specialization in Ecology & Evolution
+| Thesis | One step forward, two steps back: A characterization of the biomineralization of *Astrangia poculata* and the bioerosion caused by its skeletal inhabitants
 
 ### PUBLICATIONS 
 
