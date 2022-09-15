@@ -42,11 +42,11 @@ Date|Position| Affiliation
 
 1. Dellaert Z, Vargas PA, La Riviere PJ, and Roberson LM. (2022) Uncovering the Effects of Symbiosis and Temperature on Coral Calcification. The Biological Bulletin 242:1, 62-73
 	   
-### RESEARCH GRANTS
+### RESEARCH GRANTS & FELLOWSHIPS
 
-National Science Foundation (NSF) Graduate Research Fellowship (2022)
+National Science Foundation (NSF) Graduate Research Fellowship (2022-27)
 
-First-Year Doctoral Fellowship (2022)
+University of Rhode Island (URI) First-Year Doctoral Fellowship (2022-24)
 
 Jeff Metcalf Research Fellowship (2020)
 
