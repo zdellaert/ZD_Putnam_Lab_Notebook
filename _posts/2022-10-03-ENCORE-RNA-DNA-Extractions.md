@@ -1,10 +1,10 @@
 ---
 layout: post
-title: General Template For Sample Processing Notebook Post
+title: 2022-10-03 ENCORE RNA and DNA Extractions
 category: [ Protocol ]
 ---
 
-# DNA/RNA Extractions for ENCORE Project
+# RNA and DNA Extractions for ENCORE Project
 #### Extraction Date: October 03, 2022
 
 ## [Protocol Link](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol.md)
