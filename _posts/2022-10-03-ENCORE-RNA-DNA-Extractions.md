@@ -15,8 +15,8 @@ tags: DNA, RNA, ENCORE
 ## Samples:
 These samples are part of our "Round A" of processing. We selected 16 samples from the 160 that were representaive of all 4 species at the following 4 temperatures: 16 ºC, 26 ºC, 29 ºC, and 36 ºC. Within each species, the four samples selected for "Round A" all orginated from different colonies (given by the letter after the species ex: for sample Dlab-D1, the colony was colony D and the fragment was fragment 1.)
 
-![22022-10-03-tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-03-tubes.JPG)
-![2022-10-03-caps.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-03-caps.JPG)
+![22022-10-03-tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-03-tubes.JPG?raw=true)
+![2022-10-03-caps.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-03-caps.JPG?raw=true)
 
 ## Notes:
 - Followed [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol.md) exactly. Took 300 uL from each sample tube.
@@ -42,4 +42,4 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 | Past-F4   | *Porites astreoides*        | 16       | 3.26       | 3.14       | 14.4       | 14.4       |
 
 ## DNA and RNA Quality Check: Gel
-![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-03-gel.JPG)
+![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-03-gel.JPG?raw=true)
