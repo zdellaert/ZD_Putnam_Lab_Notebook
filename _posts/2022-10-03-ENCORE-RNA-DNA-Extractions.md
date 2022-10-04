@@ -43,8 +43,4 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 | Past-F4   | *Porites astreoides*        | 16       | 3.26       | 3.14       | 14.4       | 14.4       |
 
 ## DNA and RNA Quality Check: Gel
-<<<<<<< HEAD
 ![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-03-gel.JPG?raw=true)
-=======
-![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-03-gel.JPG)
->>>>>>> 1a0b0aa96fce6bf07b30952106bf02d671c78b07
