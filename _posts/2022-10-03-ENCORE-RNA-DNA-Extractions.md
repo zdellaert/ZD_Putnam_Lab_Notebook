@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2022-10-03 ENCORE RNA and DNA Extractions
-date: '2022-10-03'
+date: '2022-10-03 16:00:00'
 categories: Processing
 tags: [DNA, RNA, ENCORE]
 ---
