@@ -5,6 +5,7 @@ category: [ Protocol ]
 ---
 
 # DNA/RNA Extractions for ENCORE Project
+#### Extraction Date: October 03, 2022
 
 ## [Protocol Link](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol.md)
 
@@ -22,6 +23,12 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 - Sample Past-F4 looked bad at the step where DNA/RNA Lysis buffer was added to the supernatant at [step 6](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol.md). The supernatant from the Proteinase K digestion appeared to be mucous-y and was immiscible with the Lysis buffer. Throughout the RNA extraction, the filter was pigmented and the RNA was pale brown. This might be an example sample to re-extract with only 100 or 150 uL of the DNA/RNA shield from the sample tube.
 
 ## Qubit Results
+ - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+ - All samples read twice, standard only read once
+
+ DNA Standards: 201.70 (S1) & 23899.02 (S2)
+ RNA Standards: 414.70 (S1) & 9890.95 (S2)
+
 | colony_id | Species                     | Temp     | DNA_QBIT_1 | DNA_QBIT_2 | RNA_QBIT_1 | RNA_QBIT_2 |
 |-----------|-----------------------------|----------|------------|------------|------------|------------|
 | Dlab-D1   | *Diploria labyrinthiformis* | 29       | 4.2        | 4.08       | 12.4       | 12.2       |
