@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 2022-10-03 ENCORE RNA and DNA Extractions
-category: [ Protocol ]
+date: '2022-10-03'
+categories: Processing
+tags: DNA RNA
 ---
 
 #### RNA and DNA Extractions for ENCORE Project, Extraction Date: October 03, 2022
