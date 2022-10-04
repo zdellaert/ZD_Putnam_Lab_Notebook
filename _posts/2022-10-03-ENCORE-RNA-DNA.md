@@ -17,7 +17,9 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 ![2022-10-03-caps.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-03-caps.JPG)
 
 ## Notes:
-Sample PAST-F4 looked bad at the step where DNA/RNA Lysis buffer was added to the supernatant at [step 6](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol.md). The supernatant from the Proteinase K digestion appeared to be mucous-y and was immiscible with the Lysis buffer. Throughout the RNA extraction, the filter was pigmented and the RNA was pale brown. This might be an example sample to re-extract with only 100 or 150 uL of the DNA/RNA shield from the sample tube.
+- Followed [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol.md) exactly. Took 300 uL from each sample tube.
+
+- Sample Past-F4 looked bad at the step where DNA/RNA Lysis buffer was added to the supernatant at [step 6](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol.md). The supernatant from the Proteinase K digestion appeared to be mucous-y and was immiscible with the Lysis buffer. Throughout the RNA extraction, the filter was pigmented and the RNA was pale brown. This might be an example sample to re-extract with only 100 or 150 uL of the DNA/RNA shield from the sample tube.
 
 ## Qubit Results
 | colony_id | Species                     | Temp     | DNA_QBIT_1 | DNA_QBIT_2 | RNA_QBIT_1 | RNA_QBIT_2 |
