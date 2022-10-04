@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol
+title: Adult Coral RNA and DNA using the Zymo Quick-DNA/RNA™ Miniprep Plus Kit
 date: '2022-10-03'
 categories: Protocols
 tags: [RNA, DNA, Protocol]
