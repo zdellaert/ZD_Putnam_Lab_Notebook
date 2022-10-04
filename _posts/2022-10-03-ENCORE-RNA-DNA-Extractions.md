@@ -44,3 +44,5 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 
 ## DNA and RNA Quality Check: Gel
 ![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-03-gel.JPG?raw=true)
+
+![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/adc210da0fd01e915035c1bffb7b8bbff797a232/images/gels/2022-10-03-gel.JPG)
