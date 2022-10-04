@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zymo_Quick_DNA_RNA_Miniprep_Plus_Protocol
-date: '2022-10-04'
+date: '2022-10-03'
 categories: Protocols
 tags: [RNA, DNA, Protocol]
 published: T
