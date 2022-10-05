@@ -30,7 +30,7 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
  DNA Standards: 201.70 (S1) & 23899.02 (S2)
  RNA Standards: 414.70 (S1) & 9890.95 (S2)
 
-| colony_id | Species                     | Temp     | DNA_QBIT_1 | DNA_QBIT_2 | RNA_QBIT_1 | RNA_QBIT_2 |
+| **colony_id** | **Species**                     | **Temp**     | **DNA_QBIT_1** | **DNA_QBIT_2** | **RNA_QBIT_1** | **RNA_QBIT_2** |
 |-----------|-----------------------------|----------|------------|------------|------------|------------|
 | Dlab-D1   | *Diploria labyrinthiformis* | 29       | 4.2        | 4.08       | 12.4       | 12.2       |
 | Dlab-F6   | *Diploria labyrinthiformis* | 26       | 2.2        | 2.14       | nd         | nd         |
