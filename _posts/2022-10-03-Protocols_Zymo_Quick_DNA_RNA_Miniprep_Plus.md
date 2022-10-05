@@ -37,7 +37,7 @@ Clean bench with clean paper towels (spray solution, wipe down) in the following
 Clean pipettes, tip boxes, and the controls on the heating block and centrifuge by squirting 70% ethanol on a paper towel and wiping them down. Repeat with RNAse cleaner. Wipe down gloves with 70% ethanol and RNAse cleaner. Do not spray solutions directly on the equipment.
 
 ## Sample preparation: Adult Fragment Tissue Sample in Zymo DNA/RNA Shield
-  This protocol utilizes coral clippings stored in 1mL of [Zymo DNA/RNA shield](https://www.zymoresearch.com/products/dna-rna-shield) and kept at -80 ºC. Thaw samples to room temperature on benchtop. On a clean work surface (see above), stand up the tubes in numerical order and photograph to record qualitative quailities such as buffer color and amount of tissue in tube.
+  This protocol utilizes coral clippings stored in 1mL of [Zymo DNA/RNA shield](https://www.zymoresearch.com/products/dna-rna-shield) and kept at -80 ºC. Thaw samples to room temperature on benchtop. On a clean work surface (see above), stand up the tubes in numerical order and photograph to record qualitative qualities such as buffer color and amount of tissue in tube.
 
 ### Notes on sample preparation
   This protocol will start by taking 300 uL of the DNA/RNA shield from the sample tube into a clean 1.5 mL tube and performing a Proteinase K digestion in a new tube. However, there are several adjustments that can be made at this step. 
@@ -47,7 +47,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 # Protocol Steps
 
 ### Proteinase K Digestion  
- - On a clean work surface (see above), stand up the tubes in numerical order and photograph to record qualitative quailities such as buffer color and amount of tissue in tube.
+ - On a clean work surface (see above), stand up the tubes in numerical order and photograph to record qualitative qualities such as buffer color and amount of tissue in tube.
  - Label a clean 1.5 mL microcentrifuge tube for each sample with sample number. This is a temporary tube, so you can use a shortened version of the sample number if desired. Make sure your labeling is clear. Ethanol is used in this protocol and can very easily rub off permanent marker writing on tubes.
 
 1. Invert all sample tubes 3 times to mix buffer well before pipetting out supernatant.
@@ -65,7 +65,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 - Set up a waste beaker for liquid Zymo Kit waste. This will be disposed of in the waste disposal area in the collection container for Zymo Kit Liquid Waste.
 
 5. After the digestion, Invert/flick to mix tubes and centrifuge at 9,000 rcf for 3 minutes to pellet. Spin tubes with hinges facing out so pellet will form along the wall with the hinge.
-    - Note on centrifuging: Depending on the centrifuge settings, it will count down time from when you press start or from when it reaches the desired speed. Ours counts down when you press start, so we add 30s to each spin as written to account for the time to get up to speed. Here, I would spin for 3 mins, 30s.
+    - Note on centrifugation: Depending on the centrifuge settings, it will count down time from when you press start or from when it reaches the desired speed. Ours counts down when you press start, so we add 30s to each spin as written to account for the time to get up to speed. Here, I would spin for 3 mins, 30s.
 6. Transfer all supernatant to a new, clean 1.5 mL microcentrifuge tube. Be careful to not disturb pellet.
     - Add: **345 uL** (should be a 1:1 ratio with supernatant volume) of **DNA/RNA Lysis Buffer**
     - Mix these two solutions by pipetting up and down inside the tube.
@@ -85,7 +85,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 10. Same as above: Add: **700 uL** of **DNA/RNA *Wash* Buffer**
     - Centrifuge at 15,000 rcf for 30 seconds and discard flow through in waste beaker.
 11. Dry filter by centrifuging at 15,000 rcf for 2 minutes.
-12. Discard collection tube and transfer the yellow DNA column to the final, labelled DNA tube.
+12. Discard collection tube and transfer the yellow DNA column to the final, labeled DNA tube.
     - Add: **50 uL** of warmed Tris buffer **gently, directly onto the filter without touching the filter**. (Elution)
     - Incubate for 5 minutes at room temperature.
     - Centrifuge at 15,000 rcf for 30 seconds.
@@ -126,7 +126,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 22. Same as above: Add: **700 uL** of **DNA/RNA *Wash* Buffer**
     - Centrifuge at 15,000 rcf for 30 seconds and discard flow through in waste beaker.
 23. Dry filter by centrifuging at 15,000 rcf for 2 minutes.
-24. Discard collection tube and transfer the green RNA column to the final, labelled RNA tube.
+24. Discard collection tube and transfer the green RNA column to the final, labeled RNA tube.
     - Add: **50 uL** of RNAse/DNAse free water (provided in kit) **gently, directly onto the filter without touching the filter**. (Elution)
     - Incubate for 2 minutes at room temperature.
     - Centrifuge at 15,000 rcf for 30 seconds.
@@ -138,7 +138,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 These steps analyze the quantity and quality of the DNA/RNA extracted. 
 
 ## RNA/DNA Quantity  
-Follow Broad Range dsDNA and RNA Qubit [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/) to analyze sample ++quantity++. Read standards once and record values, read all samples twice.
+Follow Broad Range dsDNA and RNA Qubit [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
 
 ## DNA Quality  
 If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
@@ -151,7 +151,7 @@ If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel 
     - Add 0.75g of agarose and 50ml of 1x TAE ("New" container) to flask
     - Microwave for 45 seconds and remove from microwave using heat-protective glove.
  - Once cool enough to hold from the bottom of the flask, add 1 uL of gel green stain.
- - Swirl and pour into gel mould with two 14-well combs.
+ - Swirl and pour into gel mold with two 14-well combs.
  - Once solidified (~30 minutes), cover with 1X TAE ("Used" container) as a running buffer
  - To each of the samples in the QC strip tubes (after Qubiting you should have about ~9 uL left),
     - Add 1uL of purple Tri-Track loading dye into each PCR tube, spin down to mix.
