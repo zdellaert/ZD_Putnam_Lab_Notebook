@@ -41,5 +41,5 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 | Past-D7   | *Porites astreoides*        | 36       | 2.34       | 2.24       | nd         | nd         |
 | Past-F4   | *Porites astreoides*        | 16       | 3.26       | 3.14       | 14.4       | 14.4       |
 
-## DNA and RNA Quality Check: Gel
+## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 ![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-03-gel.JPG?raw=true)
