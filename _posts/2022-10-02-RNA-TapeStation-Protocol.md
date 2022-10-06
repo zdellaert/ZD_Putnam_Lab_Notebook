@@ -22,7 +22,7 @@ tags: [RNA, Protocol]
 8. Add 1µl of each sample to each sample tube
 
 Ex:
-![Tubes Ex](https://https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_tubes.JPG?raw=true)
+![Tubes Ex](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_tubes.JPG?raw=true)
 
 9. Put on tube caps and vortex for 1 minute in IKA vortexer
 10. Spin down tubes
@@ -50,9 +50,9 @@ Ex:
 26. Look for the RIN score to determine quality of the RNA, there should be either 2 (most organisms) or 1 (mollusks) clear peaks. Gradations between the two and below the last one indicate degradation of the RNA
 27. These are two high quality RNA TapeStations, the first is a coral, and the second is an oyster (only 1 peak)  
 
-![](https://https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_2.JPG?raw=true)
+![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_2.JPG?raw=true)
 
-![](https://https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_1.JPG?raw=true)
+![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_1.JPG?raw=true)
 
 28. To save the file, go to File > Create Report. Save the pdf to your folder or your lab folder. You can then email the pdf to yourself
 29. When finished, close the Analysis and Controller software

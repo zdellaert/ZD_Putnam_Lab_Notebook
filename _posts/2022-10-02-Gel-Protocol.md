@@ -44,6 +44,6 @@ For a 1% gel:
 28.	Wipe the imager with a Kimwipe and DI type II water
 
 29. An extra step can be to annotate your gel image ex:
-![gel](https://https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/gel-4-18-19.JPG?raw=true)
+![gel](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/gel-4-18-19.JPG?raw=true)
 
 This can easily be done in something as simple as google slides
