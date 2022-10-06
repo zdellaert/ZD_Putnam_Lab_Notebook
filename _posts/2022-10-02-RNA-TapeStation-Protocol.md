@@ -8,6 +8,8 @@ tags: [RNA, Protocol]
 
 ## Agilent [Tape Station 4200](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-instruments/4200-tapestation-system-228263)
 
+#### This protocol was written by [Maggie Schedl](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) for the Putnam, Prada, and Puritz labs. 
+
 ### Setup
 
 1. Take RNA Tape and buffer out of fridge 30 minutes beforehand to allow it to equilibrate to room temperature. Tapes should be labeled with how many spots are left, you will always need 1 spot for a ladder. You can also look at the tape and see how many channels have a hole in the top, that means they are used
@@ -50,9 +52,9 @@ Ex:
 26. Look for the RIN score to determine quality of the RNA, there should be either 2 (most organisms) or 1 (mollusks) clear peaks. Gradations between the two and below the last one indicate degradation of the RNA
 27. These are two high quality RNA TapeStations, the first is a coral, and the second is an oyster (only 1 peak)  
 
-![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_2.JPG?raw=true)
-
 ![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_1.JPG?raw=true)
+
+![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/tapestation_2.JPG?raw=true)
 
 28. To save the file, go to File > Create Report. Save the pdf to your folder or your lab folder. You can then email the pdf to yourself
 29. When finished, close the Analysis and Controller software
