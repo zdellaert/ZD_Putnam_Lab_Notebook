@@ -135,14 +135,14 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 These steps analyze the quantity and quality of the DNA/RNA extracted. 
 
 ## RNA/DNA Quantity  
-Follow Broad Range dsDNA and RNA Qubit [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
+Follow Broad Range dsDNA and RNA Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
 
 ## DNA Quality  
-If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
+If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
 
 ## Gel protocol for both DNA and RNA Quality (From [Kristina Terpis](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/_posts/2021-10-08-20211008-RNA-DNA-extractions-from-E5-project.md)).
 
- - Modified from this [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
+ - Modified from this [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/)
  - Set up small gel box and insert gel tray into the box with rubber gaskets touching the long side of the gel box. Make sure gaskets form a flush seal.
  - Make a thin 1.5% gel:
     - Add 0.75g of agarose and 50ml of 1x TAE ("New" container) to flask
@@ -160,4 +160,4 @@ If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel 
     - "Good" RNA should form two distinct bands at the 18S and 28S locations about halfway down the lane.
 
 ## RNA Quality  
-Proceed to this step if RNA does not appear clean on the gel. If RNA quantity is sufficient follow the Tape Station [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) to determine RNA quality and obtain a RNA Integrity Number (RIN). "Good" RNA should have a RIN above 8.0 and form two distinct peaks at the 18S and 28S locations.
+Proceed to this step if RNA does not appear clean on the gel. If RNA quantity is sufficient follow the Tape Station [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/RNA-TapeStation-Protocol/) to determine RNA quality and obtain a RNA Integrity Number (RIN). "Good" RNA should have a RIN above 8.0 and form two distinct peaks at the 18S and 28S locations.
