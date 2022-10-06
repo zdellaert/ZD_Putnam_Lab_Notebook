@@ -6,7 +6,7 @@ categories: Protocols
 tags: [RNA, Protocol]
 ---
 
-## Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds)
+## Agilent [Tape Station 4200](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-instruments/4200-tapestation-system-228263)
 
 ### Setup
 
