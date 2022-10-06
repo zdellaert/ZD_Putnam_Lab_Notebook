@@ -48,3 +48,21 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 ![2022-10-05-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-05-gel.JPG?raw=true)
+
+
+## Next steps:
+
+I will talk to Hollie and Kristina about next steps for the PAST samples. Currently, I am thinking of bead beating the fragments in the tube in a bead tube with fresh DNA/RNA sheild following [Kevin Wong's protocol](https://kevinhwong1.github.io/KevinHWong_Notebook/20201027-DNA-RNA-Extractions-Porites-July-Bleaching-Experiment/) here:
+
+Sample Preparation and Digestion
+> > 1. Add 0.25 mL of glass beads (0.5mm) and add 500 μl of RNA/DNA shield into each empty centrifuge tube.
+> > 2. Take samples out from -80 °C on dry ice.
+> > 3. Using sterile clippers, add 0.25mm of tissue into the centrifuge tube with beads and RNA/DNA shield.
+> > 4. Vortex at max speed for 2 minutes.
+> > 5. Remove 400 μl of the supernatant and transfer to a new centrifuge tube.
+> > 6. Centrifuge at 9000 rcf for 3 minutes.
+> > 7. Transfer 300 μl supernatant to a new centrifuge tube and discard the pellet.
+> > 8. Add 30 μl of Proteinase K digestion buffer (10:1 ratio of sample:digestion buffer), and 15 μl of Proteinase K (2:1 ratio of digestion buffer:Proteinase K) to each sample.
+> > 9. Vortex and spin down.
+> > 10. Add 345 μl of lysis buffer.
+> > 11. Continue with DNA and RNA extraction protocol

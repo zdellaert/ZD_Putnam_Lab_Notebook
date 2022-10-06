@@ -44,3 +44,7 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 ![2022-10-03-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-03-gel.JPG?raw=true)
+
+## Next steps:
+
+I will try to re-extract the two PAST samples, this time taking only 150 uL of the DNA/RNA shield from the sample tube and diluting this with another 150 uL prior to the Proteinase K digestion.
