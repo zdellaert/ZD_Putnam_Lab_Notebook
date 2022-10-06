@@ -29,20 +29,34 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
  - All samples read twice, standard only read once
 
  DNA Standards: 198.66 (S1) & 24171.04 (S2)
+
+| colony_id | Species                     | Temp.Cat | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|-----------------------------|----------|------------|------------|--------------|
+| Dlab-A4   | *Diploria labyrinthiformis* | 16       | 5.28       | 5.08       | 5.18         |
+| Dlab-C7   | *Diploria labyrinthiformis* | 36       | 10.1       | 9.92       | 10.01        |
+| Mcav-E6   | *Montastraea cavernosa*     | 26       | 4.96       | 4.8        | 4.88         |
+| Mcav-F7   | *Montastraea cavernosa*     | 36       | 12.9       | 12.8       | 12.85        |
+| Mdec-D4   | *Madracis decactis*         | 16       | 5          | 4.78       | 4.89         |
+| Mdec-E1   | *Madracis decactis*         | 29       | 8.06       | 8.02       | 8.04         |
+| Past-A1   | *Porites astreoides*        | 29       | nd         | nd         | 0            |
+| Past-B6   | *Porites astreoides*        | 26       | nd         | nd         | 0            |
+| Past-D7   | *Porites astreoides*        | 36       | nd         | nd         | 0            |
+| Past-F4   | *Porites astreoides*        | 16       | nd         | nd         | 0            |
+
  RNA Standards: 412.67 (S1) & 9635.27 (S2)
 
-| **colony_id** | **Species**                   | **Temp.Cat** | **DNA_QBIT_1** | **DNA_QBIT_2** | **DNA_QBIT_AVG** | **RNA_QBIT_1** | **RNA_QBIT_2** | **RNA_QBIT_AVG** |
-|-----------|---------------------------|----------|------------|------------|--------------|------------|------------|--------------|
-| Dlab-A4   | *Diploria labyrinthiformis* | 16       | 5.28       | 5.08       | 5.18         | 13.6       | 13.4       | 13.5         |
-| Dlab-C7   | *Diploria labyrinthiformis* | 36       | 10.1       | 9.92       | 10.01        | 11.2       | 10.2       | 10.7         |
-| Mcav-E6   | *Montastraea cavernosa*     | 26       | 4.96       | 4.8        | 4.88         | 11.8       | 11.4       | 11.6         |
-| Mcav-F7   | *Montastraea cavernosa*     | 36       | 12.9       | 12.8       | 12.85        | 10.6       | 10.4       | 10.5         |
-| Mdec-D4   | *Madracis decactis*         | 16       | 5          | 4.78       | 4.89         | 12.8       | 12.6       | 12.7         |
-| Mdec-E1   | *Madracis decactis*         | 29       | 8.06       | 8.02       | 8.04         | 22.2       | 21.8       | 22           |
-| Past-A1   | *Porites astreoides*        | 29       | nd         | nd         | 0            | 12.4       | 12         | 12.2         |
-| Past-B6   | *Porites astreoides*        | 26       | nd         | nd         | 0            | nd         | nd         | 0            |
-| Past-D7   | *Porites astreoides*        | 36       | nd         | nd         | 0            | nd         | nd         | 0            |
-| Past-F4   | *Porites astreoides*        | 16       | nd         | nd         | 0            | nd         | nd         | 0            |
+| colony_id | Species                     | Temp.Cat | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|-----------------------------|----------|------------|------------|--------------|
+| Dlab-A4   | *Diploria labyrinthiformis* | 16       | 13.6       | 13.4       | 13.5         |
+| Dlab-C7   | *Diploria labyrinthiformis* | 36       | 11.2       | 10.2       | 10.7         |
+| Mcav-E6   | *Montastraea cavernosa*     | 26       | 11.8       | 11.4       | 11.6         |
+| Mcav-F7   | *Montastraea cavernosa*     | 36       | 10.6       | 10.4       | 10.5         |
+| Mdec-D4   | *Madracis decactis*         | 16       | 12.8       | 12.6       | 12.7         |
+| Mdec-E1   | *Madracis decactis*         | 29       | 22.2       | 21.8       | 22           |
+| Past-A1   | *Porites astreoides*        | 29       | 12.4       | 12         | 12.2         |
+| Past-B6   | *Porites astreoides*        | 26       | nd         | nd         | 0            |
+| Past-D7   | *Porites astreoides*        | 36       | nd         | nd         | 0            |
+| Past-F4   | *Porites astreoides*        | 16       | nd         | nd         | 0            |
 
 
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
