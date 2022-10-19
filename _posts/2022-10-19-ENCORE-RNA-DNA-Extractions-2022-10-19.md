@@ -38,7 +38,7 @@ Testing different extraction methods for PAST samples.
 
 ## Notes
 
-- Followed [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly. Took 300 uL from the sample tubes for all species except for *Porites astreoides* (PAST).
+- Followed [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly.
 
 - I did two extractions per tube. For one, of those extractions, I took 100 uL of the DNA/RNA shield from the sample tube and added 200 uL of clean DNA/RNA shield before proceeding with the extraction as written.
 
