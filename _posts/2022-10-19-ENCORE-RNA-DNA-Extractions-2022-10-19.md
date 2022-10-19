@@ -44,7 +44,7 @@ Testing different extraction methods for PAST samples.
 
 - For the second extraction, I followed Kevin's bead-beating protocol as written at the end of my [last notebook entry](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2022-10-17/). I added 0.25 mL of glass 0.5mm beads to a clean screw-top 1.5 mL tube and added 200 of the sample DNA/RNA shield with 200 of clean DNA/RNA shield. Then, I bead-beat using a vortexer on high speed for 2 minutes. Then, I removed 400 uL of the supernatant (to achieve this, I needed to add another 100 uL of clean DNA/RNA shield, so in the future I will add 300 uL of clean DNA/RNA shield at the beginning instead of 200 uL) into a clean 1.5 mL tube and spun down at 9,000 rcf for 3 minutes. Then, I removed 300 uL of the supernatant into a clean tube and proceeded with the ProK digestion as written in the protocol.
 
-- Throughout the RNA extraction, the filters of two bead-bead samples were pigmented.
+- Throughout the RNA extraction, the filters of two bead-beat samples were pigmented. So were the final RNA for those tubes.
 
 ## Qubit Results
 
