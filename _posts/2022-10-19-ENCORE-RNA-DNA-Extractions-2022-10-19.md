@@ -82,7 +82,7 @@ Testing different extraction methods for PAST samples.
 - RNA is still pigmented, especially from the bead-beat samples which also had colored RNA filters. Maybe bead-beating is still an option with less of the sample DNA/RNA shield.
 
 Here is an image of the two PAST-A6 final RNA tubes, with the bead-beat sample on the right.
-![2022-10-19-RNA-A6.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-19-RNA-A6.JPG?raw=true)
+![2022-10-19-RNA-A6.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-19-RNA-A6.JPG?raw=true)
 
 Here is an image of the two PAST-C1 final RNA tubes, with the bead-beat sample on the right.
-![2022-10-19-RNA-C1.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-19-RNA-C1.JPG?raw=true)
+![2022-10-19-RNA-C1.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-19-RNA-C1.JPG?raw=true)
