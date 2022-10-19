@@ -77,7 +77,7 @@ Testing different extraction methods for PAST samples.
 
 - As mentioned in the "Notes" section above, if I bead-beat again I will use 300 uL of clean DNA/RNA shield (or a different combination of clean and sample DNA/RNA shield) to achieve a final volume of 500 uL in the bead-beating tube.
 
-- I am still disappointed by the quantity of RNA... 
+- I am still disappointed by the quantity and quality of RNA... Next will try to heat the sample during ProK digestion to 55 ºC for 2-3 hours, as used in [Erin E. Chille's protocol.](https://echille.github.io/E.-Chille-Open-Lab-Notebook/Protocol-for-DNA-RNA-Extractions-of-Montipora-Coral-Larvae-Using-Zymo-Duet-Extraction-Kit/)
 
 - RNA is still pigmented, especially from the bead-beat samples which also had colored RNA filters. Maybe bead-beating is still an option with less of the sample DNA/RNA shield.
 
