@@ -10,25 +10,28 @@ tags: [DNA, RNA, ENCORE]
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-### Extraction of 10 samples from ENCORE Project. These samples were collected in Bermuda in August 2022 for the ENCORE TPC project. There are 160 samples total from the following 4 species: *Diploria labyrinthiformis* (DLAB), *Montastraea cavernosa* (MCAV), *Madracis decactis* (MDEC), and *Porites astreoides* (PAST).
+### Extraction of 10 samples from ENCORE Project. These samples were collected in Bermuda in August 2022 for the ENCORE TPC project. There are 160 samples total from the following 4 species: *Diploria labyrinthiformis* (DLAB), *Montastraea cavernosa* (MCAV), *Madracis decactis* (MDEC), and *Porites astreoides* (PAST)
 
-## Samples:
+## Samples
+
 These samples are part of our "Round A" of processing. We selected 16 samples from the 160 that were representative of all 4 species at the following 4 temperatures: 16 ºC, 26 ºC, 29 ºC, and 36 ºC. Within each species, the four samples selected for "Round A" all originated from different colonies (given by the letter after the species. For example, for sample Dlab-D1, the colony was colony D and the fragment was fragment 1.) Today, I extracted the remaining 8/16 after the [2022-10-03 extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2022-10-03/) as well as re-extracting the two *Porites astreoides* (PAST) samples from that date that were unsuccessfully extracted (Past-D7 and Past-F4).
 
 ![22022-10-05-tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-05-tubes.JPG?raw=true)
 ![2022-10-05-caps.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-10-05-caps.JPG?raw=true)
 
-## Notes:
+## Notes
+
 - Followed [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly. Took 300 uL from the sample tubes for all species except for *Porites astreoides* (PAST). For *Porites astreoides* (PAST), I took 150 uL of the DNA/RNA shield from the sample tube and added 150 uL of clean DNA/RNA shield before proceeding with the extraction as written.
 
 - I had to centrifuge the PAST samples **Past-A1 and Past-B6** multiple times to successfully pellet the debris after the Proteinase K digestion. I found that using a P200 pipette set to 200 uL was the easiest way to remove the supernatant without disturbing the very loose pellets from the PAST samples.
 - Throughout the RNA extraction, the filters of all the PAST samples were pigmented. Past-A1 had the most pigmented RNA filter column. At the end of the extractio the RNA from samples **Past-A1 and Past-F4** were pale brown.
 
 ## Qubit Results
- - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
- - All samples read twice, standard only read once
 
- DNA Standards: 198.66 (S1) & 24171.04 (S2)
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+DNA Standards: 198.66 (S1) & 24171.04 (S2)
 
 | colony_id | Species                     | Temp.Cat | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
 |-----------|-----------------------------|----------|------------|------------|--------------|
@@ -58,17 +61,16 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 | Past-D7   | *Porites astreoides*        | 36       | nd         | nd         | 0            |
 | Past-F4   | *Porites astreoides*        | 16       | nd         | nd         | 0            |
 
-
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 ![2022-10-05-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-05-gel.JPG?raw=true)
 
-
-## Next steps:
+## Next steps
 
 I will talk to Hollie and Kristina about next steps for the PAST samples. Currently, I am thinking of bead beating the fragments in the tube in a bead tube with fresh DNA/RNA shield following [Kevin Wong's protocol](https://kevinhwong1.github.io/KevinHWong_Notebook/20201027-DNA-RNA-Extractions-Porites-July-Bleaching-Experiment/) here:
 
 > Sample Preparation and Digestion
+>
 > 1. Add 0.25 mL of glass beads (0.5mm) and add 500 μl of RNA/DNA shield into each empty centrifuge tube.
 > 2. Take samples out from -80 °C on dry ice.
 > 3. Using sterile clippers, add 0.25mm of tissue into the centrifuge tube with beads and RNA/DNA shield.
