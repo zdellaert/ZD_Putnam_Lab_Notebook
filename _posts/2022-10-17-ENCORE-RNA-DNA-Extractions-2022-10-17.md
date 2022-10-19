@@ -49,6 +49,7 @@ Continuing on with the rest of the ENCORE extractions.
 | Past-F5   | *Porites astreoides*        | 22       | nd         | nd         | 0            |
 
  RNA Standards: 412.01 (S1) & 9743.89 (S2)
+ 
 | colony_id | Species                     | Temp.Cat | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|-----------------------------|----------|------------|------------|--------------|
 | Dlab-A5   | *Diploria labyrinthiformis* | 22       | nd         | nd         | 0            |
