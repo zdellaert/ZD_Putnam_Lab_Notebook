@@ -79,3 +79,5 @@ Testing different extraction methods for PAST samples.
 ![2022-10-21-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-10-21-gel.JPG?raw=true)
 
 ## Next steps
+
+OKay. Qubit RNA looks bad, but there are bands for C6, bead-beat!!! So, maybe next I will try to stick with bead-beating but with even *less* DNA/RNA shield from the sample tube added. Maybe by just beating the fragment with clean DNA/RNA shield this will further reduce the mucus that enters the extraction.
