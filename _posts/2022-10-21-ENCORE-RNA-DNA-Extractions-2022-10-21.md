@@ -24,7 +24,7 @@ Testing different extraction methods for PAST samples.
 > 1. Add 0.25 mL of glass beads (0.5mm) and add 500 μl of RNA/DNA shield into each empty centrifuge tube.
 > 2. Take samples out from -80 °C on dry ice.
 > 3. Using sterile clippers, add 0.25mm of tissue into the centrifuge tube with beads and RNA/DNA shield.
-    **> - Add 200 uL of the sample DNA/RNA shield to the tube**
+>    **- Add 200 uL of the sample DNA/RNA shield to the tube**
 > 4. Vortex at max speed for 2 minutes.
 > 5. Remove 400 μl of the supernatant and transfer to a new centrifuge tube.
 > 6. Centrifuge at 9000 rcf for 3 minutes.
