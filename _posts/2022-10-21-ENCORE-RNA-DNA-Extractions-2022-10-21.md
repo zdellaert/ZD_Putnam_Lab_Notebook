@@ -46,7 +46,7 @@ Testing different extraction methods for PAST samples.
 
 - The heated to 55 ºC extraction for PAST-D1 had issues:
 
-  - The pellet was very loose after spinning down after the ProK/heating step. 
+  - The pellet was very loose after spinning down after the ProK/heating step.
   - The supernatant was still very viscous here, and was not mixing well with the lysis buffer.
   - The RNA filter was pigmented throughout the extraction.
   - The RNA was pigmented at the end of the extraction.
@@ -81,5 +81,3 @@ Testing different extraction methods for PAST samples.
 ## Next steps
 
 OKay. Qubit RNA looks bad, but there are bands for C6, bead-beat!!! So, maybe next I will try to stick with bead-beating but with even *less* DNA/RNA shield from the sample tube added. Maybe by just beating the fragment with clean DNA/RNA shield this will further reduce the mucus that enters the extraction.
-
-According to Kevin, 55ºC heating is not recommended by Zymo anymore, so I will no longer be trying to optimize that step.

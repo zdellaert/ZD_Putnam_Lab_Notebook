@@ -66,8 +66,11 @@ Today I am trying to homogenize the sample by bead-beating using [Kevin Wong's p
 
 ## Next steps
 
-Yay. Still not working! Next: I will try to bead-beat in lysis buffer instead of DNA/RNA shield. This might work???
+Yay. Still not working!
 
-Basing this off of the [Zymo Quick RNA protocol](https://files.zymoresearch.com/protocols/_r1054_r1055_quick-rna_miniprep_kit.pdf) (as opposed to the Quick DNA/RNA protocol) which suggests homogenizing tissue in Lysis buffer. I will take fragments out of the DNA/RNA shield, submerge in lysis buffer + beads, and then bead beat? Then will take 400 uL of the supernatant and skip the Pro K digestion.
+Some posibilities that are totally different approaches instead of tiny tweaks
 
-**Alternatively, I could also increase the amount of lysis buffer. Instead of 1:1, I could do add 500 ul to the 345 uL of sample + proK mixture.**
+- bead-beat in lysis buffer instead of DNA/RNA shield
+  - Basing this off of the [Zymo Quick RNA protocol](https://files.zymoresearch.com/protocols/_r1054_r1055_quick-rna_miniprep_kit.pdf) (as opposed to the Quick DNA/RNA protocol) which suggests homogenizing tissue in Lysis buffer. I will take fragments out of the DNA/RNA shield, submerge in lysis buffer + beads, and then bead beat? Then will take 400 uL of the supernatant and skip the Pro K digestion.
+- **Alternatively, I could also increase the amount of lysis buffer. Instead of 1:1, I could do add 500 ul to the 345 uL of sample + proK mixture.**
+- According to Kevin, 55ºC heating is not recommended by Zymo anymore, so I will no longer be trying to optimize that step. Kevin recommends optimizing the centrifugation after ProK digestion to remove symbiont cells.
