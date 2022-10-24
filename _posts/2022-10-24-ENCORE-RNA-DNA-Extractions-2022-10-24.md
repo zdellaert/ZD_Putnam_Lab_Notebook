@@ -44,23 +44,21 @@ Today I am trying to homogenize the sample by bead-beating using [Kevin Wong's p
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
- DNA Standards: 189.15 (S1) & 23503.13 (S2)
+ DNA Standards: 189.35 (S1) & 23403.63 (S2)
 
-| colony_id | Species                         | Temp.Cat | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
-|-----------|---------------------------------|----------|------------|------------|--------------|
-| Past-C6, heated      | *Porites astreoides* | 26       | nd         | nd         | 0            |
-| Past-C6, bead-beat   | *Porites astreoides* | 26       | 3.00       | 2.92       | 2.96         |
-| Past-D1, heated      | *Porites astreoides* | 29       | 2.18       | 2.08       | 2.13         |
-| Past-D1, bead-beat   | *Porites astreoides* | 29       | 7.98       | 7.80       | 7.89         |
+| colony_id | Species              | Temp.Cat | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|--------------------- |----------|------------|------------|--------------|
+| Past-A5   | *Porites astreoides* | 22       | 5.06       | 4.88       | 4.97         |
+| Past-E2   | *Porites astreoides* | 40       | 10.5       | 10.2       | 10.35        |
+| Past-F6   | *Porites astreoides* | 26       | 5.88       | 5.74       | 5.81         |
 
- RNA Standards: 417.59 (S1) & 9757.72 (S2)
+ RNA Standards: 419.78 (S1) & 9776.84 (S2)
 
-| colony_id            | Species              | Temp.Cat | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
-|----------------------|----------------------|----------|------------|------------|--------------|
-| Past-C6, heated      | *Porites astreoides* | 26       | nd         | nd         | 0            |
-| Past-C6, bead-beat   | *Porites astreoides* | 26       | nd         | nd         | 0            |
-| Past-D1, heated      | *Porites astreoides* | 29       | nd         | nd         | 0            |
-| Past-D1, bead-beat   | *Porites astreoides* | 29       | nd         | nd         | 0            |
+| colony_id | Species              | Temp.Cat | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|----------------------|----------|------------|------------|--------------|
+| Past-A5   | *Porites astreoides* | 22       | nd         | nd         | 0            |
+| Past-E2   | *Porites astreoides* | 40       | nd         | nd         | 0            |
+| Past-F6   | *Porites astreoides* | 26       | nd         | nd         | 0            |
 
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
