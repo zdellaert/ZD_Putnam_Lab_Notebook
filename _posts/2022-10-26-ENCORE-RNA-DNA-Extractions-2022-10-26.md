@@ -21,11 +21,15 @@ tags: [DNA, RNA, ENCORE]
 
 Today I tried 3 different methods with the hope of narrowing in on the problem with the Porites. I am no longer trying the 55 ºC heating step during the proteinase K digestion as discussed in my "Next Steps" section in my [last extraction post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2022-10-24/). I am also trying today to elute in 50 uL of RNAse free water instead of 100 uL to try to bump up the concentration of RNA in case it is there and we just can't see it on the gel. In this case, I re-apply the 50 uL from the first elution to the membrane for a second elution instead of adding another clean 50 uL of DNAse/RNAse free water.
 
-- Protocol 1 (Bead-beat, or BB): Bead-beating with 750 uL of clean DNA/RNA shield. To a tube with 750 uL of DNA/RNA shield and ~0.2 mL of 0.5 mm glass beads, I add the fragment from the tube with sterilized forceps. Bead beat for 2 minutes. Briefly spin down and remove 400 uL of the supernatant to a clean tube. Spin this at 12,000 rcf for 3 minutes and then remove 300 uL of the supernatant to a clean tube. Proceed with proK digestion and extraction as descibed in the protocol linked below.
+- ***Protocol 1 (Bead-beat, or BB)***: **Bead-beating with 750 uL of clean DNA/RNA shield**. To a tube with 750 uL of DNA/RNA shield and ~0.2 mL of 0.5 mm glass beads, I add the fragment from the tube with sterilized forceps. Bead beat for 2 minutes. Briefly spin down and remove 400 uL of the supernatant to a clean tube. Spin this at 12,000 rcf for 3 minutes and then remove 300 uL of the supernatant to a clean tube. Proceed with proK digestion and extraction as descibed in the protocol linked below.
 
-- Protocol 2 (2X Lysis Buffer, or 2XL):
+- ***Protocol 2 (2X Lysis Buffer, or 2XL)***: Took 150 uL of the DNA/RNA shield from the sample tube into a clean tube. Then performed ProK digestion as directed, correcting for the reduced volume (so I added 15 uL of PK digestion buffer and 7.5 uL of PK). Then, when the lysis buffer step came, I added 345 uL as normal, which in this case is a **2:1 ratio of buffer to sample** instead of the usual 1:1. When adding the ethanol to the RNA extraction, I added 517.5 uL of ethanol instead of 700 uL as normal to correct for the reduced volume.
+
+- ***Protocol 3 (Normal)***: Took 150 uL of the DNA/RNA shield from the sample tube and added 150 uL of clean DNA/RNA shield as normal, followed the protocol as normal. Was extra cautious in pipetting after the proK digestion to make sure no debris went into the extraction.
 
 - Other than the adjustments mentioned above, I followed [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly.
+
+- Issues: Several pigmented RNA filters, though none were horrible. No noticibly pigmented RNA. The 2XL sample for Past-B4 had to be spun down 3-4 times to be able to pipette out the supernatant after the ProK digestion. This lysate was extremely viscous and the RNA filter was pigmented.
 
 ## Qubit Results
 
@@ -67,3 +71,5 @@ RNA Standards: 417.18 (S1) & 9518.56 (S2)
 ## Next steps
 
 - No longer want to elute with 55ºC heated water. Just in case this is causing any degredation.
+
+- Kristina will try an extraction of 2 porites samples tomorrow as a test.
