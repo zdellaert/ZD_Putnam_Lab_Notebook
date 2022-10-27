@@ -23,7 +23,7 @@ tags: [DNA, RNA, ENCORE]
 
     1. Thawed samples **on ice**.
     2. With sterilized forceps (10% bleach, DEPC water, 70% ethanol, air-dried), I removed one small (5mm x 5mm) fragment from the tube, in which most tubes had 5-6 small fragments of this size. I sterilized forceps between each sample.
-    3. I briefly transferred this fragemnt to a clean 1.5 mL tube on ice to tap off any excess RNAlater and then immediately transferred the fragment to a 1.5 mL screw-cap tube with 800 uL DNA/RNA shield and 0.25 mL of 0.5mm glass beads. 
+    3. I briefly transferred this fragment to a clean 1.5 mL tube on ice to tap off any excess RNAlater and then immediately transferred the fragment to a 1.5 mL screw-cap tube with 800 uL DNA/RNA shield and 0.25 mL of 0.5mm glass beads. 
     4. Bead beat for 1-2 minutes on the vortex at max speed. I started off with one minute for all samples but added a minute of bead-beating for samples if the liquid still looked very light-colored after one minute of homogenization.
     5. Briefly spin down and remove 400 uL of supernatant into a clean tube. Spin for 3 mins at 9,000 rcf.
     6. Put original samples and bead tubes back in -80 ºC freezer.
