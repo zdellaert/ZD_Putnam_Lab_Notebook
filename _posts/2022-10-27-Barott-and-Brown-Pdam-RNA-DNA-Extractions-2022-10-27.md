@@ -31,6 +31,8 @@ tags: [DNA, RNA, ENCORE]
 
 - Other than the adjustments mentioned above, I followed [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly.
 
+- For my records: opened new kit today (Kit labelled 1/2 rec'd 10/4/22), used the columns, collection tubes, and DNA digestion buffer from this new kit.
+
 ## Qubit Results
 
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)

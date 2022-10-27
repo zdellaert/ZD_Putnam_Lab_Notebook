@@ -73,3 +73,5 @@ RNA Standards: 417.18 (S1) & 9518.56 (S2)
 - No longer want to elute with 55ºC heated water. Just in case this is causing any degredation.
 
 - Kristina will try an extraction of 2 porites samples tomorrow as a test.
+
+- BME? Kristina tried before, added 1.75 uL of BME to the supernatant after the ProK spin-down step and let sit for 2 mins at room temp before adding lysis buffer. Made no difference in DNA or RNA quality or quantity.
