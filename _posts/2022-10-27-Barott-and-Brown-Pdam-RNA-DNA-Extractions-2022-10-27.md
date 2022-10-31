@@ -33,6 +33,8 @@ tags: [DNA, RNA, ENCORE]
 
 - For my records: opened new kit today (Kit labelled 1/2 rec'd 10/4/22), used the columns, collection tubes, and DNA digestion buffer from this new kit.
 
+- I bead-beat RS6D and RF25A for 2 mins instead of 1 min because they were still light-colored after one minute of bead-beating.
+
 ## Qubit Results
 
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
