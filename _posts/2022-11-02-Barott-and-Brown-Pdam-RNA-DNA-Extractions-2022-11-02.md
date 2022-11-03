@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2022-11-01 Barott and Brown Pdam RNA and DNA Extractions
-date: '2022-11-01 16:00:00'
+title: 2022-11-02 Barott and Brown Pdam RNA and DNA Extractions
+date: '2022-11-02 16:00:00'
 categories: Processing
 tags: [DNA, RNA, ENCORE]
 ---
@@ -14,8 +14,8 @@ tags: [DNA, RNA, ENCORE]
 
 ## Samples
 
-![22022-11-01-tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-11-01-tubes.JPG?raw=true)
-![2022-11-01-caps.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-11-01-caps.JPG?raw=true)
+![22022-11-02-tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-11-02-tubes.JPG?raw=true)
+![2022-11-02-caps.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-11-02-caps.JPG?raw=true)
 
 ## Notes
 
@@ -68,7 +68,7 @@ RNA Standards: 417.37 (S1) & 9558.32 (S2)
 
 Note: Gel was only run for 40 minutes due to time constraints so is a little smushed-looking but all lanes look great!
 
-![2022-11-01-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-11-01-gel.JPG?raw=true)
+![2022-11-02-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-11-02-gel.JPG?raw=true)
 
 ## Next steps
 
