@@ -14,7 +14,7 @@ tags: [DNA, RNA, ENCORE]
 
 ## Samples
 
-![22022-11-02-tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-11-02-tubes.JPG?raw=true)
+![2202-11-02-tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-11-02-tubes.JPG?raw=true)
 ![2022-11-02-caps.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2022-11-02-caps.JPG?raw=true)
 
 ## Notes
