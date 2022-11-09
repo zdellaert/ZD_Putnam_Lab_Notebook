@@ -24,6 +24,8 @@ tags: [DNA, RNA, ENCORE]
 
 - Continuting processing the Barott and Brown Pdam samples using the protocol detailed on [10/27/22.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Barott-and-Brown-Pdam-RNA-DNA-Extractions-2022-10-27/)
 
+**- Had much higher qubit values here because I started putting two of the tiny fragments into the bead beat tubes instead of one. Mostly this meant I only had to bead beat most samples for 1 minute instead of 2 to get a dark colored solution and resulted in great RNA! But I think the previous samples are great too, just slightly less in concentration.**
+
 - See bead-beating notes below with Qubit values.
 
 ## Qubit Results
