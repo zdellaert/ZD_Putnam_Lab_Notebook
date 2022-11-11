@@ -10,7 +10,7 @@ tags: [DNA, RNA, ENCORE]
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-### Extraction of 18 samples from Pocillopora damicornis (Pdam) from Heron Island in RNAlater March 2021 (Kristen Brown, Postdoc in Katie Barott lab).
+### Extraction of 18 samples from Pocillopora damicornis (Pdam) from Heron Island in RNAlater March 2021 (Kristen Brown, Postdoc in Katie Barott lab)
 
 ## Samples
 
