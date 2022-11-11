@@ -73,6 +73,8 @@ RNA Standards: 422.67 (S1) & 9120.78 (S2)
 
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
+And yes, we ran out of ladder. I think we have more but I could not find it.
+
 ![2022-11-11-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-11-11-gel.JPG?raw=true)
 
 ## Next steps
