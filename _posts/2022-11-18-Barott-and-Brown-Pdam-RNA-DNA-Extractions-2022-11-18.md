@@ -34,6 +34,7 @@ tags: [DNA, RNA, ENCORE]
 - All samples read twice, standard only read once
 
 DNA Standards: 191.69 (S1) & 22436.66 (S2)
+
 | Sample # |
 |----------|
 | RS2C     |
@@ -50,6 +51,7 @@ DNA Standards: 191.69 (S1) & 22436.66 (S2)
 | RF25A    |
 
 RNA Standards: 422.67 (S1) & 9120.78 (S2)
+
 | Sample # |
 |----------|
 | RS2C     |
