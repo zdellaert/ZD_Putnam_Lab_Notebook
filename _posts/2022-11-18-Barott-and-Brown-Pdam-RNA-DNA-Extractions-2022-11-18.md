@@ -24,6 +24,8 @@ tags: [DNA, RNA, ENCORE]
 
 - Continuting processing the Barott and Brown Pdam samples using the protocol detailed on [10/27/22.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Barott-and-Brown-Pdam-RNA-DNA-Extractions-2022-10-27/)
 
+- **For these re-extractions, I had high-quality DNA and RNA for each sample but just not enough. I will proceed by adding 1-2 fragments depending on size to the original bead tube for each sample along with 400 uL of DNA/RNA shield that was previously removed. Then I will bead-beat as usual and continue as usual.**
+
 - See bead-beating notes below with Qubit values.
 
 ## Qubit Results
