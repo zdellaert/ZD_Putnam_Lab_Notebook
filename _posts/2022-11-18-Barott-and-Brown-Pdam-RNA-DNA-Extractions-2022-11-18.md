@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2022-11-18 Barott and Brown Pdam RNA and DNA Extractions
-date: '2022-11-18 15:00:00'
+date: '2022-11-18 06:00:00'
 categories: Processing
 tags: [DNA, RNA, ENCORE]
 ---
