@@ -32,10 +32,36 @@ tags: [DNA, RNA, ENCORE]
 - All samples read twice, standard only read once
 
 DNA Standards: 191.69 (S1) & 22436.66 (S2)
-
+| Sample # |
+|----------|
+| RS2C     |
+| RS2B     |
+| RS3B     |
+| RS6D     |
+| RS7B     |
+| RS14C    |
+| RS15D    |
+| RF13B    |
+| RF14B    |
+| RF15D    |
+| RF22B    |
+| RF25A    |
 
 RNA Standards: 422.67 (S1) & 9120.78 (S2)
-
+| Sample # |
+|----------|
+| RS2C     |
+| RS2B     |
+| RS3B     |
+| RS6D     |
+| RS7B     |
+| RS14C    |
+| RS15D    |
+| RF13B    |
+| RF14B    |
+| RF15D    |
+| RF22B    |
+| RF25A    |
 
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
@@ -45,4 +71,4 @@ Dilutung new ladder: 4 uL water, 1 uL loading dye, 1 uL ladder
 
 ## Next steps
 
-All done with these samples! 
+All done with these samples!
