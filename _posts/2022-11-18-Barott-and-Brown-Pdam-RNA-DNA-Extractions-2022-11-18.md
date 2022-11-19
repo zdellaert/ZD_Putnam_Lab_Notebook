@@ -3,7 +3,7 @@ layout: post
 title: 2022-11-18 Barott and Brown Pdam RNA and DNA Extractions
 date: '2022-11-18 06:00:00'
 categories: Processing
-tags: [DNA, RNA, ENCORE]
+tags: [DNA, RNA, Pocillopora damicornis]
 ---
 
 ## RNA and DNA Extractions for ENCORE Project, November 18, 2022

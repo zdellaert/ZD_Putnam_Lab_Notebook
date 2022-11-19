@@ -3,14 +3,14 @@ layout: post
 title: 2022-11-02 Barott and Brown Pdam RNA and DNA Extractions
 date: '2022-11-02 16:00:00'
 categories: Processing
-tags: [DNA, RNA, ENCORE]
+tags: [DNA, RNA, Pocillopora damicornis]
 ---
 
 ## RNA and DNA Extractions for ENCORE Project, November 2, 2022
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-### Extraction of 12 samples from Pocillopora damicornis (Pdam) from Heron Island in RNAlater March 2021 (Kristen Brown, Postdoc in Katie Barott lab).
+### Extraction of 12 samples from Pocillopora damicornis (Pdam) from Heron Island in RNAlater March 2021 (Kristen Brown, Postdoc in Katie Barott lab)
 
 ## Samples
 

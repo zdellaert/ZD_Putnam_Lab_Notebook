@@ -3,7 +3,7 @@ layout: post
 title: 2022-10-26 ENCORE RNA and DNA Extractions
 date: '2022-10-26 16:00:00'
 categories: Processing
-tags: [DNA, RNA, ENCORE]
+tags: [DNA, RNA, ENCORE, Porites astreoides]
 ---
 
 ## RNA and DNA Extractions for ENCORE Project, October 26, 2022

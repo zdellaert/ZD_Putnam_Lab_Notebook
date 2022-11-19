@@ -3,7 +3,7 @@ layout: post
 title: 2022-10-03 ENCORE RNA and DNA Extractions
 date: '2022-10-03 16:00:00'
 categories: Processing
-tags: [DNA, RNA, ENCORE]
+tags: [DNA, RNA, ENCORE, Diploria labyrinthiformis, Montastraea cavernosa, Madracis decactis, Porites astreoides]
 ---
 
 ## RNA and DNA Extractions for ENCORE Project, October 03, 2022

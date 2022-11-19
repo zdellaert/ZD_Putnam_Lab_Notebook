@@ -3,7 +3,7 @@ layout: post
 title: 2022-10-31 ENCORE RNA and DNA Extractions
 date: '2022-10-31 16:00:00'
 categories: Processing
-tags: [DNA, RNA, ENCORE]
+tags: [DNA, RNA, ENCORE, Porites astreoides]
 ---
 
 ## RNA and DNA Extractions for ENCORE Project, October 31, 2022
@@ -18,7 +18,7 @@ Forgot to take pictures, but samples were Past-C3 and Past-E3. Neither tubes wer
 
 ## Notes
 
-Today I tried adding BME (beta-mercaptoethanol) to the lysis buffer, as is directed in Zymo's Pathogen and Viral Quick RNA kits. They recommend the following procedure: 
+Today I tried adding BME (beta-mercaptoethanol) to the lysis buffer, as is directed in Zymo's Pathogen and Viral Quick RNA kits. They recommend the following procedure:
 
 > - Add 500 μl beta-mercaptoethanol (user supplied) per 100 ml Lysis DNA/RNA Buffer, (final 0.5% (v/v)).
 > - Add 400 µl of Genomic Lysis Buffer to 100 µl of blood, serum, or plasma (4:1) 3.
