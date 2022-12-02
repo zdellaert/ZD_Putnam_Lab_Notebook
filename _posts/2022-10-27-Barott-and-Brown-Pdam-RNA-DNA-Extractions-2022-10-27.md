@@ -6,7 +6,7 @@ categories: Processing
 tags: [DNA, RNA, Pocillopora damicornis]
 ---
 
-## RNA and DNA Extractions for ENCORE Project, October 27, 2022
+## RNA and DNA Extractions for Brown/Barott Pdam Project, October 27, 2022
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
