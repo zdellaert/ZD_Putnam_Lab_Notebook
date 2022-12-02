@@ -12,7 +12,7 @@ Dilute extracted RNA to 15 ug/uL in 30 uL and consolidate into one plate for RNA
 
 ### Samples
 
-| extracted in this Order | Site | Number | Sample # | Extraction.Date | RNA_QBIT_AVG | Amount to dilute, final concentration of 15 ng/uL in 30 uL | Amount of water | Sample # | Well | Plate well order |
+| Extraction Order | Site | Number | Sample # | Extraction Date | RNA_QBIT_AVG | Amount of RNA | Amount of Water | Sample # | Plate Well | Plate Order |
 |-------------------------|------|--------|----------|-----------------|--------------|------------------------------------------------------------|-----------------|----------|------|------------------|
 | 43                      | RF   | 17     | RF17B    | 20221111        | 34.4         | 13.08                                                      | 16.92           | RF17B    | A1   | 1                |
 | 35                      | RS   | 6      | RS6A     | 20221111        | 36.1         | 12.47                                                      | 17.53           | RS6A     | B1   | 2                |
