@@ -35,6 +35,8 @@ Dilute extracted RNA to 15 ug/uL in 30 uL and consolidate into one plate for RNA
 
 ![Plate label]({{ site.baseurl}}/images/20210712_PlateLabel.jpg "Plate label")
 
+![2022-12-02-plate-map-RNA-amt.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/2022-12-02-plate.JPG?raw=true)
+
 6) Place remaining samples and plate back into the -80 ºC freezer.
 
-![Plate loc]({{ site.baseurl}}/images/20210712_PlateLoc.jpg "Plate loc")
+![2022-12-02-plate-map-RNA-amt.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/2022-12-02-plate-loc.JPG?raw=true)
