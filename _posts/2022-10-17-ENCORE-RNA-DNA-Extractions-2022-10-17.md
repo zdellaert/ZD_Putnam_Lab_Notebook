@@ -29,7 +29,7 @@ Continuing on with the rest of the ENCORE extractions.
 
 ## Qubit Results
 
-- Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
  -- **Qubit results seem very odd, getting nds for DNA with clear bands. Maybe I need to be quicker about measuring the Qubit tubes right after making them. I poured the gel after mixing the Qubit tubes and before measuring them to get the gel running ASAP due to time constraints.**

@@ -35,7 +35,7 @@ Other than the adjustments mentioned above, I followed [protocol](https://zdella
 
 ## Qubit Results
 
-- Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
  DNA Standards: 195.90 (S1) & 22394.56 (S2)

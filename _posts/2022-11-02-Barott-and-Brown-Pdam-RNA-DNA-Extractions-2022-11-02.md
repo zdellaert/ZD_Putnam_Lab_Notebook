@@ -27,7 +27,7 @@ tags: [DNA, RNA, Pocillopora damicornis]
 
 ## Qubit Results
 
-- Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
 DNA Standards: 104.76 (S1) & 23344.85 (S2)

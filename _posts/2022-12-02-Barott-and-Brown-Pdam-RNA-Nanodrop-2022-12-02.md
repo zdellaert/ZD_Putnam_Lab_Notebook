@@ -15,4 +15,6 @@ Nanodrop extracted RNA from the Barott and Brown Pdam extractions prior to sendi
 
 ### Protocol
 
-Currently the protocol is hosted [here](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/RNA_Quality_Control/Nanodrop-RNA.md), but I will add a version to my notebook and link here soon.
+The standard PPP Nanodrop protocol for RNA can be found [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/2022-10-02-Nanodrop-Protocol/).
+
+I used the nanodrop in the Lane lab with supervision/permission from Kristina Terpis, the Technician in the Putnam and Lane labs. The protocol is the same but it only can read one sample at a time and there is no printer, so I record the values by hand.

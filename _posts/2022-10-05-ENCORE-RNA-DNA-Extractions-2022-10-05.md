@@ -28,7 +28,7 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 
 ## Qubit Results
 
-- Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
 DNA Standards: 198.66 (S1) & 24171.04 (S2)

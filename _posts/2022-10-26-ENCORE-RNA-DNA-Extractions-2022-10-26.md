@@ -33,7 +33,7 @@ Today I tried 3 different methods with the hope of narrowing in on the problem w
 
 ## Qubit Results
 
-- Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
  DNA Standards: 184.60 (S1) & 21839.64 (S2)

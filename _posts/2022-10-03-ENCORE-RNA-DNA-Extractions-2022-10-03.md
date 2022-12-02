@@ -24,7 +24,7 @@ These samples are part of our "Round A" of processing. We selected 16 samples fr
 - Sample Past-F4 looked bad at the step where DNA/RNA Lysis buffer was added to the supernatant at [step 6](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/). The supernatant from the Proteinase K digestion appeared to be mucous-y and was immiscible with the Lysis buffer. Throughout the RNA extraction, the filter was pigmented and the RNA was pale brown. This might be an example sample to re-extract with only 100 or 150 uL of the DNA/RNA shield from the sample tube.
 
 ## Qubit Results
- - Used Broad range dsDNA and RNA Qubit [Protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+ - Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
  - All samples read twice, standard only read once
 
  DNA Standards: 201.70 (S1) & 23899.02 (S2)
