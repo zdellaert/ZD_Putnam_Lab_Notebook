@@ -8,11 +8,12 @@ tags: [RNA, Protocol]
 
 ### NanoDrop for RNA Protocol
 
-#### This protocol was written by [Maggie Schedl](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/RNA_Quality_Control/Nanodrop-RNA.md) for the Putnam, Prada, and Puritz labs.
+#### This protocol was written by [Maggie Schedl](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/RNA_Quality_Control/Nanodrop-RNA.md) for the Putnam, Prada, and Puritz labs
 
 ### Using the [NanoDrop in the GSC](https://web.uri.edu/gsc/nanodrop-8000/) to Quantify RNA Purity
 
-**Things to bring upstairs**
+#### Things to bring upstairs
+
 - RNA samples thawed on ice bucket
 - A small tube containing ultra-pure/nuclease free water
 - A small tube containing the same solution that your RNA is suspended in (usually is ultra-pure water, if so, you don't need to bring two)
@@ -20,7 +21,7 @@ tags: [RNA, Protocol]
 - Filtered tips box for p2 (red)
 - Your notebook
 
-**Procedure**
+### Procedure
 
 - The GSC is on the third floor of CBLS, room 352, straight ahead in the corner to the left after you get off the stairs. The door should be unlocked between 9-4pm
 - The NanoDrop is on the lab bench on the left side of the room, the piece of equipment closest to the sink. It has a computer attached

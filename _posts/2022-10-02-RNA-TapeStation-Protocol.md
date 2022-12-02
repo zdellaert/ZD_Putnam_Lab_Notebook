@@ -8,7 +8,7 @@ tags: [RNA, Protocol]
 
 ## Agilent [Tape Station 4200](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-instruments/4200-tapestation-system-228263)
 
-#### This protocol was written by [Maggie Schedl](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) for the Putnam, Prada, and Puritz labs. 
+### This protocol was written by [Maggie Schedl](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/) for the Putnam, Prada, and Puritz labs
 
 ### Setup
 
