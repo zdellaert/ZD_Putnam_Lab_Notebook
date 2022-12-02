@@ -6,7 +6,7 @@ categories: Processing
 tags: [RNA, Pocillopora damicornis]
 ---
 
-### Goal
+## Prep and submit RNA for Brown/Barott Pdam Project, December 2, 2022
 
 Dilute extracted RNA to 15 ug/uL in 30 uL and consolidate into one plate for RNAseq. This plate prep guide is based off of Dr. Kevin Wong's protocol/example [here](https://kevinhwong1.github.io/KevinHWong_Notebook/20210712-AH-Tag-seq-Plate-Prep/).
 
@@ -71,7 +71,7 @@ Dilute extracted RNA to 15 ug/uL in 30 uL and consolidate into one plate for RNA
 
 1) Remove samples from the -80 ºC freezer and place on a tube rack in an ice bucket to thaw.
 
-2) Fill each well of the 96-well PCR plate with the corresponding diluent volume (I used Ultra Pure Water).
+2) Fill each well of the 96-well PCR plate with the corresponding diluent volume (I used the RNAse/DNAse free water included in the Zymo kit used for extracting the RNA).
 
 ![2022-12-02-plate-map-dilutent-amt.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2022-12-02-plate-map-dilutent-amt.JPG?raw=true)
 
