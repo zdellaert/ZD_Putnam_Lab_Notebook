@@ -81,7 +81,12 @@ Dilute extracted RNA to 15 ug/uL in 30 uL and consolidate into one plate for RNA
 
 ![2022-12-02-plate-map-RNA-amt.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2022-12-02-plate-map-RNA-amt.JPG?raw=true)
 
-5) Seal plate with aluminum foil tape and seal each well. Will re-label the plate once we have the JA number and shipping information.
+5) Seal plate with aluminum foil tape and seal each well. Write on the label and the side of the plate with the following information:
+
+- Date
+- Name
+- Project
+- Job Number
 
 ![2022-12-02-plate-map-RNA-amt.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/2022-12-02-plate.JPG?raw=true)
 
