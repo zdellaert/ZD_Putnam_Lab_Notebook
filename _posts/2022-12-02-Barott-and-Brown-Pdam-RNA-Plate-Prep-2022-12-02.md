@@ -83,9 +83,9 @@ Dilute extracted RNA to 15 ug/uL in 30 uL and consolidate into one plate for RNA
 
 5) Seal plate with aluminum foil tape and seal each well. Write on the label and the side of the plate with the following information:
 
-    - Date
-    - Name
-    - Project
-    - Job Number
+    - Date: 12/6/22
+    - Name: Kristen Brown
+    - Project: Heron Island Pdam
+    - Job Number: JA22512
 
 6) Place remaining samples and plate back into the -80 ºC freezer.
