@@ -249,7 +249,7 @@ $ multiqc /data/putnamlab/shared/Oyst_Nut_RNA/fastqc_results/raw_SRA/all/*fastqc
 scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/multiqc_results/multiqc_report.html /Users/zoedellaert/Documents/URI/Oyst_Nut_RNA/initial_multiqc_report.html
 ```
 
-Full report here: https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/initial_multiqc_report_Oyst_Nut_RNA.htmlinitial_multiqc_report_Oyst_Nut_RNA.html
+Full report here: https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/initial_multiqc_report_Oyst_Nut_RNA.html
 
 
 ****IMPORTANT TO NOTE — This data is the same as the KITT data but the headers are different - the data downloaded from SRA does not have the original headers in the fastq file, so fastqc does not produce the per sequence tile data point, other than this i believe the data are identical.
