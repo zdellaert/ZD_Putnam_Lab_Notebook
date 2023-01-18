@@ -6,7 +6,7 @@ categories: Processing
 tags: [DNA, RNA, ENCORE, Diploria labyrinthiformis, Montastraea cavernosa, Madracis decactis, Porites astreoides]
 ---
 
-## RNA and DNA Extractions for ENCORE Project, October 17, 2022
+## RNA and DNA Extractions for ENCORE Project, January 13, 2023
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
