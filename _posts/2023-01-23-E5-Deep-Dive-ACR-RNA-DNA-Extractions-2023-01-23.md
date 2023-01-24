@@ -38,16 +38,56 @@ tags: [DNA, RNA, E5, Acropora]
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
-**Samples ACR-228 TP1 and ACR-234 TP1 were pale and were bead-beat for an extra 30 seconds to remove any last tissue. They had less tissue in the tubes than some of the other samples.
+**Samples ACR-228 TP1 and ACR-234 TP1 were pale and were bead-beat for an extra 30 seconds to remove any last tissue. They had less tissue in the tubes than some of the other samples.**
 
- DNA Standards:   (S1) &   (S2)
+ DNA Standards: 188.29 (S1) & 20735.98 (S2)
+| colony_id | timepoint | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|-----------|------------|------------|--------------|
+| ACR-225   | TP1       | 93         | 94.2       | 93.6         |
+| ACR-225   | TP4       | 115        | 116        | 115.5        |
+| ACR-228   | TP1       | 40         | 40.2       | 40.1         |
+| ACR-228   | TP4       | 9.26       | 9.62       | 9.44         |
+| ACR-229   | TP1       | 194        | 195        | 194.5        |
+| ACR-229   | TP4       | 96.6       | 98.8       | 97.7         |
+| ACR-234   | TP1       | 44.4       | 45.2       | 44.8         |
+| ACR-234   | TP4       | 60.2       | 61.6       | 60.9         |
+| ACR-237   | TP1       | 67.8       | 69.2       | 68.5         |
+| ACR-237   | TP4       | 150        | 155        | 152.5        |
+| ACR-244   | TP1       | 47.2       | 48         | 47.6         |
+| ACR-244   | TP4       | 93.8       | 96.4       | 95.1         |
+| ACR-256   | TP1       | 85.6       | 87         | 86.3         |
+| ACR-256   | TP4       | 98.6       | 99.6       | 99.1         |
+| ACR-265   | TP1       | 38.2       | 38.6       | 38.4         |
+| ACR-265   | TP4       | 109        | 107        | 108          |
+| ACR-267   | TP1       | 82.4       | 84.6       | 83.5         |
+| ACR-267   | TP4       | 67.2       | 67.4       | 67.3         |
 
+ RNA Standards: 412.03 (S1) & 8733.93 (S2)
 
- RNA Standards:  (S1) & (S2)
+| colony_id | timepoint | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|-----------|------------|------------|--------------|
+| ACR-225   | TP1       | 27.8       | 28.4       | 28.1         |
+| ACR-225   | TP4       | 35         | 35.4       | 35.2         |
+| ACR-228   | TP1       | 28         | 27.4       | 27.7         |
+| ACR-228   | TP4       | 46.6       | 47.6       | 47.1         |
+| ACR-229   | TP1       | 48.8       | 49.8       | 49.3         |
+| ACR-229   | TP4       | 75         | 74.4       | 74.7         |
+| ACR-234   | TP1       | 33.6       | 33.4       | 33.5         |
+| ACR-234   | TP4       | 52         | 52         | 52           |
+| ACR-237   | TP1       | 41.6       | 41.6       | 41.6         |
+| ACR-237   | TP4       | 31.8       | 31.6       | 31.7         |
+| ACR-244   | TP1       | 26.6       | 27         | 26.8         |
+| ACR-244   | TP4       | 26.8       | 26.4       | 26.6         |
+| ACR-256   | TP1       | 69.2       | 69.6       | 69.4         |
+| ACR-256   | TP4       | 32.8       | 34         | 33.4         |
+| ACR-265   | TP1       | 71.2       | 71.6       | 71.4         |
+| ACR-265   | TP4       | 34.4       | 34.6       | 34.5         |
+| ACR-267   | TP1       | 24.8       | 25         | 24.9         |
+| ACR-267   | TP4       | 21.6       | 21.4       | 21.5         |
 
+## DNA and RNA Quality Check: Gel
 
-
-## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
+Using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 ![2023-01-23-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-01-23-gel.JPG?raw=true)
 
