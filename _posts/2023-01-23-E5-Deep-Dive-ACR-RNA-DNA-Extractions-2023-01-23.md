@@ -43,6 +43,7 @@ tags: [DNA, RNA, E5, Acropora]
 **Samples ACR-228 TP1 and ACR-234 TP1 were pale and were bead-beat for an extra 30 seconds to remove any last tissue. They had less tissue in the tubes than some of the other samples.**
 
  DNA Standards: 188.29 (S1) & 20735.98 (S2)
+ 
 | colony_id | timepoint | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
 |-----------|-----------|------------|------------|--------------|
 | ACR-225   | TP1       | 93         | 94.2       | 93.6         |
