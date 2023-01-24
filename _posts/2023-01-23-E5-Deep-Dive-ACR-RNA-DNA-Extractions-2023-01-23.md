@@ -18,6 +18,8 @@ tags: [DNA, RNA, E5, Acropora]
 ![2023-01-23-tubes-a.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2023-01-23-tubes-a.JPG?raw=true)
 ![2023-01-23-tubes-b.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2023-01-23-tubes-b.JPG?raw=true)
 
+(*Note, the order of ACR-237 TP1 and TP4 are backward in this photo, but they were extracted in the right order.*)
+
 ![2023-01-23-caps-a.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2023-01-23-caps-a.JPG?raw=true)
 ![2023-01-23-caps-b.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/samples/2023-01-23-caps-b.JPG?raw=true)
 
@@ -93,4 +95,4 @@ Using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.gi
 
 ## Next steps
 
-Will re-extract the following samples: 
+While the concentration of all samples looks good, the DNA and RNA both appear to be highly degraded on the gel. I will run them on the tapestation to try to better understand what is going on.
