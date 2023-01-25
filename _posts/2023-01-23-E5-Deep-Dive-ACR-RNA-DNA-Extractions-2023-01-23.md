@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2023-01-23 Barott and Brown Pdam RNA and DNA Extractions
+title: 2023-01-23 E5 ACR Deep Dive RNA and DNA Extractions
 date: '2023-01-23 16:00:00'
 categories: Processing
 tags: [DNA, RNA, E5, Acropora]
 ---
 
-## RNA and DNA Extractions for Brown/Barott Pdam Project, January 23, 2023
+## RNA and DNA Extractions for E5 ACR Deep Dive Project, January 23, 2023
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
