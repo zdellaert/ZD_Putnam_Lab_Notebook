@@ -96,4 +96,4 @@ Using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.gi
 
 ## Next steps
 
-While the concentration of all samples looks good, the DNA and RNA both appear to be highly degraded on the gel. I will run them on the tapestation to try to better understand what is going on.
+While the concentration of all samples looks good, the DNA and RNA both appear to be highly degraded on the gel. I will run them on the tapestation to try to better understand what is going on. Data (including Kristina's original extraction data) are [here](https://docs.google.com/spreadsheets/d/1YQW_eSrx8G3aRED1sNt-cNuIOLqd7TfiNCBkCvEfwOU/edit?usp=sharing) (email me for access or request access at the link).
