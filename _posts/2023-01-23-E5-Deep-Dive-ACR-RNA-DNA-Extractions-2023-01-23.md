@@ -43,7 +43,7 @@ tags: [DNA, RNA, E5, Acropora]
 **Samples ACR-228 TP1 and ACR-234 TP1 were pale and were bead-beat for an extra 30 seconds to remove any last tissue. They had less tissue in the tubes than some of the other samples.**
 
  DNA Standards: 188.29 (S1) & 20735.98 (S2)
- 
+
 | colony_id | timepoint | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
 |-----------|-----------|------------|------------|--------------|
 | ACR-225   | TP1       | 93         | 94.2       | 93.6         |
@@ -99,6 +99,7 @@ Using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.gi
 I ran a tapestation on three of these samples (ACR-225 TP1, ACR-244 TP1, ACR-256 TP1) on 01/25/2023 to confirm the degradation of the RNA. We also included three of Kristina's samples from the same set (one ACR #35 that did not work (ACR-234 TP1) and two that did: "41" (ACR-225 TP1) and "45" (ACR-256 TP1)). Hers were extracted from the molecular clippings preserved in the field in DNA/RNA shield.
 
 Order:
+
 | Ladder | Kristina's RNA | Kristina's RNA | Kristina's RNA | Zoe's RNA | Zoe's RNA | Zoe's RNA |
 |----|----|----|----|----|----|----|
 | Ladder | 35 (ACR-234 TP1) | 41 (ACR-225 TP1) | 45 (ACR-256 TP1) | ACR-244 TP1 | ACR-225 TP1 | ACR-256 TP1 |
@@ -111,4 +112,4 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 While the concentration of all samples looks good, the DNA and RNA both appear to be highly degraded on the gel. I will run them on the tapestation to try to better understand what is going on. Data (including Kristina's original extraction data) are [here](https://docs.google.com/spreadsheets/d/1YQW_eSrx8G3aRED1sNt-cNuIOLqd7TfiNCBkCvEfwOU/edit?usp=sharing) (email me for access or request access at the link).
 
-After running on the tapestation, the RNA appear severely degraded. We will reassess if we can utilize other samples that may not have thawed in transit. We could also try adjusting the homogenization technique and try immediately bead beating in DNA/RNA shield after clipping. The samples that Kristina used have been completely used up. 
+After running on the tapestation, the RNA appear severely degraded. We will reassess if we can utilize other samples that may not have thawed in transit. We could also try adjusting the homogenization technique and try immediately bead beating in DNA/RNA shield after clipping. The samples that Kristina used have been completely used up.
