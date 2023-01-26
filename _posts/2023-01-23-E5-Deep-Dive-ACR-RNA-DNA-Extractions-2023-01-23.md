@@ -108,3 +108,5 @@ Results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/
 ## Next steps
 
 While the concentration of all samples looks good, the DNA and RNA both appear to be highly degraded on the gel. I will run them on the tapestation to try to better understand what is going on. Data (including Kristina's original extraction data) are [here](https://docs.google.com/spreadsheets/d/1YQW_eSrx8G3aRED1sNt-cNuIOLqd7TfiNCBkCvEfwOU/edit?usp=sharing) (email me for access or request access at the link).
+
+After running on the tapestation, the RNA appear severely degraded. We will reassess if we can utilize other samples that may not have thawed in transit. We could also try adjusting the homogenization technique and try immediately bead beating in DNA/RNA shield after clipping. 
