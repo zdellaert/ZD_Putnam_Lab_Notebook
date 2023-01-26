@@ -103,7 +103,9 @@ Order:
 |----|----|----|----|----|----|----|
 | Ladder | 35 (ACR-234 TP1) | 41 (ACR-225 TP1) | 45 (ACR-256 TP1) | ACR-244 TP1 | ACR-225 TP1 | ACR-256 TP1 |
 
-Results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/29acef02b466112cef5ae8e8772fa567c3d7e346/images/tapestation/2023-01-25.pdf#L1)
+[](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/0a94252ff64ac7cf5eb0322e8feaa6537a1641e2/images/tapestation/2023-01-25.JPG)
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/29acef02b466112cef5ae8e8772fa567c3d7e346/images/tapestation/2023-01-25.pdf#L1)
 
 ## Next steps
 
