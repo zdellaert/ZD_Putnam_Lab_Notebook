@@ -96,12 +96,12 @@ Using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.gi
 
 ## RNA Quality Check: Tapestation
 
-I ran a tapestation on three of these samples (ACR-225 TP1, ACR-244 TP1, ACR-256 TP1) on 01/25/2023 to confirm the degradation of the RNA. We also included three of Kristina's samples from the same set (one ACR #35 that did not work, "41" (ACR-225 TP1), and "45" (ACR-256 TP1)). Hers were extracted from the molecular clippings preserved in the field in DNA/RNA shield.
+I ran a tapestation on three of these samples (ACR-225 TP1, ACR-244 TP1, ACR-256 TP1) on 01/25/2023 to confirm the degradation of the RNA. We also included three of Kristina's samples from the same set (one ACR #35 that did not work (ACR-234 TP1) and two that did: "41" (ACR-225 TP1) and "45" (ACR-256 TP1)). Hers were extracted from the molecular clippings preserved in the field in DNA/RNA shield.
 
 Order:
 | Ladder | Kristina's RNA | Kristina's RNA | Kristina's RNA | Zoe's RNA | Zoe's RNA | Zoe's RNA |
 |----|----|----|----|----|----|----|
-| Ladder | 35 | 41 (ACR-225 TP1) | 45 (ACR-256 TP1) | ACR-244 TP1 | ACR-225 TP1 | ACR-256 TP1 |
+| Ladder | 35 (ACR-234 TP1) | 41 (ACR-225 TP1) | 45 (ACR-256 TP1) | ACR-244 TP1 | ACR-225 TP1 | ACR-256 TP1 |
 
 Results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/d751e274328ccaf6c99fd13a71af35730d1243e3/images/tapestation/2023-01-25.pdf#L1)
 
