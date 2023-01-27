@@ -6,7 +6,7 @@ categories: ProjectSummary
 tags: [DNA, RNA, Pocillopora damicornis]
 ---
 
-# Project Summary: 2022 RNA and DNA Extractions for Brown/Barott Pdam Project
+## Project Summary: 2022 RNA and DNA Extractions for Brown/Barott Pdam Project
 
 This is the project summary for the Pdam project in collaboration with the Barott Lab at UPenn (Dr. Kristen Brown and Katie Barott). There were 64 samples in total, and the metadata can be found [here](https://docs.google.com/spreadsheets/d/1d9WHwT4W7dXLq6rdmr5czpW8OsMXFdEI8psOC74X138/edit?usp=sharing).
 
