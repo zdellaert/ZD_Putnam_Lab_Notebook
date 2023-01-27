@@ -10,9 +10,20 @@ tags: [DNA, RNA, Pocillopora damicornis]
 
 This is the project summary for RNA and DNA extractions and RNA submission for the Pdam project in collaboration with the Barott Lab at UPenn (Dr. Kristen Brown and Katie Barott). There were 64 samples in total, and the metadata can be found [here](https://docs.google.com/spreadsheets/d/1d9WHwT4W7dXLq6rdmr5czpW8OsMXFdEI8psOC74X138/edit?usp=sharing).
 
-## [Extraction Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
+## Outline of Content
+A. [Extractions](#extractions)
+    - [Protocol Link](#extraction-protocol-link)
+    - [2022-10-27](#2022-10-27-extraction-of-4-samples-from-pocillopora-damicornis-pdam-from-heron-island-in-rnalater-march-2021-kristen-brown-postdoc-in-katie-barott-lab)
+    - [2022-11-02](#2022-11-02-extraction-of-12-samples-from-pocillopora-damicornis-pdam-from-heron-island-in-rnalater-march-2021-kristen-brown-postdoc-in-katie-barott-lab)
+    - [2022-11-08](#2022-11-08-extraction-of-18-samples-from-pocillopora-damicornis-pdam-from-heron-island-in-rnalater-march-2021-kristen-brown-postdoc-in-katie-barott-lab)
+    - [2022-11-11](#2022-11-11-extraction-of-14-samples-from-pocillopora-damicornis-pdam-from-heron-island-in-rnalater-march-2021-kristen-brown-postdoc-in-katie-barott-lab)
+    - [2022-11-18](#2022-11-18-re-extraction-of-12-samples-from-pocillopora-damicornis-pdam-from-heron-island-in-rnalater-march-2021-kristen-brown-postdoc-in-katie-barott-lab)
+B. [Nanodrop](#qc-of-rna-for-brownbarott-pdam-project-december-2-2022)
+C. [Plate Prep and Submission](#prep-and-submit-rna-for-brownbarott-pdam-project-december-2-2022)
+
 
 ## Extractions
+### [Extraction Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 ### 2022-10-27: Extraction of 4 samples from Pocillopora damicornis (Pdam) from Heron Island in RNAlater March 2021 (Kristen Brown, Postdoc in Katie Barott lab)
 
@@ -69,7 +80,6 @@ This is the project summary for RNA and DNA extractions and RNA submission for t
 #### Next steps
 
 Will use this protocol on the rest of the samples.
-
 
 ### 2022-11-02: Extraction of 12 samples from Pocillopora damicornis (Pdam) from Heron Island in RNAlater March 2021 (Kristen Brown, Postdoc in Katie Barott lab)
 
@@ -130,7 +140,6 @@ RNA Standards: 417.37 (S1) & 9558.32 (S2)
 Note: Gel was only run for 40 minutes due to time constraints so is a little smushed-looking but all lanes look great!
 
 ![2022-11-02-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2022-11-02-gel.JPG?raw=true)
-
 
 ### 2022-11-08: Extraction of 18 samples from Pocillopora damicornis (Pdam) from Heron Island in RNAlater March 2021 (Kristen Brown, Postdoc in Katie Barott lab)
 
