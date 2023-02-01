@@ -2,7 +2,7 @@
 layout: post
 title: 2023-01-27 Project Summary Barott and Brown Pdam RNA and DNA Extractions
 date: '2023-01-27 11:00:00'
-categories: ProjectSummary
+categories: ProjectSummaries
 tags: [DNA, RNA, Pocillopora damicornis]
 ---
 
