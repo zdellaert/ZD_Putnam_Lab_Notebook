@@ -47,6 +47,15 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 
 - If the extraction is not yielding enough DNA or RNA and the **DNA/RNA shield looks very light-colored**, it could be that the lytic properties of the DNA/RNA shield did not break up the tissue enough to yield enough DNA and RNA from the buffer alone. In this case, you could bead beat this sample using the protocols described by other lab members [Emma L. Strand](https://emmastrand.github.io/EmmaStrand_Notebook/Zymo-Duet-RNA-DNA-Extraction-Protocol/), [Dr. Kevin H. Wong](https://github.com/kevinhwong1/KevinHWong_Notebook/blob/master/_posts/2019-03-13-Zymo-DNA-RNA-Extract-P.astreoides-Genome.md), and [Kristina Terpis](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/_posts/2022-03-03-20220303-RNA-DNA-extractions-for-Maggie-Johnson.md). This bead beating step could be done by adding beads to the original sample tube, or by transferring an aliquot (300 uL) of the DNA/RNA shield from the sample tube along with a clipping of the tissue fragment into a new bead tube. Add 500-700 uL of clean DNA/RNA shield to make up 800 uL - 1 mL for bead-beating and bead beat for 1-2 minutes at maximum speed. Then, centrifuge briefly and take an aliquot of 300 uL from this homogenized mixture into a clean 1.5 mL tube. Proceed as directed.
 
+### Note: I have used this protocol for samples in RNAlater as follows:
+1. Thawed samples on ice.
+2. With sterilized forceps (10% bleach, DEPC water, 70% ethanol, air-dried), I removed one small (5mm x 5mm) fragment from the tube, in which most tubes had 5-6 small fragments of this size. I sterilized forceps between each sample.
+3. I briefly transferred this fragment to a clean 1.5 mL tube on ice or used a kimwipe to tap off any excess RNAlater and then immediately transferred the fragment to a 1.5 mL screw-cap tube with 1000 uL DNA/RNA shield and 0.25 mL of 0.5mm glass beads.
+4. Bead beat for 1-2 minutes on the vortex at max speed. I started off with one minute for all samples but added a minute of bead-beating for samples if the liquid still looked very light-colored after one minute of homogenization.
+5. Briefly spin down and remove 400 uL of supernatant into a clean tube. Spin for 3 mins at 9,000 rcf.
+6. Put original samples and bead tubes back in -80 ºC freezer.
+7. Remove 300 uL of the supernatant into a new tube and continue on with the protocol below (from the Pro K step) as written.
+
 ## Protocol Steps
 
 ### Proteinase K Digestion  
