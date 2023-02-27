@@ -76,10 +76,25 @@ sbatch scripts/fastp_multiqc.sh
 ## Trimmed (fastp) MultiQC Report
 
 ```
-scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/multiqc_report.html /Users/zoedellaert/Documents/URI/Oyst_Nut_RNA/trimmed_fastp_multiqc_report.html
+scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/multiqc_report.html /Users/zoedellaert/Documents/URI/Oyst_Nut_RNA/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html
 ```
 
-Full report here: _____
+Full report here: https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html
 
 
 ## Next steps:
+
+
+Download genome file
+C. virginica genome (the reference we will be using): https://www.ncbi.nlm.nih.gov/genome/398.
+
+$ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fna.gz into desired directory.
+
+fna = FastA format file containing Nucleotide sequence (DNA)
+
+
+Mapping
+
+etc
+
+:-)
