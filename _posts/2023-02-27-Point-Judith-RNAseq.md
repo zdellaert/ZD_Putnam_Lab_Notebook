@@ -9,6 +9,13 @@ tags: [RNA, OysterPaper]
 # Point Judith Oyster RNAseq Analysis
 ## Point Judith Oyster RNAseq Initial QC : https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Point-Judith-RNAseq-QC/
 
+## notes
+
+- db and NS batch effects
+- write the methods and rationale as you go on
+- talk to Danielle
+
+
 ## Location of data:
 ```
 /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all
@@ -52,7 +59,7 @@ for i in ${array1[@]}; do
         --out2 /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.$(echo ${i}|sed s/_R1/_R2/) \
         --qualified_quality_phred 20 \
         --unqualified_percent_limit 10 \
-        --length_required 100 \
+        --length_required 75 \
         --detect_adapter_for_pe \
         --cut_right cut_right_window_size 5 cut_right_mean_quality 20
     fastqc /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.${i}
