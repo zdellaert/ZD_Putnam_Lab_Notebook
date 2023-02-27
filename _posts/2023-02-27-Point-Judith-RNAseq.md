@@ -57,10 +57,10 @@ done
 
 Run script:
 ```
-$ cd /data/putnamlab/shared/Oyst_Nut_RNA/scripts
-$ sbatch trimmomatic.sh
-$ cd /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all
-$ mv *trim.fq /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed
+cd /data/putnamlab/shared/Oyst_Nut_RNA/scripts
+sbatch trimmomatic.sh
+cd /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all
+mv *trim.fq /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed
 ```
 
 ## Post-trim fastqc on files
@@ -96,15 +96,15 @@ done
 
 Run script:
 ```
-$ cd /data/putnamlab/shared/Oyst_Nut_RNA/scripts
-$ sbatch fastqc_trimmed.sh
+cd /data/putnamlab/shared/Oyst_Nut_RNA/scripts
+sbatch fastqc_trimmed.sh
 ```
 
 Perform MultiQC
 
 ```
-$ module load MultiQC/1.9-intel-2020a-Python-3.8.2
-$ multiqc /data/putnamlab/shared/Oyst_Nut_RNA/fastqc_results/trimmed/*fastqc.zip  -o /data/putnamlab/shared/Oyst_Nut_RNA/multiqc_results/trimmed/
+module load MultiQC/1.9-intel-2020a-Python-3.8.2
+multiqc /data/putnamlab/shared/Oyst_Nut_RNA/fastqc_results/trimmed/*fastqc.zip  -o /data/putnamlab/shared/Oyst_Nut_RNA/multiqc_results/trimmed/
 ```
 
 ## Trimmed MultiQC Report
@@ -168,6 +168,10 @@ cd /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/ #The followin
 multiqc --interactive ./  
 
 echo "Cleaned MultiQC report generated." $(date)
+```
+
+```
+sbatch scripts/fastp_multiqc.sh
 ```
 
 ## Trimmed (fastp) MultiQC Report
