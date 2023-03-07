@@ -7,9 +7,20 @@ tags: [RNA, OysterPaper]
 ---
 
 # Point Judith Oyster RNAseq Analysis
-## Point Judith Oyster RNAseq Initial QC : https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Point-Judith-RNAseq-QC/
+### Point Judith Oyster RNAseq Initial QC : https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Point-Judith-RNAseq-QC/
 
-## notes
+## Notes
+
+**We took out the following because they are less consistent - less adapter content issues and proper trimming.**
+
+```
+    --qualified_quality_phred 20 
+    --unqualified_percent_limit 10 
+    --length_required 75 
+    --cut_right cut_right_window_size 5 cut_right_mean_quality 20
+```
+
+Based trimming of front1 and front2 set at 15 based on MulitQC "Per base sequence content". If we see issues down the line then we could do more filtering based on quality.
 
 - db and NS batch effects
 - write the methods and rationale as you go on
@@ -23,6 +34,15 @@ tags: [RNA, OysterPaper]
 ## Trimming Data and performing trimmed multiQC
 
 Used this script [by Emma!!](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md), fastp_multiqc.sh :
+
+**We took out the following because they are less consistent - less adapter content issues and proper trimming.**
+
+```
+    --qualified_quality_phred 20 
+    --unqualified_percent_limit 10 
+    --length_required 75 
+    --cut_right cut_right_window_size 5 cut_right_mean_quality 20
+```
 
 ```
 cd /data/putnamlab/shared/Oyst_Nut_RNA/
@@ -74,20 +94,24 @@ multiqc --interactive ./
 echo "Cleaned MultiQC report generated." $(date)
 ```
 
-**Notes: We took out the following because they are less consistent - less adapter content issues and proper trimming.**
-
-```
-    --qualified_quality_phred 20 
-    --unqualified_percent_limit 10 
-    --length_required 75 
-    --cut_right cut_right_window_size 5 cut_right_mean_quality 20
-```
-
-Based trimming of front1 and front2 set at 15 based on MulitQC "Per base sequence content". If we see issues down the line then we could do more filtering based on quality.
-
 ```
 sbatch scripts/fastp_multiqc.sh
 ```
+
+## Trimmed FastQC example
+
+![DB_Sample1_R1_fastqc_perbaseseqcont.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/DB_Sample1_R1_fastqc_perbaseseqcont.png?raw=true)
+
+![trimmed_DB_Sample1_R1_fastqc_perbaseseqcont.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_DB_Sample1_R1_fastqc_perbaseseqcont.png?raw=true)
+
+![DB_Sample1_R1_fastqc_perbaseseqqual.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/DB_Sample1_R1_fastqc_perbaseseqqual.png?raw=true)
+
+![trimmed_DB_Sample1_R1_fastqc_perbaseseqqual.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_DB_Sample1_R1_fastqc_perbaseseqqual.png?raw=true)
+
+![DB_Sample1_R1_fastqc_overrepseqs.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/DB_Sample1_R1_fastqc_overrepseqs.png?raw=true)
+
+![trimmed_DB_Sample1_R1_fastqc_overrepseqs.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_DB_Sample1_R1_fastqc_overrepseqs.png?raw=true)
+
 
 ## Trimmed (fastp) MultiQC Report
 
@@ -96,6 +120,7 @@ scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed
 ```
 
 Full report here: https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html
+
 
 
 ## Next steps:
