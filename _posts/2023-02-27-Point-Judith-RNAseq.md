@@ -117,11 +117,41 @@ Very interestingly, overrepresented seqs increased after trimming. Everything el
 
 ## Trimmed (fastp) MultiQC Report
 
+![MultiQC_MeanQualScores.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_MeanQualScores.png?raw=true)
+
+![MultiQC_trimmed_MeanQualScores.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_MeanQualScores.png?raw=true)
+
+![MultiQC_AdapterContent.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_AdapterContent.png?raw=true)
+
+![MultiQC_trimmed_AdapterContent.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_trimmed_AdapterContent.png?raw=true)
+
+### Weird things:
+
+R1 has slightly more wobbly-ness for "Per Base Sequence Content" at the beginning than R2 for all samples.
+
+![MultiQC_trimmed_R1_PerBaseSeqContent.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_trimmed_R1_PerBaseSeqContent.png?raw=true)
+
+![MultiQC_trimmed_R2_PerBaseSeqContent.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_trimmed_R2_PerBaseSeqContent.png?raw=true)
+
+Sequence Duplication Levels got worse:
+
+![MultiQC_DupLevels.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_DupLevels.png?raw=true)
+
+![MultiQC_trimmed_DupLevels.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_trimmed_DupLevels.png?raw=true)
+
+![MultiQC_StatusCheck.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_StatusCheck.png?raw=true)
+
+![MultiQC_trimmed_StatusCheck.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_trimmed_StatusCheck.png?raw=true)
+
 ```
 scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/multiqc_report.html /Users/zoedellaert/Documents/URI/Oyst_Nut_RNA/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html
 ```
 
-Full report here: https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html
+Full report here: (link)[https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html]
+
+and here:
+
+(link)[https://github.com/hputnam/Cvir_Nut_Int/blob/master/output/RNASeq/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html]
 
 
 
