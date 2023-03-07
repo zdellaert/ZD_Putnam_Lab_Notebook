@@ -100,6 +100,8 @@ sbatch scripts/fastp_multiqc.sh
 
 ## Trimmed FastQC example
 
+Very interestingly, overrepresented seqs increased after trimming. Everything else generally looked better. 
+
 ![DB_Sample1_R1_fastqc_perbaseseqcont.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/DB_Sample1_R1_fastqc_perbaseseqcont.png?raw=true)
 
 ![trimmed_DB_Sample1_R1_fastqc_perbaseseqcont.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_DB_Sample1_R1_fastqc_perbaseseqcont.png?raw=true)
