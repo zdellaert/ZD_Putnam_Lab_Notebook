@@ -31,7 +31,7 @@ Based trimming of front1 and front2 set at 15 based on MulitQC "Per base sequenc
 /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all
 ```
 
-## Trimming Data and performing trimmed multiQC
+## Round 1: Trimming Data and performing trimmed multiQC
 
 Used this script [by Emma!!](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md), fastp_multiqc.sh :
 
@@ -154,6 +154,78 @@ and here:
 (link)[https://github.com/hputnam/Cvir_Nut_Int/blob/master/output/RNASeq/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html]
 
 
+## Round 2: Trimming Data with extra quality control and performing trimmed multiQC
+
+Used this script [by Emma!!](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md), fastp_multiqc.sh :
+
+** Added in "--qualified_quality_phred 30"  to filter by minimum phred quality score of >30.
+
+```
+cd /data/putnamlab/shared/Oyst_Nut_RNA/s
+mkdir /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_qual_fastp_multiqc/
+nano scripts/fastp_qual_multiqc.sh
+```
+
+```
+#!/bin/bash
+#SBATCH -t 100:00:00
+#SBATCH --nodes=1 --ntasks-per-node=1
+#SBATCH --export=NONE
+#SBATCH --mem=100GB
+#SBATCH --account=putnamlab
+#SBATCH -D /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all               
+#SBATCH --error=../"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=../"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# Load modules needed 
+module load fastp/0.19.7-foss-2018b
+module load FastQC/0.11.8-Java-1.8
+module load MultiQC/1.9-intel-2020a-Python-3.8.2
+
+# Make an array (list) of sequences to trim
+# Needs to be in directory above (raw data directory)
+array1=($(ls *.fastq.gz))
+
+# fastp and fastqc loop 
+for i in ${array1[@]}; do
+    fastp --in1 ${i} \
+        --in2 $(echo ${i}|sed s/_R1/_R2/)\
+        --out1 /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_qual_fastp_multiqc/trimmed_qual.${i} \
+        --out2 /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_qual_fastp_multiqc/trimmed_qual.$(echo ${i}|sed s/_R1/_R2/) \
+        --detect_adapter_for_pe \
+        --qualified_quality_phred 30 \
+        --trim_poly_g \
+        --trim_front1 15 \
+        --trim_front2 15
+    fastqc /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_qual_fastp_multiqc/trimmed_qual.${i}
+done
+
+echo "Read trimming of adapters complete." $(date)
+
+# Quality Assessment of Trimmed Reads
+cd /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_qual_fastp_multiqc/ #The following command will be run in the /clean directory
+
+# Compile MultiQC report from FastQC files 
+multiqc --interactive ./  
+
+echo "Cleaned MultiQC report generated." $(date)
+```
+
+```
+sbatch scripts/fastp_qual_multiqc.sh
+```
+
+## Trimmed (fastp with q >30) MultiQC Report
+
+```
+scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_qual_fastp_multiqc/multiqc_report.html /Users/zoedellaert/Documents/URI/Oyst_Nut_RNA/trimmed_qual_fastp_multiqc_report_Oyst_Nut_RNA.html
+```
+
+Full report here: (link)[https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_qual_fastp_multiqc_report_Oyst_Nut_RNA.html]
+
+and here:
+
+(link)[https://github.com/hputnam/Cvir_Nut_Int/blob/master/output/RNASeq/trimmed_qual_fastp_multiqc_report_Oyst_Nut_RNA.html]
 
 ## Next steps:
 
