@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Point Judith Oyster RNAseq  QC
+title: Point Judith Oyster RNAseq Analysis
 date: '2023-02-27 06:00:00'
 categories: Analysis
 tags: [RNA, OysterPaper]
@@ -13,7 +13,6 @@ tags: [RNA, OysterPaper]
 
 - db and NS batch effects
 - write the methods and rationale as you go on
-- talk to Danielle
 
 
 ## Location of data:
@@ -57,11 +56,10 @@ for i in ${array1[@]}; do
         --in2 $(echo ${i}|sed s/_R1/_R2/)\
         --out1 /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.${i} \
         --out2 /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.$(echo ${i}|sed s/_R1/_R2/) \
-        --qualified_quality_phred 20 \
-        --unqualified_percent_limit 10 \
-        --length_required 75 \
         --detect_adapter_for_pe \
-        --cut_right cut_right_window_size 5 cut_right_mean_quality 20
+        --trim_poly_g \
+        --trim_front1 15 \
+        --trim_front2 15
     fastqc /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.${i}
 done
 
@@ -75,6 +73,17 @@ multiqc --interactive ./
 
 echo "Cleaned MultiQC report generated." $(date)
 ```
+
+**Notes: We took out the following because they are less consistent - less adapter content issues and proper trimming.**
+
+```
+    --qualified_quality_phred 20 
+    --unqualified_percent_limit 10 
+    --length_required 75 
+    --cut_right cut_right_window_size 5 cut_right_mean_quality 20
+```
+
+Based trimming of front1 and front2 set at 15 based on MulitQC "Per base sequence content". If we see issues down the line then we could do more filtering based on quality.
 
 ```
 sbatch scripts/fastp_multiqc.sh
