@@ -119,7 +119,7 @@ Very interestingly, overrepresented seqs increased after trimming. Everything el
 
 ![MultiQC_MeanQualScores.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_MeanQualScores.png?raw=true)
 
-![MultiQC_trimmed_MeanQualScores.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_MeanQualScores.png?raw=true)
+![MultiQC_trimmed_MeanQualScores.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_trimmed_MeanQualScores.png?raw=true)
 
 ![MultiQC_AdapterContent.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/MultiQC_AdapterContent.png?raw=true)
 
