@@ -35,7 +35,9 @@ Based trimming of front1 and front2 set at 15 based on MulitQC "Per base sequenc
 
 Used this script [by Emma!!](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md), fastp_multiqc.sh :
 
-**We took out the following because they are less consistent - less adapter content issues and proper trimming.** *Also changed the way the files were being imported, since fastp wants R1 and R2 to be dealt with at the same time and Emma's version was doing it correctly for R1 (R1 and R2 were being trimmed together) but then R2 as being trimmed and overwriting the R2 output from the R1/R2 trimming. So changed it so it would loop through just the R1 files and not all files (because the fastp code runs through the R2 files already using "|sed s/_R1/_R2/") and then made a second line for fastp to loop through the R2 files as well.*
+**We took out the following because they are less consistent - less adapter content issues and proper trimming.**
+
+Also changed the way the files were being imported, since fastp wants R1 and R2 to be dealt with at the same time and Emma's version was doing it correctly for R1 (R1 and R2 were being trimmed together) but then R2 as being trimmed and overwriting the R2 output from the R1/R2 trimming. So changed it so it would loop through just the R1 files and not all files (because the fastp code runs through the R2 files already using "|sed s/_R1/_R2/") and then made a second line for fastp to loop through the R2 files as well.
 
 ```
     --qualified_quality_phred 20 
