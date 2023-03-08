@@ -35,7 +35,7 @@ Based trimming of front1 and front2 set at 15 based on MulitQC "Per base sequenc
 
 Used this script [by Emma!!](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md), fastp_multiqc.sh :
 
-**We took out the following because they are less consistent - less adapter content issues and proper trimming.**
+**We took out the following because they are less consistent - less adapter content issues and proper trimming.** *Also changed the way the files were being imported, since fastp wants R1 and R2 to be dealt with at the same time and Emma's version was doing it correctly for R1 (R1 and R2 were being trimmed together) but then R2 as being trimmed and overwriting the R2 output from the R1/R2 trimming. So changed it so it would loop through just the R1 files and not all files (because the fastp code runs through the R2 files already using "|sed s/_R1/_R2/") and then made a second line for fastp to loop through the R2 files as well.*
 
 ```
     --qualified_quality_phred 20 
@@ -57,7 +57,7 @@ nano scripts/fastp_multiqc.sh
 #SBATCH --export=NONE
 #SBATCH --mem=100GB
 #SBATCH --account=putnamlab
-#SBATCH -D /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all               
+#SBATCH -D /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc               
 #SBATCH --error=../"%x_error.%j" #if your job fails, the error report will be put in this file
 #SBATCH --output=../"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
 
@@ -67,8 +67,10 @@ module load FastQC/0.11.8-Java-1.8
 module load MultiQC/1.9-intel-2020a-Python-3.8.2
 
 # Make an array (list) of sequences to trim
-# Needs to be in directory above (raw data directory)
-array1=($(ls *.fastq.gz))
+# Needs to be in the raw data directory
+
+cd /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all 
+array1=($(ls *R1.fastq.gz))
 
 # fastp and fastqc loop 
 for i in ${array1[@]}; do
@@ -81,12 +83,13 @@ for i in ${array1[@]}; do
         --trim_front1 15 \
         --trim_front2 15
     fastqc /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.${i}
+    fastqc /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.$(echo ${i}|sed s/_R1/_R2/)
 done
 
 echo "Read trimming of adapters complete." $(date)
 
 # Quality Assessment of Trimmed Reads
-cd /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/ #The following command will be run in the /clean directory
+cd /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/ #go to output directory
 
 # Compile MultiQC report from FastQC files 
 multiqc --interactive ./  
@@ -150,59 +153,6 @@ scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed
 Full report here: [link](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html)
 
 and here: [link](https://github.com/hputnam/Cvir_Nut_Int/blob/master/output/RNASeq/trimmed_fastp_multiqc_report_Oyst_Nut_RNA.html)
-
-### Trimming Script, fixed:
-
-**Also changed the way the files were being imported, since fastp wants R1 and R2 to be dealt with at the same time and Emma's version was doing it correctly for R1 (R1 and R2 were being trimmed together) but then R2 as being trimmed and overwriting the R2 output from the R1/R2 trimming. So changed it so it would loop through just the R1 files and not all files (because the fastp code runs through the R2 files already using "|sed s/_R1/_R2/") and then made a second line for fastp to loop through the R2 files as well.**
-
-```
-#!/bin/bash
-#SBATCH -t 100:00:00
-#SBATCH --nodes=1 --ntasks-per-node=1
-#SBATCH --export=NONE
-#SBATCH --mem=100GB
-#SBATCH --account=putnamlab
-#SBATCH -D /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc               
-#SBATCH --error=../"%x_error.%j" #if your job fails, the error report will be put in this file
-#SBATCH --output=../"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
-
-# Load modules needed 
-module load fastp/0.19.7-foss-2018b
-module load FastQC/0.11.8-Java-1.8
-module load MultiQC/1.9-intel-2020a-Python-3.8.2
-
-# Make an array (list) of sequences to trim
-# Needs to be in the raw data directory
-
-cd /data/putnamlab/shared/Oyst_Nut_RNA/data/raw_SRA/all 
-array1=($(ls *R1.fastq.gz))
-
-# fastp and fastqc loop 
-for i in ${array1[@]}; do
-    fastp --in1 ${i} \
-        --in2 $(echo ${i}|sed s/_R1/_R2/)\
-        --out1 /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.${i} \
-        --out2 /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.$(echo ${i}|sed s/_R1/_R2/) \
-        --detect_adapter_for_pe \
-        --trim_poly_g \
-        --trim_front1 15 \
-        --trim_front2 15
-    fastqc /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.${i}
-    fastqc /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/trimmed.$(echo ${i}|sed s/_R1/_R2/)
-done
-
-echo "Read trimming of adapters complete." $(date)
-
-# Quality Assessment of Trimmed Reads
-cd /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/ #go to output directory
-
-# Compile MultiQC report from FastQC files 
-multiqc --interactive ./  
-
-echo "Cleaned MultiQC report generated." $(date)
-```
-
-Had same result as original script (above), but probably better to go forward like this from now on. 
 
 ## Round 2: Trimming Data with extra quality control and performing trimmed multiQC
 
