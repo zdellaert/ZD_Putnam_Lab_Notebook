@@ -231,18 +231,143 @@ Full report here: [link](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blo
 
 and here: [link](https://github.com/hputnam/Cvir_Nut_Int/blob/master/output/RNASeq/trimmed_qual_fastp_multiqc_report_Oyst_Nut_RNA.html)
 
+Going to proceed with the original trimming with the less stringent quality control ("trimmed_fastp_multiqc" directory) becuase the sequences were longer overall and the extra quality control did not change any of the FastQC graphs or metrics by a significant amount. Trimming notes from above:
+- Still some wavy-ness at the beginning of the R1 reads
+- There is a little drop-off in quality at the end of reads, but not too significant. We could trim the ends if desired
+- Overrepresented seqs increased after trimming
+- Everything else generally looked better
+- Still need to figure out the batch effects....
+- **I am also confused because on the [github repo](https://github.com/hputnam/Cvir_Nut_Int) it says that these were sent for 2x150bp sequencing, but the initial files are 101 bp.**
+  - "The 36 metatranscriptomic libraries were sequenced using a half lane of Illumina NovaSeq S4 chemistry to obtain 2x150 bp paired-end reads at the Yale Center for Genome Analysis."
 
+## Genome download
 
-## Next steps:
-
-
-Download genome file: [C. virginica genome](https://www.ncbi.nlm.nih.gov/genome/398)
+Download genome file and gff file: [C. virginica genome](https://www.ncbi.nlm.nih.gov/genome/398)
 
 ```
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fna.gz into desired directory.
+mkdir /data/putnamlab/shared/Oyst_Nut_RNA/references
+cd /data/putnamlab/shared/Oyst_Nut_RNA/references
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.fna.gz
+gunzip GCF_002022765.2_C_virginica-3.0_genomic.fna.gz
+
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/022/765/GCF_002022765.2_C_virginica-3.0/GCF_002022765.2_C_virginica-3.0_genomic.gff.gz 
+gunzip GCF_002022765.2_C_virginica-3.0_genomic.gff.gz
 ```
 
+## Alignment of trimmed reads to genome, based on [Emma's script](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2022-02-03-KBay-Bleaching-Pairs-RNASeq-Pipeline-Analysis.md)
 
-- Mapping
-- etc
-- :-)
+Hisat2 arugments:
+
+-  -p 8  #use 8 processors
+- --dta #Report alignments tailored for transcript assemblers including StringTie
+- -x Cvir_ref #basename of the index for the reference genome
+- -1 ${i} #R1 trimmed files
+- -2 $(echo ${i}|sed s/_R1/_R2/) #R2 trimmed files
+- -S ${sample_name}.sam #file to write SAM alignments to
+
+ **removed " --rna-strandness RF" because the default for HIsat2 is unstranded, and even though these reads were paired-end I believe this library was unstranded**
+
+```
+cd /data/putnamlab/shared/Oyst_Nut_RNA
+nano scripts/align.sh
+```
+
+```
+#!/bin/bash
+#SBATCH -t 120:00:00
+#SBATCH --nodes=1 --ntasks-per-node=10
+#SBATCH --export=NONE
+#SBATCH --mem=100GB
+#SBATCH --mail-type=BEGIN,END,FAIL #email you when job starts, stops and/or fails
+#SBATCH --mail-user=zdellaert@uri.edu #your email to send notifications
+#SBATCH --account=putnamlab
+#SBATCH --error="align_error" #if your job fails, the error report will be put in this file
+#SBATCH --output="align_output" #once your job is completed, any final job report comments will be put in this file
+#SBATCH -D /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/
+
+# load modules needed
+module load HISAT2/2.2.1-foss-2019b #Alignment to reference genome: HISAT2
+module load SAMtools/1.9-foss-2018b #Preparation of alignment for assembly: SAMtools
+
+# index the reference genome for C. virginica output index to working directory
+hisat2-build -f /data/putnamlab/shared/Oyst_Nut_RNA/references/GCF_002022765.2_C_virginica-3.0_genomic.fna ./Cvir_ref # called the reference genome (scaffolds)
+echo "Referece genome indexed. Starting alingment" $(date)
+
+# This script exports alignments as bam files
+# sorts the bam file because Stringtie takes a sorted file for input (--dta)
+# removes the sam file because it is no longer needed
+
+array=($(ls /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/*fastq.gz)) # call the clean sequences - make an array to align
+
+for i in ${array[@]}; do
+        sample_name=`echo $i| awk -F [.] '{print $2}'`
+        hisat2 -p 8 --rna-strandness RF --dta -x Cvir_ref -1 ${i} -2 $(echo ${i}|sed s/_R1/_R2/) -S ${sample_name}.sam
+        samtools sort -@ 8 -o ${sample_name}.bam ${sample_name}.sam
+                echo "${i} bam-ified!"
+        rm ${sample_name}.sam
+done
+```
+
+```
+sbatch scripts/align.sh
+```
+
+### To view mapping percentages
+
+```
+module load SAMtools/1.9-foss-2018b #Preparation of alignment for assembly: SAMtools
+
+for i in *.bam; do
+    echo "${i}" >> mapped_reads_counts_Cvir
+    samtools flagstat ${i} | grep "mapped (" >> mapped_reads_counts_Cvir
+done
+```
+
+## Assemble + quantify transcripts (script in progress)
+
+Stringtie
+
+Arguments:
+- Also output a file with the gene abundances
+- -p 8 #use 8 processors
+- -e #Expression estimation mode (-e), exclude novel genes, no "novel" transcript assemblies (isoforms) will be produced
+- -B #enables the output of Ballgown input table files (*.ctab) containing coverage data for the reference transcripts given with the -G option
+- -G #Use reference annotation gff or gff3 file
+
+```
+cd /data/putnamlab/shared/Oyst_Nut_RNA
+nano scripts/assemble.sh
+```
+
+```
+#!/bin/bash
+#SBATCH -t 500:00:00
+#SBATCH --nodes=1 --ntasks-per-node=1
+#SBATCH --export=NONE
+#SBATCH --mem=128GB
+#SBATCH --mail-type=BEGIN,END,FAIL #email you when job starts, stops and/or fails
+#SBATCH --mail-user=zdellaert@uri.edu #your email to send notifications
+#SBATCH --account=putnamlab
+#SBATCH -D /data/putnamlab/shared/Oyst_Nut_RNA/data/trimmed_fastp_multiqc/               
+#SBATCH --error="%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output="%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+module load StringTie/2.1.4-GCC-9.3.0
+module load gffcompare/0.11.5-foss-2018b
+
+# Transcript assembly: StringTie
+
+array1=($(ls *.bam)) #Make an array of sequences to assemble
+
+for i in ${array1[@]}; do
+    sample_name=`echo $i| awk -F [_] '{print $1"_"$2"_"$3}'`
+    stringtie -p 8 -e -B -G /data/putnamlab/shared/Oyst_Nut_RNA/references/GCF_002022765.2_C_virginica-3.0_genomic.gff -A ../../Stringtie2/${sample_name}.gene_abund.tab -o ../../Stringtie2/${sample_name}.gtf ${i}
+    echo "StringTie assembly for seq file ${i}" $(date)
+done
+
+echo "Stringtie alignment complete" $(date)
+```
+
+```
+sbatch scripts/assemble.sh
+```
