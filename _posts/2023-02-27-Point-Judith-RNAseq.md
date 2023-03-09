@@ -260,12 +260,13 @@ Hisat2 arugments:
 
 -  -p 8  #use 8 processors
 - --dta #Report alignments tailored for transcript assemblers including StringTie
+- --rna-strandness RF #see note below
 - -x Cvir_ref #basename of the index for the reference genome
 - -1 ${i} #R1 trimmed files
 - -2 $(echo ${i}|sed s/_R1/_R2/) #R2 trimmed files
 - -S ${sample_name}.sam #file to write SAM alignments to
 
- **removed " --rna-strandness RF" because the default for HIsat2 is unstranded, and even though these reads were paired-end I believe this library was unstranded**
+ **thought about removing " --rna-strandness RF" because the default for HIsat2 is unstranded, and even though these reads were paired-end I believe this library was unstranded but the manual is confusing here.**
 
 ```
 cd /data/putnamlab/shared/Oyst_Nut_RNA
