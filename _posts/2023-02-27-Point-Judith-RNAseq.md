@@ -343,6 +343,7 @@ Arguments:
 
 ```
 cd /data/putnamlab/shared/Oyst_Nut_RNA
+mkdir Stringtie
 nano scripts/assemble.sh
 ```
 
@@ -359,8 +360,7 @@ nano scripts/assemble.sh
 #SBATCH --error="%x_error.%j" #if your job fails, the error report will be put in this file
 #SBATCH --output="%x_output.%j" #once your job is completed, any final job report comments will be put in this file
 
-module load StringTie/2.1.4-GCC-9.3.0
-module load gffcompare/0.11.5-foss-2018b
+module load StringTie/2.1.4-GCC-9.3.0 #new version for next time: StringTie/2.2.1-GCC-11.2.0
 
 # Transcript assembly: StringTie
 
@@ -368,7 +368,7 @@ array1=($(ls *.bam)) #Make an array of sequences to assemble
 
 for i in ${array1[@]}; do
     sample_name=`echo $i| awk -F [_] '{print $1"_"$2"_"$3}'`
-    stringtie -p 8 -e -B -G /data/putnamlab/shared/Oyst_Nut_RNA/references/GCF_002022765.2_C_virginica-3.0_genomic.gff -A ../../Stringtie2/${sample_name}.gene_abund.tab -o ../../Stringtie2/${sample_name}.gtf ${i}
+    stringtie -p 8 -e -B -G /data/putnamlab/shared/Oyst_Nut_RNA/references/GCF_002022765.2_C_virginica-3.0_genomic.gff -A ../../Stringtie/${sample_name}.gene_abund.tab -o ../../Stringtie/${sample_name}.gtf ${i}
     echo "StringTie assembly for seq file ${i}" $(date)
 done
 
@@ -380,3 +380,8 @@ sbatch scripts/assemble.sh
 ```
 
 ### Running right now (Mar 9 7pm)
+
+
+**New modele load for gff compare: GffCompare/0.12.6-GCC-11.2.0**
+
+*new version of Stringtie for next time: StringTie/2.2.1-GCC-11.2.0*
