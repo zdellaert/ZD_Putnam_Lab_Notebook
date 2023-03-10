@@ -330,11 +330,9 @@ done
 
 ![mapped_Cvir.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/mapped_Cvir.png?raw=true)
 
-## Assemble + quantify transcripts (script in progress)
+## Assemble + quantify transcripts
 
-Stringtie
-
-Arguments:
+Stringtie Arguments:
 - Also output a file with the gene abundances
 - -p 8 #use 8 processors
 - -e #Expression estimation mode (-e), exclude novel genes, no "novel" transcript assemblies (isoforms) will be produced
