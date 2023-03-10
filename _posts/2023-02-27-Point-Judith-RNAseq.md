@@ -378,10 +378,75 @@ echo "Stringtie alignment complete" $(date)
 ```
 sbatch scripts/assemble.sh
 ```
+Took about ~1 hour
 
-### Running right now (Mar 9 7pm)
+*new version of Stringtie for next time: StringTie/2.2.1-GCC-11.2.0*
+
 
 
 **New modele load for gff compare: GffCompare/0.12.6-GCC-11.2.0**
 
-*new version of Stringtie for next time: StringTie/2.2.1-GCC-11.2.0*
+## Gene count matrix using PrepDE
+
+This step uses a script called prepDE.py that can be downloaded from the [Stringtie github repository](https://github.com/gpertea/stringtie/blob/master/prepDE.py) and uploaded to andromeda into your scripts folder or copy-pasted into a new script as shown below
+
+```
+cd /data/putnamlab/shared/Oyst_Nut_RNA
+cp /data/putnamlab/zdellaert/Pdam-TagSeq/scripts/prepDE.py scripts/ #copy this from other directory 
+#nano scripts/prepDE.py #paste in code from github page above
+```
+
+```
+nano scripts/prepDE.sh #make script for running this code, enter text in next code chunk
+```
+
+```
+#!/bin/bash
+#SBATCH -t 120:00:00
+#SBATCH --nodes=1 --ntasks-per-node=20
+#SBATCH --export=NONE
+#SBATCH --mem=200GB
+#SBATCH --mail-type=BEGIN,END,FAIL #email you when job starts, stops and/or fails
+#SBATCH --mail-user=zdellaert@uri.edu #your email to send notifications
+#SBATCH --account=putnamlab              
+#SBATCH --error="prepDE_error" #if your job fails, the error report will be put in this file
+#SBATCH --output="prepDE_output" #once your job is completed, any final job report comments will be put in this file
+#SBATCH -D /data/putnamlab/shared/Oyst_Nut_RNA/Stringtie
+
+#load packages
+module load GCCcore/9.3.0 #I needed to add this to resolve conflicts between loaded GCCcore/7.3.0 and GCCcore/9.3.0
+module load Python/2.7.15-foss-2018b #Python
+module load StringTie/2.1.4-GCC-9.3.0 #Transcript assembly: StringTie
+module load GffCompare/0.12.6-GCC-11.2.0 #Transcript assembly QC: GFFCompare
+
+#make gtf_list.txt file
+ls *.gtf > gtf_list.txt
+
+stringtie --merge -e -p 8 -G /data/putnamlab/shared/Oyst_Nut_RNA/references/GCF_002022765.2_C_virginica-3.0_genomic.gff -o Cvir_merged.gtf gtf_list.txt #Merge GTFs 
+echo "Stringtie merge complete" $(date)
+
+gffcompare -r /data/putnamlab/shared/Oyst_Nut_RNA/references/GCF_002022765.2_C_virginica-3.0_genomic.gff -G -o merged Cvir_merged.gtf #Compute the accuracy 
+echo "GFFcompare complete, Starting gene count matrix assembly..." $(date)
+
+#Note: the merged part is actually redundant and unnecessary unless we perform the original stringtie step without the -e function and perform
+#re-estimation with -e after stringtie --merge, but will redo the pipeline later and confirm that I get equal results.
+
+#make gtf list text file
+for filename in *bam.gtf; do echo $filename $PWD/$filename; done > listGTF.txt
+
+python ../scripts/prepDE.py -g Cvir_gene_count_matrix.csv -i listGTF.txt #Compile the gene count matrix
+
+echo "Gene count matrix compiled." $(date)
+```
+
+Had to add -e to stringtie --merge function, Emma, Danielle, Kevin, Ariana and Sam did not do this
+
+I used the same version of Stringtie as in the Stringtie.sh script in case there would be any inconsistencies, but next time will use the updated module (*StringTie/2.2.1-GCC-11.2.0*).
+
+Running as of 3/10/23 8am.
+
+## Export gene count matrix report to computer using scp and upload results to [Github repo](https://github.com/hputnam/Cvir_Nut_Int/blob/master/output/RNASeq/Cvir_gene_count_matrix.csv)
+
+```
+scp  zdellaert@ssh3.hac.uri.edu:/data/putnamlab/shared/Oyst_Nut_RNA/Stringtie/Cvir_gene_count_matrix.csv /Users/zoedellaert/Documents/URI/Oyst_Nut_RNA/Cvir_gene_count_matrix.csv
+```
