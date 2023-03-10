@@ -446,15 +446,15 @@ I used the same version of Stringtie as in the Stringtie.sh script in case there
 Done. Output:
 
 > 67891 reference transcripts loaded.
-> 
+
 > 37 duplicate reference transcripts discarded.
-> 
+
 > 67872 query transfrags loaded.
 
 > Stringtie merge complete Fri Mar 10 08:08:58 EST 2023
-> 
+
 > GFFcompare complete, Starting gene count matrix assembly... Fri Mar 10 08:09:11 EST 2023
-> 
+
 > Gene count matrix compiled. Fri Mar 10 08:09:53 EST 2023
 
 Stats: (merged.stats)
