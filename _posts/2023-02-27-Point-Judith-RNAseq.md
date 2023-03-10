@@ -443,7 +443,23 @@ Had to add -e to stringtie --merge function, Emma, Danielle, Kevin, Ariana and S
 
 I used the same version of Stringtie as in the Stringtie.sh script in case there would be any inconsistencies, but next time will use the updated module (*StringTie/2.2.1-GCC-11.2.0*).
 
-Running as of 3/10/23 8am.
+Done. Output:
+
+> 67891 reference transcripts loaded.
+> 
+> 37 duplicate reference transcripts discarded.
+> 
+> 67872 query transfrags loaded.
+
+> Stringtie merge complete Fri Mar 10 08:08:58 EST 2023
+> 
+> GFFcompare complete, Starting gene count matrix assembly... Fri Mar 10 08:09:11 EST 2023
+> 
+> Gene count matrix compiled. Fri Mar 10 08:09:53 EST 2023
+
+Stats: (merged.stats)
+
+![merged.stats.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/merged.stats.png?raw=true)
 
 ## Export gene count matrix report to computer using scp and upload results to [Github repo](https://github.com/hputnam/Cvir_Nut_Int/blob/master/output/RNASeq/Cvir_gene_count_matrix.csv)
 
