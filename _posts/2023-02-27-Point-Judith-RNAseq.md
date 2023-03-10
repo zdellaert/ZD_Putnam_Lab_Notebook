@@ -324,6 +324,12 @@ for i in *.bam; do
 done
 ```
 
+#### Results: Average mapping 80.87%% for DB samples, 81.63% for NS samples
+
+- took 8 hours
+
+![mapped_Cvir.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/results/mapped_Cvir.png?raw=true)
+
 ## Assemble + quantify transcripts (script in progress)
 
 Stringtie
@@ -372,3 +378,5 @@ echo "Stringtie alignment complete" $(date)
 ```
 sbatch scripts/assemble.sh
 ```
+
+### Running right now (Mar 9 7pm)
