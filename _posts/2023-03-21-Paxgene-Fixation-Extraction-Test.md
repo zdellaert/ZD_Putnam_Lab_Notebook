@@ -6,7 +6,7 @@ categories: Processing
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora acuta]
 ---
 
-# Testing Paxgene Fixative, PAXgene Tissue Stabilizer, and Extraction of DNA/RNA using Zymo Quick DNA/RNA Protocol from Stabilized Samples (Time Course), March 21, 2023
+## Testing Paxgene Fixative, PAXgene Tissue Stabilizer, and Extraction of DNA/RNA using Zymo Quick DNA/RNA Protocol from Stabilized Samples (Time Course), March 21, 2023
 
 ## Testing PAXgene Fixative and PAXgene Tissue Stabilizer
 
