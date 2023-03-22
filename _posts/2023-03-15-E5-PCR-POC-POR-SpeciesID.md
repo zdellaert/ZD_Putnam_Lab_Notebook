@@ -8,7 +8,7 @@ tags: [DNA, RNA, E5, Porites, Pocillopora]
 
 # E5 Species ID (POC and POR) via PCR and Sanger Sequencing
 
-See [base protocol and notes from Hollie](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/blob/master/protocols/SpeciesID-via-PCR-Sanger-Sequencing.md)
+See [base protocol and notes from Hollie](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/SpeciesID-via-PCR-Sanger-Sequencing.md)
 
 Master Mix Information
 
