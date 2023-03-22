@@ -156,10 +156,10 @@ No loading dye needed to add to samples because
 
 ## Nanodrop of cleaned PCR product
 
-![2023-03-15-Nanodrop-PCR-POC-E5-SpeciesID.JPG.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2023-03-15-Nanodrop-PCR-POC-E5-SpeciesID.JPG.JPG?raw=true)
+![2023-03-15-Nanodrop-PCR-POC-E5-SpeciesID.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2023-03-15-Nanodrop-PCR-POC-E5-SpeciesID.JPG?raw=true)
 
 
-![2023-03-15-Nanodrop-PCR-POR-E5-SpeciesID.JPG.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2023-03-15-Nanodrop-PCR-POR-E5-SpeciesID.JPG.JPG?raw=true)
+![2023-03-15-Nanodrop-PCR-POR-E5-SpeciesID.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2023-03-15-Nanodrop-PCR-POR-E5-SpeciesID.JPG?raw=true)
 
 ## For Sanger Sequencing
 
