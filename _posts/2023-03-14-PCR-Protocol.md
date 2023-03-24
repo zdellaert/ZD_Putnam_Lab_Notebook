@@ -133,6 +133,7 @@ For each amplification, you will need to have a positive control and a negative 
      - 10.80µL UltraPure water * _n_ =
      - 0.32µL 10uM working stock FatP6.1 primer * _n_ =
      - 0.32µL 10uM working stock RORF primer * _n_ =
+        - **add water first, then primers, then Master Mix, always load least expensive reagent --> most expensive**
 4. Vortex and spin down master mix and keep on ice.
 5. Into labeled PCR strip tubes, add 24µL of master mix to as many tubes as samples you have + the number of positive and negative controls planned. Positive and negative controls could be in a separate strip tube or individual 0.2 mL tubes since they do not need to be kept after the gel imaging step.
 6. Using a p2 pipette, add 1µL of DNA sample to their respective tube where the master mix is added. Add in 1 µL of H2O (or nothing) to the tube for the negative control and add 1 µL of the positive control DNA to the positive control tube. You should have 25µL in each tube.
@@ -150,7 +151,7 @@ For each amplification, you will need to have a positive control and a negative 
       - **30 seconds 53 ºC**
       - **60 seconds 72 ºC**
       - 5 minutes 72 ºC
-   - POR H2 program: POC zH2AH4f, bold fields are cycled 34 times
+    - POR H2 program: POC zH2AH4f, bold fields are cycled 34 times
       - 120 seconds 96 ºC
       - **20 seconds 96 ºC**
       - **20 seconds 58.5 ºC**
@@ -162,20 +163,68 @@ For each amplification, you will need to have a positive control and a negative 
 
 ### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
 
-No loading dye needed to add to samples because of the green dye in the Master Mix.
+No loading dye needed to add to samples because of the green dye in the Master Mix. Use a 1kb DNA ladder. For POC mtORF, there should be 1 band at ~1000bp. For POR H2, there should be one band at ~1500bp but the paper (see above) has also reported cases of double banding, so if you see multiple bands for this primer set it will take some digging into the literature and possibly using other primer sets for that sample (see [base protocol and notes from Hollie](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/SpeciesID-via-PCR-Sanger-Sequencing.md) for notes about other _Porites_ primers sets, many of which we already have in the lab). Other bands are signs of potential contamination or off target amplification.
 
 ### Ethanol precipitation to clean up PCR product
 
 - Sodium acetate EtoH precipitation, protocol coming soon!
 
 - Elute in TRIS
-### Nanodrop of cleaned PCR product
+  
+### Nanodrop or Qubit of cleaned PCR product
 
-- Blank nanodrop with TRIS
+Two options:
+
+1. Follow Broad Range dsDNA Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) to analyze cleaned PCR product. Read standards once and record values, read all samples twice.
+
+2. Nanodrop the samples:
+
+   - The standard PPP Nanodrop protocol for RNA can be found [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Nanodrop-Protocol/).
+   - I used the nanodrop in the Lane lab with supervision/permission from Kristina Terpis, the Technician in the Putnam and Lane labs. The protocol is the same but it only can read one sample at a time and there is no printer, so I record the values by hand and take a picture of the screen.
+   - Blank nanodrop with the same TRIS used to elute the cleaned PCR product.
+
 ### For Sanger Sequencing
 
-### Primer Dilution from 10 µM Primer Working stock to 3.2 µM for sequencing
+#### Primer Dilution from 10 µM Primer Working stock to 3.2 µM for sequencing
 
-1.6 µL of 10 µM primer + 3.4 µL H2O = 5 µL
+        1.6 µL of 10 µM primer + 3.4 µL H2O = 5 µL
 
-Make enough for # of sequencing reactions, 2µL per reaction (e.g. 35 µL for 15 samples, 30 µL plus extra for error)
+For each primer that you are using to sequence (forward and reverse) make enough for # of samples times two so you have 2µL per reaction (e.g. 30 µL plus some extra for error)
+
+#### Prep for sequencing (post PCR bench)
+
+**Notes**
+
+**[GSC Template to fill out](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/gsc_template.xlsx), does the below calculations for you**
+
+- For Sanger sequencing at the URI GSC the amount of DNA to send them depends on how long the fragment is. The equation for how many ng to send is **((number of bases / 100)) * 1.25) * 2**  
+    - For mtORF the calculation is: ((665/100)* 1.25) * 2 = 16.625. That means you'll need 25ng of each amplification
+    - For H2 the calculation is: ((1500/100)* 1.25) * 2 = 37.5. That means you'll need 37.5ng of each amplification
+- 16.625 ng is not a lot of DNA, so some of your Qubit values are likely going to be higher than 16.625ng/ul. It's best practice not to pipette below 1ul, so it's probably you'll need to dilute the amplifications.
+- The volume of liquid sent to the GSC is 12ul total, and 2ul of that is one of the primers. So you have 10ul to use for DNA. Depending on the concentrations, you'll have to decide if a 1:10, 1:5, 1:2, etc dilution will work to pipette over 1ul for 25ng but under 10ul.
+- You'll also have to dilute the primers to send with your DNA. Sanger sequencing amplifies the fragment with one of the two primers at a time, so you will submit two tubes per sample, one prepared with the forward primer and one prepared with the reverse primer. Primers are at a working stock concentration of 10uM, but need to be added as 2ul of 3.2uM concentration to the 10ul of DNA (see calculation for dilution to this concentration above).
+
+**Tube labelling for GSC:**
+
+"Please identify your samples using the following code: Your initials followed by the number 1 to 9999 (i.e.: PJ1, PJ2, etc.). You should increment the number with each submission. This code facilitates instrument plate setup and data file management." This is how Kristina taught me to label, and I would continue that pattern for #s 9-XX with the ZD on the first and last tube/lid as shown:
+
+![Sanger_tubes.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Sanger_tubes.JPG?raw=true)
+
+**Steps for sequencing prep:**
+
+1. Dilute DNA into new strip tubes. As an example, fill all the strip tubes (for appropriate # of samples x 2 for the forward and reverse primers) with 9uL of water and then add  1ul from each sample into the appropriately labelled tube. That would be a 1:10 dilution
+2. Dilute one of the primers to 3.2uM in volume for 2ul per sample (see above).
+3. Calculate volume of DNA for each sample (use the dilution factor you used on your previous concentration values)
+4. Aliquot labelled strip tubes with the correct amount of DNA per sample and nuclease free water up to 10ul for each well (add water first, then DNA, then primers, always load least expensive reagent --> most expensive). Using a sample list here where you highlight off each well after adding the right amount is very helpful. For setting up forward and reverse reactions, each sample will be pipetted into two wells (i.e. tubes 1 & 2 will both contain sample POC1, tubes 3 & 4 will both contain sample POC2, so be very careful in this pipetting step because it can get confusing).
+5. Add 2ul of 3.2uM FORWARD primer to the first tube for each sample (i.e. in the example above tubes 1 & 3) and 2ul of 3.2uM REVERSE primer to the second tube for each sample (i.e. in the example above tubes 2 & 4).
+6. Fill out the template linked above and print out two copies. One is for your records and can contain extraneous information such as your sample # (POC1 as opposed to the # given to GSC, ZD1), the undiluted concentration, and anything else you want to include in your lab notebook. The copy you print for GSC should have this info removed before printing. Either print this and bring it with you and add to the clipboard on the sample drop-off freezer or email this sheet to the GSC at jatoyan@uri.edu or gsc@etal.uri.edu saying you are submitting how ever many samples for Sanger sequencing for the Putnam Lab using her blanket PO (purchase order).
+
+My copy:
+![Sanger_sheet_mycopy.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Sanger_sheet_mycopy.JPG?raw=true)
+
+GSC copy:
+![Sanger_sheet_GSC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Sanger_sheet_GSC.JPG?raw=true)
+
+7. Take plate/tubes up to the GSC and place in freezer next to the door. There is a place on the top shelf that with a label that says "samples for GSC sequencing", place your tubes in that rack (right now it is purple).
+
+You should get the sequences back the next day!
