@@ -25,8 +25,8 @@ For all primer sets below, I used the same reaction formula:
 |---------------------------|-----------------------------------|
 | 12.55                     | Emerald Master Mix                |
 | 10.8                      | Nuclease Free Water               |
-| 0.32                      | 10µM working stock of For Primer (10 uM) |
-| 0.32                      | 10µM working stock of Rev Primer (10 uM) |
+| 0.32                      | 10µM working stock of For Primer  |
+| 0.32                      | 10µM working stock of Rev Primer  |
 | 1.00                      | DNA Template                      |
 | 25                        | Total Volume                      |
 ## _Pocillopora_
@@ -127,18 +127,10 @@ coral nuclear histone region spanning H2A to H4 (H2) with novel primers
 
 ### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
 
-No loading dye needed to add to samples because
-
 ![2023-03-14-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-14-gel.JPG?raw=true)
 
 
 ![2023-03-15-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-15-gel.JPG?raw=true)
-
-
-## Ethanol precipitation to clean up PCR product
-
-- Sodium acetate EtoH precipitation, protocol coming soon!
-
 
 ## Nanodrop of cleaned PCR product
 
