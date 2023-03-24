@@ -6,7 +6,7 @@ categories: Analysis
 tags: [RNA, OysterPaper]
 ---
 
-# Point Judith Oyster RNAseq Analysis
+## Point Judith Oyster RNAseq Analysis
 ### Point Judith Oyster RNAseq Initial QC : https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Point-Judith-RNAseq-QC/
 
 ## Notes
