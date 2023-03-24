@@ -131,8 +131,8 @@ For each amplification, you will need to have a positive control and a negative 
 3. Make master mix in 1.5mL or 5mL tube with these components scaled up to your _n_ number:
      - 12.55µL Emerald PCR master mix * _n_ =
      - 10.80µL UltraPure water * _n_ =
-     - 0.32µL 10uM working stock FatP6.1 primer * _n_ =
-     - 0.32µL 10uM working stock RORF primer * _n_ =
+     - 0.32µL 10µM working stock FatP6.1 primer * _n_ =
+     - 0.32µL 10µM working stock RORF primer * _n_ =
         - **add water first, then primers, then Master Mix, always load least expensive reagent --> most expensive**
 4. Vortex and spin down master mix and keep on ice.
 5. Into labeled PCR strip tubes, add 24µL of master mix to as many tubes as samples you have + the number of positive and negative controls planned. Positive and negative controls could be in a separate strip tube or individual 0.2 mL tubes since they do not need to be kept after the gel imaging step.
@@ -163,23 +163,25 @@ For each amplification, you will need to have a positive control and a negative 
 
 ### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
 
-Load 4 uL of the 25 uL of PCR product into the gel.
+Dilute 1kb ladder: 6 µL H2O, 2 µL of ladder, and 2 µL of loading dye, load 5 µL of this mixture per row.
+
+Load 4 µL of the 25 µL of PCR product into the gel.
 
 No loading dye needed to add to samples because of the green dye in the Master Mix. Use a 1kb DNA ladder. For POC mtORF, there should be 1 band at ~1000bp. For POR H2, there should be one band at ~1500bp but the paper (see above) has also reported cases of double banding, so if you see multiple bands for this primer set it will take some digging into the literature and possibly using other primer sets for that sample (see [base protocol and notes from Hollie](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/SpeciesID-via-PCR-Sanger-Sequencing.md) for notes about other _Porites_ primers sets, many of which we already have in the lab). Other bands are signs of potential contamination or off target amplification.
 
 ### Ethanol precipitation to clean up PCR product
 
-1. Add 2.1ul of 3M sodium acetate to each PCR reaction (1/10th the total voume)
-2. Add 69.3ul of **ice cold** 100% ethanol to each tube (3x the total volume after adding sodium acetate)
+1. Add 2.1µL of 3M sodium acetate to each PCR reaction (1/10th the total voume)
+2. Add 69.3µL of **ice cold** 100% ethanol to each tube (3x the total volume after adding sodium acetate)
 3. Pipette up and down to mix and transfer entire volume to a new labeled 1.5ml tube
 4. Place tubes in -80 ºC freezer for 1 hour or in the -20 ºC freezer overnight
 5. Spin for 30 minutes at 15,000rcf (room temp). Make sure all the tubes are facing the same way (hinges out). The DNA will pellet on the back wall
 6. Pipette off the liquid without disturbing the pellet. It will most likely be invisible.
-7. Add 200ul of **ice cold** 70% Ethanol
+7. Add 200µL of **ice cold** 70% Ethanol
 8. Spin for 15 minutes at 15,000rcf. This is to wash the pellet. Again make sure each tube is facing the same direction
 9. Pipette off the ethanol without disturbing the pellet
 10. Let dry at room temperature with the caps open for about 15 minutes or until all ethanol has evaporated
-11. Add 30ul of Tris to the pellet and pipette up and down to resuspend, go straight to nanodrop/qubit quantification or store cleaned PCR product in the -20 ºC freezer.
+11. Add 30µL of Tris to the pellet and pipette up and down to resuspend, go straight to nanodrop/qubit quantification or store cleaned PCR product in the -20 ºC freezer.
   
 ### Nanodrop or Qubit of cleaned PCR product
 
@@ -210,8 +212,8 @@ For each primer that you are using to sequence (forward and reverse) make enough
 - For Sanger sequencing at the URI GSC the amount of DNA to send them depends on how long the fragment is. The equation for how many ng to send is **((number of bases / 100)) * 1.25) * 2**  
     - For mtORF the calculation is: ((665/100)* 1.25) * 2 = 16.625. That means you'll need 16.625ng of each amplification
     - For H2 the calculation is: ((1500/100)* 1.25) * 2 = 37.5. That means you'll need 37.5ng of each amplification
-- 16.625 ng is not a lot of DNA, so some of your Qubit values are likely going to be higher than 16.625ng/ul. It's best practice not to pipette below 1ul, so it's probably you'll need to dilute the amplifications.
-- The volume of liquid sent to the GSC is 12ul total, and 2ul of that is one of the primers. So you have 10ul to use for DNA. Depending on the concentrations, you'll have to decide if a 1:10, 1:5, 1:2, etc dilution will work to pipette over 1ul for 16.625 ng but under 10ul.
+- 16.625 ng is not a lot of DNA, so some of your Qubit values are likely going to be higher than 16.625ng/µL. It's best practice not to pipette below 1µL, so it's probably you'll need to dilute the amplifications.
+- The volume of liquid sent to the GSC is 12µL total, and 2µL of that is one of the primers. So you have 10µL to use for DNA. Depending on the concentrations, you'll have to decide if a 1:10, 1:5, 1:2, etc dilution will work to pipette over 1µL for 16.625 ng but under 10µL.
 
 **Tube labelling for GSC:**
 
@@ -221,12 +223,12 @@ For each primer that you are using to sequence (forward and reverse) make enough
 
 **Steps for sequencing prep:**
 
-1. Dilute DNA into new strip tubes. As an example, fill all the strip tubes (for appropriate # of samples x 2 for the forward and reverse primers) with 9uL of water and then add  1ul from each sample into the appropriately labelled tube. That would be a 1:10 dilution
-2. Dilute each of the primers to 3.2uM in volume for 2ul per sample (see above). Sanger sequencing amplifies the fragment with one of the two primers at a time, so you will submit two tubes per sample, one prepared with the forward primer and one prepared with the reverse primer.
+1. Dilute DNA into new strip tubes. As an example, fill all the strip tubes (for appropriate # of samples x 2 for the forward and reverse primers) with 9µL of water and then add  1µL from each sample into the appropriately labelled tube. That would be a 1:10 dilution
+2. Dilute each of the primers to 3.2µM in volume for 2µL per sample (see above). Sanger sequencing amplifies the fragment with one of the two primers at a time, so you will submit two tubes per sample, one prepared with the forward primer and one prepared with the reverse primer.
 3. Calculate volume of DNA for each sample (use the dilution factor you used on your previous concentration values)
-4. Aliquot labelled strip tubes with the correct amount of DNA per sample and nuclease free water up to 10ul for each well (add water first, then DNA, then primers, always load least expensive reagent --> most expensive). Using a sample list here where you highlight off each well after adding the right amount is very helpful. For setting up forward and reverse reactions, each sample will be pipetted into two wells (i.e. tubes 1 & 2 will both contain sample POC1, tubes 3 & 4 will both contain sample POC2, so be very careful in this pipetting step because it can get confusing).
-   - example: 2.9 uL of 1:10 diluted DNA and 7.1 uL of H2O
-5. Add 2ul of 3.2uM FORWARD primer to the first tube for each sample (i.e. in the example above tubes 1 & 3) and 2ul of 3.2uM REVERSE primer to the second tube for each sample (i.e. in the example above tubes 2 & 4).
+4. Aliquot labelled strip tubes with the correct amount of DNA per sample and nuclease free water up to 10µL for each well (add water first, then DNA, then primers, always load least expensive reagent --> most expensive). Using a sample list here where you highlight off each well after adding the right amount is very helpful. For setting up forward and reverse reactions, each sample will be pipetted into two wells (i.e. tubes 1 & 2 will both contain sample POC1, tubes 3 & 4 will both contain sample POC2, so be very careful in this pipetting step because it can get confusing).
+   - example: 2.9 µL of 1:10 diluted DNA and 7.1 µL of H2O
+5. Add 2µL of 3.2µM FORWARD primer to the first tube for each sample (i.e. in the example above tubes 1 & 3) and 2µL of 3.2µM REVERSE primer to the second tube for each sample (i.e. in the example above tubes 2 & 4).
 6. Fill out the template linked above and print out two copies. One is for your records and can contain extraneous information such as your sample # (POC1 as opposed to the # given to GSC, ZD1), the undiluted concentration, and anything else you want to include in your lab notebook. The copy you print for GSC should have this info removed before printing. Either print this and bring it with you and add to the clipboard on the sample drop-off freezer or email this sheet to the GSC at jatoyan@uri.edu or gsc@etal.uri.edu saying you are submitting how ever many samples for Sanger sequencing for the Putnam Lab using her blanket PO (purchase order).
 
 My copy:
