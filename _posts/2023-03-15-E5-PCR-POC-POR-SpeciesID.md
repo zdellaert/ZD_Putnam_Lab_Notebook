@@ -11,7 +11,7 @@ tags: [DNA, RNA, E5, Porites, Pocillopora]
 See [base protocol and notes from Hollie](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/SpeciesID-via-PCR-Sanger-Sequencing.md)
 
 
-See [my PCR Protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/_posts/2023-03-14-PCR-Protocol.md), based on instruction from Kristina Terpis
+See [my PCR Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/2023-03-14-PCR-Protocol), based on instruction from Kristina Terpis
 
 
 Master Mix Information
