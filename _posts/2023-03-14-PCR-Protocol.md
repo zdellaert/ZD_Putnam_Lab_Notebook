@@ -240,3 +240,19 @@ GSC copy:
 7. Take plate/tubes up to the GSC and place in freezer next to the door. There is a place on the top shelf that with a label that says "samples for GSC sequencing", place your tubes in that rack (right now it is purple).
 
 You should get the sequences back the next day!
+
+
+### For RFLP Using Restriction Enzymes
+
+After PocHistone amplification of a subset of mtORF samples that were amplified and identified to be [mtORF type 1 (P. meandrina and P. eydouxi)](https://peerj.com/articles/4355/), we can do RFLP using the XhoI RE to try to differentiate the species. After checking the PCR product on the gel, do the following:
+
+1. Pipette 15ul of the PocHistone PCR product into a new labeled 0.2ml strip tube
+2. Add 0.5ul of 1x Cutsmart buffer (dilute from 10x tube) and 0.5ul of XhoI RE
+3. Incubated at 37 ºC for one hour, and then at 65 ºC for 20 minutes to inactivate the enzyme.
+4. Run a 2% gel for 1 hour at 70V (load 3ul from each tube)
+5. Analyze banding pattern on gel.
+
+
+[Johnston et. al 2018](https://peerj.com/articles/4355/):
+
+> "DNA from individuals of mtORF type 1 (P. meandrina and P. eydouxi) were amplified using novel primers for this histone 3 region (PocHistoneF: 5′-ATTCAGTCTCACTCACTCACTCAC-3′ and PocHistoneR: 5′-TATCTTCGAACAGACCCACCAAAT-3′; accession numbers: MG587096–MG587097) (Table 1). PCR mixes were prepared as described above, and the following thermocycling protocol was used: denaturation for 60 s at 94 °C, followed by 40 cycles of 30 s at 94 °C, 30 s at 53 °C, and 60 s at 72 °C, with a final elongation step of 5 min at 72 °C. PCR products were digested with 0.5 μL of XhoI restriction enzyme (New England BioLabs, Ipswich, MA, USA) and 0.5 μL of 1X CutSmart® buffer for 1 hr at 37 °C, followed by heat inactivation at 65 °C for 20 min (Table 1). Three microliters of the digested products were run on a 2% TAE-agarose gel for 1.5 h at 70 V."
