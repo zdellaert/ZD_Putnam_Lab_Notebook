@@ -12,9 +12,7 @@ See [base protocol and notes from Hollie](https://github.com/zdellaert/ZD_Putnam
 
 Followed [my PCR Protocol exactly](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PCR-Protocol), based on instruction from Kristina Terpis
 
-## Sample List: All POC and POR colonies from the E5 timeseries need to be ID'd at one of the timepoints.
-
-### Starting with Site 1
+## Sample List: All POC and POR colonies from the E5 timeseries need to be ID'd at one of the timepoints. Starting with Site 1.
 
 ### Amplification of 15 POC samples with mtORF on 3/14/2023.
 
@@ -101,4 +99,4 @@ Positive control: Kristina's E5 extracted DNA Tube #5 (extraction date: 20210826
 
 ![2023-03-15-Nanodrop-PCR-POR-E5-SpeciesID.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2023-03-15-Nanodrop-PCR-POR-E5-SpeciesID.JPG?raw=true)
 
-## Sent For Sanger Sequencing on 3/16/2023
+## POC mtORF (ZD01-30) and POR H2 (ZD33-62) were sent For Sanger Sequencing on 3/16/2023. POC PocHistone (ZD63-84) were sent for sequencing on 3/28/2023.
