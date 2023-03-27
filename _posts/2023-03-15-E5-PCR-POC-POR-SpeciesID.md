@@ -76,6 +76,9 @@ Pipetted 15ul of the histone PCR product into a new labeled 0.2ml strip tube, an
 
 3ul of the reaction was run out on a 2% gel for one hour at 70V.
 
+#### DNA and RNA Quality Check: 2% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 70V for 60 mins.
+
+![2023-03-27-RFLP-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-27-RFLP-gel.JPG?raw=true)
 
 ### Amplification of 15 POR samples on 3/15/2023.
 
