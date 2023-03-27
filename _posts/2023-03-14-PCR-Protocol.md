@@ -210,10 +210,11 @@ For each primer that you are using to sequence (forward and reverse) make enough
 **[GSC Template to fill out](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/gsc_template.xlsx), does the below calculations for you**
 
 - For Sanger sequencing at the URI GSC the amount of DNA to send them depends on how long the fragment is. The equation for how many ng to send is **((number of bases / 100)) * 1.25) * 2**  
-    - For mtORF the calculation is: ((665/100)* 1.25) * 2 = 16.625. That means you'll need 16.625ng of each amplification
+    - For mtORF the calculation is: ((1000/100)* 1.25) * 2 = 25. That means you'll need 25ng of each amplification
+    - For PocHistone the calculation is: ((675/100)* 1.25) * 2 = 16.875. That means you'll need 16.875ng of each amplification
     - For H2 the calculation is: ((1500/100)* 1.25) * 2 = 37.5. That means you'll need 37.5ng of each amplification
-- 16.625 ng is not a lot of DNA, so some of your Qubit values are likely going to be higher than 16.625ng/µL. It's best practice not to pipette below 1µL, so it's probably you'll need to dilute the amplifications.
-- The volume of liquid sent to the GSC is 12µL total, and 2µL of that is one of the primers. So you have 10µL to use for DNA. Depending on the concentrations, you'll have to decide if a 1:10, 1:5, 1:2, etc dilution will work to pipette over 1µL for 16.625 ng but under 10µL.
+- 25 ng is not a lot of DNA, so some of your Qubit values are likely going to be higher than 25ng/µL. It's best practice not to pipette below 1µL, so it's probably you'll need to dilute the amplifications.
+- The volume of liquid sent to the GSC is 12µL total, and 2µL of that is one of the primers. So you have 10µL to use for DNA. Depending on the concentrations, you'll have to decide if a 1:10, 1:5, 1:2, etc dilution will work to pipette over 1µL for 25 ng but under 10µL.
 
 **Tube labelling for GSC:**
 
