@@ -43,9 +43,15 @@ For the purpose of creating reference transcriptomes, I made 3 pools of RNA for 
 
 For each species, take 40 µL per sample (4 samples total) and transfer into a new tube labelled for that species. Mix together, final volume in each tube will be 160 µL. This is pooling 12 tubes into 3 species-specific tubes, and these three tubes will be all you work with for the clean and concentrate kit.
 
-Then, follow the procedure for the Zymo Clean and Concentrate kit, eluting in 25 µL of DNAse/RNAse free water.
+Then, follow the [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Zymo_RNA_Clean_Concentrate.pdf) for the Zymo Clean and Concentrate kit, eluting in 25 µL of DNAse/RNAse free water.
 
-[base Zymo protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Zymo_RNA_Clean_Concentrate.pdf)
+1. Since each sample is 160 uL, add 230 uL of RNA binding buffer.
+2. Add an equal volume (480 uL) of 100% ethanol and mix.
+3. Transfer the sample to the Zymo-Spin™ IC Column in a Collection Tube and centrifuge. Discard the flow-through.
+4. Add 400 µl RNA Prep Buffer to the column and centrifuge. Discard the flow-through.
+5. Add 700 µl RNA Wash Buffer to the column and centrifuge. Discard the flow-through.
+6. Add 400 µl RNA Wash Buffer to the column and centrifuge for 1 minute ensure complete removal of the wash buffer. Carefully, transfer the column into a RNase-free tube (not provided).
+7. Add 25 µl DNase/RNase-Free Water directly to the column matrix and centrifuge.
 
 ## Qubit Results
 
@@ -56,9 +62,9 @@ Then, follow the procedure for the Zymo Clean and Concentrate kit, eluting in 25
 
 | colony_id | Species                     | RNA_QBIT_1 | RNA_QBIT_2 | AVG (ng/uL) | Volume (uL), after Qubit| Final Amount RNA (ng) |
 |-----------|-----------------------------|------------|------------|--------------|-------------|-----------------|
-| Dlab Pool | *Diploria labyrinthiformis* | 45.6       | 45.2       | 45.4         | 24          | 1089.6            |
-| Mcav Pool | *Montastraea cavernosa*     | 76.0       | 75.6       | 75.8         | 24          | 1819.2            |
-| Mdec Pool | *Madracis decactis*         | 80.4       | 78.4       | 79.4         | 24          | 1905.6           |
+| Dlab Pool | *Diploria labyrinthiformis* | 45.6       | 45.2       | **45.4**     | 24          | **1089.6**           |
+| Mcav Pool | *Montastraea cavernosa*     | 76.0       | 75.6       | **75.8**         | 24          | **1819.2**            |
+| Mdec Pool | *Madracis decactis*         | 80.4       | 78.4       | **79.4**         | 24          | **1905.6**           |
 
 So all three pools are at least double the minimum amount of 500 ng, but a little lower (DLAB almost 1/2) than the recommended amount of 2000 ng. MDEC and MCAV are both well above the recommened concentration of 50 ng/uL and DLAB is very close, so I believe all pools are ready for sequencing.
 
