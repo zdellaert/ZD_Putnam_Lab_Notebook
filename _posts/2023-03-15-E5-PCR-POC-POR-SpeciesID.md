@@ -67,18 +67,9 @@ No postive control.
 #### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
 
 ![2023-03-27-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-27-gel.JPG?raw=true)
+#### Nanodrop of cleaned PCR product
 
-### RFLP of the PocHistone PCR product with XHol Restriction Enzyme
-
-Notes: Did a 33uL PCR for PocHistone to try to stay consistent with [previously run protocols](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/_posts/2022-04-26-20220426-mtORF-RFPL-of-POC-samples.md) in the Putnam Lab for first RFLP attempt.
-
-Pipetted 15ul of the histone PCR product into a new labeled 0.2ml strip tube, and added 0.5ul of 1x Cutsmart buffer and 0.5ul of XhoI RE. These samples were then incubated at 37C for one hour, and then at 65C for 20 minutes to inactivate the enzyme.
-
-3ul of the reaction was run out on a 2% gel for one hour at 70V.
-
-#### DNA and RNA Quality Check: 2% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 70V for 60 mins.
-
-![2023-03-27-RFLP-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-27-RFLP-gel.JPG?raw=true)
+![2023-03-27-Nanodrop-PCR-POC-E5-SpeciesID.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tables/2023-03-27-Nanodrop-PCR-POC-E5-SpeciesID.JPG?raw=true)
 
 ### Amplification of 15 POR samples on 3/15/2023.
 
