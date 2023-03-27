@@ -244,7 +244,7 @@ You should get the sequences back the next day!
 
 ### For RFLP Using Restriction Enzymes
 
-After PocHistone amplification of a subset of mtORF samples that were amplified and identified to be [mtORF type 1 (P. meandrina and P. eydouxi)](https://peerj.com/articles/4355/), we can do RFLP using the XhoI RE to try to differentiate the species. After checking the PCR product on the gel, do the following:
+After PocHistone amplification of a subset of mtORF samples that were amplified and identified to be [mtORF type 1 (P. meandrina and P. eydouxi)](https://peerj.com/articles/4355/), we can do RFLP using the XhoI RE to try to differentiate the species. After checking the PCR product on the gel, send for sequencing as described above **or** do the following:
 
 1. Pipette 15ul of the PocHistone PCR product into a new labeled 0.2ml strip tube
 2. Add 0.5ul of 1x Cutsmart buffer (dilute from 10x tube) and 0.5ul of XhoI RE
