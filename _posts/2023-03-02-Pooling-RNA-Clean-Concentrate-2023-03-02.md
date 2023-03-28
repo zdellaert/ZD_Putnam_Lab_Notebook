@@ -45,7 +45,7 @@ For each species, take 40 µL per sample (4 samples total) and transfer into a n
 
 Then, follow the [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Zymo_RNA_Clean_Concentrate.pdf) for the Zymo Clean and Concentrate kit, eluting in 25 µL of DNAse/RNAse free water.
 
-1. Since each sample is 160 uL, add 230 uL of RNA binding buffer.
+1. Since each sample is 160 uL, add 320 uL of RNA binding buffer.
 2. Add an equal volume (480 uL) of 100% ethanol and mix.
 3. Transfer the sample to the Zymo-Spin™ IC Column in a Collection Tube and centrifuge. Discard the flow-through.
 4. Add 400 µl RNA Prep Buffer to the column and centrifuge. Discard the flow-through.
