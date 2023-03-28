@@ -34,23 +34,46 @@ Followed this [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Prot
 
 2 hours after pouring off the PAXgene fixative and replacing with PAXgene stabilizer (samples maintained at 4 ºC during this time), I removed one fragment from the PAXgene stabilizer and immediately transferred it to a 2 mL tube filled with 1 mL of DNA/RNA shield and beads and continued as described in the protocol for processing samples in RNAlater.
 
+Qubit information for 3/21/23:
+ DNA Standards: 210.45 (S1) & 24497.80 (S2)
+
+ RNA Standards: 414.90 (S1) & 8937.18 (S2)
+
+### Extraction, Week 1 + -80 ºC:
+
+At 12pm on 3/28/23, I started the extraction of one branchlet that had been kept in the PAXgene stabilizer at 4 ºC for one week exactly and one that had been kept at -80 ºC for one week exactly. Same protocol as prior.
+
+Qubit information for 3/28/23:
+ DNA Standards: 193.30 (S1) & 20909.36 (S2)
+
+ RNA Standards: 399.23 (S1) & 8736.93 (S2)
+
 ### Qubit Results
 
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
- DNA Standards: 210.45 (S1) & 24497.80 (S2)
-
 | colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
 |-----------|------------|------------|--------------|
 | Day 1     | 20.6       | 20.6       | 20.6         |
+| Week 1    | 6.46       | 6.50       | 6.48         |
+| -80C      | 20.2       | 20.6       | 20.4         |
 
- RNA Standards: 414.90 (S1) & 8937.18 (S2)
+-----
 
 | colony_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|------------|------------|--------------|
 | Day 1     | 31.2       | 31.2       | 31.2         |
+| Week 1    | 12.0       | 12.4       | 12.2         |
+| -80C      | 27.0       | 27.2       | 27.1         |
 
 ### DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
+Gel from 3/21/2023, of DNA and RNA extracted from the "Day 1" Sample
 ![2023-03-21-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-21-gel.JPG?raw=true)
+
+
+Gel from 3/28/2023, of DNA and RNA extracted from the "Week 1" Sample and "-80 ºC" Sample, in that order.
+
+Interesting that the -80 bands are brighter than the Week 1 @ 4 ºC in both the RNA and DNA, but the DNA looks smearier than the Week 1 band...
+![2023-03-28-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-28-gel.JPG?raw=true)
