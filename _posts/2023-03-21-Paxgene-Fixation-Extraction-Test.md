@@ -85,3 +85,9 @@ Okay, so it seems like keeping these in the -80 and extracting as quickly as pos
 Next step: I have one more sample to extract next week at the 2 week mark. 
 
 I want to try to figure out a decalcification protocol for these samples. [One paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3218013/) I read did this post-parrafin embedding, but in my experience most coral fixation protocols do it before.
+
+3/29/23: Called Qiagen was pushed up to R & D team, waiting on email from them.
+
+## Questions for Lab Meeting
+
+We normally dilute fixative with seawater or prepare PFA in seawater buffer - do you think we should be doing so with these solutions?
