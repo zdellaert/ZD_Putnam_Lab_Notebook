@@ -76,4 +76,12 @@ Gel from 3/21/2023, of DNA and RNA extracted from the "Day 1" Sample
 Gel from 3/28/2023, of DNA and RNA extracted from the "Week 1" Sample and "-80 ºC" Sample, in that order.
 
 Interesting that the -80 bands are brighter than the Week 1 @ 4 ºC in both the RNA and DNA, but the DNA looks smearier than the Week 1 band...
-![2023-03-28-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-28-gel.JPG?raw=true)
+![2023-03-28-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-28-gel.JPG?raw=true) 
+
+## Notes
+
+Okay, so it seems like keeping these in the -80 and extracting as quickly as possible is probably a good idea. 
+
+Next step: I have one more sample to extract next week at the 2 week mark. 
+
+I want to try to figure out a decalcification protocol for these samples. [One paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3218013/) I read did this post-parrafin embedding, but in my experience most coral fixation protocols do it before.
