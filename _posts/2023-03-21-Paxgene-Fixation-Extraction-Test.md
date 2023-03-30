@@ -91,3 +91,7 @@ I want to try to figure out a decalcification protocol for these samples. [One p
 ## Questions for Lab Meeting
 
 We normally dilute fixative with seawater or prepare PFA in seawater buffer - do you think we should be doing so with these solutions?
+
+Feedback from Qiagen R & D: 
+
+"We have tried to decalcify bone samples after fixation with PAXgene Tissue. Using HCl (1M) for decalcification after tissue fixation is in principle possible, but morphology as well as RNA quality is compromised. An alternative to acid would be incubation in EDTA, but this takes longer and also did not lead to optimal results. DNA seems least affected."
