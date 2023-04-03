@@ -3,7 +3,7 @@ layout: post
 title: 2023-03-21 Paxgene Fixation, Stabilization, and Extraction Test
 date: '2023-03-21 16:00:00'
 categories: Processing
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora acuta]
+tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
 ---
 
 ## Testing Paxgene Fixative, PAXgene Tissue Stabilizer, and Extraction of DNA/RNA using Zymo Quick DNA/RNA Protocol from Stabilized Samples (Time Course), March 21, 2023
