@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023-04-03 Paxgene Fixation, Stabilization, and Extraction Test
-date: '2023-04-03 16:00:00'
+date: '2023-04-03 10:00:00'
 categories: Processing
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
 ---

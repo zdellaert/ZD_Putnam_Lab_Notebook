@@ -2,7 +2,7 @@
 layout: post
 title: 2023-03-14 PCR Protocol
 date: '2023-03-14 16:00:00'
-categories: Protocol
+categories: Protocols
 tags: [DNA, Porites, Pocillopora]
 ---
 
