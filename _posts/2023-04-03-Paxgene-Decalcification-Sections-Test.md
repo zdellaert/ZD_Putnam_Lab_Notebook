@@ -62,6 +62,12 @@ Example protocols:
   - Fixed in **3% paraformaldehyde in S22 buffer** at 4°C overnight
   - Decalcified using 0.5 M EDTA in Ca-free S22 at 4°C. 
   - They were then dehydrated in an ethanol series and embedded in Paraplast.
+- EDTA decalcification: [Liu et al tissue clearing](https://www.nature.com/articles/s41558-018-0351-2), similar to both EDTA protocols above, but concentrations slightly different
+  - Fixed in **4% paraformaldehyde in filtered sea water (FSW)**
+  - Washed with 0.01‐M PBS 3x at room temperature
+  - Decalcification in 10% EDTA at pH 7.4.
+    - "The solution was replaced twice every day until the whole skeleton was removed."
+  - "Methanol was used for decolorising and permeabilisation. The samples were washed with PBS thrice and dehydrated in 50%, 75%, 90%, and 100% methanol in 0.01‐M PBS"
 - Morse's solution decalcifcation
   - [Nikki Traylor-Knowles 2017 Paper Protocol](https://doi.org/10.1242/jeb.155275)
   - Coral fixed in in 4% paraformaldehyde in filtered seawater
