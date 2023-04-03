@@ -27,12 +27,46 @@ Here are the different trials:
 Order of operations:
 
 1. Fix branchlets in PAXgene fixative for 24 hours.
+   1. **Fixation could probably be cut to overnight?**
 2. Transfer branchlets to PAXgene stabilizer for at least 2 hours at 4ºC to allow for penetration of stabilizer into the tissues.
 3. Cut branchlets into disks and record weight - divide into various decalcification treatments.
+   1. **TWO per treatment, one for RNA and one for histology**
 4. After decalcification, samples should go straight into labelled tubes with PAXgene stabilizer, possibly with another 4 ºC incubation step to allow for PAXgene stabilizer penetration into tissue, and then stored at -80ºC. (We can also test putting them in the fridge)
+   1. Decalc is done when disk floats and there is no CaCO3 left visually
 5. Then extract these using Zymo RNA extraction kit. Weighing starting material to try to keep it consistent is a good idea. 
-   1. Bead-beat 2 mins with DNA/RNA shield or not?
-
-How to tell when decalc is done? Disk needs to float.
+   1. **Bead-beat 2 mins with DNA/RNA shield or not?**
 
 Do we have a cold room? How does this compare to decalcifying on ice?
+
+Do we want to buy tissue casettes? The PAXgene containers can hold 4 casettes.
+
+Example protocols:
+
+- HCl decalcifcation: [Jill](https://jillashey.github.io/JillAshey_Putnam_Lab_Notebook/CoralHistlogy/) and [Chloe](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/_posts/2021-06-14-Decalcification.md) protocol
+  - Corals fixed in **Zfix (10% aqueous buffered zinc formalin) with filtered seawater (FSW), 1:4 ratio of Z-fix:FSW**
+  - Z-fix replaced with 70% ethanol
+  - **Decalcified in 10% HCl**
+  - Then stored in 20% Z-fix
+- EDTA decalcifcation: [Katie Barrot protocol](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b)
+  - Corals fixed in **S22 buffer with 3% paraformaldehyde (PFA)** overnight at 4 °C
+  - "Decalcify by transferring fragment to **Ca-free S22 buffer with 0.5 M EDTA and 0.5% paraformaldehyde** and incubate at 4 °C. Replace the buffer daily until the skeleton is completely dissolved (~7 days depending on size of fragment and thickness/density of skeleton)."
+    - Ca-free S22 buffer + 0.5 M EDTA
+      - 450 mM NaCl
+      - 10 mM KCl
+      - 58 mM MgCl2
+      - 0.5 M EDTA
+      - 100 mM Hepes (pH 7.8)
+        - Note: Adjust pH of Hepes buffer with NaOH.
+  - Then dehydrated in ethanol series starting with 50% ethanol
+- EDTA decalcification: [Liew et al laser microdissection protocol](https://www.science.org/doi/10.1126/sciadv.aar8028), basically the exact same as above
+  - Fixed in **3% paraformaldehyde in S22 buffer** at 4°C overnight
+  - Decalcified using 0.5 M EDTA in Ca-free S22 at 4°C. 
+  - They were then dehydrated in an ethanol series and embedded in Paraplast.
+- Morse's solution decalcifcation
+  - [Nikki Traylor-Knowles 2017 Paper Protocol](https://doi.org/10.1242/jeb.155275)
+  - Coral fixed in in 4% paraformaldehyde in filtered seawater
+  - Washed in PBS
+  - Stored in methanol at −20°C
+  - Samples prepared by a histology lab (IDEXX)
+  - "Samples were decalcified using Morse’s solution (25% formic acid, 10% sodium citrate)"
+  - Then dehydrated and paraffin embedded
