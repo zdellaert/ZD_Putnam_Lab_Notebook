@@ -47,7 +47,7 @@ Example protocols:
   - Z-fix replaced with 70% ethanol
   - **Decalcified in 10% HCl**
   - Then stored in 20% Z-fix
-- EDTA decalcifcation: [Katie Barrot protocol](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b)
+- EDTA decalcifcation: [Katie Barrot protocol](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b), based on [this](https://link.springer.com/article/10.1007/s00338-004-0456-0)
   - Corals fixed in **S22 buffer with 3% paraformaldehyde (PFA)** overnight at 4 °C
   - "Decalcify by transferring fragment to **Ca-free S22 buffer with 0.5 M EDTA and 0.5% paraformaldehyde** and incubate at 4 °C. Replace the buffer daily until the skeleton is completely dissolved (~7 days depending on size of fragment and thickness/density of skeleton)."
     - Ca-free S22 buffer + 0.5 M EDTA
@@ -58,7 +58,7 @@ Example protocols:
       - 100 mM Hepes (pH 7.8)
         - Note: Adjust pH of Hepes buffer with NaOH.
   - Then dehydrated in ethanol series starting with 50% ethanol
-- EDTA decalcification: [Liew et al laser microdissection protocol](https://www.science.org/doi/10.1126/sciadv.aar8028), basically the exact same as above
+- EDTA decalcification: [Liew et al laser microdissection protocol](https://www.science.org/doi/10.1126/sciadv.aar8028), based on [this](https://link.springer.com/article/10.1007/s00338-004-0456-0) basically the exact same as above
   - Fixed in **3% paraformaldehyde in S22 buffer** at 4°C overnight
   - Decalcified using 0.5 M EDTA in Ca-free S22 at 4°C. 
   - They were then dehydrated in an ethanol series and embedded in Paraplast.
