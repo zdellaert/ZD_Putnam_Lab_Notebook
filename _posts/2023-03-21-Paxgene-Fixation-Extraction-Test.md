@@ -48,6 +48,17 @@ Qubit information for 3/28/23:
 
  RNA Standards: 399.23 (S1) & 8736.93 (S2)
 
+
+### Extraction, Week 2
+
+At 12pm on 4/6/34, I started the extraction of one branchlet that had been kept in the PAXgene stabilizer at 4 ºC for two weeks. It was the largest branchlet of the 4 with the 3 nubbins.
+
+Qubit information for 4/6/23:
+ DNA Standards: 197.48 (S1) & 22870.14 (S2)
+
+ RNA Standards: 406.98 (S1) & 8665.72 (S2)
+
+
 ### Qubit Results
 
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
@@ -57,6 +68,7 @@ Qubit information for 3/28/23:
 |-----------|------------|------------|--------------|
 | Day 1     | 20.6       | 20.6       | 20.6         |
 | Week 1    | 6.46       | 6.50       | 6.48         |
+| Week 2    | 3.46       | 3.44       | 3.45         |
 | -80C      | 20.2       | 20.6       | 20.4         |
 
 -----
@@ -65,24 +77,28 @@ Qubit information for 3/28/23:
 |-----------|------------|------------|--------------|
 | Day 1     | 31.2       | 31.2       | 31.2         |
 | Week 1    | 12.0       | 12.4       | 12.2         |
+| Week 2    | 14.0       | 14.6       | 14.3         |
 | -80C      | 27.0       | 27.2       | 27.1         |
 
 ### DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 Gel from 3/21/2023, of DNA and RNA extracted from the "Day 1" Sample
+
 ![2023-03-21-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-21-gel.JPG?raw=true)
 
 
 Gel from 3/28/2023, of DNA and RNA extracted from the "Week 1" Sample and "-80 ºC" Sample, in that order.
 
-Interesting that the -80 bands are brighter than the Week 1 @ 4 ºC in both the RNA and DNA, but the DNA looks smearier than the Week 1 band...
+Interesting that the -80 bands are brighter than the Week 1 @ 4 ºC in both the RNA and DNA, but the DNA looks smearier than the Week 1 band... This could be a quantity smear not a quality smear.
+
 ![2023-03-28-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-03-28-gel.JPG?raw=true) 
+
+Gel from 4/6/2023, of DNA and RNA extracted from the "Week 2" Sample
+![2023-04-06-gel-PAXgene.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-06-gel-PAXgene.JPG?raw=true)
 
 ## Notes
 
 Okay, so it seems like keeping these in the -80 and extracting as quickly as possible is probably a good idea. 
-
-Next step: I have one more sample to extract next week at the 2 week mark. 
 
 I want to try to figure out a decalcification protocol for these samples. [One paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3218013/) I read did this post-parrafin embedding, but in my experience most coral fixation protocols do it before.
 

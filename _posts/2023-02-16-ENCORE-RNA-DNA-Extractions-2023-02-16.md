@@ -10,7 +10,7 @@ tags: [DNA, RNA, ENCORE, Diploria labyrinthiformis, Montastraea cavernosa, Madra
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-### Extraction of 12 samples from ENCORE Project. These samples were collected in Bermuda in August 2022 for the ENCORE TPC project. There are 160 samples total from the following 3 species: *Diploria labyrinthiformis* (DLAB), *Montastraea cavernosa* (MCAV), and *Madracis decactis* (MDEC) from the following temperatures 16, 22, 26, 29, 33, and 36 ºC (excluding 40 ºC for now)
+### Extraction of 12 samples from ENCORE Project. These samples were collected in Bermuda in August 2022 for the ENCORE TPC project. There are 160 samples total from the following 3 species: *Diploria labyrinthiformis* (DLAB), *Montastraea cavernosa* (MCAV), and *Madracis decactis* (MDEC) from the following temperatures 16, 22, 26, 29, 33, 36, and 40 ºC
 
 ## Samples
 
