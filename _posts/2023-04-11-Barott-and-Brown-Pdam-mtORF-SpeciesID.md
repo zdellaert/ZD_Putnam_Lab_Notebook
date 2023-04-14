@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-04-11 E5 Sites 2 & 3 Species ID (POC and POR) via PCR and Sanger Sequencing
+title: 2023-04-11 Heron Island Pdam Species ID (mtORF confirmation)
 date: '2023-04-11 16:00:00'
 categories: Processing
 tags: [DNA, Pocillopora damicornis, Pocillopora]
