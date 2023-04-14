@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2023-03-15 E5 Species ID (POC and POR) via PCR and Sanger Sequencing
+title: 2023-03-15 E5 Site 1 Species ID (POC and POR) via PCR and Sanger Sequencing
 date: '2023-03-15 16:00:00'
 categories: Processing
 tags: [DNA, RNA, E5, Porites, Pocillopora]
