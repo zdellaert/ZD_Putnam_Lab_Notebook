@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2023-04-03 Paxgene Fixation, Stabilization, and Extraction Test
-date: '2023-04-03 10:00:00'
+title: 2023-04-13 Paxgene Fixation, Stabilization, and Extraction Test
+date: '2023-04-13 10:00:00'
 categories: Processing
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
 ---
 
-## Testing Paxgene Fixative, PAXgene Tissue Stabilizer, Sectioning,  Decalcification, and Extraction of DNA/RNA using Zymo Quick DNA/RNA Protocol from Stabilized Samples (Time Course), April 4, 2023
+## Testing Paxgene Fixative, PAXgene Tissue Stabilizer, Sectioning,  Decalcification, and Extraction of DNA/RNA using Zymo Quick DNA/RNA Protocol from Stabilized Samples (Time Course), April 13, 2023
 
 ## Testing Decalcification with PAXgene Fixative and PAXgene Tissue Stabilizer
 
@@ -19,22 +19,37 @@ Here are the different trials:
 - No decalcifcation (control)
 - HCl decalcifcation
 - HCl decalcifcation, on ice
-- EDTA decalcifcation
+- EDTA decalcifcation - in straight 0.5 M EDTA
 - EDTA decalcifcation, on ice
-- Morse's solution decalcifcation
-- Morse's solution decalcifcation, on ice
+- Whole branchlet decalcified in HCl
+- Whole branchlet decalcified in EDTA - in straight 0.5 M EDTA 
 
 Order of operations:
 
 1. Fix branchlets in PAXgene fixative for 24 hours.
    1. **Fixation could probably be cut to overnight?**
-2. Transfer branchlets to PAXgene stabilizer for at least 2 hours at 4ºC to allow for penetration of stabilizer into the tissues.
+2. Transfer branchlets to PAXgene stabilizer for at least 2 hours at 4ºC to allow for penetration of stabilizer into the tissues. **I did 24 hours**
 3. Cut branchlets into disks and record weight - divide into various decalcification treatments.
    1. **TWO per treatment, one for RNA and one for histology**
 4. After decalcification, samples should go straight into labelled tubes with PAXgene stabilizer, possibly with another 4 ºC incubation step to allow for PAXgene stabilizer penetration into tissue, and then stored at -80ºC. (We can also test putting them in the fridge)
    1. Decalc is done when disk floats and there is no CaCO3 left visually
 5. Then extract these using Zymo RNA extraction kit. Weighing starting material to try to keep it consistent is a good idea. 
    1. **Bead-beat 2 mins with DNA/RNA shield or not?**
+
+What I did (4/13/23):
+
+After 24 hours in PAXgene tissue stabilizer at 4ºC, I cut 12 fragments of 0.2 - 0.3 g each in PAXgene stabilizer (using clippers was way easier than razor blade). 2 fragments went into each tube:
+
+- No decalcifcation (control)
+- No decalcifcation (control), on ice
+- HCl decalcifcation
+- HCl decalcifcation, on ice
+- EDTA decalcifcation - in straight 0.5 M EDTA
+- EDTA decalcifcation, on ice
+
+Started decalcification at 13:30 on 4/13/23. A few bubbles in the HCl treatments but not in the control or EDTA. After 1.5 hour, all of the samples on ice had barely any bubbles so I decided the best course of treatment was to move these to 4ºC in the cold room so they could stay as cold as possible while slowly decalcifying. As of 4 hours in, they still have a lot of skeleton so I am leaving them overnight.
+
+Questions:
 
 Do we have a cold room? How does this compare to decalcifying on ice?
 
