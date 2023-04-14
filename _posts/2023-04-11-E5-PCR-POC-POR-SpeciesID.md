@@ -3,7 +3,7 @@ layout: post
 title: 2023-04-11 E5 Sites 2 & 3 Species ID (POC and POR) via PCR and Sanger Sequencing
 date: '2023-04-11 16:00:00'
 categories: Processing
-tags: [DNA, RNA, E5, Porites, Pocillopora]
+tags: [DNA, E5, Porites, Pocillopora]
 ---
 
 ## E5 Species ID (POC and POR) via PCR and Sanger Sequencing: Sites 2 and 3
@@ -21,7 +21,7 @@ Followed [my PCR Protocol exactly](https://zdellaert.github.io/ZD_Putnam_Lab_Not
 
 
 
-Positive control: Kristina's POC sample from Pierrick's sample #203 (diluted 1:10).
+Positive control: Kristina's E5 extracted DNA Tube #383 (POC 45).
 
 #### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
 

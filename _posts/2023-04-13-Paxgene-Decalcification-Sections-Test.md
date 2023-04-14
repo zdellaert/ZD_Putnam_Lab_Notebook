@@ -49,6 +49,8 @@ After 24 hours in PAXgene tissue stabilizer at 4ºC, I cut 12 fragments of 0.2 -
 
 Started decalcification at 13:30 on 4/13/23. A few bubbles in the HCl treatments but not in the control or EDTA. After 1.5 hour, all of the samples on ice had barely any bubbles so I decided the best course of treatment was to move these to 4ºC in the cold room so they could stay as cold as possible while slowly decalcifying. As of 4 hours in, they still have a lot of skeleton so I am leaving them overnight.
 
+As of 7:30 AM the next morning ()
+
 Questions:
 
 Do we have a cold room? How does this compare to decalcifying on ice?
