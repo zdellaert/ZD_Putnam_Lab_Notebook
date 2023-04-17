@@ -40,6 +40,29 @@ Positive control: Kristina's E5 extracted DNA Tube #469 (extraction date: 202202
 
 ![2023-04-13-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-13-gel.JPG?raw=true)
 
+Double banding samples: 
+
+313	TP2	site2	POR-214
+409	TP2	site3	POR-340
+
 #### Qubit values 
 
-## POC mtORF (ZD01-8) test samples were sent For Sanger Sequencing on 4/13/2023. The rest of the POC mtORF (ZD09-68) and POR H2 (ZD69-ZD128) will be sent for sequencing on 4/18/2023.
+## POC mtORF (ZD01-8) test samples were sent For Sanger Sequencing on 4/13/2023. The rest of the POC mtORF (ZD09-68) and POR H2 (ZD69-ZD124) (except for the 2 samples with double banding) will be sent for sequencing on 4/18/2023.
+
+### Double Banding in POR H2 
+
+These samples had double banding in the gel on 4/13/23
+
+313	TP2	site2	POR-214
+409	TP2	site3	POR-340
+
+To test if the double banding was due to poor DNA quality, I re-PCRd these colonies from different time points:
+
+27	TP1	site2	POR-214
+605	TP3	site3	POR-340
+
+Positive control: Kristina's E5 extracted DNA Tube #371 (extraction date: 20210913, PCR'd by me successfully above).
+
+#### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
+
+![2023-04-17-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
