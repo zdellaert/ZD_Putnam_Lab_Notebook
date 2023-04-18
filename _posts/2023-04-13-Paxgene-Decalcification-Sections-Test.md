@@ -68,6 +68,17 @@ On Saturday 4/15/23 at 11:30 AM the fragments were 90% decalcified and I removed
 
 There appeared to be a reaction between the EDTA samples and the PAXgene stabilizer (precipitation) so I moved the tissue into new tubes of stabilizer to minimize any extra excess EDTA in the mixture.
 
+Decalcified whole branch from EDTA:
+
+![EDTA_Decalc.jpeg.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/EDTA_Decalc.jpeg?raw=true)
+
+![EDTA_Decalc2.jpeg.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/EDTA_Decalc2.jpeg?raw=true)
+
+
+Decalcified whole branch from HCL (probably could've gone a little longer but wanted to keep the time for all samples together):
+
+![HCL_Decalc.jpeg.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/HCL_Decalc.jpeg?raw=true)
+
 All tubes (14) placed into -80 ºC freezer until extraction / histology prep.
 
 ------
