@@ -34,18 +34,51 @@ Continuing on with the rest of the ENCORE extractions.
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
- DNA Standards: 197.48 (S1) & 22870.14 (S2)
+ DNA Standards: 191.24 (S1) & 21938.4 (S2)
 
 | colony_id | Species                     | Temp.Cat | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
 |-----------|-----------------------------|----------|------------|------------|--------------|
-| Dlab-A2   | *Diploria labyrinthiformis* | 40       | 4.98       | 4.94       | 4.96         |
+| Dlab-A7   | *Diploria labyrinthiformis* | 36       | 8.08       | 8.46       | 8.27         |
+| Dlab-B6   | *Diploria labyrinthiformis* | 26       | 4.72       | 4.94       | 4.83         |
+| Dlab-B7   | *Diploria labyrinthiformis* | 36       | 9.52       | 9.78       | 9.65         |
+| Dlab-C5   | *Diploria labyrinthiformis* | 22       | 3.66       | 3.8        | 3.73         |
+| Dlab-D2   | *Diploria labyrinthiformis* | 40       | 25.2       | 25.8       | 25.5         |
+| Dlab-D7   | *Diploria labyrinthiformis* | 36       | 30.2       | 30.8       | 30.5         |
+| Dlab-E2   | *Diploria labyrinthiformis* | 40       | 18.8       | 19.1       | 18.95        |
+| Dlab-F7   | *Diploria labyrinthiformis* | 36       | 36.6       | 37.2       | 36.9         |
+| Mcav-A6   | *Montastraea cavernosa*     | 26       | 6.76       | 6.8        | 6.78         |
+| Mcav-B2   | *Montastraea cavernosa*     | 40       | 86.6       | 87.6       | 87.1         |
+| Mcav-B7   | *Montastraea cavernosa*     | 36       | 43         | 44.6       | 43.8         |
+| Mcav-C5   | *Montastraea cavernosa*     | 22       | 5.22       | 5.34       | 5.28         |
+| Mcav-C6   | *Montastraea cavernosa*     | 26       | 4.96       | 4.9        | 4.93         |
+| Mcav-D3   | *Montastraea cavernosa*     | 33       | 5.86       | 5.98       | 5.92         |
+| Mdec-B6   | *Madracis decactis*         | 26       | 6.22       | 6.36       | 6.29         |
+| Mdec-B7   | *Madracis decactis*         | 36       | 16.5       | 16.7       | 16.6         |
+| Mdec-D1   | *Madracis decactis*         | 29       | 8.4        | 8.38       | 8.39         |
+| Mdec-F5   | *Madracis decactis*         | 22       | 5.9        | 5.98       | 5.94         |
 
- RNA Standards: 406.98 (S1) & 8665.72 (S2)
+ RNA Standards: 422.04 (S1) & 8600.79 (S2)
 
 | colony_id | Species                     | Temp.Cat | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|-----------------------------|----------|------------|------------|--------------|
-| Dlab-A2   | *Diploria labyrinthiformis* | 40       | 17.4       | 17.4       | 17.4         |
-
+| Dlab-A7   | *Diploria labyrinthiformis* | 36       | 10.6       | 10.4       | 10.5         |
+| Dlab-B6   | *Diploria labyrinthiformis* | 26       | 16         | 14.8       | 15.4         |
+| Dlab-B7   | *Diploria labyrinthiformis* | 36       | 13.4       | 14         | 13.7         |
+| Dlab-C5   | *Diploria labyrinthiformis* | 22       | 13.4       | 13.4       | 13.4         |
+| Dlab-D2   | *Diploria labyrinthiformis* | 40       | 21.2       | 21.2       | 21.2         |
+| Dlab-D7   | *Diploria labyrinthiformis* | 36       | 19.4       | 19.8       | 19.6         |
+| Dlab-E2   | *Diploria labyrinthiformis* | 40       | 25.2       | 25         | 25.1         |
+| Dlab-F7   | *Diploria labyrinthiformis* | 36       | 17.8       | 18.2       | 18           |
+| Mcav-A6   | *Montastraea cavernosa*     | 26       | 15.4       | 14.8       | 15.1         |
+| Mcav-B2   | *Montastraea cavernosa*     | 40       | 26.8       | 27.4       | 27.1         |
+| Mcav-B7   | *Montastraea cavernosa*     | 36       | 24         | 22.6       | 23.3         |
+| Mcav-C5   | *Montastraea cavernosa*     | 22       | 10.4       | 10         | 10.2         |
+| Mcav-C6   | *Montastraea cavernosa*     | 26       | 0          | 0          | 0            |
+| Mcav-D3   | *Montastraea cavernosa*     | 33       | 19.6       | 19.2       | 19.4         |
+| Mdec-B6   | *Madracis decactis*         | 26       | 18.8       | 19         | 18.9         |
+| Mdec-B7   | *Madracis decactis*         | 36       | 14.8       | 15         | 14.9         |
+| Mdec-D1   | *Madracis decactis*         | 29       | 26.6       | 28         | 27.3         |
+| Mdec-F5   | *Madracis decactis*         | 22       | 15.2       | 15         | 15.1         |
 
 ## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
