@@ -38,7 +38,43 @@ Order of operations:
 
 What I did (4/13/23):
 
-After 24 hours in PAXgene tissue stabilizer at 4ºC, I cut 12 fragments of 0.2 - 0.3 g each in PAXgene stabilizer (using clippers was way easier than razor blade). 2 fragments went into each tube:
+I fixed 5 branchlets from the same coral from [my last test](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Fixation-Extraction-Test/) in the exact same protocol followed described there.
+
+![Fixing_Decalc.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/Fixing_Decalc.JPG?raw=true)
+
+![Fixing_Decalc2.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/Fixing_Decalc2.JPG?raw=true)
+
+![Fixing_Decalc3.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/Fixing_Decalc3.JPG?raw=true)
+
+
+After 24 hours in PAXgene tissue stabilizer at 4ºC, I cut 12 fragments of 0.2 - 0.3 g each in PAXgene stabilizer (using clippers was way easier than razor blade). 2 fragments went into each tube (one for histology and one for RNA):
+
+- No decalcifcation (control)
+- No decalcifcation (control), on ice
+- HCl decalcifcation (10%)
+- HCl decalcifcation (10%), on ice
+- EDTA decalcifcation - in straight 0.5 M EDTA
+- EDTA decalcifcation, on ice
+
+I also decalcified a whole brachlet in HCl (5mL) and one whole brachlet in EDTA (5mL).
+
+Started decalcification at 13:30 on 4/13/23. A few bubbles in the HCl treatments but not in the control or EDTA. After 1.5 hour, all of the samples on ice had barely any bubbles so I decided the best course of treatment was to move these to 4ºC in the cold room so they could stay as cold as possible while slowly decalcifying. As of 4 hours in, they still have a lot of skeleton so I am leaving them overnight.
+
+As of 7:30 AM the next morning (4/14/23), they were still not fully decalcified.
+
+Refreshed solutions after 24 hours (13:30 on 4/14/23) and moved all samples to larger 5mL tubes with fresh solutions to maximize contact between the solution and the samples. (The non-full branchlet samples were originally in 1.5 mL tubes)
+
+On Saturday 4/15/23 at 11:30 AM the fragments were 90% decalcified and I removed all fragments from their decalcification treatments (or control) and moved each fragment into an individual 2mL screw top tube with 1mL of PAXgene stabilizer (all with sterilized forceps). 
+
+There appeared to be a reaction between the EDTA samples and the PAXgene stabilizer (precipitation) so I moved the tissue into new tubes of stabilizer to minimize any extra excess EDTA in the mixture.
+
+All tubes (14) placed into -80 ºC freezer until extraction / histology prep.
+
+------
+
+RNA Extraction Test
+
+6 samples:
 
 - No decalcifcation (control)
 - No decalcifcation (control), on ice
@@ -47,15 +83,13 @@ After 24 hours in PAXgene tissue stabilizer at 4ºC, I cut 12 fragments of 0.2 -
 - EDTA decalcifcation - in straight 0.5 M EDTA
 - EDTA decalcifcation, on ice
 
-Started decalcification at 13:30 on 4/13/23. A few bubbles in the HCl treatments but not in the control or EDTA. After 1.5 hour, all of the samples on ice had barely any bubbles so I decided the best course of treatment was to move these to 4ºC in the cold room so they could stay as cold as possible while slowly decalcifying. As of 4 hours in, they still have a lot of skeleton so I am leaving them overnight.
-
-As of 7:30 AM the next morning ()
+-------
 
 Questions:
 
-Do we have a cold room? How does this compare to decalcifying on ice?
-
 Do we want to buy tissue casettes? The PAXgene containers can hold 4 casettes.
+
+-------
 
 Example protocols:
 
