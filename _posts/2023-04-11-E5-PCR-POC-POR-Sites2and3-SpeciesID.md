@@ -162,6 +162,39 @@ Positive control: Kristina's E5 extracted DNA Tube #383 (POC 45).
 
 ### Amplification of 30 POR samples on 4/13/2023.
 
+| n.  | timepoint | collection_site | colony_id       | Extraction Date | Tech | Primerset | PCR Date  |
+|-----|-----------|-----------------|-----------------|-----------------|------|-----------|-----------|
+| 269 | TP2       | site2           | POR-221         | 20211102        | KXT  | H2        | 4/13/2023 |
+| 271 | TP2       | site2           | POR-253         | 20211112        | KXT  | H2        | 4/13/2023 |
+| 275 | TP2       | site2           | POR-240         | 20211007        | KXT  | H2        | 4/13/2023 |
+| 279 | TP2       | site2           | POR-206/POR-251 | 20211115        | KXT  | H2        | 4/13/2023 |
+| 281 | TP2       | site2           | POR-216         | 20211004        | KXT  | H2        | 4/13/2023 |
+| 283 | TP2       | site2           | POR-209         | 20211108        | KXT  | H2        | 4/13/2023 |
+| 285 | TP2       | site2           | POR-266         | 20211112        | KXT  | H2        | 4/13/2023 |
+| 287 | TP2       | site2           | POR-235         | 20220201        | KXT  | H2        | 4/13/2023 |
+| 293 | TP2       | site2           | POR-224         | 20211105        | KXT  | H2        | 4/13/2023 |
+| 297 | TP2       | site2           | POR-245         | 20210924        | KXT  | H2        | 4/13/2023 |
+| 313 | TP2       | site2           | POR-214         | 20210907        | KXT  | H2        | 4/13/2023 |
+| 319 | TP2       | site2           | POR-236         | 20210923        | KXT  | H2        | 4/13/2023 |
+| 327 | TP2       | site2           | POR-260         | 20210930        | KXT  | H2        | 4/13/2023 |
+| 333 | TP2       | site2           | POR-242         | 20210913        | KXT  | H2        | 4/13/2023 |
+| 351 | TP2       | site3           | POR-357         | 20211019        | KXT  | H2        | 4/13/2023 |
+| 353 | TP2       | site3           | POR-353         | 20210831        | KXT  | H2        | 4/13/2023 |
+| 357 | TP2       | site3           | POR-341         | 20210916        | KXT  | H2        | 4/13/2023 |
+| 361 | TP2       | site3           | POR-355         | 20210913        | KXT  | H2        | 4/13/2023 |
+| 371 | TP2       | site3           | POR-338         | 20210913        | KXT  | H2        | 4/13/2023 |
+| 375 | TP2       | site3           | POR-349         | 20210920        | KXT  | H2        | 4/13/2023 |
+| 379 | TP2       | site3           | POR-383         | 20211012        | KXT  | H2        | 4/13/2023 |
+| 381 | TP2       | site3           | POR-365         | 20211001        | KXT  | H2        | 4/13/2023 |
+| 409 | TP2       | site3           | POR-340         | 20210903        | KXT  | H2        | 4/13/2023 |
+| 445 | TP2       | site3           | POR-367         | 20211018        | KXT  | H2        | 4/13/2023 |
+| 451 | TP2       | site3           | POR-384         | 20211005        | KXT  | H2        | 4/13/2023 |
+| 453 | TP2       | site3           | POR-354         | 20211028        | KXT  | H2        | 4/13/2023 |
+| 459 | TP2       | site3           | POR-385         | 20220208        | KXT  | H2        | 4/13/2023 |
+| 461 | TP2       | site3           | POR-381         | 20211118        | KXT  | H2        | 4/13/2023 |
+| 707 | TP3       | site3           | POR-362         | 20211020        | KXT  | H2        | 4/13/2023 |
+| 877 | TP4       | site2           | POR-262         | 20211018        | KXT  | H2        | 4/13/2023 |
+
 Positive control: Kristina's E5 extracted DNA Tube #469 (extraction date: 20220208, PCR'd by me successfully in [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/E5-PCR-POC-POR-SpeciesID/)).
 
 #### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
