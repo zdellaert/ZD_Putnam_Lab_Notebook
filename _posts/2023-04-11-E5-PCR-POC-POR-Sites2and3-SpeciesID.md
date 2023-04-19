@@ -273,6 +273,8 @@ Did not clean up the double banding samples:
 
 ## POC mtORF (ZD01-8) test samples were sent For Sanger Sequencing on 4/13/2023. The rest of the POC mtORF (ZD09-68) and POR H2 (ZD69-ZD124) (except for the 2 samples with double banding) will be sent for sequencing on 4/18/2023.
 
+------
+
 ## Double Banding in POR H2 
 
 These samples had double banding in the gel on 4/13/23
