@@ -204,6 +204,7 @@ Positive control: Kristina's E5 extracted DNA Tube #469 (extraction date: 202202
 Did not clean up the double banding samples: 
 
 313	TP2	site2	POR-214
+
 409	TP2	site3	POR-340
 
 #### Nanodrop values 
