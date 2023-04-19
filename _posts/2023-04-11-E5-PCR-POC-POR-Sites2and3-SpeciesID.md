@@ -96,7 +96,7 @@ Positive control: Kristina's E5 extracted DNA Tube #383 (POC 45).
 
 **SET UP for sequencing USING QUBIT VALUES (did not have access to nanodrop at the time, went back later and got nanodrop values), so did not dilute the PCR product.**
 
-| Sample ID | Well (GSC use only) | Template type | A. Template size (bases) | B. Template stock conc. (ng/ul) | C. PCR template: ng needed = ((A/100)*1.25)*2 | D. PCR template: Volume=(C/B)ul | E. Plasmid template: volume= (200ng/B)*2 | F. Volume PCR H20 needed (10-D or E) | G. Volume primer needed 1ul per rxn | Sample # | Colony "POC-XXX" |
+| Sample ID | Well | Template | A. Template size | B. Template stock conc. (ng/ul) | C. PCR template: ng needed | D. Volume=(C/B)ul | E | F. Volume PCR H20 needed (10-D or E) | G. Primer Vol | Sample # | Colony |
 |-----------|---------------------|---------------|--------------------------|---------------------------------|-----------------------------------------------|---------------------------------|------------------------------------------|--------------------------------------|-------------------------------------|---------|---------|
 | 1 |  | PCR | 1000 | 17.65 | 25 | 1.4 |  | 8.6 | 2 | 81  | POC-217 |
 | 2 |  | PCR | 1000 | 17.65 | 25 | 1.4 |  | 8.6 | 2 | 81  | POC-217 |
@@ -211,7 +211,7 @@ Did not clean up the double banding samples:
 
 **SET UP the 28 that did not have double banding for sequencing 1:10th dilutions from nanodrop concentration**
 
-| Sample ID | Well (GSC use only) | Template type | A. Template size (bases) | B. Template stock conc. (ng/ul) | C. PCR template: ng needed = ((A/100)*1.25)*2 | D. PCR template: Volume=(C/B)ul | E. Plasmid template: volume= (200ng/B)*2 | F. Volume PCR H20 needed (10-D or E) | G. Volume primer needed 1ul per rxn | Sample # | Colony "POC-XXX" | Undiluted nanodrop concentration |
+| Sample ID | Well | Template | A. Template size | B. Template stock conc. (ng/ul) | C. PCR template: ng needed | D. Volume=(C/B)ul | E | F. Volume PCR H20 needed (10-D or E) | G. Primer Vol | Sample # | Colony | Undiluted nanodrop concentration |
 |-----------|---------------------|---------------|--------------------------|---------------------------------|-----------------------------------------------|---------------------------------|------------------------------------------|--------------------------------------|-------------------------------------|---------|---------|---------|
 | 69  |  | PCR | 1500 | 9.92  | 37.5 | 3.8 |  | 6.2 | 2 | 269 | POR-221         | 99.20  |
 | 70  |  | PCR | 1500 | 9.92  | 37.5 | 3.8 |  | 6.2 | 2 | 269 | POR-221         | 99.20  |

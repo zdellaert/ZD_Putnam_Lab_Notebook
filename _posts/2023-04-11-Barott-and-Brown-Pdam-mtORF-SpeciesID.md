@@ -56,7 +56,7 @@ Had to redo RF16 and RF24 on 4/12/23
 | RS11D     | 20221111        | ZD   | mtORF     | 4/11/2023 |           | 4/18/2023       | ZD67_230418   | ZD68_230418   |
 
 
-| Sample ID | Well (GSC use only) | Template type | A. Template size (bases) | B. Template stock conc. (ng/ul) | C. PCR template: ng needed = ((A/100)*1.25)*2 | D. PCR template: Volume=(C/B)ul | E. Plasmid template: volume= (200ng/B)*2 | F. Volume PCR H20 needed (10-D or E) | G. Volume primer needed 1ul per rxn | Colony  |
+| Sample ID | Well | Template | A. Template size | B. Template stock conc. (ng/ul) | C. PCR template: ng needed | D. Volume=(C/B)ul | E | F. Volume PCR H20 needed (10-D or E) | G. Primer Vol | Colony |
 |-----------|---------------------|---------------|--------------------------|---------------------------------|-----------------------------------------------|---------------------------------|------------------------------------------|--------------------------------------|-------------------------------------|---------|
 | 61 |  | PCR | 1000 | 7.05 | 25 | 3.5 |  | 6.5 | 2 | RS02C |
 | 62 |  | PCR | 1000 | 7.05 | 25 | 3.5 |  | 6.5 | 2 | RS02C |
