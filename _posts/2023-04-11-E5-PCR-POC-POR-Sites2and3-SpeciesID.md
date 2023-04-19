@@ -162,7 +162,6 @@ Positive control: Kristina's E5 extracted DNA Tube #383 (POC 45).
 
 ### Amplification of 30 POR samples on 4/13/2023.
 
-
 Positive control: Kristina's E5 extracted DNA Tube #469 (extraction date: 20220208, PCR'd by me successfully in [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/E5-PCR-POC-POR-SpeciesID/)).
 
 #### DNA and RNA Quality Check: 1% [Gel](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) at 80V for 30 mins.
