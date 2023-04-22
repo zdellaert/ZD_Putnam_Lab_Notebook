@@ -330,15 +330,25 @@ Positive control: Kristina's E5 extracted DNA Tube #371 (extraction date: 202109
 
 Next steps: run large comb gel with the rest of the PCR product and perform a gell extraction on the band that has the same size as the positive control ~1500bp. Need UV protection.
 
-![2023-04-20-gel-1.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
+![2023-04-20-gel-1.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-20-gel-1.JPG?raw=true)
 
 Excise bands at same length as positive control:
 
-![2023-04-20-gel-2.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
+![2023-04-20-gel-2.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-20-gel-2.JPG?raw=true)
 
 
 Perform cleanup of excised bands using Zymoclean Kit
 
 Run second gel to quality check and confirm only one band is remaining in the cleaned up product.
 
-![2023-04-20-gel-3.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
+![2023-04-20-gel-3.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-20-gel-3.JPG?raw=true)
+
+
+Set up for sequencing using nanodrop values (no dilution needed), will be sequenced on 4/24/23.
+
+| Sample ID | Well | Template | A. Template size | B. Template stock conc. (ng/ul) | C. PCR template: ng needed | D. Volume=(C/B)ul | E | F. Volume PCR H20 needed (10-D or E) | G. Primer Vol | Sample # | Colony |
+|-----------|---------------------|---------------|--------------------------|---------------------------------|-----------------------------------------------|---------------------------------|------------------------------------------|--------------------------------------|-------------------------------------|---------|---------|
+| 125       |                     | PCR           | 1500                     | 32.10                           | 37.5                                          | 1.2                             |                                          | 8.8                                  | 2                                   | 27       | POR-214 |
+| 126       |                     | PCR           | 1500                     | 32.10                           | 37.5                                          | 1.2                             |                                          | 8.8                                  | 2                                   | 27       | POR-214 |
+| 127       |                     | PCR           | 1500                     | 40.40                           | 37.5                                          | 0.9                             |                                          | 9.1                                  | 2                                   | 605      | POR-340 |
+| 128       |                     | PCR           | 1500                     | 40.40                           | 37.5                                          | 0.9                             |                                          | 9.1                                  | 2                                   | 605      | POR-340 |
