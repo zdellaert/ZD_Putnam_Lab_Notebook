@@ -339,6 +339,8 @@ Excise bands at same length as positive control:
 
 Perform cleanup of excised bands using Zymoclean Kit
 
+(Will write this up ASAP, for now see notebook page images [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/GelExtraction_042023_E5_H2_PCR.jpeg?raw=true) and [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/GelExtraction_Protocol.jpeg?raw=true))
+
 Run second gel to quality check and confirm only one band is remaining in the cleaned up product.
 
 ![2023-04-20-gel-3.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-20-gel-3.JPG?raw=true)
