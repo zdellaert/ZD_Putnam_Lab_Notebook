@@ -313,11 +313,13 @@ Did not clean up the double banding samples:
 These samples had double banding in the gel on 4/13/23
 
 313	TP2	site2	POR-214
+
 409	TP2	site3	POR-340
 
 To test if the double banding was due to poor DNA quality, I re-PCRd these colonies from different time points:
 
 27	TP1	site2	POR-214
+
 605	TP3	site3	POR-340
 
 Positive control: Kristina's E5 extracted DNA Tube #371 (extraction date: 20210913, PCR'd by me successfully above).
@@ -327,3 +329,16 @@ Positive control: Kristina's E5 extracted DNA Tube #371 (extraction date: 202109
 ![2023-04-17-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
 
 Next steps: run large comb gel with the rest of the PCR product and perform a gell extraction on the band that has the same size as the positive control ~1500bp. Need UV protection.
+
+![2023-04-20-gel-1.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
+
+Excise bands at same length as positive control:
+
+![2023-04-20-gel-2.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
+
+
+Perform cleanup of excised bands using Zymoclean Kit
+
+Run second gel to quality check and confirm only one band is remaining in the cleaned up product.
+
+![2023-04-20-gel-3.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-17-gel.JPG?raw=true)
