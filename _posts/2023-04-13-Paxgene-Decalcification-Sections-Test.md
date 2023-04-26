@@ -99,6 +99,8 @@ RNA Extraction Test
 - Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
+Concentrated RNA from 100 uL to 25 uL using Zymo clean and concentrate RNA kit and re-qubit on 4/25/23, results are below. (Very similar to original Qubit, but now control + cold room has RNA concentration of 14.1 ng/uL, was 0 like the others before.)
+
 | colony_id | DNA_QBIT_AVG | RNA_QBIT_AVG |
 |-----------|--------------|--------------|
 | control   | 0         | 0         |
