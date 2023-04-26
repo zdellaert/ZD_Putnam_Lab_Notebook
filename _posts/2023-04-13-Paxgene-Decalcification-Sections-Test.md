@@ -94,6 +94,26 @@ RNA Extraction Test
 - EDTA decalcifcation - in straight 0.5 M EDTA
 - EDTA decalcifcation, on ice
 
+### Qubit Results
+
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+| colony_id | DNA_QBIT_AVG | RNA_QBIT_AVG |
+|-----------|--------------|--------------|
+| control   | 0         | 0         |
+| control + cold room      | 0 | 14.1  | 
+| EDTA      | 0         | 0         | 
+| EDTA + cold room  | 0 | 0        | 
+| HCl       | 0         | 0         | 
+| HCl + cold room    | 0     | 0  | 
+
+
+## DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
+
+![2023-04-24-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-04-24-gel.JPG?raw=true)
+
+
 -------
 
 Questions:
