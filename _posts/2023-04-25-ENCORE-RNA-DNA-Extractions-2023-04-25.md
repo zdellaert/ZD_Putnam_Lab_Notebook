@@ -66,7 +66,7 @@ Continuing on with the rest of the ENCORE extractions.
 | Mcav-D1   | *Montastraea cavernosa*     | 29       | 14.4       | 14.6       | 14.5         |
 | Mcav-D2   | *Montastraea cavernosa*     | 40       | 15.8       | 16         | 15.9         |
 | Mcav-F5   | *Montastraea cavernosa*     | 22       | 10         | 10.4       | 10.2         |
-| Mdec-A1   | *Madracis decactis*         | 29       | 13.8       | 13.2       | 13.5         |
+| Mdec-A1   | *Madracis decactis*         | 29       | 6.9        | 6.6        | 6.75         |
 | Mdec-A2   | *Madracis decactis*         | 40       | 22.6       | 23         | 22.8         |
 | Mdec-A3   | *Madracis decactis*         | 33       | 15.8       | 15.6       | 15.7         |
 | Mdec-B4   | *Madracis decactis*         | 16       | 15         | 15.6       | 15.3         |
