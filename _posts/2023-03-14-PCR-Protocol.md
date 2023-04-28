@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2023-03-14 PCR Protocol
+title: PCR Protocol
 date: '2023-03-14 16:00:00'
 categories: Protocols
-tags: [DNA, Porites, Pocillopora]
+tags: [DNA, Protocol, Porites, Pocillopora]
 ---
 
 ## PCR Protocol for POC and POR Species ID (Can be modified for other primers)
