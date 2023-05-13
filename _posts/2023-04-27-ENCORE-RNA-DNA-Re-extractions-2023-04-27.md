@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2023-04-27 ENCORE RNA and DNA Extractions
+title: 2023-04-27 ENCORE RNA and DNA Re-Extractions
 date: '2023-04-27 14:00:00'
 categories: Processing
 tags: [DNA, RNA, ENCORE, Diploria labyrinthiformis, Montastraea cavernosa, Madracis decactis, Porites astreoides]
 ---
 
-## RNA and DNA Extractions for ENCORE Project, April 25, 2023
+## RNA and DNA Re-Extractions for ENCORE Project, April 27, 2023
 
 ### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
