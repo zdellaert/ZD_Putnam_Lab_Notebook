@@ -53,22 +53,22 @@ Base volume: 90 uL
 
 | Extraction.Date | Extraction.Notes                     | Volume in Tube currently | colony_id |
 |-----------------|--------------------------------------|--------------------------|-----------|
-| 20230425        |                                      | 90                       | Mdec-A1   |
-| 20230418        |                                      | 90                       | Mcav-C5   |
-| 20230425        |                                      | 90                       | Mcav-F5   |
-| 20230216        |                                      | 90                       | Dlab-B1   |
-| 20221005        |                                      | 90                       | Mcav-F7   |
-| 20221005        | Sent 40 uL in pool for Transcriptome | 50                       | Dlab-C7   |
-| 20221017        |                                      | 90                       | Mdec-A4   |
-| 20230421        |                                      | 90                       | Mcav-A5   |
+| 20230118        |                                      | 90                       | Dlab-A3   |
 | 20221017        |                                      | 90                       | Dlab-A5   |
+| 20230216        |                                      | 90                       | Dlab-B1   |
+| 20230113        | Sent 40 uL in pool for Transcriptome | 50                       | Dlab-B5   |
+| 20221005        | Sent 40 uL in pool for Transcriptome | 50                       | Dlab-C7   |
+| 20230421        |                                      | 90                       | Mcav-A5   |
+| 20230425        |                                      | 90                       | Mcav-B5   |
+| 20230418        |                                      | 90                       | Mcav-C5   |
 | 20230118        |                                      | 90                       | Mcav-D6   |
 | 20230118        |                                      | 90                       | Mcav-E5   |
-| 20230118        |                                      | 90                       | Dlab-A3   |
-| 20230113        |                                      | 90                       | Mdec-D6   |
-| 20230113        | Sent 40 uL in pool for Transcriptome | 50                       | Dlab-B5   |
 | 20221005        |                                      | 90                       | Mcav-E6   |
-| 20230425        |                                      | 90                       | Mcav-B5   |
+| 20230425        |                                      | 90                       | Mcav-F5   |
+| 20221005        |                                      | 90                       | Mcav-F7   |
+| 20230425        |                                      | 90                       | Mdec-A1   |
+| 20221017        |                                      | 90                       | Mdec-A4   |
+| 20230113        |                                      | 90                       | Mdec-D6   |
 
 ### 2. Pooling initial and re-extraction
 
@@ -96,9 +96,46 @@ Base volume: 90 uL
 
 ## Qubit Results
 
-- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- Used High Sensitivity range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
- RNA Standards: 
+ RNA Standards: 33.21 (S1) & 438.03 (S2)
  
- 
+### 1. Concentrating just original extraction
+
+| colony_id | RNA_QBIT_AVG | Volume in Tube currently | Amount RNA in whole tube |
+|-----------|--------------|--------------------------|--------------------------|
+| Dlab-A3   | 13.55        | 24                       | 325.2                    |
+| Dlab-A5   | 15.65        | 24                       | 375.6                    |
+| Dlab-B1   | 12.35        | 24                       | 296.4                    |
+| Dlab-B5   | 16.05        | 24                       | 385.2                    |
+| Dlab-C7   | 17.15        | 24                       | 411.6                    |
+| Mcav-A5   | 17.1         | 24                       | 410.4                    |
+| Mcav-B5   | 18.1         | 24                       | 434.4                    |
+| Mcav-C5   | 14.8         | 23                       | 340.4                    |
+| Mcav-D6   | 19           | 24                       | 456                      |
+| Mcav-E5   | 17.45        | 24                       | 418.8                    |
+| Mcav-E6   | 17.25        | 24                       | 414                      |
+| Mcav-F5   | 18.55        | 24                       | 445.2                    |
+| Mcav-F7   | 15.3         | 24                       | 367.2                    |
+| Mdec-A1   | 13.3         | 24                       | 319.2                    |
+| Mdec-A4   | 15.85        | 24                       | 380.4                    |
+| Mdec-D6   | 15.8         | 24                       | 379.2                    |
+
+
+
+### 2. Pooling initial and re-extraction
+
+| colony_id | RNA_QBIT_AVG | Volume in Tube currently | Amount RNA in whole tube |
+|-----------|--------------|--------------------------|--------------------------|
+| Dlab-A7   | 17.55        | 24                       | 421.2                    |
+| Dlab-D6   | 13.4         | 24                       | 321.6                    |
+| Dlab-E4   | 14.1         | 24                       | 338.4                    |
+| Dlab-E6   | 12.25        | 23                       | 281.75                   |
+| Dlab-F3   | 19.1         | 24                       | 458.4                    |
+| Dlab-F4   | 18.9         | 24                       | 453.6                    |
+| Dlab-F5   | 14           | 24                       | 336                      |
+| Dlab-F6   | 25.5         | 24                       | 612                      |
+| Mcav-B6   | 17           | 24                       | 408                      |
+
+All are now above 12 ng/uL and ready for plate prep!
