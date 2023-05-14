@@ -8,13 +8,13 @@ tags: [DNA, RNA, ENCORE, Diploria labyrinthiformis, Montastraea cavernosa, Madra
 
 ## Concentrating Low-Quantity ENCORE RNA and Pooling Re-extractions Using Zymo Clean and Concentrate Kit for ENCORE Project, May 5, 2023
 
-After finishing re-extractions for the super-low-quantity samples for the ENCORE project on [4/27/23](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2023-04-27/), I used the [Zymo RNA Clean and Concentrate Kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) as also used [previously for this project](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Pooling-RNA-Clean-Concentrate-2023-03-02/).
+After finishing re-extractions for the super-low-quantity samples for the ENCORE project on [4/27/23](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Re-extractions-2023-04-27/), I used the [Zymo RNA Clean and Concentrate Kit](https://www.zymoresearch.com/products/rna-clean-concentrator-5) as also used [previously for this project](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Pooling-RNA-Clean-Concentrate-2023-03-02/).
 
 Today I did two things:
 
 1. Concentrated the RNA that had a concentration between the range of 7-11 ng/uL to get a concentration of at least 12.
 
-2. Pooling re-extractions with initial extractions when the re-extractions on [4/27/23](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Extractions-2023-04-27/) still had a concentration less than 12 ng/uL. 
+2. Pooling re-extractions with initial extractions when the re-extractions on [4/27/23](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/ENCORE-RNA-DNA-Re-extractions-2023-04-27/) still had a concentration less than 12 ng/uL. 
 
 ## Protocol
 
