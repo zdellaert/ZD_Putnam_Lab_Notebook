@@ -106,11 +106,10 @@ Pics from Emma:
 
 ![drying](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Corals_drying.JPG?raw=true).
 
-### Downstream Protocols (currently E5 links but I am making my own versions):
+### Downstream Protocols (currently most areE5 links but I am making my own versions):
 
-1. Chlorophyll A: https://github.com/urol-e5/protocols/blob/master/2020-01-01-Chlorophyll-Protocol.md
-- My version: https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2023-06-19-Physiology-Chlorophyll-Protocol.md
-2. Symbiont Density: https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md
-3. Protein: https://github.com/urol-e5/protocols/blob/master/2020-01-01-Total-Protein-Protocol.md
-4. Ash-Free Dry Weight: https://github.com/urol-e5/protocols/blob/master/2020-01-01-Ash-Free-Dry-Weight-Protocol.md
-5. Coral Surface Area (Wax-Dipping): https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md
+1. [Chlorophyll A](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2023-06-19-Physiology-Chlorophyll-Protocol.md)
+2. [Symbiont Density](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md)
+3. [Protein](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Total-Protein-Protocol.md)
+4. [Ash-Free Dry Weight](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Ash-Free-Dry-Weight-Protocol.md)
+5. [Coral Surface Area (Wax-Dipping)](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md)
