@@ -8,7 +8,7 @@ tags: [Physiology, Protocol]
 
 # Airbrushing Coral Homogenate for Physiological Analyses
 
-#### This protocol was adapted from the protocol written by [Hollie Putnam](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) (and [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/)) for the Putnam Lab and collaborators in the E5 project with adjustments and images from [Emma Strand](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-10-22-Airbrushing-Protocol.md) and [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2022-03-20-Clipping-Airbrushing.md).
+#### This protocol was adapted from the protocol written by [Hollie Putnam](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) (and [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/)) for the Putnam Lab and collaborators in the [E5 project](https://e5coral.org/) with adjustments and images from [Emma Strand](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-10-22-Airbrushing-Protocol.md) and [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2022-03-20-Clipping-Airbrushing.md).
 
 Contents  
 - [**Materials**](#Materials)  
@@ -105,3 +105,12 @@ Pics from Emma:
 ![bleach](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Corals_bleach.JPG?raw=true).
 
 ![drying](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Corals_drying.JPG?raw=true).
+
+### Downstream Protocols (currently E5 links but I am making my own versions):
+
+1. Chlorophyll A: https://github.com/urol-e5/protocols/blob/master/2020-01-01-Chlorophyll-Protocol.md
+- My version: https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2023-06-19-Physiology-Chlorophyll-Protocol.md
+2. Symbiont Density: https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md
+3. Protein: https://github.com/urol-e5/protocols/blob/master/2020-01-01-Total-Protein-Protocol.md
+4. Ash-Free Dry Weight: https://github.com/urol-e5/protocols/blob/master/2020-01-01-Ash-Free-Dry-Weight-Protocol.md
+5. Coral Surface Area (Wax-Dipping): https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md
