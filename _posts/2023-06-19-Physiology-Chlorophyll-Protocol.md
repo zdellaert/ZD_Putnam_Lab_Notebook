@@ -41,10 +41,10 @@ tags: [Physiology, Protocol]
 
 **Measure the Absorbance**  
 
-Follow the [Synergy HTX Operating Manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/blob/master/synergy_htx_manual.pdf) and [Gen5 Software Manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/blob/master/Gen5_software_manual.pdf) to install the software on your host computer and general operating instructions.
+Follow the [Synergy HTX Operating Manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/synergy_htx_manual.pdf) and [Gen5 Software Manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Gen5_software_manual.pdf) to install the software on your host computer and general operating instructions.
 
 1. Open the Gen5 software on your computer.
-2. To create a new protocol, follow the 'Getting Started' section in the [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf).
+2. To create a new protocol, follow the 'Getting Started' section in the [Gen5 Software Manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Gen5_software_manual.pdf).
 3. The plate loader should automatically open. Load your plate following the distinctions in the plate loader and you will be all set.
 4. To measure Absorbance, select the 'Chlorophyll Protocol' option.
 5. Press the green start protocol button in the GEN5 software and allow the protocol to run through the 630, 663, and 750 nm.
@@ -55,7 +55,7 @@ Follow the [Synergy HTX Operating Manual](https://github.com/zdellaert/ZD_Putnam
 
 Chlorophyll a and c2 concentrations are calculated from the equations in [Jeffrey and Humphrey 1975](https://reader.elsevier.com/reader/sd/pii/S0015379617307783?token=0937035D38C07F29ADF00F1F2A21F20F221219B1CC11A444A4F84D16B98EC3A6AD941D191BA2135A68C98BA62A0B69FE) after substracting A750nm from all measurements.  
 
-![Equations for Dinos in 100% acetone](https://github.com/urol-e5/protocols/blob/master/images/JH_EQ.png?raw=true)
+![Chlorophyll_Equation.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Chlorophyll_Equation.png?raw=true)
 
 Need to correct for differences in path length of the volume in the 96 well plate compared to the 1cm path length of a cuvette.
 [Warren 2007](https://www.tandfonline.com/doi/full/10.1080/01904160802135092?casa_token=RqeUl1Ccg7AAAAAA%3A6SyNAs848qrRk1-Tf1g088xWD10z1Xngb8cmcgRvC3jYSYPugr2cL8QG9wFvrFj7xZF-pqqUozonRg)
@@ -66,5 +66,5 @@ R code for this analysis can be found at [K. Wong's Github](https://urldefense.p
 
     1.  [Jeffrey and Humphrey 1975](https://reader.elsevier.com/reader/sd/pii/S0015379617307783?token=0937035D38C07F29ADF00F1F2A21F20F221219B1CC11A444A4F84D16B98EC3A6AD941D191BA2135A68C98BA62A0B69FE)
     2. [Warren 2007](https://www.tandfonline.com/doi/full/10.1080/01904160802135092?casa_token=RqeUl1Ccg7AAAAAA%3A6SyNAs848qrRk1-Tf1g088xWD10z1Xngb8cmcgRvC3jYSYPugr2cL8QG9wFvrFj7xZF-pqqUozonRg)
-    3. [Synergy HTX Operating Manual](https://github.com/urol-e5/protocols/blob/master/synergy_htx_manual.pdf)
-    4. [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf)
+    3. [Synergy HTX Operating Manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/synergy_htx_manual.pdf)
+    4. [Gen5 Software Manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Gen5_software_manual.pdf)
