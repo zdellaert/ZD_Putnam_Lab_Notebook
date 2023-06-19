@@ -37,24 +37,23 @@ Contents
 
 	Working area: 
 
-	1. Spray benchtop down with 70% ethanol and wipe down. 
-	2. Tape a puppy pad down on the benchtop. This will be the working area. **add picture**
-	3. Get out a small coolers of dry ice or fill a cooler with regular ice if dry ice is not available (appropriate for samples kept in -20 ºC).
+	1. Spray benchtop down with 70% ethanol and wipe down.
+	2. Get out a small coolers of dry ice or fill a cooler with regular ice if dry ice is not available (appropriate for samples kept in -20 ºC).
 
 	Airbrush set up: 
 
-	4. Connect one end of the connecting hose to the air compressor. Connect the other end to the airbrush. **add picture**
-	5. Fill the airbrush bottle with ice-cold PBS solution. Cap the bottle and attach to airbrush. **add picture**
-	6. Turn on the air compressor. 
-	7. Rinse the airbrush for 30 seconds. Aim the nozzle of the airbrush (end closest to the airbrush bottle) into an empty 100 mL beaker. Push down (pulls air from the compressor) and pull back (pulls water from the bottle) on the trigger to operate. 
+	3. Connect one end of the connecting hose to the air compressor. Connect the other end to the airbrush. **add picture**
+	4. Fill the airbrush bottle with ice-cold PBS solution. Cap the bottle and attach to airbrush. **add picture**
+	5. Turn on the air compressor. 
+	6. Rinse the airbrush for 30 seconds. Aim the nozzle of the airbrush (end closest to the airbrush bottle) into an empty 100 mL beaker. Push down (pulls air from the compressor) and pull back (pulls water from the bottle) on the trigger to operate. 
 
 	Sample labeling: 
 
-	8. Collect necessary tubes and ziplock bags, and label for each sample. Label each tube with the specific assay that it will be used for. The following is needed for each sample:
+	7. Collect necessary tubes and ziplock bags, and label for each sample. Label each tube with the specific assay that it will be used for. The following is needed for each sample:
 		- one 2 mL tube for chlorophyll a ("Chl")
 		- one 2 mL tube for symbiont density ("Sym")
 		- one 2 mL tube for protein ("Prot")
-		- one 50 mL tube for remaining homogenate ("Remaining Homogenate") 
+		- one 50 mL tube for remaining homogenate ("Homogenate Airbrushed XX/XX/XX") 
 		- one quart-sized ziplock bag for airbrushing
 
 	Label tubes with sample ID, airbrushed date, initials, and what the tissue will be used for (the words in quotes above). Label the ziplock bag with just the sample ID
@@ -75,16 +74,34 @@ Contents
 	4. Using forceps, remove the coral skeleton and place on a labelled paper towel on the benchtop. 
 	5. Transfer tissue slurry from the bag to a sterile 50mL falcon tube using sterilized scissors and rinse sides of bag with 1x PBS, adding rinsate to falcon tube.
 	6. **Record total volume of tissue slurry and store on ice until homogenization.**
-	7. Homogenize slurry for 30 sec in falcon tube using the [Bio-Gen PRO200 Homogenizer ](https://proscientific.com/hand-held-homogenizers/bio-gen-pro200-homogenizer/).
+	7. Homogenize slurry for 30 sec in falcon tube.
+		- Turn on starting at a low speed. Gradually increase the speed of the microhomogenizer to fully homogenize the tissue slurry. 
 	8. Between each sample, clean the forceps, scissors, and the homogenizer in a 10% bleach solution for 30 seconds, DI wash #1 for 30 seconds, DI wash #2 for 30 seconds, then wipe down with an isopropanol wipe. Wipe down airbrush with 10% bleach and 70% ethanol or isoproanol wipes.
 	9. Keep tube on ice until aliquotting.
 	10. From the 50 mL falcon tube: 
 		- Aliquot 1 mL of tissue homogenate into the "Chl" tube
-		- Aliquot 1 mL of tissue homogenate into the "Prot" tube
-		- Aliquot 500 uL of tissue homogenate into the "Sym" tube
+			- Centrifuge the "Chl" microcentrifuge tube at 13,000 x rcf for 3 minutes.
+			- Discard the supernatant from the "Chl" tube and place the "Chl" tube in freezer in labelled box.
+		- Aliquot 1 mL of tissue homogenate into the "Prot" tube, place tube in freezer in labelled box.
+		- Aliquot 500 uL of tissue homogenate into the "Sym" tube, place tube in freezer in labelled box.
 		- Keep rest in 50 mL at -20 ºC or -80 ºC
+	11. Bleach skeleton fragment in 20% bleach in a labelled tupperware container (label BLEACH so it is not used for larvae/live coral) for 24 hours. After 24 hours, use sterilized tweezers to remove the skeleton and place on a paper towel labeled with the sample ID. Let dry for 24 hours. Move to ziplock bag labelled with sample ID.
 
-[Coral Airbrushing Video](https://www.youtube.com/watch?v=tHlVRHVMQeQ)  
+### Coral Airbrushing Video 
 [![Airbrushing Video](https://img.youtube.com/vi/tHlVRHVMQeQ/default.jpg)](https://www.youtube.com/watch?v=tHlVRHVMQeQ "Airbrushing Video")
 
 ![ENCORE_airbrushing.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/ENCORE_airbrushing.jpeg?raw=true)
+
+
+Pics from Emma:
+
+![Iwata_airbrush_setup](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Iwata_Airbrush_setup.JPG?raw=true)
+
+![Airbrush](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Iwata_airbrush2.JPG?raw=true)
+
+![micro](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/microhomogenizer.JPG?raw=true)
+
+
+![bleach](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Corals_bleach.JPG?raw=true).
+
+![drying](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Corals_drying.JPG?raw=true).
