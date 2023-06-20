@@ -27,8 +27,6 @@ Contents
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/hema1.png?raw=true" width="400" />   
 
-![hema1.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/hema1.png?raw=true)
-
 **Note: Coverslip is specially designed and weighted and no others can be substituted or the volume of the counting cell is not correct**   
 
 - Clean hemacytometer and coverslip with DI water by squirting and wiping with a kimwipe. Place on microscope stand, turn on microscope, and visually inspect to make sure no cells are visible on grid. Each grid is divided into nine large squares- keep track of how many you count.
@@ -57,12 +55,7 @@ Contents
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/hema5.png?raw=true"  width="600" />   
 
 
-![hema4.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/hema4.png?raw=true)
-
-![hema5.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/hema5.png?raw=true)
-
-
-4. <a name="References"></a> **References**
+3. <a name="References"></a> **References**
 
     1.  Schoepf et al., 2013. Coral Energy Reserves and Calcification in a High-CO2 World at Two Temperatures. PLoS ONE 8:
     	e75049
