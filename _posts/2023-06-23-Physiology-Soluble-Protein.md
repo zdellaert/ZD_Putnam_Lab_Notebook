@@ -31,6 +31,13 @@ Contents
 
 
     **Adult Tissue Sample Preparation for Soluble Protein from Host and Holobiont Fractions**  
+
+    Using this protocol, we are splitting samples into two fractions and will run two replicates per fraction. Therefore, we can fit 19 samples onto each 96-well plate
+    
+    (19 * 2 fractions * 2 replicates) + (9 standards * 2 replicates)= 76 + 18 = 94 wells)
+
+    So, plan to run ~19 samples per plate and prepare as many samples and plates as you have time for.
+
     1. Thaw the 1 mL aliquot of homogenate.  
     2. Centrifuge the microcentrifuge tube at 13,000 x rcf for 3 minutes.
         - Move the supernatant to a labelled "Host Protein" tube
@@ -38,7 +45,6 @@ Contents
 
     **Preparation of Diluted Albumin (BSA) Standards**    
     1. Dilute the contents of one Albumin Standard (BSA) ampule into several clean vials, preferably using the same diluent as the samples.
-    *These standards can be made during the 4 hour incubation period in the sample preparation section.*
     2. Use the following table as a guide to prepare a set of protein standards. For this project we will use the microplate procedure. Diluent is DI water Type II. Each vial will be a sterile 1.5 mL microcentrifuge tube. Label the cap of the microcentrifuge tube with the Vial ID ("A", "B", etc.).  
 
     <a name="Table"></a> **Standard Table**
@@ -64,9 +70,9 @@ Contents
         > *(9 standards + # samples) x (2 replicates) x (200 μL of WR) = total volume WR required*  
         > (9 standards + 10 samples) x (2 replicates) x (200 μL of WR) = 7,600 μL WR  
         > (9 standards + 20 samples) x (2 replicates) x (200 μL of WR) = 11,600 μL WR  
-        > (9 standards + 40 samples) x (2 replicates) x (200 μL of WR) = 19,600 μL WR  
+        > **19 samples split into two fractions =~ 1 96-well plate**: (9 standards + 38 samples) x (2 replicates) x (200 μL of WR) = 18,800 μL WR  
 
-    2. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.  
+    2. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.  *Working reagent will be green and can be kept at room temperature for several days.*
 
     **Microplate Procedure (Sample to WR ratio = 1:8) from Pierce BCA Protein Assay Kit:**  
     1. Make Plate map for all 9 standards and 2x replicates per sample
