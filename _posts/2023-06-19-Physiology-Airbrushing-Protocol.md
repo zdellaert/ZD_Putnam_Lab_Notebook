@@ -110,7 +110,7 @@ Pics from Emma:
 
 1. [Chlorophyll A](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Chlorophyll-Protocol/)
 2. [Symbiont Density](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Symbiont-Density-Protocol/)
-3. [Protein](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Total-Protein-Protocol.md)
+3. [Protein](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Soluble-Protein/)
 4. [Ash-Free Dry Weight](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Ash-Free-Dry-Weight-Protocol.md)
 5. [Coral Surface Area (Wax-Dipping)](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md)
 

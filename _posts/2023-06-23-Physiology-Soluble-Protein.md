@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Putnam Lab Physiology Soluble Protein Protocol
-date: '2023-06-19'
+date: '2023-06-23'
 categories: Protocols
 tags: [Physiology, Protocol]
 ---
@@ -30,7 +30,7 @@ Contents
     Reference protocol: [Pierce BCA Protein Assay Kit](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Pierce_BCA_Protein.pdf)
 
 
-    **Adult Tissue Sample Preparation for Soluble Protein from Host**  
+    **Adult Tissue Sample Preparation for Soluble Protein from Host and Holobiont Fractions**  
     1. Thaw the 1 mL aliquot of homogenate.  
     2. Centrifuge the microcentrifuge tube at 13,000 x rcf for 3 minutes.
         - Move the supernatant to a labelled "Host Protein" tube
@@ -69,7 +69,8 @@ Contents
     2. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B) in a clean protein-free container of the appropriate size, based on how many samples are going to be run.  
 
     **Microplate Procedure (Sample to WR ratio = 1:8) from Pierce BCA Protein Assay Kit:**  
-    1. Pipette 25 μL of each standard or unknown sample replicate into a microplate well (working range = 20–2000 μg/mL). (For example,Thermo ScientificTM PierceTM 96–Well Plates, Product No. 15041).
+    1. Make Plate map for all 9 standards and 2x replicates per sample
+    2. Pipette 25 μL of each standard or sample replicate into a microplate well (working range = 20–2000 μg/mL). (For example,Thermo ScientificTM PierceTM 96–Well Plates, Product No. 15041).
     2. Add 200 μL of the WR to each well and mix plate thoroughly on a plate shaker for 30 seconds.
     3. Cover plate and incubate at 37°C for 30 minutes.
     4. Cool plate to RT. Measure the absorbance at or near 562 nm on a plate reader.
