@@ -6,7 +6,7 @@ categories: Protocols
 tags: [Physiology, Protocol]
 ---
 
-# Soluble Protein Protocol from Coral Tissue Homogenat, Separated into Host and Holobiont Fractions
+# Soluble Protein Protocol from Coral Tissue Homogenate, Separated into Host and Holobiont Fractions
 both soluble protein  
 
 Contents  
