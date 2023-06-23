@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Putnam Lab Physiology Soluble Protein Protocol
-date: '2023-06-23'
+date: '2023-06-22'
 categories: Protocols
 tags: [Physiology, Protocol]
 ---
 
 # Soluble Protein Protocol from Coral Tissue Homogenate, Separated into Host and Holobiont Fractions
+
+#### This protocol was adapted from the protocol written by [Hollie Putnam](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Total-Protein-Protocol.md) (and [here](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Physiology_Protocols/Protein-Content-Protocol.md)) for the Putnam Lab and collaborators in the [E5 project](https://e5coral.org/).
 
 Contents  
 - [**Materials**](#Materials)    
