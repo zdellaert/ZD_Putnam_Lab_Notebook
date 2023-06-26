@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Putnam Lab Ash Free Dry Weight Protocol
+title: Putnam Lab Physiology Ash Free Dry Weight Protocol
 date: '2023-06-23'
 categories: Protocols
 tags: [Physiology, Protocol]
@@ -16,8 +16,6 @@ Contents
 - [**Calculations**](#Calculations)  
 - [**References**](#References)  
 
-This protocol was adapted from the [Putnam lab](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Physiology_Protocols/Ash-Free-Dry-Weight-Protocol.md). 
-
 ### Materials
 
 - Aluminum pans 
@@ -27,11 +25,9 @@ This protocol was adapted from the [Putnam lab](https://github.com/Putnam-Lab/La
 - 15 mL falcon tubes 
 - 5 mL tubes 
 - P1000 + tips 
-- 1x PSB
+- 1x PBS
 - Centrifuge for 15 mL falcon tubes 
 - Desiccator 
-
-Samples should be aliquoted from homogenate generated post-airbrushing. See airbrushing protocol [here](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2022-03-20-Clipping-Airbrushing.md).
 
 ### Protocol 
 
@@ -40,27 +36,31 @@ Samples should be aliquoted from homogenate generated post-airbrushing. See airb
 	- Careful not to puncture a hole in the pans 
 	- Do not use marker, as it will burn off 
 	- Keep in mind that numbers written on the bottom of the pan will appear backwards/upside down 
+	- If you run out of aluminum pans, you can use aluminum foil sheets to make your own. Cut the aluminum foil into a ~4" x 4" square and press the sides of the aluminum foil around a 50mL glass beaker making sure to make a flattened bottom for the pan. Label with pencil, make sure to scrape it well but carefully, as they are more fragile than the pans.
 3. After labeling, burn the pans in the muffle furnance at 450°C for 4-6 hours
 	- Make sure pans are not touched without gloves on and that pans always sit on burned aluminum foil when on the tabletop 
-4. Record weight of burned pans on analytical balance (to 4 decimal places)
+4. Record weight of burned pans on 4-decimal place scale. Make sure you are using clean gloves or tweezers to weight the pans.
 	- Record under Tin_g
 5. Keep pans in desiccator until used 
-6. Thaw frozen homogenate (should be in 15 mL tubes labeled AFDW)
+6. Thaw frozen homogenate (should be in 15 mL tubes labeled AFDW, if not, thaw the 50 mL tubes, vortex, and aliquot 5mL into a 15mL tube per sample)
+6. Line cafeteria trays with aluminum foil and fill with empty pre-burned pans, using tweezers to transfer pans.
 7. Centrifuge the 15 mL tubes for 5 min at 3,500 rpm
 8. Aliquot 4 mL of the supernatent (host) into 5 mL tube. Pour out the rest of the supernatent into a waste jar
-9. Add 1 mL of 1x PBS to the pellet (symbiont). Pipette up and down to mix. 
-10. Keep host and symbiont fractions in -80°C until ready to burn 
+9. Add 1 mL of 1x PBS to the pellet (symbiont). Pipette up and down to mix. Use 5-mL pipet to break up symbiont pellet and transfer all of the liquid into another pre-burned pan. Record pan number and sample ID in notebook, indicating that this is the symbiont fraction.
+10. Keep host and symbiont fractions in -20 ºC or -80°C until ready to burn 
 11. Once ready to burn, pipet 4 mL of the host fraction into a pre-burned pan. Record the pan number used for each sample and record that this is the host fraction.
 12. Pipette 1 mL of the symbiont fraction into a pre-burned pan. Record the pan number used for each sample and record that this is the symbiont fraction.
-13. Transfer the trays of filled pans to drying oven at 60°C for at least 24 hours
+13. Transfer trays of filled pans to drying oven at 80°C for at least 24 h. (If 80°C oven is not available, use 60°C drying oven).
 14. Weigh pans after 24 hours. They should be at a "constant weight" 
 	- May need to weigh pans at 20, 24, and 28 hours to ensure samples have reached a constant weight. 
 	- Record under Tin_Dry-g
 15. After recording the weight of the burned pan + dried tissue, put the pans in the muffle furnance at 450°C for 4-6 hours
 	- The organic fraction will burn off at 450°C leaving only salt and inorganics behind. The difference between the dry weight (Tin_Dry_g) and burned weight (Tin_Burn_g) is the organic fraction of biomass
-16. Weigh pans after 4-6 hours
+15. Let pans cool and place in desiccator and transport to the scale. Avoid transporting when warm, it will cause water to adhere to pans.
+16. Weigh pans
 	- Record under Tin_Burn-g
 17. Sample calculations are below
+	- The AFDW will be biomass (g) for each mL of tissue added, which will then be normalized by the total homogenate volume and skeletal surface area.
 
 ### Calculations 
 
