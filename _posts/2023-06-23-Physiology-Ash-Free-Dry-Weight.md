@@ -67,9 +67,9 @@ Contents
 | A | B | C | D | E | F | G | H | I |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Tin_ID | Plug_ID | Fraction | Volume_mL | Tin_g | Tin_Dry-g | Dry_Biomass-g | Tin_Burn-g | AFDW_g-mL |
-| Calculations | | | | | | =F-E | | =(F-G)/C|
-| 100 | AST-3000 | Host | 4 | 1.4567 | 1.8989 | 0.4422 | 1.7676 | 0.3642 |
-| 101 | AST-3000 | Symbiont | 1 | 1.4455 | 1.7032 | 0.2577 | 1.6756 | 1.4455 |
+| Calculations | | | | | | =F-E | | =(F-H)/D|
+| 100 | AST-3000 | Host | 4 | 1.4567 | 1.8989 | 0.4422 | 1.7676 | 0.032825 |
+| 101 | AST-3000 | Symbiont | 1 | 1.4455 | 1.7032 | 0.2577 | 1.6756 | 0.0276 |
 
 #### References 
 
