@@ -92,6 +92,18 @@ Contents
 
 ![ENCORE_airbrushing.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/ENCORE_airbrushing.jpeg?raw=true)
 
+![Larvae_flowchart.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Larvae_flowchart.jpeg?raw=true)
+
+### Downstream Protocols
+
+1. [Chlorophyll A](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Chlorophyll-Protocol/)
+2. [Symbiont Density](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Symbiont-Density-Protocol/)
+3. [Protein](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Soluble-Protein/)
+4. [Ash-Free Dry Weight](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Ash-Free-Dry-Weight/)
+5. [Coral Surface Area (Wax-Dipping)](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Surface-Area-Wax-Dip/)
+
+Also look at Putnam Lab Management Page [here](https://github.com/Putnam-Lab/Lab_Management/tree/master/Lab_Resources/Physiology_Protocols)
+
 
 Pics from Emma:
 
@@ -106,12 +118,3 @@ Pics from Emma:
 
 ![drying](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/images/Corals_drying.JPG?raw=true).
 
-### Downstream Protocols (currently most are E5 links but I am making my own versions):
-
-1. [Chlorophyll A](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Chlorophyll-Protocol/)
-2. [Symbiont Density](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Symbiont-Density-Protocol/)
-3. [Protein](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Soluble-Protein/)
-4. [Ash-Free Dry Weight](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Physiology-Ash-Free-Dry-Weight/)
-5. [Coral Surface Area (Wax-Dipping)](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md)
-
-Also look at Putnam Lab Management Page [here](https://github.com/Putnam-Lab/Lab_Management/tree/master/Lab_Resources/Physiology_Protocols)
