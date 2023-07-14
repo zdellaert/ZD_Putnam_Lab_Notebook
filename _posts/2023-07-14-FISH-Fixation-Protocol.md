@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
+title: Testing PAXgene, PFA, (and Z-fix) for Immunofluoresence, FISH + LCM preps and sectioning 
 date: '2023-07-14'
 categories: Protocols
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
-# FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
+# Immunofluoresence and FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
 
 #### Previous posts related to this: [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Fixation-Extraction-Test/) and [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/)
 
@@ -15,8 +15,9 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 1. Try fixing in PFA as detailed exactly in the protocol below and go through all steps for sectioning and slide preparation, and do the same in parallel for PAXgene fixed tissues
 2. With validated antibody, try prepping some slides for FISH and keep some to prepare the same way but for LCM.
 
-Supplies List: [https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing)
+Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
 
+Helpful protocol and video for FISH: https://www.jove.com/v/57853/in-situ-hybridization-techniques-for-paraffin-embedded-adult-coral
 
 ## The following protocol is the protocol written by [Katie L. Barott and Martin Tresguerres](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b), which was based in part on the protocol by [Puverel et al. (2004)](https://link.springer.com/article/10.1007/s00338-004-0456-0)
 
