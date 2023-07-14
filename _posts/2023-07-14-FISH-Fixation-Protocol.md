@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Paxgene Fixation, Stabilization, and Extraction Test
+title: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
 date: '2023-07-14'
 categories: Protocols
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
-# FISH Preparation: Testing PAXgene, PFA, and Z-fix for FISH + LCM preps and sectioning 
+# FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
 
 #### Previous posts related to this: [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Fixation-Extraction-Test/) and [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/)
 
