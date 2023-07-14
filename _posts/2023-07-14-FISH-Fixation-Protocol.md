@@ -13,7 +13,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 ## My protocol / plan:
 
 1. Try fixing in PFA as detailed exactly in the protocol below and go through all steps for sectioning and slide preparation, and do the same in parallel for PAXgene fixed tissues
-2. With validated antibody, try prepping some slides for FISH and keep some to prepare the same way but for LCM.
+2. With validated antibody or probes (talk to Hollie), try prepping some slides for FISH/Immunofluorescence and keep some to prepare the same way but for LCM.
 
 Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
 
@@ -118,6 +118,15 @@ A.  Tissue preparation\
           - Remove water with Kim wipe.
       11. Let dry/affix to slide by leaving slide on hotplate overnight at 30 °C with paper towel underneath.
       12. Store at 4 °C until use.
+
+      ##### Deparaffinization and rehydration.
+      1. Incubate in xylene bath for 10 min.
+          - Repeat with fresh xylene for a total of three times.
+          - **Do in HOOD.**
+      2. Incubate in 100% ethanol bath for 10 min.
+      3. Incubate in 95% ethanol bath for 10 min.
+      4. Incubate in 70% ethanol bath for 10 min.
+      5. Incubate in PBS-TX (1x PBS with 0.2% (v/v) Triton-X-100) bath for 10 min.
 
 
 #### Recipes
