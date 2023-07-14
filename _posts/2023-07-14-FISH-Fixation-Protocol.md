@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Testing PAXgene, PFA, (and Z-fix) for Immunofluoresence, FISH + LCM preps and sectioning 
+title: Testing PAXgene, PFA, (and Z-fix) for Immunofluorescence, FISH + LCM preps and sectioning 
 date: '2023-07-14'
 categories: Protocols
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
-# Immunofluoresence and FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
+# Immunofluorescence and FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
 
 #### Previous posts related to this: [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Fixation-Extraction-Test/) and [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/)
 
