@@ -14,6 +14,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 
 1. Try fixing in PFA as detailed exactly in the protocol below and go through all steps for sectioning and slide preparation, and do the same in parallel for PAXgene fixed tissues
 2. With validated antibody or probes (talk to Hollie), try prepping some slides for FISH/Immunofluorescence and keep some to prepare the same way but for LCM.
+    - We may need to go the cryosectioning route instead of paraffin embedding, so an alternaitve protocol using cryosectioning is also presented below.
 
 Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
 
@@ -155,3 +156,13 @@ A.  Tissue preparation\
     1.  4 ml PBS-0.2% TritonX
     2.  80 µl NGS (normal goat serum)
     3.  0.8 µl KLH (Keyhole Limpet Hemocyanin) solution
+
+
+## Cryosectioning Protocol
+
+Helpful notes about cryosectioning for LCM: https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html
+
+- PFA or Paxgene fixation
+- Decalcify
+- Embed in OCT (no dehydration steps) + freeze at -80ºC
+- Section using Cryostat at URI core facility
