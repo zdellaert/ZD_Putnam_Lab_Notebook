@@ -1,23 +1,43 @@
 ---
 layout: post
 title: Testing PAXgene, PFA, (and Z-fix) for Immunofluorescence, FISH + LCM preps and sectioning 
-date: '2023-07-14'
+date: '2023-08-14'
 categories: Protocols
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
-# Immunofluorescence and FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and sectioning 
+# Immunofluorescence and FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and cryosectioning 
 
 #### Previous posts related to this: [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Fixation-Extraction-Test/) and [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/)
 
-## My protocol / plan:
+## First steps, August 2023
 
-1. Try fixing in PFA as detailed exactly in the protocol below and go through all steps for sectioning and slide preparation, and do the same in parallel for PAXgene fixed tissues
-2. With validated antibody or probes (talk to Hollie), try prepping some slides for FISH/Immunofluorescence and keep some to prepare the same way but for LCM.
+1. Use paxgene-fixed and decalcified samples from [April](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/) to test cryosectioning protocol, Hoescht staining, and confocal imaging of PAXgene-fixed tissues. If these results are promising, begin fixing more coral tissues in PAXgene (or PFA to save money), decalcifying, embedding, and perfect sectioning protocol and begin testing staining / LCM.
 
 Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
 
 Helpful protocol and video for FISH: https://www.jove.com/v/57853/in-situ-hybridization-techniques-for-paraffin-embedded-adult-coral
+
+## Cryosectioning Protocol
+
+Helpful notes about cryosectioning for LCM: https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html
+
+- PFA or Paxgene fixation
+- Decalcify
+- Embed in OCT (no dehydration steps) + freeze at -80ºC
+- Section using Cryostat at URI core facility
+- After slides are prepared, keep on dry ice and put in -80 ºC freezer.
+- For staining, take slides out of freezer and let any condensation evaporate.
+    - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
+    - Incubate in PBS-TX (1x PBS with 0.2% (v/v) Triton-X-100) bath for 10 min (in 50mL falcon tube)
+    - Rinse again in 1X PBS, then remove excess liquid.
+    - Use pap pen to encircle section and cover with PBS, perform stainig and washing steps by pipetting off the drop of liquid and replacing with staining solution
+
+
+Things to keep in mind: in between fixation and embedding, some people perform a 15 % or 30% sucrose incubation (or both) step . Example protocols:
+
+-  https://www.protocols.io/view/embedding-and-freezing-fresh-human-tissue-in-oct-u-bp2l64o55vqe/v3
+- https://med.nyu.edu/research/scientific-cores-shared-resources/sites/default/files/frozen-tissue-preparation-with-sucrose.pdf
 
 ## The following protocol is the protocol written by [Katie L. Barott and Martin Tresguerres](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b), which was based in part on the protocol by [Puverel et al. (2004)](https://link.springer.com/article/10.1007/s00338-004-0456-0)
 
@@ -155,3 +175,14 @@ A.  Tissue preparation\
     1.  4 ml PBS-0.2% TritonX
     2.  80 µl NGS (normal goat serum)
     3.  0.8 µl KLH (Keyhole Limpet Hemocyanin) solution
+
+
+## My protocol / plan:
+
+1. Try fixing in PFA as detailed exactly in the protocol below and go through all steps for sectioning and slide preparation, and do the same in parallel for PAXgene fixed tissues
+2. With validated antibody or probes (talk to Hollie), try prepping some slides for FISH/Immunofluorescence and keep some to prepare the same way but for LCM.
+    - We may need to go the cryosectioning route instead of paraffin embedding, so an alternaitve protocol using cryosectioning is also presented below.
+
+Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
+
+Helpful protocol and video for FISH: https://www.jove.com/v/57853/in-situ-hybridization-techniques-for-paraffin-embedded-adult-coral
