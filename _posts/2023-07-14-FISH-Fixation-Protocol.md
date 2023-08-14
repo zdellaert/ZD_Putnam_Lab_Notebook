@@ -36,6 +36,8 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     - Sections can be about 10 uM thick
     - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
         - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
+    - Sectioning tips:
+        - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
 - For staining, take slides out of freezer and let any condensation evaporate.
     - Remove excess OCT with forceps, should peel right off
     - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
