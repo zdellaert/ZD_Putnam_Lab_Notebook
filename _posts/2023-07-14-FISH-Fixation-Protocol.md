@@ -25,6 +25,9 @@ Helpful protocol and video for FISH: https://www.jove.com/v/57853/in-situ-hybrid
 
 Helpful notes about cryosectioning for LCM: https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html
 
+
+See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw)
+
 - PFA or Paxgene fixation
 - Decalcify
 - Sucrose incubation? 15% at 4ºC until tissue sinks then 30% at 4ºC for several hours or overnight.
