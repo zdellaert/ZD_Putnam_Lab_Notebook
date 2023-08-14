@@ -27,10 +27,14 @@ Helpful notes about cryosectioning for LCM: https://www.thermofisher.com/us/en/h
 
 - PFA or Paxgene fixation
 - Decalcify
-- Embed in OCT (no dehydration steps) + freeze at -80ºC
+- Sucrose incubation? 15% at 4ºC until tissue sinks then 30% at 4ºC for several hours or overnight.
+- Embed in -80 cooled OCT (over dry ice) + freeze at -80ºC
 - Section using Cryostat at URI core facility
-- After slides are prepared, keep on dry ice and put in -80 ºC freezer.
+    - Sections can be about 10 uM thick
+    - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
+        - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
 - For staining, take slides out of freezer and let any condensation evaporate.
+    - Remove excess OCT with forceps, should peel right off
     - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
     - Incubate in PBS-TX (1x PBS with 0.2% (v/v) Triton-X-100) bath for 10 min (in 50mL falcon tube)
     - Rinse again in 1X PBS, then remove excess liquid.
