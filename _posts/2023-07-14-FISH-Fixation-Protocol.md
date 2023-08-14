@@ -14,6 +14,9 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 
 1. Use paxgene-fixed and decalcified samples from [April](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/) to test cryosectioning protocol, Hoescht staining, and confocal imaging of PAXgene-fixed tissues. If these results are promising, begin fixing more coral tissues in PAXgene (or PFA to save money), decalcifying, embedding, and perfect sectioning protocol and begin testing staining / LCM.
 
+    1. (Can also try non-cryosectioning protocol (Katie Barrot Protocol): Try fixing in PFA as detailed exactly in the protocol below and go through all steps for sectioning and slide preparation, and do the same in parallel for PAXgene fixed tissues)
+    2. With validated antibody or probes (talk to Hollie), try prepping some slides for FISH/Immunofluorescence and keep some to prepare the same way but for LCM.
+
 Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
 
 Helpful protocol and video for FISH: https://www.jove.com/v/57853/in-situ-hybridization-techniques-for-paraffin-embedded-adult-coral
