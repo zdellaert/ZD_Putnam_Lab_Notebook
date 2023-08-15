@@ -38,12 +38,25 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
         - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
     - Sectioning tips:
         - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
+    - Notes from Paxgene: https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf 
 - For staining, take slides out of freezer and let any condensation evaporate.
     - Remove excess OCT with forceps, should peel right off
     - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
     - Incubate in PBS-TX (1x PBS with 0.2% (v/v) Triton-X-100) bath for 10 min (in 50mL falcon tube)
     - Rinse again in 1X PBS, then remove excess liquid.
     - Use pap pen to encircle section and cover with PBS, perform stainig and washing steps by pipetting off the drop of liquid and replacing with staining solution
+    - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
+- Notes on extracting RNA from PAXgene fixed cryo-embedded tissues
+    - [Paxgene protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf)
+    - Air dry slide at room temperature for 1 min
+    - Remove OCT from slides by:
+        - 70% EtOH, 1 min
+        - 50% EtOH, 45 s
+        - 30% EtOH, 30 s
+    - Transfer to ice-cold 96% ethanol for transport prior to dissection/LCM
+        - For long-time storage, freeze slides at –80°C. Thaw frozen slides at 4°C for 30 min.
+
+
 
 
 Things to keep in mind: in between fixation and embedding, some people perform a 15 % or 30% sucrose incubation (or both) step . Example protocols:
