@@ -211,3 +211,5 @@ A.  Tissue preparation\
 Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
 
 Helpful protocol and video for FISH: https://www.jove.com/v/57853/in-situ-hybridization-techniques-for-paraffin-embedded-adult-coral
+
+https://link.springer.com/protocol/10.1007/978-1-0716-2172-1_19 
