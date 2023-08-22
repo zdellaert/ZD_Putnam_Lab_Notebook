@@ -17,28 +17,26 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
     1. (Can also try non-cryosectioning protocol (Katie Barrot Protocol): Try fixing in PFA as detailed exactly in the protocol below and go through all steps for sectioning and slide preparation, and do the same in parallel for PAXgene fixed tissues)
     2. With validated antibody or probes (talk to Hollie), try prepping some slides for FISH/Immunofluorescence and keep some to prepare the same way but for LCM.
 
-Supplies List: https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing
+[Supplies List](https://docs.google.com/spreadsheets/d/1KlfFGhXL9WP4ChCF0b--V7Zvu5qfZ8f7ct2V04dX2rA/edit?usp=sharing)
 
-Helpful protocol and video for FISH: https://www.jove.com/v/57853/in-situ-hybridization-techniques-for-paraffin-embedded-adult-coral
+[Helpful protocol and video for FISH](https://www.jove.com/v/57853/in-situ-hybridization-techniques-for-paraffin-embedded-adult-coral)
 
 ## Cryosectioning Protocol
 
-Helpful notes about cryosectioning for LCM: https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html
-
-
-See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw)
+[Helpful notes about cryosectioning for LCM](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html)
 
 - PFA or Paxgene fixation
 - Decalcify
-- Sucrose incubation? 15% at 4ºC until tissue sinks then 30% at 4ºC for several hours or overnight.
-- Embed in -80 cooled OCT (over dry ice) + freeze at -80ºC
+- Sucrose incubation?
+    - see embedding protocol for notes
+- [Embed in cooled OCT (over dry ice) + freeze at -80ºC](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
 - Section using Cryostat at URI core facility
     - Sections can be about 10 uM thick
     - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
         - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
     - Sectioning tips:
         - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
-    - Notes from Paxgene: https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf 
+    - [Notes from Paxgene](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
 - For staining, take slides out of freezer and let any condensation evaporate.
     - Remove excess OCT with forceps, should peel right off
     - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
@@ -47,7 +45,8 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     - Use pap pen to encircle section and cover with PBS, perform stainig and washing steps by pipetting off the drop of liquid and replacing with staining solution
     - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
 - Notes on extracting RNA from PAXgene fixed cryo-embedded tissues
-    - [Paxgene protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf)
+    - [Paxgene protocol for sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0164-S02-001_PX22_SP_RNA_including_miRNA_from_PFCE_sections_0716_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf) 
+        - DNA protcols: [sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S04-001_PX16_SP_Tissue_DNA_System_SP_Purification_gDNA_from_PFCE_tissue_placed_directly_into_a_microcentrifuge_tube_1015_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S03-001_PX15_SP_Tissue_DNA_System_Purification_gDNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf)
     - Air dry slide at room temperature for 1 min
     - Remove OCT from slides by:
         - 70% EtOH, 1 min
@@ -55,14 +54,6 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
         - 30% EtOH, 30 s
     - Transfer to ice-cold 96% ethanol for transport prior to dissection/LCM
         - For long-time storage, freeze slides at –80°C. Thaw frozen slides at 4°C for 30 min.
-
-
-
-
-Things to keep in mind: in between fixation and embedding, some people perform a 15 % or 30% sucrose incubation (or both) step . Example protocols:
-
--  https://www.protocols.io/view/embedding-and-freezing-fresh-human-tissue-in-oct-u-bp2l64o55vqe/v3
-- https://med.nyu.edu/research/scientific-cores-shared-resources/sites/default/files/frozen-tissue-preparation-with-sucrose.pdf
 
 ## The following protocol is the protocol written by [Katie L. Barott and Martin Tresguerres](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b), which was based in part on the protocol by [Puverel et al. (2004)](https://link.springer.com/article/10.1007/s00338-004-0456-0)
 
