@@ -37,6 +37,15 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
     - Sectioning tips:
         - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
     - [Notes from Paxgene](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
+    - Notes from [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/):
+        - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes.
+            - Mix RNaseZap and 70% ethanol in 1:1 ratio. Mix the two liquids by rocking the bottle sideways for 4-5 min
+        - Incubate PEN membrane slides for 30 min under UV light (on the UV transilluminator) to enhance the binding of the tissue to the membrane slide.
+        - Get a bucket of dry ice for tissue/embedded mold transportation.
+        - Prepare solutions with RNase-free water and high-quality ethanol:
+            - 75% ethanol (freshly prepared, Recipe 4)
+        - Set temperature of cryostat in the range of -15 °C to -18 °C
+        - Label PEN slides using a pencil.
 - For staining, take slides out of freezer and let any condensation evaporate.
     - Remove excess OCT with forceps, should peel right off
     - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
@@ -54,6 +63,11 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
         - 30% EtOH, 30 s
     - Transfer to ice-cold 96% ethanol for transport prior to dissection/LCM
         - For long-time storage, freeze slides at –80°C. Thaw frozen slides at 4°C for 30 min.
+
+- Notes on LCM
+    - https://depts.washington.edu/rubelab/protocols/lmdslidememo.pdf
+    - https://depts.washington.edu/rubelab/protocols/leicalmdprotocolguide.pdf
+    - https://cmrf.research.uiowa.edu/sites/cmrf.research.uiowa.edu/files/Leica%20LMD7000%20-%20Operating%20Instructions.pdf
 
 ## The following protocol is the protocol written by [Katie L. Barott and Martin Tresguerres](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b), which was based in part on the protocol by [Puverel et al. (2004)](https://link.springer.com/article/10.1007/s00338-004-0456-0)
 
