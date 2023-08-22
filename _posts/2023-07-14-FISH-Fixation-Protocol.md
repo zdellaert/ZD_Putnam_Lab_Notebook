@@ -6,7 +6,7 @@ categories: Protocols
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
-# Immunofluorescence and FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and cryosectioning 
+## Immunofluorescence and FISH Preparation: Testing PAXgene, PFA, (and Z-fix) for FISH + LCM preps and cryosectioning 
 
 #### Previous posts related to this: [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Fixation-Extraction-Test/) and [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/)
 

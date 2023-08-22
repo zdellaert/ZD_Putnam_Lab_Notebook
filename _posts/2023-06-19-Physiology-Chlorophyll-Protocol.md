@@ -6,7 +6,7 @@ categories: Protocols
 tags: [Physiology, Protocol]
 ---
 
-# Chlorophyll-a Extraction and Quantification from Coral Tissue Homogenate
+## Chlorophyll-a Extraction and Quantification from Coral Tissue Homogenate
 
 #### This protocol was adapted from the protocol written by [Danielle Becker and Hollie Putnam](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Chlorophyll-Protocol.md?plain=1) (and [here](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Physiology_Protocols/Chlorophyll-Protocol.md)) for the Putnam Lab and collaborators in the [E5 project](https://e5coral.org/) with adjustments and images from [Emma Strand](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-10-24-Chlorophyll-A-Protocol.md) and [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2023-01-18-Chlorophyll-a.md?plain=1).  Modified from [Wall et al 2018](https://link.springer.com/content/pdf/10.1007%2Fs00227-018-3317-z.pdf).  
 

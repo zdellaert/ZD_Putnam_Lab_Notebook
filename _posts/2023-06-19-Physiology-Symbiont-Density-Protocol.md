@@ -6,7 +6,7 @@ categories: Protocols
 tags: [Physiology, Protocol]
 ---
 
-# Symbiodiniaceae Cell Density Counting Protocol from Coral Tissue Homogenate
+## Symbiodiniaceae Cell Density Counting Protocol from Coral Tissue Homogenate
 
 #### This protocol was adapted from the protocol written by [Hollie Putnam](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) (and [here](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Physiology_Protocols/Cell_Density-Protocol.md)) for the Putnam Lab and collaborators in the [E5 project](https://e5coral.org/).
 

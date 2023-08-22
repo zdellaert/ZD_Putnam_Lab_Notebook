@@ -6,7 +6,7 @@ categories: Protocols
 tags: [Physiology, Protocol]
 ---
 
-# Ash Free Dry Weight: Measuring Biomass from Coral Tissue Homogenate 
+## Ash Free Dry Weight: Measuring Biomass from Coral Tissue Homogenate 
 
 #### This protocol was adapted from the protocol written by [Hollie Putnam](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Ash-Free-Dry-Weight-Protocol.md) (and [here](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Physiology_Protocols/Ash-Free-Dry-Weight-Protocol.md)) for the Putnam Lab and collaborators in the [E5 project](https://e5coral.org/) with adjustments from [Jill Ashey](https://jillashey.github.io/JillAshey_Putnam_Lab_Notebook/Ash-Free-Dry-Weight-Protocol/). 
 

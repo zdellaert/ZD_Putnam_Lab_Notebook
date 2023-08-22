@@ -6,7 +6,7 @@ categories: Protocols
 tags: [Physiology, Protocol]
 ---
 
-# Wax Dipping: Coral surface area measurments using a paraffin wax bath
+## Wax Dipping: Coral surface area measurments using a paraffin wax bath
 
 #### This protocol was adapted from the protocol written by [Hollie Putnam and Danielle Becker](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md) for the Putnam Lab and collaborators in the [E5 project](https://e5coral.org/). 
 

@@ -6,7 +6,7 @@ categories: Protocols
 tags: [Physiology, Protocol]
 ---
 
-# Airbrushing Coral Homogenate for Physiological Analyses
+## Airbrushing Coral Homogenate for Physiological Analyses
 
 #### This protocol was adapted from the protocol written by [Hollie Putnam](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) (and [here](https://hputnam.github.io/Putnam_Lab_Notebook/Coral_Tissue_Removal_protocol/)) for the Putnam Lab and collaborators in the [E5 project](https://e5coral.org/) with adjustments and images from [Emma Strand](https://github.com/emmastrand/EmmaStrand_Notebook/blob/master/_posts/2019-10-22-Airbrushing-Protocol.md) and [Jill Ashey](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2022-03-20-Clipping-Airbrushing.md).
 
