@@ -8,6 +8,8 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 
 # Protocol for Cryoembedding PAXgene-fixed Tissues in OCT Media for Cryosectioning (for FISH, Immunofluorescence, and LCM)
 
+### Example Protocols and Video
+
 See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw&list=PLfaSRwcfHcq0D8RTy9LR8sKsWcF6C8TAt&index=3)
 
 [PAXgene cryoembedding protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/PROM-8405-002_PX14_SP_Tissue_System_Cryoembedding_PFPE_tissues_1216_WW.pdf)
@@ -35,7 +37,16 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
 2. Sterilize forceps in same way
 3. Cool OCT on ice (not dry ice) for at least 30 mins
     ![1_OCT_Cool.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/1_OCT_Cool.jpeg?raw=true)
-4. Cool forceps on dry ice for at least 30 mins
+4. Cool sterilized forceps on dry ice for at least 30 mins
+    ![2_forceps.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/2_forceps.jpeg?raw=true)
+5. Label cryomold with sample information and orientation of tissue
+    - The OCT will freeze and become opaque, so a diagram is useful to know the orientation of the tissue for sectioning
+    - Place cryomold in labelled bag on dry ice to keep cool until ready
+    ![3_mold_label.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/3_mold_label.jpeg?raw=true)
+    ![4_bag.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/4_bag.jpeg?raw=true)
+6. If using powdered dry ice instead of liquid nitrogen, crush 2-3 pellets of dry ice using a cleaned mortar and pestle
+    ![5_crush.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/5_crush.jpeg?raw=true)
+    ![6_crushed.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/6_crushed.jpeg?raw=true)
 
 ## Input material:
 1. Start with -80 ºC frozen tissue in PAXgene tissue stabilizer ([example here, full protocol coming soon](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/))
@@ -46,7 +57,22 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     - Prepare a 30% sucrose solution [w/v] by dissolving 30 g sucrose (high purity grade) in 100 ml RNasefree water. 
 
 ## Embedding
-2. Embed in -80 cooled OCT (over dry ice) + freeze at -80ºC
+1. Fill labelled cryomold with cooled OCT, being careful to not make any bubbles
+    ![7_fill.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/7_fill.jpeg?raw=true)
+    - If bubbles form, push to side of block with clean pipette tip
+        ![8_filled.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/8_filled.jpeg?raw=true)
+2. Using sterilized and cooled forceps, transfer tissue from PAXgene stabilizer or sucrose to a kimwipe to remove excess liquid then immediately place into OCT in cryomold in pre-determined orientation
+    ![9_transfer.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/9_transfer.jpeg?raw=true)
+    ![10_drip.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/10_drip.jpeg?raw=true)
+    ![11_place.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/11_place.jpeg?raw=true)
+3. Cover tissue with more OCT so no tissue is exposed to air
+    ![12_top.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/12_top.jpeg?raw=true)
+4. Immediaetely place cryomold on powdered dry ice so all outside surfaces of the mold are touching powdered dry ice until OCT block is completely opaque
+    - OR: Place (do not submerge, LN2 should not touch OCT, the top should remain exposed) in liquid nitrogen until OCT block is completely opaque
+    ![13_ice.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/13_ice.jpeg?raw=true)
+    ![14_opaque.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/14_opaque.jpeg?raw=true)
+5. Once embedded tissue block is opaque, seal in labelled zip-lock bag and immediately transfer (on dry ice) to -80 freezer
+    ![15_done.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/15_done.jpeg?raw=true)
 
 
 Example protocols:
