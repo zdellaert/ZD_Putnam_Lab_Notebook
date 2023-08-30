@@ -51,17 +51,16 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
 ## Input material:
 1. Start with -80 ºC frozen tissue in PAXgene tissue stabilizer ([example here, full protocol coming soon](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/))
     - Keep tissue at -80 or on dry ice until it is placed in embedding mold
-2. If starting with tissue that has not been placed in -80 ºC yet, for example tissue that just finished decalcifying, perform "cryoprotection" by transfering from PAXgene stabilizer to a > 10mL volume of a 15% sucrose solution at 4ºC until tissue sinks then to a 30% sucrose solution at 4ºC for several hours or overnight.
-    - Some protocols, such as the [PAXgene cryoembedding protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/PROM-8405-002_PX14_SP_Tissue_System_Cryoembedding_PFPE_tissues_1216_WW.pdf), place tissue straight into the 30% solution and incubate at 4 ºC until the tissue sinks or overnight.
-    - Prepare a 15% sucrose solution [w/v] by dissolving 15 g sucrose (high purity grade) in 100 ml RNasefree water. 
-    - Prepare a 30% sucrose solution [w/v] by dissolving 30 g sucrose (high purity grade) in 100 ml RNasefree water. 
+2. If starting with tissue that has not been placed in -80 ºC yet, for example tissue that just finished decalcifying, perform "cryoprotection" by transfering from PAXgene stabilizer to a > 10mL volume of 30% sucrose solution at 4ºC for several hours or overnight, once the tissue sinks you can continue processing. If it never sinks, overnight should be OK.
+    - ![sucrose.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/sucrose.jpg?raw=true)
+    - Alternatively you can place the tissue in a 15% sucrose solution at 4ºC until tissue sinks then to a 30% solution for several hours or overnight.
 
 ## Embedding
 1. Fill labelled cryomold with cooled OCT, being careful to not make any bubbles
     ![7_fill.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/7_fill.jpeg?raw=true)
     - If bubbles form, push to side of block with clean pipette tip
         ![8_filled.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/8_filled.jpeg?raw=true)
-2. Using sterilized and cooled forceps, transfer tissue from PAXgene stabilizer or sucrose to a kimwipe to remove excess liquid then immediately place into OCT in cryomold in pre-determined orientation
+2. Using sterilized and cooled forceps, transfer tissue from PAXgene stabilizer or sucrose to a piece of parafilm and then dab with the corner of a kim wipe to remove excess liquid then immediately place into OCT in cryomold in pre-determined orientation
     ![9_transfer.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/9_transfer.jpeg?raw=true)
     ![10_drip.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/10_drip.jpeg?raw=true)
     ![11_place.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/11_place.jpeg?raw=true)
@@ -71,7 +70,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     - OR: Place (do not submerge, LN2 should not touch OCT, the top should remain exposed) in liquid nitrogen until OCT block is completely opaque
     ![13_ice.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/13_ice.jpeg?raw=true)
     ![14_opaque.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/14_opaque.jpeg?raw=true)
-5. Once embedded tissue block is opaque, seal in labelled zip-lock bag and immediately transfer (on dry ice) to -80 freezer
+5. Once embedded tissue block is opaque, wrap in aluminum foil and then seal in labelled zip-lock bag or whirlpack and immediately transfer (on dry ice) to -80 freezer
     ![15_done.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/15_done.jpeg?raw=true)
 
 
