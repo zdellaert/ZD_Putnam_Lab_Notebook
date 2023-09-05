@@ -23,3 +23,6 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
    - Pre-sucrose (XX days at -80 ºC)
    - Post-surcrose?
    - Try to extract RNA from sections after sectioning
+
+   Weighing starting material to try to keep it consistent is a good idea. 
+    1. **Bead-beat 2 mins with DNA/RNA shield or not?**
