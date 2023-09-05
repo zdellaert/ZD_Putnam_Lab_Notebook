@@ -49,9 +49,9 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     ![6_crushed.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/6_crushed.jpeg?raw=true)
 
 ## Input material:
-1. Start with -80 ºC frozen tissue in PAXgene tissue stabilizer ([example here, full protocol coming soon](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/))
+1. Start with PAXgene fixed tissue in PAXgene tissue stabilizer that has just finished decalcification or that has been kept at -80 ºC since being placed in stabilizer ([example here, full protocol coming soon](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/))
     - Keep tissue at -80 or on dry ice until it is placed in embedding mold
-2. If starting with tissue that has not been placed in -80 ºC yet, for example tissue that just finished decalcifying, perform "cryoprotection" by transfering from PAXgene stabilizer to a > 10mL volume of 30% sucrose solution at 4ºC for several hours or overnight, once the tissue sinks you can continue processing. If it never sinks, overnight should be OK.
+2. Perform "cryoprotection" by transfering from PAXgene stabilizer to a > 10mL volume of 30% sucrose solution at 4ºC for several hours or overnight, once the tissue sinks you can continue processing. If it never sinks, overnight should be OK.
     - ![sucrose.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/sucrose.jpg?raw=true)
     - Alternatively you can place the tissue in a 15% sucrose solution at 4ºC until tissue sinks then to a 30% solution for several hours or overnight.
 
@@ -70,6 +70,8 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     - OR: Place (do not submerge, LN2 should not touch OCT, the top should remain exposed) in liquid nitrogen until OCT block is completely opaque
     ![13_ice.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/13_ice.jpeg?raw=true)
     ![14_opaque.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/14_opaque.jpeg?raw=true)
+    ![LN2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/LN2.jpeg?raw=true)
+    ![LN2_freeze.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/LN2_freeze.jpeg?raw=true)
 5. Once embedded tissue block is opaque, wrap in aluminum foil and then seal in labelled zip-lock bag or whirlpack and immediately transfer (on dry ice) to -80 freezer
     ![15_done.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/15_done.jpeg?raw=true)
 
