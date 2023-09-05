@@ -33,22 +33,19 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 
 1. Fix branchlets in PAXgene fixative for 24 hours.
    1. Get coral from CBLS wetlab and gently transport upstairs in water from the aquarium
+      ![1_coral.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/1_coral.jpeg?raw=true)
+
    2. Use sterilized clippers (see "Preparation" above) to snip off tissue of interest and use sterilzied forceps to transfer the tissue to a tissue casette (we may want to autoclave or RNAse treat these) and submerge in the PAXgene fixative container.
+      ![3_hood.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/3_hood.jpeg?raw=true)
    3. Up to 4-6 small branches can fit in a tissue casette and each container can hold 4 casettes. 
-   4. You will see the pigments quickly leech out from the tissue
-   5. Close the container and keep at room temp in the hood, for 24 hours.
+      ![4_branches.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/4_branches.jpeg?raw=true)
 
-![1_coral.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/1_coral.jpeg?raw=true)
+   4. Close the container and keep at room temp in the hood, for 24 hours.
+      - You will see the pigments quickly leech out from the tissue
 
-![2_casettes.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/2_casettes.jpeg?raw=true)
+      ![5_Fix.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/5_Fix.jpeg?raw=true)
 
-![3_hood.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/3_hood.jpeg?raw=true)
-
-![4_branches.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/4_branches.jpeg?raw=true)
-
-![5_Fix.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/5_Fix.jpeg?raw=true)
-
-![6_fix2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/6_fix2.jpeg?raw=true)
+      ![6_fix2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/6_fix2.jpeg?raw=true)
 
 2. Transfer branchlets to PAXgene stabilizer at 4 ºC for 24 hours
    - Pour off PAXgene fixative into labelled waste container (in hood) and refill the container with PAXgene stabilizer. I usually pour off this first amount of stabilizer as a "wash" and then refill the container with PAXgene stabilizer again. 
@@ -67,24 +64,23 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 5. Transfer washed casette to beaker containing EDTA. Once all casettes are processed, cover beaker with parafilm (poke holes in case gas builds up) and place on a shaker at low speed (i.e. 150 rm) in the cold room (4 ºC) until decalcification is complete (for small branches this takes ~48 hours).
    - Change EDTA solution every 24 or 48 hours
 
-![7_intodecalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/7_intodecalc.jpeg?raw=true)
+   ![7_intodecalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/7_intodecalc.jpeg?raw=true)
 
-![9_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/9_decalc.jpeg?raw=true)
+   ![9_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/9_decalc.jpeg?raw=true)
 
-![10_decalc_day0.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/10_decalc_day0.jpeg?raw=true)
-
-![11_decalc_coldroom.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/11_decalc_coldroom.jpeg?raw=true)
+   ![11_decalc_coldroom.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/11_decalc_coldroom.jpeg?raw=true)
 
    - Example of branches partially decalcified (24 hours)
 
-![12_decalc_day1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/12_decalc_day1.jpeg?raw=true)
+   ![12_decalc_day1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/12_decalc_day1.jpeg?raw=true)
 
    - Example of branches fully decalcified (48 hours)
 
-![13_decalc_done.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/13_decalc_done.jpeg?raw=true)
+   ![13_decalc_done.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/PAXgene_fix/13_decalc_done.jpeg?raw=true)
 
-6. When the samples are fully decalcified (no CaCO3 left visually, samples may float), rinse tissue in RNAse/DNAse free PBS, at least 10 mins wash???? at 4ºC, 
-   - on 9/4/23 did a short rinse but a precipiate still formed when I put the tissue in the stabilizer
+6. When the samples are fully decalcified (no CaCO3 left visually, samples may float), rinse tissue in RNAse/DNAse free PBS
+   - on 9/4/23 did a short rinse but a precipiate still formed when I put the tissue in the stabilizer, so a longer rinse, for example 10 minutes at 4 ºC, is recommended
+   - alternatievly: wash in PBS, then transfer to tube with stabilizer, then after 5 minutes remove stabilier and any precipiate that formed and replace with fresh stabilizer
 6. Transfer branchlets to PAXgene stabilizer for 24 hours
-   - either incubate at RT or 4ºC or put straight in -80ºC, need to figure out what is better
-7. After decalcification, samples should go straight into labelled tubes with PAXgene stabilizer, possibly with another 4 ºC incubation step to allow for PAXgene stabilizer penetration into tissue, and then stored at -80ºC. (We can also test putting them in the fridge)
+   - set up 2mL screw-cap tubes with 1 mL of stabilizer, add one branch per tube
+   - either incubate at RT or 4ºC for 24 hours to allow for stabilizer to penetrate and then transfer to -80 ºC, or put straight in -80 ºC, need to figure out what is better
