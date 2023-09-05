@@ -15,6 +15,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 ## Supplies
 1. [PAXgene Tissue Fix Containers](https://www.qiagen.com/us/products/discovery-and-translational-research/sample-collection-stabilization/paxgene-tissue-fix-container-50-ml)
 2. [PAXgene Tissue Stabilizer](https://www.qiagen.com/us/products/discovery-and-translational-research/sample-collection-stabilization/paxgene-tissue-stabilizer-concentrate?catno=765512)
+   - Add ethanol to according to manufacturer's instructions
 3. Forceps
 4. Small clippers
 5. 0.5 M EDTA
@@ -27,7 +28,6 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
     - 70% ethanol
     - RNAse cleaner (spray bottle)
 2. Sterilize forceps and clippers in same way
-3. Add ethanol to PAXgene Tissue Stabilizer according to manufacturer's instructions
 
 ## Fixation
 
