@@ -23,51 +23,8 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
 
 ## Cryosectioning Protocol
 
-[Helpful notes about cryosectioning for LCM](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html)
+see [updated protocol here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
 
-- PFA or Paxgene fixation
-- Decalcify
-- Sucrose incubation?
-    - see embedding protocol for notes
-- [Embed in cooled OCT (over dry ice) + freeze at -80ºC](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
-- Section using Cryostat at URI core facility
-    - Sections can be about 10 uM thick
-    - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
-        - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
-    - Sectioning tips:
-        - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
-    - [Notes from Paxgene](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
-    - Notes from [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/):
-        - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes.
-            - Mix RNaseZap and 70% ethanol in 1:1 ratio. Mix the two liquids by rocking the bottle sideways for 4-5 min
-        - Incubate PEN membrane slides for 30 min under UV light (on the UV transilluminator) to enhance the binding of the tissue to the membrane slide.
-        - Get a bucket of dry ice for tissue/embedded mold transportation.
-        - Prepare solutions with RNase-free water and high-quality ethanol:
-            - 75% ethanol (freshly prepared, Recipe 4)
-        - Set temperature of cryostat in the range of -15 °C to -18 °C
-        - Label PEN slides using a pencil.
-- For staining, take slides out of freezer and let any condensation evaporate.
-    - Remove excess OCT with forceps, should peel right off
-    - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
-    - Incubate in PBS-TX (1x PBS with 0.2% (v/v) Triton-X-100) bath for 10 min (in 50mL falcon tube)
-    - Rinse again in 1X PBS, then remove excess liquid.
-    - Use pap pen to encircle section and cover with PBS, perform stainig and washing steps by pipetting off the drop of liquid and replacing with staining solution
-    - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
-- Notes on extracting RNA from PAXgene fixed cryo-embedded tissues
-    - [Paxgene protocol for sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0164-S02-001_PX22_SP_RNA_including_miRNA_from_PFCE_sections_0716_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf) 
-        - DNA protcols: [sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S04-001_PX16_SP_Tissue_DNA_System_SP_Purification_gDNA_from_PFCE_tissue_placed_directly_into_a_microcentrifuge_tube_1015_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S03-001_PX15_SP_Tissue_DNA_System_Purification_gDNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf)
-    - Air dry slide at room temperature for 1 min
-    - Remove OCT from slides by:
-        - 70% EtOH, 1 min
-        - 50% EtOH, 45 s
-        - 30% EtOH, 30 s
-    - Transfer to ice-cold 96% ethanol for transport prior to dissection/LCM
-        - For long-time storage, freeze slides at –80°C. Thaw frozen slides at 4°C for 30 min.
-
-- Notes on LCM
-    - https://depts.washington.edu/rubelab/protocols/lmdslidememo.pdf
-    - https://depts.washington.edu/rubelab/protocols/leicalmdprotocolguide.pdf
-    - https://cmrf.research.uiowa.edu/sites/cmrf.research.uiowa.edu/files/Leica%20LMD7000%20-%20Operating%20Instructions.pdf
 
 ## The following protocol is the protocol written by [Katie L. Barott and Martin Tresguerres](https://cn.bio-protocol.org/en/bpdetail?id=1573&type=0&searchid=BM1675987200021453&sort=17&pos=b), which was based in part on the protocol by [Puverel et al. (2004)](https://link.springer.com/article/10.1007/s00338-004-0456-0)
 

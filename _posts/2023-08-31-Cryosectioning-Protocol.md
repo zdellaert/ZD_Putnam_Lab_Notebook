@@ -67,7 +67,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 - Might try to get H&E stains to do morphology checks as well
 
 - For staining, take slides out of freezer and let any condensation evaporate.
-    - Remove excess OCT with forceps, should peel right off
+    - Optional: *Remove excess OCT with forceps, should peel right off*
     - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
     - Incubate in PBST (1x PBS with 0.2% (v/v) Triton-X-100) bath for 10 min (in 50mL falcon tube)
         - To make 50mL of PBST, combine 50 mL of 1X PBS with 0.1 mL (100uL) of Triton-X-100. Shake the Triton-X-100 well before adding to the PBS.
@@ -79,3 +79,32 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
             - wrap tube in aluminum foil to keep dark and store at -20ºC 
 
     - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
+
+
+### Helpful vidoes and references
+
+[Helpful notes about cryosectioning for LCM](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html)
+
+
+
+- Sectioning tips:
+    - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
+ - [Notes from Paxgene](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
+
+
+    - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
+- Notes on extracting RNA from PAXgene fixed cryo-embedded tissues
+    - [Paxgene protocol for sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0164-S02-001_PX22_SP_RNA_including_miRNA_from_PFCE_sections_0716_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf) 
+        - DNA protcols: [sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S04-001_PX16_SP_Tissue_DNA_System_SP_Purification_gDNA_from_PFCE_tissue_placed_directly_into_a_microcentrifuge_tube_1015_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S03-001_PX15_SP_Tissue_DNA_System_Purification_gDNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf)
+    - Air dry slide at room temperature for 1 min
+    - Remove OCT from slides by:
+        - 70% EtOH, 1 min
+        - 50% EtOH, 45 s
+        - 30% EtOH, 30 s
+    - Transfer to ice-cold 96% ethanol for transport prior to dissection/LCM
+        - For long-time storage, freeze slides at –80°C. Thaw frozen slides at 4°C for 30 min.
+
+- Notes on LCM
+    - https://depts.washington.edu/rubelab/protocols/lmdslidememo.pdf
+    - https://depts.washington.edu/rubelab/protocols/leicalmdprotocolguide.pdf
+    - https://cmrf.research.uiowa.edu/sites/cmrf.research.uiowa.edu/files/Leica%20LMD7000%20-%20Operating%20Instructions.pdf
