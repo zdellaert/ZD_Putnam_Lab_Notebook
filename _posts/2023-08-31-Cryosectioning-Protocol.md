@@ -8,7 +8,7 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
 
 ## Protocol for Cryosectioning PAXgene-fixed Tissues (for FISH, Immunofluorescence, and LCM)
 
-### Starting material: Tissue fixed, stabilized, decalcified ([example here, full protocol coming soon](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Paxgene-Decalcification-Sections-Test/)), and [embedded in OCT](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
+### Starting material: Tissue fixed, stabilized, decalcified ([protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)), and [embedded in OCT](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
 
 ### Example Protocols and Video
 

@@ -49,7 +49,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     ![6_crushed.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/6_crushed.jpeg?raw=true)
 
 ## Input material:
-1. Start with PAXgene fixed tissue in PAXgene tissue stabilizer that has just finished decalcification or that has been kept at -80 ºC since being placed in stabilizer ([protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/))
+1. Start with PAXgene fixed tissue in PAXgene tissue stabilizer that has just finished decalcification or that has been kept at -80 ºC since being placed in stabilizer ([protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/))
     - Keep tissue at -80 or on dry ice until it is placed in embedding mold
 2. Perform "cryoprotection" by transfering from PAXgene stabilizer to a > 10mL volume of 30% sucrose solution at 4ºC for several hours or overnight, once the tissue sinks you can continue processing. If it never sinks, overnight should be OK.
     - ![sucrose.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/sucrose.jpg?raw=true)

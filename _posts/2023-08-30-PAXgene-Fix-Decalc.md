@@ -8,7 +8,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
 
 ## Fixing and decalcifying 16 branches of Pocillopora tissue for testing protocols
 
-### Protocol [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2023-08-31-PAXgene-Fix-Decalc-Protocol.md)
+### Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)
 
 1. Fixed 16 branches, see protocol post above for images
     - 4 per tissue casette
