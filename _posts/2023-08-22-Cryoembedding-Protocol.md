@@ -3,7 +3,7 @@ layout: post
 title: Protocol for Cryoembedding Tissues in OCT Media for Cryosectioning (for FISH, Immunofluorescence, and LCM)
 date: '2023-08-22'
 categories: Protocols
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
+tags: [PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
 ## Protocol for Cryoembedding PAXgene-fixed Tissues in OCT Media for Cryosectioning (for FISH, Immunofluorescence, and LCM)

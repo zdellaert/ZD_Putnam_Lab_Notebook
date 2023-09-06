@@ -2,8 +2,8 @@
 layout: post
 title: Fixing Coral Tissues for Protocol Testing
 date: '2023-08-30'
-categories: Protocols
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
+categories: Processing
+tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
 ---
 
 ## Fixing and decalcifying 16 branches of Pocillopora tissue for testing protocols

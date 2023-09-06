@@ -3,12 +3,12 @@ layout: post
 title: Protocol for Fixing Coral Tissues with PAXgene Tissue Fixative followed by EDTA Decalcification
 date: '2023-08-31'
 categories: Protocols
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
+tags: [PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
 ## Protocol for Fixing Coral Tissues with PAXgene Tissue Fixative followed by EDTA Decalcification
 
-### The goal of this protocol is to fix tissue for downstream applications such as [cryosectioning](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2023-08-29-Cryosectioning-Protocol.md) to create tissue sections that preserve structural integrity and maintain the integrity of RNA and proteins for downstream imaging and RNA extraction
+### The goal of this protocol is to fix tissue for downstream applications such as [cryosectioning](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2023-08-31-Cryosectioning-Protocol.md) to create tissue sections that preserve structural integrity and maintain the integrity of RNA and proteins for downstream imaging and RNA extraction
 
 #### Therefore, all of these steps should be performed with gloves and in a clean workspace. And, since we are working with fixative, all steps utilizing fixative and the several wash steps thereafter should be performed in the fume hood.
 

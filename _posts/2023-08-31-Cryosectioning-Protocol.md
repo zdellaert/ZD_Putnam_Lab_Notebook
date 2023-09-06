@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Protocol for Cryosectioning Tissues(for FISH, Immunofluorescence, and LCM)
+title: Protocol for Cryosectioning Tissues (for FISH, Immunofluorescence, and LCM)
 date: '2023-08-31'
 categories: Protocols
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Protocol]
+tags: [PAXgene, Fixative, Pocillopora, Protocol]
 ---
 
 ## Protocol for Cryosectioning PAXgene-fixed Tissues (for FISH, Immunofluorescence, and LCM)
