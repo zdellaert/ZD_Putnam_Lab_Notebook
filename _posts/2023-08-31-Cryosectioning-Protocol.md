@@ -77,6 +77,15 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
         - make 1 µg/ml solution of Hoescht 
             - add 0.001 g to 1 mL of RNAse/DNAse free H2O
             - wrap tube in aluminum foil to keep dark and store at -20ºC 
+        - Add 100 uL of the Hoescht solution to each section and allow to stain in the dark for 5 mins.
+    - Wash in 1X PBS in dark
+    - Remove excess liquid by aspirating and pat dry area around sample with Kimwipe
+    - Air dry, covered to prevent dust from accumulating
+    - Apply a few microliters of mounting media, avoiding any bubbles
+        - Mounting media tips
+            - Take mounting media out of the fridge ~30 mins before mounting and store upside down to try to limit bubbles forming and getting onto the tissue
+    - Cover with a large coverlslip (22x50)
+    - Seal with nail polish allow slides to cure overnight (4 ºC in dark).
 
     - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
 
