@@ -46,8 +46,10 @@ Date|Position| Affiliation
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=fG_Q1uwAAAAJ&hl=en)
 
-1. Dellaert Z, Vargas PA, La Riviere PJ, and Roberson LM. (2022) Uncovering the Effects of Symbiosis and Temperature on Coral Calcification. The Biological Bulletin 242:1, 62-73
+1. Dellaert Z and Putnam HM. (2023) Reconciling the variability in the biological response of marine invertebrates to climate change. Journal of Experimental Biology 226, jeb245834.
 	   
+2. Dellaert Z, Vargas PA, La Riviere PJ, and Roberson LM. (2022) Uncovering the Effects of Symbiosis and Temperature on Coral Calcification. The Biological Bulletin 242:1, 62-73
+
 ### RESEARCH GRANTS & FELLOWSHIPS, Total: $227,975
 
 National Science Foundation (NSF) Graduate Research Fellowship (2022-27), $147,000
