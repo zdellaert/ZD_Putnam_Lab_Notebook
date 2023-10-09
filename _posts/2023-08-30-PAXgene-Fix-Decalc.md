@@ -35,14 +35,11 @@ Fixed two branches in PAXgene in smaller volumes to test efficacy
 
 "4mL" = fixed in 4 mL of PAXgene fixative in a 5mL tube, **extracted 9/18/23**
 
-
-1. Fixed 16 branches, see protocol post above for images
-    - 4 per tissue casette
-    - Day 1 (9/7/23): Fixed tissue in PAXgene fixative
-    - Day 2 (9/8/23): Replaced fixative with stabilizer, transferred to 4 ºC
-    - Day 3 (9/9/23): Started decalcification, kept on shaker in cold room (4 ºC)
-    - Day 4 (9/10/23): Changed EDTA solution
-    - Day 5 (9/11/23): Decalcification done, tissue washed and transferred to PAXgene stabilizer at -80 ºC
+- Day 1 (9/7/23): Fixed tissue in PAXgene fixative
+- Day 2 (9/8/23): Replaced fixative with stabilizer, transferred to 4 ºC
+- Day 3 (9/9/23): Started decalcification, kept on shaker in cold room (4 ºC)
+- Day 4 (9/10/23): Changed EDTA solution
+- Day 5 (9/11/23): Decalcification done, tissue washed and transferred to PAXgene stabilizer at -80 ºC
 
 
 ### 9/18/23 DNA/RNA extraction results
