@@ -44,6 +44,26 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
     - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
         - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
 
+
+![cryostat.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat.jpeg?raw=true)
+
+![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
+
+![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
+
+![section1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section1.jpeg?raw=true)
+
+![section2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section2.jpeg?raw=true)
+
+![section3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section3.jpeg?raw=true)
+
+![section4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section4.jpeg?raw=true)
+
+![slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/slide.jpeg?raw=true)
+
+![rollplate_correct.mov](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/rollplate_correct.mov?raw=true)
+
+
 **NOTES: Ideal temp is -15 ºC for cutting and ideal blade angle is 3º**
 
 - adjust blade angle
