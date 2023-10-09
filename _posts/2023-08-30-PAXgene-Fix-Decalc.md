@@ -80,6 +80,4 @@ Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (re
 
 #### DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-Gel from 3/21/2023, of DNA and RNA extracted from the "Day 1" Sample
-
 ![2023-09-18-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-09-18-gel.JPG?raw=true)
