@@ -14,7 +14,7 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
 
 See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
 
-[PAXgene cryosectioning protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
+[PAXgene cryosectioning protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
 
 ### The goal of this protocol is to create tissue sections that preserve structural integrity and maintain the integrity of RNA and proteins for downstream imaging and RNA extraction
 
@@ -40,17 +40,17 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 
 ## Sectioning
 1. Section using Cryostat at URI core facility
-    - Sections can be about 10 uM thick
-    - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
-        - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
-
 
 ![cryostat.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat.jpeg?raw=true)
 
+2. Use clingwrap to cover internal surfaces
 ![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
 
+3. Adjust roll plate so sections stay flat
 ![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
 
+
+4. Sectioning
 ![section1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section1.jpeg?raw=true)
 
 ![section2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section2.jpeg?raw=true)
@@ -59,6 +59,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 
 ![section4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section4.jpeg?raw=true)
 
+5. Pick up sections using slide
 ![slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/slide.jpeg?raw=true)
 
 ![rollplate_correct.mov](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/rollplate_correct.mov?raw=true)
@@ -70,6 +71,9 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 - move blade around
 - how to figure out sample angle
 - locking handle
+- Sections can be about 10 uM thick
+    - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
+        - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
 
 - Notes from [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/):
         - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes.
