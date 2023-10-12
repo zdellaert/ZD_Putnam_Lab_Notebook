@@ -12,8 +12,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, ]
 
 ### Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)
 
-1. Fixed 16 branches, see protocol post above for images
-    - 4 per tissue casette
+1. Fixing in two PAXgene containers for good tissue:fixative ratio, fragments do not need to be separated because we are not using these for downstream molecular work, just morphology.
     - Day 1 (10/10/23): Fixed tissue in PAXgene fixative
     - Day 2 (10/11/23): Replaced fixative with stabilizer, transferred to 4 ºC
     - Day 3 (10/12/23): Started decalcification, kept on shaker in cold room (4 ºC)
