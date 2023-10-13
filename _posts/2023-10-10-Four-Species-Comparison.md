@@ -16,8 +16,11 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, ]
     - Day 1 (10/10/23): Fixed tissue in PAXgene fixative
     - Day 2 (10/11/23): Replaced fixative with stabilizer, transferred to 4 ºC
     - Day 3 (10/12/23): Started decalcification, kept on shaker in cold room (4 ºC)
-    - **to do** Day 4 (10/13/23): Changed EDTA solution
-    - **to do** Day 5 (10/14/23): Decalcification done, tissue washed and split each tissue piece into two fragments
+    - Day 4 (10/13/23): Changed EDTA solution
+    - Day 5 (10/14/23):
+    - Day 6 (10/15/23):
+    - Day 7 (10/16/23):
+    - **to do** : Decalcification done, tissue washed (10 mins, 1X PBS) and split each tissue piece into two fragments
         - one goes to sucrose for [cryoprotection and embedding](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/) for [cryosectioning](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
         - one substantial "tunic" will be transferred to 1X PBS (or paxgene stabilizer??) for confocal imaging as seen in [Yost et al. 2013](https://www.sciencedirect.com/science/article/pii/S0944200613000640)
             - From Yost et al. methods: "2.2. Microscopy Sub-fragments (approximately 1–2 cm2) of each coral were fixed in 4% paraformaldehyde for 1 h and then de-calcified in 10% HCl until the tissue tunics (intact biological tissues) were skeleton-free. **The tissue tunics were stored in 1× PBS at 4 ◦C in the dark.** Decalcified tissue tunics were bisected with a scalpel and visualized using confocal microscopy."
