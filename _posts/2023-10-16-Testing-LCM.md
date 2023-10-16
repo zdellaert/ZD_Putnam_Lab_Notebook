@@ -15,16 +15,27 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
     - If we are having issues with PEN membrane autofluorescense, we can try to switch to PPS or PET slides.
 
 ### Preparing slides for LCM
-- Making the slides RNAse free (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf)):
+- All surfaces and equipment should be treated with RNAse cleaner!!!
+- Making the slides RNAse free (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)):
     - "The foil slides can be treated to remove RNases by dipping them into a bath of pure RNase Zap (Ambion Corp) for 15 seconds. Follow this with two rinses in DEPC water to remove all of the RNase Zap. The slides then should be completely dried by placing them in a heater at 37 deg C for as long as is required to dry. Then one may follow with UV treatment as described below."
-        - "Note: Heating in an autoclave may not always ensure that all RNases are destroyed. If this method is performed the heating must ba at 180 deg C for up to 4 hours."
-- Preparing the slide with UV Irradiation (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf)):
+- Preparing the slide with UV Irradiation (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)):
     - "Prior to placing specimens on the membrane slides, it is advisable to prepare the membrane by placing the blank slides to be used, into a UV Cross-linker device. The slides should be irradiated at 220nm to 260nm at full power for 30 minutes. This will usually destroy RNases, improve the laser cutting of the foil (reducing static), and help make the foil more hydrophilic to improve adherence of the specimen."
 - Then [cryosection!!](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/4c37b61755cfaea5c9378dbe929cf6070dacacc1/_posts/2023-08-31-Cryosectioning-Protocol.md)
+    - Make sure to use RNAse cleaner and perform all steps as quickly as possible. 
+    - Clean the cryostat before sectioning to avoid contamination
+    - Trim the block so that there is not much excess OCT - we want to get as many sections on the slide as possible, so the smaller the size of the sections the better
+    - "Keep the slides in the cryostat or on dry ice, if LMD is performed on the same day. Alternatively, they may be stored in **sealed slide boxes with a desiccant at –80°C until needed**."
+    - "Dry slides at room temperature for 15 minutes using a drying chamber with desiccant or at 40°C for 10 minutes. This is a critical step for successful LMD. Sample slides should be stained just prior to microdissection."
+- RNA preservation is incredibly important since the amount of tissue we will use for RNA extraction will be so limited. Notes from the [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf):
+    - before staining, make sure all OCT is removed!
+        - "must be completely removed with 70% alcohol (e.g. ethanol). For thicker sections, keep the tissue in 70% alcohol longer."
+    - staining of sections should be as quick as possible
+    - "The stained tissues should be used directly for laser microdissection, or alternatively, the dried sections can be **stored in tightly closed bags**, slide boxes or other containers containing desiccant **at –80°C** even for a few months or longer"
+    - "Just before laser microdissection, the container with the slides should be taken out of the freezer and *slowly adjusted to room temperature* to avoid formation of water condensation inside the container, e.g. allow for at least **15 min each step to equilibrate at -20°C, 4°C and room temperature**. This precaution is critical for RNA quality, especially when working with small numbers of cells, since water (moisture) activates RNases."
 
 ### HOW TO USE
 
-Sample Preparation for LCM [PDF](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)
+Sample Preparation for LCM [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)
 
 
 How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
