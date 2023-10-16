@@ -3,7 +3,7 @@ layout: post
 title: Fixing Coral Tissues of Four Species to Compare Tissue Thickness 
 date: '2023-10-10'
 categories: Processing
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, ]
+tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Porites, Seriatopora, Montipora]
 ---
 
 ## Fixing and decalcifying fragments from four species from CBLS wetlab
@@ -17,9 +17,14 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, ]
     - Day 2 (10/11/23): Replaced fixative with stabilizer, transferred to 4 ºC
     - Day 3 (10/12/23): Started decalcification, kept on shaker in cold room (4 ºC)
     - Day 4 (10/13/23): Changed EDTA solution
-    - Day 5 (10/14/23):
-    - Day 6 (10/15/23):
-    - Day 7 (10/16/23):
+    - Day 5 (10/14/23): Changed EDTA solution
+    - Day 6 (10/15/23): Changed EDTA solution
+    - Day 7 (10/16/23): Decalc still not done for Porites or Montipora! Changed EDTA solution for these two and removed the POC and SER branches into PBS @ 4ºC. 
+    - Day 8 (10/17/23):
+    - Day 9 (10/18/23):
+    - Day 10 (10/19/23):
+
+
     - **to do** : Decalcification done, tissue washed (10 mins, 1X PBS) and split each tissue piece into two fragments
         - one goes to sucrose for [cryoprotection and embedding](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/) for [cryosectioning](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
         - one substantial "tunic" will be transferred to 1X PBS (or paxgene stabilizer??) for confocal imaging as seen in [Yost et al. 2013](https://www.sciencedirect.com/science/article/pii/S0944200613000640)
