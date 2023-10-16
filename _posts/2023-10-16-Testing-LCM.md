@@ -30,6 +30,15 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
     - before staining, make sure all OCT is removed!
         - "must be completely removed with 70% alcohol (e.g. ethanol). For thicker sections, keep the tissue in 70% alcohol longer."
         - 30 s - 1 min wash, followed by a 30 s wash in DEPC water, followed by staining, followed by a 30 s DEPC wash, then rinse in 95 % and 100 % Ethanol for 30 s each, then airdry, then do LCM!
+    - Notes on cryosectioning from PAXgene fixed cryo-embedded tissues
+        - [PAXgene cryosectioning protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
+        - Air dry slide at room temperature for 1 min
+        - Remove OCT from slides by:
+            - 70% EtOH, 1 min
+            - 50% EtOH, 45 s
+            - 30% EtOH, 30 s
+        - Transfer to ice-cold 96% ethanol for transport prior to dissection/LCM
+            - For long-time storage, freeze slides at –80°C. Thaw frozen slides at 4°C for 30 min.
     - staining of sections should be as quick as possible
     - "The stained tissues should be used directly for laser microdissection, or alternatively, the dried sections can be **stored in tightly closed bags**, slide boxes or other containers containing desiccant **at –80°C** even for a few months or longer"
     - "Just before laser microdissection, the container with the slides should be taken out of the freezer and *slowly adjusted to room temperature* to avoid formation of water condensation inside the container, e.g. allow for at least **15 min each step to equilibrate at -20°C, 4°C and room temperature**. This precaution is critical for RNA quality, especially when working with small numbers of cells, since water (moisture) activates RNases."
