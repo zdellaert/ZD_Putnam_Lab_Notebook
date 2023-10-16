@@ -20,8 +20,8 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
 2. Planned RNA Extractions to test effects on RNA integrity at each step
    - Pre-decalc ("control") (put at -80 ºC on 9/1/23), **extracted 9/18/23**
    - Post-decalc (put at -80 ºC on 9/3/23), **extracted 9/18/23**
-   - Pre-sucrose (XX days at -80 ºC)
-   - Post-surcrose?
+   - Pre-sucrose (-80 ºC 9/3/23-10/17/23), **to be extracted 10/17/23**
+   - Post-surcrose (-80 ºC 9/3/23-10/16/23, 30% sucrose overnight) **to be extracted 10/17/23**
    - Try to extract RNA from sections after sectioning
 
    Weighing starting material to try to keep it consistent is a good idea. 
@@ -78,3 +78,14 @@ Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (re
 #### DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 ![2023-09-18-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-09-18-gel.JPG?raw=true)
+
+
+### 10/16/23 - Starting cryoprotection of 3 branches to test effects of cryoprotection on RNA integrity (using 1 branch + 1 branch not cryoprotected) and to cryosection 2 branches
+
+- one fragment appears not fully decalcified and sunk immediately in the sucrose - will use this one for the extraction test instead of continuing on to embedding to minimize possible negative effects of leftover calcium carbonate on the cryosectioning process.
+
+#### 10/17/23 - Test effects of cryoprotection on RNA integrity (using 1 branch + 1 branch not cryoprotected) 
+
+#### 10/17/23 - Embed the two other cryoprotected branches for cryosectioning on 10/18/23
+
+#### 10/18/23 - Cryosection the two branches to make several slides. Goal: make several normal slides for test extractions and confocal imaging. Also make sections for test LCM slides received from Giuseppe at College of Pharmacy on 10/16/23.
