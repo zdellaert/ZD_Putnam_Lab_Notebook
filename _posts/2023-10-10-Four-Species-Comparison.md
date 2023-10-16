@@ -61,5 +61,26 @@ All corals in decalcification (we are not using these for RNA so we can keep the
 
 ![decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/decalc.jpeg?raw=true)
 
+Images after decalcification:
+
+*Montipora capitata*
+
+decalcificaton not fully done, taken on 10/16/23:
+
+![MON_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/MON_mid.jpeg?raw=true)
+
+*Porites compressa*
+
+decalcificaton not fully done, taken on 10/16/23:
+
+![POR_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/POR_mid.jpeg?raw=true)
+
+*Pocillopora acuta*
+
+![POC_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/POC_decalc.jpeg?raw=true)=
+
+*Seriatopora sp.*
+
+![SER_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/SER_decalc.jpeg?raw=true)
 
 Microscopy methods from Yost et al. methods: "Samples were scanned with excitations of violet (405 nm) and green (498 nm and 543 nm) light, and emissions were collected at 450 nm to visualize host tissues and at 600 nm to visualize autofluorescence of Symbiodinium. Measurements of tissue thickness were taken in triplicate at random locations on each tissue sample to determine a colony average. Coral tissue thickness was characterized by either (i) high biomass, thick tissues anastomosing through highly perforate skeletons of perforate corals or (ii) low biomass, thin tissue ‘veneers’ of imperforate corals. Thus, tissue thickness did not appear to be altered by water absorption mechanisms (e.g., in the gastrovascular cavity) that may alter tissue thickness."

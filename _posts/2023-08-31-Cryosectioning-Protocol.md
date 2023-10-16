@@ -40,27 +40,18 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 
 ## Sectioning
 1. Section using Cryostat at URI core facility
-
-![cryostat.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat.jpeg?raw=true)
-
+    ![cryostat.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat.jpeg?raw=true)
 2. Use clingwrap to cover internal surfaces
-![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
-
+    ![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
 3. Adjust roll plate so sections stay flat
-![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
-
-
+    ![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
 4. Sectioning
-![section1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section1.jpeg?raw=true)
-
-![section2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section2.jpeg?raw=true)
-
-![section3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section3.jpeg?raw=true)
-
-![section4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section4.jpeg?raw=true)
-
+    ![section1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section1.jpeg?raw=true)
+    ![section2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section2.jpeg?raw=true)
+    ![section3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section3.jpeg?raw=true)
+    ![section4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section4.jpeg?raw=true)
 5. Pick up sections using slide
-![slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/slide.jpeg?raw=true)
+    ![slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/slide.jpeg?raw=true)
 
 ![rollplate_correct.mov](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/rollplate_correct.mov?raw=true)
 
