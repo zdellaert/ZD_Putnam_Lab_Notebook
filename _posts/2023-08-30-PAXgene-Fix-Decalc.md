@@ -20,8 +20,8 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
 2. Planned RNA Extractions to test effects on RNA integrity at each step
    - Pre-decalc ("control") (put at -80 ºC on 9/1/23), **extracted 9/18/23**
    - Post-decalc (put at -80 ºC on 9/3/23), **extracted 9/18/23**
-   - Pre-sucrose (-80 ºC 9/3/23-10/17/23), **to be extracted 10/17/23**
-   - Post-surcrose (-80 ºC 9/3/23-10/16/23, 30% sucrose overnight) **to be extracted 10/17/23**
+   - Pre-sucrose (-80 ºC 9/3/23-10/17/23), **extracted 10/22/23**
+   - Post-surcrose (-80 ºC 9/3/23-10/16/23, 30% sucrose overnight) **extracted 10/22/23**
    - Try to extract RNA from sections after sectioning
 
    Weighing starting material to try to keep it consistent is a good idea. 
@@ -86,6 +86,39 @@ Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (re
 
 #### 10/17/23 - Test effects of cryoprotection on RNA integrity (using 1 branch + 1 branch not cryoprotected) 
 
-#### 10/17/23 - Embed the two other cryoprotected branches for cryosectioning on 10/18/23
+### 10/22/23 DNA/RNA extraction results
+#### [DNA/RNA Extraction Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-#### 10/18/23 - Cryosection the two branches to make several slides. Goal: make several normal slides for test extractions and confocal imaging. Also make sections for test LCM slides received from Giuseppe at College of Pharmacy on 10/16/23.
+Followed this [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly, but followed steps for samples preserved in RNAlater. Bead-beat for 2 minutes in 1mL of DNA/RNA shield.
+
+Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (reapplied first elution to membrane)
+
+#### Qubit Results
+
+- Used Broad range dsDNA and RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+ DNA Standards: 180.30 (S1) & 18470.25 (S2)
+
+| colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| pre-sucrose  |  7.42   |  7.52      |   4.47       |
+| post-sucrose |  10.3   |  10.5      |   10.4       |
+
+-----
+
+ RNA Standards: 378.90 (S1) & 10301.47 (S2)
+
+| colony_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| pre-sucrose   |  26.8   |  26.8   |   26.8    |
+| post-sucrose  |  52.6   |  52.8   |   52.7    |
+
+#### DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
+
+![2023-10-22-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-10-22-gel.JPG?raw=true)
+
+
+### 10/17/23 - Embed the two other cryoprotected branches for cryosectioning on 10/23/23
+
+### 10/23/23 - Cryosection the two branches to make several slides. Goal: make several normal slides for test extractions and confocal imaging. Also make sections for test LCM slides received from Giuseppe at College of Pharmacy on 10/16/23.
