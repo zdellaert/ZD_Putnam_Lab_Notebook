@@ -119,6 +119,7 @@ Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (re
 
 ![2023-10-22-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-10-22-gel.JPG?raw=true)
 
+**Clearly, the sucrose step is introducing degredation. This is likely because the sample is moved from -80 ºC to 4 ºC overnight. This is a little concerning, but there are still visible bands, so we should keep an eye on it.**
 
 ### 10/17/23 - Embed the two other cryoprotected branches for cryosectioning on 10/23/23
 
