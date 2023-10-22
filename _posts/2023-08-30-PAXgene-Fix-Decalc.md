@@ -84,12 +84,13 @@ Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (re
 
 - one fragment appears not fully decalcified and sunk immediately in the sucrose - will use this one for the extraction test instead of continuing on to embedding to minimize possible negative effects of leftover calcium carbonate on the cryosectioning process.
 
-#### 10/17/23 - Test effects of cryoprotection on RNA integrity (using 1 branch + 1 branch not cryoprotected) 
+### 10/22/23 - Test effects of cryoprotection on RNA integrity (using 1 branch + 1 branch not cryoprotected)
 
-### 10/22/23 DNA/RNA extraction results
+#### DNA/RNA extraction results
+
 #### [DNA/RNA Extraction Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-Followed this [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly, but followed steps for samples preserved in RNAlater. Bead-beat for 2 minutes in 1mL of DNA/RNA shield.
+Followed this [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/) exactly, but followed steps for samples preserved in RNAlater. Bead-beat for 2 minutes in 1mL of DNA/RNA shield. **Bead-beat on 10/17/23 in DNA/RNA shield and then placed in -80 until extraction on 10/22/23**
 
 Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (reapplied first elution to membrane)
 

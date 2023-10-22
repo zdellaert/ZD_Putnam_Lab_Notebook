@@ -20,10 +20,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
     - "The foil slides can be treated to remove RNases by dipping them into a bath of pure RNase Zap (Ambion Corp) for 15 seconds. Follow this with two rinses in DEPC water to remove all of the RNase Zap. The slides then should be completely dried by placing them in a heater at 37 deg C for as long as is required to dry. Then one may follow with UV treatment as described below."
 - Preparing the slide with UV Irradiation (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)):
     - "Prior to placing specimens on the membrane slides, it is advisable to prepare the membrane by placing the blank slides to be used, into a UV Cross-linker device. The slides should be irradiated at 220nm to 260nm at full power for 30 minutes. This will usually destroy RNases, improve the laser cutting of the foil (reducing static), and help make the foil more hydrophilic to improve adherence of the specimen."
-- **"Important: If you are using FrameSlides, the FrameSupport is strongly recommended.
-Sections can be fixed with ice-cold acetone for 2–3 minutes, 70% or 100% ethanol for
-20 seconds or mixture of ethanol : acetic acid (19:1) to increase the adhesion of the
-tissue to the PPS-, PEN-, PET-, POL- or FLUO-membranes."**
+- **"Important: If you are using FrameSlides, the FrameSupport is strongly recommended. Sections can be fixed with ice-cold acetone for 2–3 minutes, 70% or 100% ethanol for 20 seconds or mixture of ethanol : acetic acid (19:1) to increase the adhesion of the tissue to the PPS-, PEN-, PET-, POL- or FLUO-membranes."**
 - Then [cryosection!!](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/4c37b61755cfaea5c9378dbe929cf6070dacacc1/_posts/2023-08-31-Cryosectioning-Protocol.md)
     - Make sure to use RNAse cleaner and perform all steps as quickly as possible. 
     - Clean the cryostat before sectioning to avoid contamination
@@ -55,12 +52,15 @@ Sample Preparation for LCM [guide](https://github.com/zdellaert/ZD_Putnam_Lab_No
 How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
 
 
+### What I did:
 
+- See [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc/) for sample prep info, the two branches used here for sectioning and embedding are the two that were put into sucrose on 10/16/23 and embedded on 10/17/23
 
+- Slide prep of Leica LDM slides (one PEN glass slide and one PEN frame slide) was done on 10/22/23
+    - using sterilized and RNAse zap-ped forceps, dipped slides in RNAse zap for 15 seconds
+    - 2 15 second rinses in DEPC water
+    - let dry , propped up on parafilm for about 30 minutes (could also do what they suggest which is drying at 37ºC)
+    - when visibly dry, placed in UV box for 30 minutes
+    - with clean, gloved hands, transferred to slide box for sectioning tomorrow. 
 
--- Important: If you are using FrameSlides, the FrameSupport is strongly recommended.
-Sections can be fixed with ice-cold acetone for 2–3 minutes, 70% or 100% ethanol for
-20 seconds or mixture of ethanol : acetic acid (19:1) to increase the adhesion of the
-tissue to the PPS-, PEN-, PET-, POL- or FLUO-membranes.
-
-- start with the frame slides
+- Sectioning using [this protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) on 10/23/23
