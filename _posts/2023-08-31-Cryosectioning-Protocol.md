@@ -45,16 +45,19 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
 3. Place all tools in cryostat and allow to equilibriate to cryostat temperature (~30 mins!, speed up by transporting on dry ice before sectioning)
 4. Mount sample onto chuck by placing a drop of OCT on the chuck and then placing the demoulded block on top
     - Do so on the holders on the left side of the cryostat, these will help to quickly freeze the OCT 
-5. Trim off excess OCT from the outside to make the section area smaller, making sure not to cut the tissue. If you do not know where the tissue is, wait to trim OCT until you can see the face of the section.
-5. "Face" the tissue by using the "trim" setting (thicker sections, ~30 uM) to reveal the desired tissue face 
+5. Place chuck into sample holder and tighten all screws. Place fresh microtome blade in the blade holder and make sure all clamps and levers are locked.
+6. Trim off excess OCT from the outside to make the section area smaller, making sure not to cut the tissue. If you do not know where the tissue is, wait to trim OCT until you can see the face of the section.
+7. "Face" the tissue by using the "trim" setting (thicker sections, ~30 uM) to reveal the desired tissue face 
+    - Use arrow buttons on left side of cryostat to move the block to the blade.
     - Goal is to get a nice clean section across the whole face of the block. 
     - To do so, you will have to adjust the angle of the sample holder accordingly. As you trim away sections, you will notice the first try will not be nicely in the center of the block. Adjust the angle of the sample holder horizontally and vertically and keep "trimming" until you get a flat section across the whole block.
     - **Always lock the wheel when adjusting things inside the cryostat and stay clear of the blade!**
-6. Once desired "face" is achieved, sectioning for the slides can begin 
+    - Uses brushes to remove unwanted sections and regularly clean any residue from the blade with kimwipes
+8. Once desired "face" is achieved, sectioning for the slides can begin 
     - A good time to move to a different section of the blade, which you should do periodically especially if you notice any issues with the sections going through
     - Turn off the "trim" setting and set the thickness for sectioning.
     - **10 uM thickness is ideal**, but thicker may be easier and may have less rolling issues.
-7. Adjust roll plate so sections stay flat
+9. Adjust roll plate so sections stay flat
     - This is the hardest part! 
     - If you are having issues, make sure to regularly clean the blade (**carefully!**) and the anti-roll plate with Ethanol and/or RNAse zap. Any nicks or residue will hamper good sectioning. Make sure to clean the backside of the blade too, which is best done by removing the blade.
     - Other possible fixes: adjust blade or sample angle (I have had success with ~3º blade angle)
@@ -64,15 +67,19 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
     - Try to keep all materials inside the cryostat to keep them at the desired temperature.
     ![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
     ![roll_plate_leica.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate_leica.jpeg?raw=true)
-4. Sectioning pictures
+10. Sectioning pictures
     ![section1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section1.jpeg?raw=true)
     ![section2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section2.jpeg?raw=true)
     ![section3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section3.jpeg?raw=true)
     ![section4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section4.jpeg?raw=true)
-5. Pick up sections using slide
+11. Pick up sections using slide
     - Remove the anti-roll plate and gently use paintbrushes to slide sections away from the blade, pick up the section on the frosted side of the slide (or membrane side if for LCM) with a rolling motion. Warm the slide from the back with the tip of your finger behind the section to allow the section to quickly melt. Place on the cryostat metal plate (where the blade is) to refreeze. 
     ![slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/slide.jpeg?raw=true)
-6. Keep slides in the cryostat and transport in sealed containers (slide mailers wrapped in parafilm and then placed in zip lock bag) on dry ice
+12. Keep slides in the cryostat and transport in sealed containers (slide mailers wrapped in parafilm and then placed in zip lock bag) on dry ice
+13. When done, use a razor blade or forceps to pop off the block from the chuck. To keep block for later, cover exposed tissue with OCT and allow to freeze before storing in a sealed container and transporting to -80 ºC freezer on dry ice.
+14. Cleaning: remove the clingwrap from the inside, hopefully with any excess sections contained inside. Clean inside of cryostat with 70% ethanol (without pouring liquid inside), and make sure everything is as you found it.
+    - Dispose of used blades in sharps bin
+    
 
 ![rollplate_correct.mov](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/rollplate_correct.mov?raw=true)
 

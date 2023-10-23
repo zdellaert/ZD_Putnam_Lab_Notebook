@@ -73,9 +73,8 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
     5. Remove excess liquid by aspirating and pat dry area around sample with Kimwipe
     6. Air dry, covered to prevent dust from accumulating
         - **10 mins at 40 ºC to fully dry sections**
-            - "Dry slides at room temperature for 15 minutes using a drying chamber with desiccant or at 40°C for 10 minutes. This is a critical step for successful LMD. Sample slides should be stained just prior to microdissection."
 
-Total time: 45 mins coming to temp + ~15 mins staining + 10 mins to dry: 1 hour 10 mins
+Total time: 45 mins coming to temp + ~10 mins staining + 10 mins to dry: 1 hour 5 mins
 
 - Notes:
     - we may want to purchase dessicant and vaccum bags to keep condensation away: [Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf)
