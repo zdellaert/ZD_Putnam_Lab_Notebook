@@ -16,18 +16,17 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
 
 ### Preparing slides for LCM
 - All surfaces and equipment should be treated with RNAse cleaner!!!
-- Making the slides RNAse free (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)):
-    - "The foil slides can be treated to remove RNases by dipping them into a bath of pure RNase Zap (Ambion Corp) for 15 seconds. Follow this with two rinses in DEPC water to remove all of the RNase Zap. The slides then should be completely dried by placing them in a heater at 37 deg C for as long as is required to dry. Then one may follow with UV treatment as described below."
-- Preparing the slide with UV Irradiation (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)):
-    - "Prior to placing specimens on the membrane slides, it is advisable to prepare the membrane by placing the blank slides to be used, into a UV Cross-linker device. The slides should be irradiated at 220nm to 260nm at full power for 30 minutes. This will usually destroy RNases, improve the laser cutting of the foil (reducing static), and help make the foil more hydrophilic to improve adherence of the specimen."
-- **"Important: If you are using FrameSlides, the FrameSupport is strongly recommended. Sections can be fixed with ice-cold acetone for 2–3 minutes, 70% or 100% ethanol for 20 seconds or mixture of ethanol : acetic acid (19:1) to increase the adhesion of the tissue to the PPS-, PEN-, PET-, POL- or FLUO-membranes."**
+- Making the slides RNAse free (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)): "The foil slides can be treated to remove RNases by dipping them into a bath of pure RNase Zap (Ambion Corp) for 15 seconds. Follow this with two rinses in DEPC water"
+- Preparing the slide with UV Irradiation (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)): "The slides should be irradiated at 220nm to 260nm at full power for 30 minutes."
 - Then [cryosection!!](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/4c37b61755cfaea5c9378dbe929cf6070dacacc1/_posts/2023-08-31-Cryosectioning-Protocol.md)
     - Make sure to use RNAse cleaner and perform all steps as quickly as possible. 
     - Clean the cryostat before sectioning to avoid contamination
     - Trim the block so that there is not much excess OCT - we want to get as many sections on the slide as possible, so the smaller the size of the sections the better
+    - *"Important: If you are using FrameSlides, the FrameSupport is strongly recommended. Sections can be fixed with ice-cold acetone for 2–3 minutes, 70% or 100% ethanol for 20 seconds or mixture of ethanol : acetic acid (19:1) to increase the adhesion of the tissue to the PPS-, PEN-, PET-, POL- or FLUO-membranes."*
     - "Keep the slides in the cryostat or on dry ice, if LMD is performed on the same day. Alternatively, they may be stored in **sealed slide boxes with a desiccant at –80°C until needed**."
-    - "Dry slides at room temperature for 15 minutes using a drying chamber with desiccant or at 40°C for 10 minutes. This is a critical step for successful LMD. Sample slides should be stained just prior to microdissection."
-- RNA preservation is incredibly important since the amount of tissue we will use for RNA extraction will be so limited. Notes from the [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf):
+    - Stain right before performing LCM. Stain as quickly as possible, then dry slide, then go to LCM.
+    - **After staining**: "Dry slides at room temperature for 15 minutes using a drying chamber with desiccant or at 40°C for 10 minutes. This is a critical step for successful LMD. Sample slides should be stained just prior to microdissection."
+- RNA preservation is incredibly important since the amount of tissue we will use for RNA extraction will be so limited. Notes from the [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf) ([old version](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)):
     - before staining, make sure all OCT is removed!
         - "must be completely removed with 70% alcohol (e.g. ethanol). For thicker sections, keep the tissue in 70% alcohol longer."
         - 30 s - 1 min wash, followed by a 30 s wash in DEPC water, followed by staining, followed by a 30 s DEPC wash, then rinse in 95 % and 100 % Ethanol for 30 s each, then airdry, then do LCM!
@@ -64,3 +63,32 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
     - with clean, gloved hands, transferred to slide box for sectioning tomorrow. 
 
 - Sectioning using [this protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) on 10/23/23
+    1. moved blocks to -80 ºC 30 minutes before sectioning and placed PEN slide under UV light for 30 minutes
+    2. prepared RNAse free cleaning solutions for cryostat in 50 mL tubes
+        - 1:1 mixture of 70 % Ethanol : RNAse zap
+        - 95 % Ethanol
+
+
+- Staining
+    1. Morning of LCM, bring slide up to room temperature
+        - 15 minutes at - 20 ºC
+        - 15 minutes at 4 ºC
+        - 15 minutes at room temp (ideally there is no condensation)
+    2. Make sure all OCT is removed, 70 % ethanol should do it but can also do a series of ethanol solutions based on Paxgene's protocol:
+        - 70% EtOH, 1 min
+        - 50% EtOH, 45 s
+        - 30% EtOH, 30 s
+        - DEPC water, 30 s
+    3. Hoescht staining: 
+        - make 1 µg/ml solution of Hoescht 
+            - add 0.001 g to 1 mL of RNAse/DNAse free H2O
+            - wrap tube in aluminum foil to keep dark and store at -20ºC 
+        - Add 100 uL of the Hoescht solution to each section and allow to stain in the dark for 5 mins.
+    4. Wash in DEPC water or RNAse-free 1X PBS in dark
+        - 95% EtOH, 30 s
+        - 100% EtOH, 30 s
+    5. Remove excess liquid by aspirating and pat dry area around sample with Kimwipe
+    6. Air dry, covered to prevent dust from accumulating
+        - 10 mins at 40 ºC to fully dry sections
+
+Total time: 45 mins coming to temp + ~25 mins staining + 10 mins to dry: 1 hour 20 mins

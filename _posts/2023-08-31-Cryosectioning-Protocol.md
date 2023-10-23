@@ -37,6 +37,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 
 ## Input material:
 1. Start with [fixed tissue](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/), [embedded in a block of OCT]((https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)) that has been kept at -80 ºC in a sealed container (large tube, wrapped in foil, in whirlpack, etc)
+2. 20 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container. Transport to cryostat on dry ice.
 
 ## Sectioning
 1. Section using Cryostat at URI core facility
@@ -67,14 +68,14 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
         - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
 
 - Notes from [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/):
-        - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes.
-            - Mix RNaseZap and 70% ethanol in 1:1 ratio. Mix the two liquids by rocking the bottle sideways for 4-5 min
-        - Incubate PEN membrane slides for 30 min under UV light (on the UV transilluminator) to enhance the binding of the tissue to the membrane slide.
-        - Get a bucket of dry ice for tissue/embedded mold transportation.
-        - Prepare solutions with RNase-free water and high-quality ethanol:
-            - 75% ethanol (freshly prepared, Recipe 4)
-        - Set temperature of cryostat in the range of -15 °C to -18 °C
-        - Label PEN slides using a pencil.
+     - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes.
+        - Mix RNaseZap and 70% ethanol in 1:1 ratio. Mix the two liquids by rocking the bottle sideways for 4-5 min
+    - Incubate PEN membrane slides for 30 min under UV light (on the UV transilluminator) to enhance the binding of the tissue to the membrane slide.
+    - Get a bucket of dry ice for tissue/embedded mold transportation.
+    - Prepare solutions with RNase-free water and high-quality ethanol:
+        - 75% ethanol (freshly prepared, Recipe 4)
+    - Set temperature of cryostat in the range of -15 °C to -18 °C
+    - Label PEN slides using a pencil.
 
 
 ## Quick slide staining w/ Hoescht
@@ -84,9 +85,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 - For staining, take slides out of freezer and let any condensation evaporate.
     - Optional: *Remove excess OCT with forceps, should peel right off*
     - Rinse slides in 1X PBS for 10 minutes to remove OCT (in 50mL falcon tube)
-    - Incubate in PBST (1x PBS with 0.2% (v/v) Triton-X-100) bath for 10 min (in 50mL falcon tube)
-        - To make 50mL of PBST, combine 50 mL of 1X PBS with 0.1 mL (100uL) of Triton-X-100. Shake the Triton-X-100 well before adding to the PBS.
-    - Rinse again in 1X PBS, then remove excess liquid.
+        - or 70 % Ethanol
     - **Use pap pen to encircle section** and cover with PBS, perform staining and washing steps by pipetting off the drop of liquid and replacing with staining solution
     - Hoescht staining: 
         - make 1 µg/ml solution of Hoescht 
