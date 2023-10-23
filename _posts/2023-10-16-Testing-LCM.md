@@ -14,48 +14,45 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
     - The frame slides are recommended for single-cell and other high-magnification (150X) applications.
     - If we are having issues with PEN membrane autofluorescense, we can try to switch to PPS or PET slides.
 
-### Preparing slides for LCM
-- All surfaces and equipment should be treated with RNAse cleaner!!!
-- Making the slides RNAse free (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)): "The foil slides can be treated to remove RNases by dipping them into a bath of pure RNase Zap (Ambion Corp) for 15 seconds. Follow this with two rinses in DEPC water"
-- Preparing the slide with UV Irradiation (from [this memo](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/lmdslidememo.pdf) and [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)): "The slides should be irradiated at 220nm to 260nm at full power for 30 minutes."
-- Then [cryosection!!](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/4c37b61755cfaea5c9378dbe929cf6070dacacc1/_posts/2023-08-31-Cryosectioning-Protocol.md)
-    - Make sure to use RNAse cleaner and perform all steps as quickly as possible. 
-    - Clean the cryostat before sectioning to avoid contamination
-    - Trim the block so that there is not much excess OCT - we want to get as many sections on the slide as possible, so the smaller the size of the sections the better
-    - *"Important: If you are using FrameSlides, the FrameSupport is strongly recommended. Sections can be fixed with ice-cold acetone for 2–3 minutes, 70% or 100% ethanol for 20 seconds or mixture of ethanol : acetic acid (19:1) to increase the adhesion of the tissue to the PPS-, PEN-, PET-, POL- or FLUO-membranes."*
-    - "Keep the slides in the cryostat or on dry ice, if LMD is performed on the same day. Alternatively, they may be stored in **sealed slide boxes with a desiccant at –80°C until needed**."
-- RNA preservation is incredibly important since the amount of tissue we will use for RNA extraction will be so limited. Notes from the [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf) ([old version](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf))
-    - Stain right before performing LCM. Stain as quickly as possible, then dry slide, then go to LCM.
-    - **After staining**: "Dry slides at room temperature for 15 minutes using a drying chamber with desiccant or at 40°C for 10 minutes. This is a critical step for successful LMD. Sample slides should be stained just prior to microdissection."
-    - "Just before laser microdissection, the container with the slides should be taken out of the freezer and *slowly adjusted to room temperature* to avoid formation of water condensation inside the container, e.g. allow for at least **15 min each step to equilibrate at -20°C, 4°C and room temperature**"
+### Resources
 
-### HOW TO USE
-
-Sample Preparation for LCM [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf)
+Sample Preparation for LCM [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf) ([old version](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf))
+    - RNA preservation is incredibly important since the amount of tissue we will use for RNA extraction will be so limited. Protocol below is largely based off of this guide with bits from the [PAXgene protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf).
 
 
 How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
 
 
-### What I did:
+### Step by step protocol:
 
-- See [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc/) for sample prep info, the two branches used here for sectioning and embedding are the two that were put into sucrose on 10/16/23 and embedded on 10/17/23
+- What I did: See [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc/) for sample prep info, the two branches used here for sectioning and embedding are the two that were put into sucrose on 10/16/23 and embedded on 10/17/23
+
+- All surfaces and equipment should be treated with RNAse cleaner!!!
 
 - Slide prep of Leica LDM slides (one PEN glass slide and one PEN frame slide) was done on 10/22/23
     - using sterilized and RNAse zap-ped forceps, dipped slides in RNAse zap for 15 seconds
     - 2 15 second rinses in DEPC water
     - let dry , propped up on parafilm for about 30 minutes (could also do what they suggest which is drying at 37ºC)
     - when visibly dry, placed in UV box for 30 minutes
-    - with clean, gloved hands, transferred to slide box for sectioning tomorrow. 
+    - with clean, gloved hands, transferred to slide box for sectioning next day. 
 
 - Sectioning using [this protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) on 10/23/23
     1. moved blocks to -80 ºC 30 minutes before sectioning and placed PEN slide under UV light for 30 minutes
     2. prepared RNAse free cleaning solutions for cryostat in 50 mL tubes
         - 1:1 mixture of 70 % Ethanol : RNAse zap
         - 95 % Ethanol
+    3. Clean the cryostat before sectioning with RNAse zap:Ethanol mixture followed by 70% or 95% ethanol
+    4. Trim the block so that there is not much excess OCT - we want to get as many sections on the slide as possible, so the smaller the size of the sections the better
+    5. Keep the slides in the cryostat and transport in sealed slide boxes on dry ice
+    6. After sectioning, keep in "sealed slide boxes with a desiccant at –80°C until needed"
 
 - Staining
-    1. Morning of LCM, bring slide up to room temperature
+
+    - **Stain right before performing LCM. Stain as quickly as possible, then dry slide, then go to LCM.**
+
+    - All surfaces and equipment should be treated with RNAse cleaner!!!
+
+    1. Morning of LCM, bring slide up to room temperature, slowly to avoid formation of water condensation inside the container
         - 15 minutes at - 20 ºC
         - 15 minutes at 4 ºC
         - 15 minutes at room temp (ideally there is no condensation)
