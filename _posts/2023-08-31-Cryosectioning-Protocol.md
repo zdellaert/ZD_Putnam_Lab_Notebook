@@ -43,7 +43,7 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
     ![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
 3. Place all tools in cryostat and allow to equilibriate to cryostat temperature (~30 mins!, speed up by transporting on dry ice before sectioning)
 4. Mount sample onto chuck by placing a drop of OCT on the chuck and then placing the demoulded block on top
-5. Trim off excess OCT making sure not to cut the tissue. If you do not know where the tissue is, wait to trim OCT until you can see the face of the section.
+5. Trim off excess OCT from the outside to make the section area smaller, making sure not to cut the tissue. If you do not know where the tissue is, wait to trim OCT until you can see the face of the section.
 5. "Face" the tissue by using the "trim" setting (thicker sections, ~30 uM) to reveal the desired tissue face 
     - Goal is to get a nice clean section across the whole face of the block. 
     - To do so, you will have to adjust the angle of the sample holder accordingly. As you trim away sections, you will notice the first try will not be nicely in the center of the block. Adjust the angle of the sample holder horizontally and vertically and keep "trimming" until you get a flat section across the whole block.
@@ -56,8 +56,10 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
     - This is the hardest part! 
     - If you are having issues, make sure to regularly clean the blade (**carefully!**) and the anti-roll plate. Any nicks or residue will hamper good sectioning
     - Other possible fixes: adjust blade or sample angle (I have had success with ~3º blade angle)
-    - If there is any bunching or ripping of the sections, adjust the temperature colder (for bunching) or warmer (for ripping/streaking). I have had success with -15 ºC - -20ºC.
+        - [Leica](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica_AntiRoll.pdf) suggests to start at an angle of 0º and slowly (1º at a time) adjust up
+    - If there is any bunching or ripping of the sections, adjust the temperature colder (for crumpling/bunching) or warmer (for ripping/cracking). I have had success with -15 ºC - -20ºC.
     ![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
+    ![roll_plate_leica.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate_leica.jpeg?raw=true)
 4. Sectioning pictures
     ![section1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section1.jpeg?raw=true)
     ![section2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section2.jpeg?raw=true)
@@ -101,6 +103,8 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
     - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
     - [Video 2](https://www.youtube.com/watch?v=qUBoyIN65vA)
     - [Video 3](https://www.youtube.com/watch?v=3s3zeRCwQyE&list=PLfaSRwcfHcq0D8RTy9LR8sKsWcF6C8TAt&index=5)
+    - ["Where to put hands"](https://bitesizebio.com/28466/can-stand-cold-cryosectioning-beginners/)
+    - [Anti-roll plate leica manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica_AntiRoll.pdf)
 
 - [Paxgene protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
 
