@@ -38,8 +38,8 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
     - When visibly dry, place in UV box for 30 minutes (ideally do so immediately prior to sectioning)
     - With clean, gloved hands, transfer to slide box for sectioning
 
-- Section using [this protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
-    1. Moved OCT-tissue blocks to -80 ºC 30 minutes before sectioning
+- Section using [this protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/); Notes:
+    1. Move OCT-tissue blocks to -20 ºC 30 minutes before sectioning
         - and place PEN slide under UV light for 30 minutes
     2. Prepared RNAse free cleaning solutions for cryostat in 50 mL tubes
         - 1:1 mixture of 70 % Ethanol : RNAse zap
@@ -60,6 +60,7 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
         - 15 minutes at - 20 ºC
         - 15 minutes at 4 ºC
         - 15 minutes at room temp (ideally there is no condensation)
+            - can place in dessicator
     2. Make sure all OCT is removed:
         - 70% EtOH, 1 min
         - DEPC water, 30 s
@@ -77,3 +78,6 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
             - "Dry slides at room temperature for 15 minutes using a drying chamber with desiccant or at 40°C for 10 minutes. This is a critical step for successful LMD. Sample slides should be stained just prior to microdissection."
 
 Total time: 45 mins coming to temp + ~15 mins staining + 10 mins to dry: 1 hour 10 mins
+
+- Notes:
+    - we may want to purchase dessicant and vaccum bags to keep condensation away: [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/)

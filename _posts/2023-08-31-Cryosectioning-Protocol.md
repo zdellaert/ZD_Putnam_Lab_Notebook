@@ -40,44 +40,41 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 1. Start with [fixed tissue](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/), [embedded in a block of OCT]((https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)) that has been kept at -80 ºC in a sealed container (large tube, wrapped in foil, in whirlpack, etc)
 2. 20 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container. Transport to cryostat on dry ice.
 
-## Sectioning
-1. Section using Cryostat at URI core facility
+## Sectioning 
+
+1. Clean cryostat and all tools with 70% Ethanol and/or RNAse zap (depending on application)
+    - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes. (from [Roy et al 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/))
     ![cryostat.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat.jpeg?raw=true)
 2. Use clingwrap to cover internal surfaces
     ![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
-3. Adjust roll plate so sections stay flat
+3. Place all tools in cryostat and allow to equilibriate to cryostat temperature (~30 mins!, speed up by transporting on dry ice before sectioning)
+4. Mount sample onto chuck by placing a drop of OCT on the chuck and then placing the demoulded block on top
+5. Trim off excess OCT making sure not to cut the tissue. If you do not know where the tissue is, wait to trim OCT until you can see the face of the section.
+5. "Face" the tissue by using the "trim" setting (thicker sections, ~30 uM) to reveal the desired tissue face 
+    - Goal is to get a nice clean section across the whole face of the block. 
+    - To do so, you will have to adjust the angle of the sample holder accordingly. As you trim away sections, you will notice the first try will not be nicely in the center of the block. Adjust the angle of the sample holder horizontally and vertically and keep "trimming" until you get a flat section across the whole block.
+    - **Always lock the wheel when adjusting things inside the cryostat and stay clear of the blade!**
+6. Once desired "face" is achieved, sectioning for the slides can begin 
+    - A good time to move to a different section of the blade, which you should do periodically especially if you notice any issues with the sections going through
+    - Turn off the "trim" setting and set the thickness for sectioning.
+    - **10 uM thickness is ideal**, but thicker may be easier and may have less rolling issues.
+7. Adjust roll plate so sections stay flat
+    - This is the hardest part! 
+    - If you are having issues, make sure to regularly clean the blade (**carefully!**) and the anti-roll plate. Any nicks or residue will hamper good sectioning
+    - Other possible fixes: adjust blade or sample angle (I have had success with ~3º blade angle)
+    - If there is any bunching or ripping of the sections, adjust the temperature colder (for bunching) or warmer (for ripping/streaking). I have had success with -15 ºC - -20ºC.
     ![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
-4. Sectioning
+4. Sectioning pictures
     ![section1.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section1.jpeg?raw=true)
     ![section2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section2.jpeg?raw=true)
     ![section3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section3.jpeg?raw=true)
     ![section4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/section4.jpeg?raw=true)
 5. Pick up sections using slide
+    - Remove the anti-roll plate and gently use paintbrushes to slide sections away from the blade, pick up the section on the frosted side of the slide (or membrane side if for LCM) with a rolling motion. Warm the slide from the back with the tip of your finger behind the section to allow the section to quickly melt. Place on the cryostat metal plate (where the blade is) to refreeze. 
     ![slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/slide.jpeg?raw=true)
+6. Keep slides in the cryostat and transport in sealed containers (slide mailers wrapped in parafilm and then placed in zip lock bag) on dry ice
 
 ![rollplate_correct.mov](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/rollplate_correct.mov?raw=true)
-
-
-**NOTES: Ideal temp is -15 ºC for cutting and ideal blade angle is 3º**
-
-- adjust blade angle
-- move blade around
-- how to figure out sample angle
-- locking handle
-- Sections can be about 10 uM thick
-    - Let dry at RT for 10 mins then keep on dry ice and put in -80 ºC freezer.
-        - How to store slides: Keep slides in a slide box (need to order), and wrap in a plastic bag to prevent any moisture from getting in or out of the box
-
-- Notes from [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/):
-     - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes.
-        - Mix RNaseZap and 70% ethanol in 1:1 ratio. Mix the two liquids by rocking the bottle sideways for 4-5 min
-    - Incubate PEN membrane slides for 30 min under UV light (on the UV transilluminator) to enhance the binding of the tissue to the membrane slide.
-    - Get a bucket of dry ice for tissue/embedded mold transportation.
-    - Prepare solutions with RNase-free water and high-quality ethanol:
-        - 75% ethanol (freshly prepared, Recipe 4)
-    - Set temperature of cryostat in the range of -15 °C to -18 °C
-    - Label PEN slides using a pencil.
-
 
 ## Quick slide staining w/ Hoescht
 
@@ -102,31 +99,24 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
     - Cover with a large coverlslip (22x50)
     - Seal with nail polish allow slides to cure overnight (4 ºC in dark).
 
-    - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
-
-
 ### Helpful vidoes and references
 
-[Helpful notes about cryosectioning for LCM](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html)
-
-
+[Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/)
 
 - Sectioning tips:
     - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
- - [Notes from Paxgene](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
+    - [Video 2](https://www.youtube.com/watch?v=qUBoyIN65vA)
+    - [Video 3](https://www.youtube.com/watch?v=3s3zeRCwQyE&list=PLfaSRwcfHcq0D8RTy9LR8sKsWcF6C8TAt&index=5)
 
+- [Paxgene protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
 
-    - [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
+- [Helpful notes about cryosectioning for LCM](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html)
+
+- [Example Immunohistochemistry Protocol for frozen tissue sections](https://www.rndsystems.com/resources/protocols/protocol-preparation-and-fluorescent-ihc-staining-frozen-tissue-sections)
+
 - Notes on extracting RNA from PAXgene fixed cryo-embedded tissues
     - [Paxgene protocol for sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0164-S02-001_PX22_SP_RNA_including_miRNA_from_PFCE_sections_0716_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf) 
         - DNA protcols: [sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S04-001_PX16_SP_Tissue_DNA_System_SP_Purification_gDNA_from_PFCE_tissue_placed_directly_into_a_microcentrifuge_tube_1015_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S03-001_PX15_SP_Tissue_DNA_System_Purification_gDNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf)
-    - Air dry slide at room temperature for 1 min
-    - Remove OCT from slides by:
-        - 70% EtOH, 1 min
-        - 50% EtOH, 45 s
-        - 30% EtOH, 30 s
-    - Transfer to ice-cold 96% ethanol for transport prior to dissection/LCM
-        - For long-time storage, freeze slides at –80°C. Thaw frozen slides at 4°C for 30 min.
 
 - Notes on LCM
     - https://depts.washington.edu/rubelab/protocols/lmdslidememo.pdf
