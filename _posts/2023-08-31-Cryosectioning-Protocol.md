@@ -37,7 +37,7 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
 ## Sectioning 
 
 1. Clean cryostat and all tools with 70% Ethanol and/or RNAse zap (depending on application)
-    - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes. (from [Roy et al 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/))
+    - Clean cryostat, microtome blade and tools with a 1:1 mixture of RNaseZap and 70% ethanol (RNaseZap/70% ethanol) and then with sterile 95% ethanol (Recipes 1-3). Wipe dry with Kimwipes. (from [Roy et al 2020](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))
     ![cryostat.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat.jpeg?raw=true)
 2. Use clingwrap to cover internal surfaces
     ![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
@@ -94,10 +94,14 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
             - Take mounting media out of the fridge ~30 mins before mounting and store upside down to try to limit bubbles forming and getting onto the tissue
     - Cover with a large coverlslip (22x50)
     - Seal with nail polish allow slides to cure overnight (4 ºC in dark).
+    - Image using confocal!
+        - Hoescht: excited with **410‐nm**, collect at **490‐nm** (bandpass)
+        - Chlorophyll: **410‐nm**, collect at **610‐nm** (long‐pass)
+        - GFP: excited with **488‐nm**, collect at **533‐nm** (bandpass)
 
 ### Helpful vidoes and references
 
-[Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/)
+[Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf)
 
 - Sectioning tips:
     - [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
@@ -116,7 +120,4 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
     - [Paxgene protocol for sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0164-S02-001_PX22_SP_RNA_including_miRNA_from_PFCE_sections_0716_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf) 
         - DNA protcols: [sections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S04-001_PX16_SP_Tissue_DNA_System_SP_Purification_gDNA_from_PFCE_tissue_placed_directly_into_a_microcentrifuge_tube_1015_WW.pdf) and [microdissections](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0162-S03-001_PX15_SP_Tissue_DNA_System_Purification_gDNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf)
 
-- Notes on LCM
-    - https://depts.washington.edu/rubelab/protocols/lmdslidememo.pdf
-    - https://depts.washington.edu/rubelab/protocols/leicalmdprotocolguide.pdf
-    - https://cmrf.research.uiowa.edu/sites/cmrf.research.uiowa.edu/files/Leica%20LMD7000%20-%20Operating%20Instructions.pdf
+- See my [LCM protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-LCM/) for an application of this

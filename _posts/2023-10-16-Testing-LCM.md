@@ -20,9 +20,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
 Sample Preparation for LCM [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf) ([old version](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide.pdf))
     - RNA preservation is incredibly important since the amount of tissue we will use for RNA extraction will be so limited. Protocol below is largely based off of this guide with bits from the [PAXgene protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf).
 
-
 How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
-
 
 ### Step by step protocol:
 
@@ -81,3 +79,11 @@ Total time: 45 mins coming to temp + ~15 mins staining + 10 mins to dry: 1 hour 
 
 - Notes:
     - we may want to purchase dessicant and vaccum bags to keep condensation away: [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/)
+
+- Laser capture time!
+    - How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
+    - Vizualize slide using fluorescence
+        - Hoescht: excited with **410‐nm**, collect at **490‐nm** (bandpass)
+        - Chlorophyll: **410‐nm**, collect at **610‐nm** (long‐pass)
+        - GFP: excited with **488‐nm**, collect at **533‐nm** (bandpass)
+    
