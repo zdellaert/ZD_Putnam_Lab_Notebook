@@ -33,6 +33,7 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
 ## Input material:
 1. Start with [fixed tissue](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/), [embedded in a block of OCT]((https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)) that has been kept at -80 ºC in a sealed container (large tube, wrapped in foil, in whirlpack, etc)
 2. 30 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container. Transport to cryostat on dry ice.
+3. Label slides with pencil
 
 ## Sectioning 
 
@@ -43,6 +44,7 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
     ![cryostat_clingwrap.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true)
 3. Place all tools in cryostat and allow to equilibriate to cryostat temperature (~30 mins!, speed up by transporting on dry ice before sectioning)
 4. Mount sample onto chuck by placing a drop of OCT on the chuck and then placing the demoulded block on top
+    - Do so on the holders on the left side of the cryostat, these will help to quickly freeze the OCT 
 5. Trim off excess OCT from the outside to make the section area smaller, making sure not to cut the tissue. If you do not know where the tissue is, wait to trim OCT until you can see the face of the section.
 5. "Face" the tissue by using the "trim" setting (thicker sections, ~30 uM) to reveal the desired tissue face 
     - Goal is to get a nice clean section across the whole face of the block. 
@@ -54,10 +56,12 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
     - **10 uM thickness is ideal**, but thicker may be easier and may have less rolling issues.
 7. Adjust roll plate so sections stay flat
     - This is the hardest part! 
-    - If you are having issues, make sure to regularly clean the blade (**carefully!**) and the anti-roll plate. Any nicks or residue will hamper good sectioning
+    - If you are having issues, make sure to regularly clean the blade (**carefully!**) and the anti-roll plate with Ethanol and/or RNAse zap. Any nicks or residue will hamper good sectioning. Make sure to clean the backside of the blade too, which is best done by removing the blade.
     - Other possible fixes: adjust blade or sample angle (I have had success with ~3º blade angle)
         - [Leica](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica_AntiRoll.pdf) suggests to start at an angle of 0º and slowly (1º at a time) adjust up
-    - If there is any bunching or ripping of the sections, adjust the temperature colder (for crumpling/bunching) or warmer (for ripping/cracking). I have had success with -15 ºC - -20ºC.
+    - If there is any bunching or ripping of the sections, adjust the temperature colder (for crumpling/bunching) or warmer (for ripping/cracking/splintering). I have had success with -15 ºC - -20ºC.
+    - **See [Leica cryostat manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/cm3050en.pdf) for troubleshooting guide (page 47).
+    - Try to keep all materials inside the cryostat to keep them at the desired temperature.
     ![roll_plate.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate.jpeg?raw=true)
     ![roll_plate_leica.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/roll_plate_leica.jpeg?raw=true)
 4. Sectioning pictures

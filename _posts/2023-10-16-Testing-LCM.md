@@ -78,9 +78,9 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
 Total time: 45 mins coming to temp + ~15 mins staining + 10 mins to dry: 1 hour 10 mins
 
 - Notes:
-    - we may want to purchase dessicant and vaccum bags to keep condensation away: [Roy et al 2020 Bioprotocols](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079735/)
+    - we may want to purchase dessicant and vaccum bags to keep condensation away: [Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf)
 
-- Laser capture time!
+#### Laser capture time!
     - How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
     - Vizualize slide using fluorescence
         - Hoescht: excited with **410‐nm**, collect at **490‐nm** (bandpass)

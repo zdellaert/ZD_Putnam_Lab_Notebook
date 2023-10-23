@@ -117,7 +117,7 @@ Eluted DNA in 100 uL of Tris-EDTA and RNA in 50 uL of DNAse/RNAse free water (re
 
 #### DNA and RNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
-![2023-10-22-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-10-22-gel.JPG?raw=true)
+![2023-10-22-gel.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2023-10-22-gel.jpg?raw=true)
 
 **Clearly, the sucrose step is introducing degredation. This is likely because the sample is moved from -80 ºC to 4 ºC overnight. This is a little concerning, but there are still visible bands, so we should keep an eye on it.**
 
