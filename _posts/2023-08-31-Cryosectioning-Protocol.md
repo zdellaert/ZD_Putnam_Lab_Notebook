@@ -10,12 +10,6 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
 
 ### Starting material: Tissue fixed, stabilized, decalcified ([protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)), and [embedded in OCT](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
 
-### Example Protocols and Video
-
-See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0)
-
-[PAXgene cryosectioning protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
-
 ### The goal of this protocol is to create tissue sections that preserve structural integrity and maintain the integrity of RNA and proteins for downstream imaging and RNA extraction
 
 ### Therefore, all of these steps should be performed with gloves and in a clean workspace
@@ -38,7 +32,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
 
 ## Input material:
 1. Start with [fixed tissue](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/), [embedded in a block of OCT]((https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)) that has been kept at -80 ºC in a sealed container (large tube, wrapped in foil, in whirlpack, etc)
-2. 20 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container. Transport to cryostat on dry ice.
+2. 30 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container. Transport to cryostat on dry ice.
 
 ## Sectioning 
 
@@ -108,7 +102,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
     - [Video 2](https://www.youtube.com/watch?v=qUBoyIN65vA)
     - [Video 3](https://www.youtube.com/watch?v=3s3zeRCwQyE&list=PLfaSRwcfHcq0D8RTy9LR8sKsWcF6C8TAt&index=5)
 
-- [Paxgene protocol](https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
+- [Paxgene protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
 
 - [Helpful notes about cryosectioning for LCM](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html)
 
