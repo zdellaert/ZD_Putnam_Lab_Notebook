@@ -34,6 +34,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=aNrnnmQB8y0
     3. [Mounting Media](https://www.fishersci.com/shop/products/prolong-diamond-antifade-mountant-6/p-7076181)
     4. [Cover slips](https://www.fishersci.com/shop/products/superslip-cover-slips-20/p-7227752#?keyword=cover%20slips)
 8. [Box for slides](https://www.amazon.com/dp/B0061OUFX6/ref=redir_mobile_desktop?_encoding=UTF8&)
+9. [Slide mailers for staining/storing slides](https://www.amazon.com/Heathrow-Scientific-HD15986-Natural-Polypropylene/dp/B0061OTA00/ref=sr_1_6?crid=3TZF8W5FSYV3L&keywords=slide+mailer&qid=1697471771&s=industrial&sprefix=slide+mailer%2Cindustrial%2C181&sr=1-6)
 
 ## Input material:
 1. Start with [fixed tissue](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/), [embedded in a block of OCT]((https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)) that has been kept at -80 ºC in a sealed container (large tube, wrapped in foil, in whirlpack, etc)

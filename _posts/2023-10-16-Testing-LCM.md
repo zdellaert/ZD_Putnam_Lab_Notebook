@@ -13,6 +13,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
     - We will likely use the PEN coated glass slide for future applications. If we use lower magnification, a 2 µm thickness of PEN membrane will also likely work, and these are available RNAse free (VWR #11505189 or #11505158). 4 µm slides are the easiest to use because: "the membrane is stronger compared to the 2 µm standard which allows easier section mounting and a lower risk of membrane injury during the mounting procedure and the membrane itself is heavier and thus easier to collect via gravity".
     - The frame slides are recommended for single-cell and other high-magnification (150X) applications.
     - If we are having issues with PEN membrane autofluorescense, we can try to switch to PPS or PET slides.
+- All other supplies are listed in the [cryosectioning protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
 
 ### Resources
 
@@ -25,26 +26,29 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
 
 ### Step by step protocol:
 
-- What I did: See [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc/) for sample prep info, the two branches used here for sectioning and embedding are the two that were put into sucrose on 10/16/23 and embedded on 10/17/23
+- What I did: See [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc/) for sample prep info, the two branches used here for sectioning and embedding are the two that were put into sucrose on 10/16/23 and embedded on 10/17/23. Slide prep on 10/22/23 and sectioning on 10/23/23. Test on 10/24/23.
 
-- All surfaces and equipment should be treated with RNAse cleaner!!!
+- **All surfaces and equipment should be treated with RNAse cleaner!!!**
 
 - Slide prep of Leica LDM slides (one PEN glass slide and one PEN frame slide) was done on 10/22/23
-    - using sterilized and RNAse zap-ped forceps, dipped slides in RNAse zap for 15 seconds
-    - 2 15 second rinses in DEPC water
-    - let dry , propped up on parafilm for about 30 minutes (could also do what they suggest which is drying at 37ºC)
-    - when visibly dry, placed in UV box for 30 minutes
-    - with clean, gloved hands, transferred to slide box for sectioning next day. 
+    - Make sure to not damage or touch the membrane in any way
+    - Using sterilized and RNAse zap-ped forceps, dip slides in RNAse zap for 15 seconds
+    - Follow this by two 15 second rinses in DEPC water
+    - Let dry, at room temperature or at 37 ºC
+    - When visibly dry, place in UV box for 30 minutes (ideally do so immediately prior to sectioning)
+    - With clean, gloved hands, transfer to slide box for sectioning
 
-- Sectioning using [this protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) on 10/23/23
-    1. moved blocks to -80 ºC 30 minutes before sectioning and placed PEN slide under UV light for 30 minutes
-    2. prepared RNAse free cleaning solutions for cryostat in 50 mL tubes
+- Section using [this protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
+    1. Moved OCT-tissue blocks to -80 ºC 30 minutes before sectioning
+        - and place PEN slide under UV light for 30 minutes
+    2. Prepared RNAse free cleaning solutions for cryostat in 50 mL tubes
         - 1:1 mixture of 70 % Ethanol : RNAse zap
         - 95 % Ethanol
     3. Clean the cryostat before sectioning with RNAse zap:Ethanol mixture followed by 70% or 95% ethanol
     4. Trim the block so that there is not much excess OCT - we want to get as many sections on the slide as possible, so the smaller the size of the sections the better
-    5. Keep the slides in the cryostat and transport in sealed slide boxes on dry ice
-    6. After sectioning, keep in "sealed slide boxes with a desiccant at –80°C until needed"
+    5. Very carefully transfer sections to PEN membrane without damaging the membrane
+    6. Keep the slides in the cryostat and transport in sealed slide boxes on dry ice
+    7. After sectioning, keep in "sealed slide boxes with a desiccant at –80°C until needed"
 
 - Staining
 
