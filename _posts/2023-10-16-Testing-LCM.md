@@ -80,9 +80,44 @@ Total time: 45 mins coming to temp + ~10 mins staining + 10 mins to dry: 1 hour 
     - we may want to purchase dessicant and vaccum bags to keep condensation away: [Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf)
 
 #### Laser capture time!
-    - How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
-    - Vizualize slide using fluorescence
-        - Hoescht: excited with **410‐nm**, collect at **490‐nm** (bandpass)
-        - Chlorophyll: **410‐nm**, collect at **610‐nm** (long‐pass)
-        - GFP: excited with **488‐nm**, collect at **533‐nm** (bandpass)
-    
+- How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Leica%20LMD7000%20-%20Operating%20Instructions.pdf)
+
+
+
+#### Notes after first test
+- the tissue was disintegrated. Trying to cut thicker sections (20 uM), trying the glass membrane PEN slide, using the frame support if using the PEN frame slides should help. We also decided to not do the Hoescht staining prior to LCM to try to reduce the stress on the tissue. This will also reduce UV stress on the tissue when imaging using fluorescence. We can see algal cells just fine in brightfield. If we want, we can try H&E staining or any of the stains in the leica [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf).
+
+Images!
+
+Scope
+
+![scope.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/scope.jpg?raw=true)
+
+ROIs (large-scale sections for testing RNA extraction) collected in tube C:
+
+![C_BEFORE.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/C_BEFORE.jpg?raw=true)
+
+![C-AFTER.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/C-AFTER.jpg?raw=true)
+
+![C-CAP.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/C-CAP.jpg?raw=true)
+
+![C2_BEFORE.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/C2_BEFORE.jpg?raw=true)
+
+![C2-AFTER.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/C2-AFTER.jpg?raw=true)
+
+![C2-CAP.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/C2-CAP.jpg?raw=true)
+
+Example of drawing ROI to collect specific cells:
+
+![draw_roi.PNG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/draw_roi.PNG?raw=true)
+
+![post_cut.PNG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/post_cut.PNG?raw=true)
+
+
+Example of visualizing fluorescence using this scope. Not ideal and not adding much information:
+
+![DAPI_1.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/DAPI_1.jpg?raw=true)
+
+![GREEN_1.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/GREEN_1.jpg?raw=true)
+
+![RED_1.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/LCM/RED_1.jpg?raw=true)
