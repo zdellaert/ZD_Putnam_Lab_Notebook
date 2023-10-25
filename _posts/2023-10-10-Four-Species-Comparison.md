@@ -20,10 +20,8 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, Porites, Seriatopora, Montipora
     - Day 5 (10/14/23): Changed EDTA solution
     - Day 6 (10/15/23): Changed EDTA solution
     - Day 7 (10/16/23): Decalc still not done for Porites or Montipora! Changed EDTA solution for these two and removed the POC and SER branches into PBS @ 4ºC. 
-    - Day 8 (10/17/23):
-    - Day 9 (10/18/23):
-    - Day 10 (10/19/23):
-
+    - Day 8 (10/17/23): Changed EDTA solution for Porites and Montipora
+    - Day 9 (10/18/23): Removed the Porites and Montipora into PBS @ 4ºC.
 
     - **to do** : Decalcification done, tissue washed (10 mins, 1X PBS) and split each tissue piece into two fragments
         - one goes to sucrose for [cryoprotection and embedding](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/) for [cryosectioning](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
