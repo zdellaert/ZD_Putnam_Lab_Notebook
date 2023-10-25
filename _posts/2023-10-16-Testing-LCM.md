@@ -85,7 +85,16 @@ Total time: 45 mins coming to temp + ~10 mins staining + 10 mins to dry: 1 hour 
 
 
 #### Notes after first test
-- the tissue was disintegrated. Trying to cut thicker sections (20 uM), trying the glass membrane PEN slide, using the frame support if using the PEN frame slides should help. We also decided to not do the Hoescht staining prior to LCM to try to reduce the stress on the tissue. This will also reduce UV stress on the tissue when imaging using fluorescence. We can see algal cells just fine in brightfield. If we want, we can try H&E staining or any of the stains in the leica [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf).
+- The tissue was disintegrated. Trying to cut thicker sections (20 uM), trying the glass membrane PEN slide, using the frame support if using the PEN frame slides should help. We also decided to not do the Hoescht staining prior to LCM to try to reduce the stress on the tissue. This will also reduce UV stress on the tissue when imaging using fluorescence. We can see algal cells just fine in brightfield. If we want, we can try H&E staining or any of the stains in the leica [guide](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf).
+- without staining, to remove OCT, try dipping slide in ice-cold RNAse free water 5-6 times [link](https://hcbi.fas.harvard.edu/files/zeiss_labprotocol_rna_0811.pdf) and [here](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/confocal-microscopy-core/documents/Zeiss-RNA-extraction-frozen-sections.pdf)
+    - dry slide in cryostat for 2-3 minutes after placing a section on the slide
+    - incubate in ice-cold 70% ethanol for 2-3 minutes to dehydrate
+    - if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
+    - stain (cresyl violet), ice-cold!!!
+    - dip into 70% ethanol a few times, then 100% ethanol, all ice cold
+    - air dry at room temp for 1-2 minutes
+    - then immediatley perform LCM or store at -80ºC for a few days
+        - keep slides in sealed falcon tubes!!!! do not open until the tube is fully at room temperature
 
 Images!
 
