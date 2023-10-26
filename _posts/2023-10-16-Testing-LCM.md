@@ -95,6 +95,15 @@ Total time: 45 mins coming to temp + ~10 mins staining + 10 mins to dry: 1 hour 
     - air dry at room temp for 1-2 minutes
     - then immediatley perform LCM or store at -80ºC for a few days
         - keep slides in sealed falcon tubes!!!! do not open until the tube is fully at room temperature
+- furhter notes [from Leica](https://www.leica-microsystems.com/science-lab/life-science/rna-quality-after-different-tissue-sample-preparation/): 
+    - direct quote from this resource:
+    - After cryo-preservation at –80° C, these were transferred to a cryo-microtome and incubated at –35 °C for 45 min.
+    - Then the tissue was equilibrated at –18° C for 30 min and cut into 12 µm sections at –18° C by cryo-sectioning.
+    - The murine-brain sections were divided into two groups which were treated in the following ways. One, the control group, was directly frozen at –80° C.
+    - The other group was applied to an RNase-free, UV-treated PEN slide. This was done by briefly thawing the sections at room temperature and fixing them for **2 min in 75% ethanol cooled to –20° C**.
+    - After fixation, they were immediately stained with drops of sterile-filtered cresyl violet (CV) dye solution (5% cresyl violet in pure ethanol) and incubated for 45 secs with a slight to-and-fro movement.
+    - After this staining procedure, the dye solution was briefly drained off and the slide was immersed in a sequence of ethanol solutions with increasing concentrations (75%, 95%, and 100%) for 4 secs each and then finally fixed in 100% ethanol (test group).
+    - Following this fixing and staining procedure, the slide was placed in a drying chamber with silica gel for **45 mins at room temperature** and then stored at –80° C in a dry box pending laser microdissection.
 
 Images!
 
