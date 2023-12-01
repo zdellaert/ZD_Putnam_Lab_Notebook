@@ -81,8 +81,28 @@ decalcificaton not fully done, taken on 10/16/23:
 
 ![SER_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/SER_decalc.jpeg?raw=true)
 
+#### Imaged Tissue "Skirts" on the following days:
+
+- 10/19/23: Pocillpora, did not work well
+- 10/31/23: Pocillpora
+- 11/3/23: Seriatopora + more Poc
+    - chlorophyll A (CPhA): 639 laser, power @ 8, gain 700
+    - GFP (TGFP): 488 laser, power @ 7, gain 700
+    - chlorophyll B (CPhB): 405 laser, power @ 4, gain 700
+        - probably redundant
+- 11/10/23: Porites
+    - did not work well at all
+
+#### Embedded samples on 11/3/23
+
+#### Attempted sectioning on 12/1/23 but failed. 
+
+    - Had lots of issues with sections rolling and crumpling
+    - The Porites and Montipora were almost melting as I sectionined them? And the sections I did get were undefined and weird. Maybe we need to skip the sucrose step, becuase it is leading to an explosion in the porites tissue and maybe also the others that is less evident.
+
 Microscopy methods:
 - **Yost et al. methods**: "Samples were scanned with excitations of violet (**405 nm**) and green (**498 nm and 543 nm**) light, and emissions were collected at **450 nm** to visualize host tissues and at **600 nm** to visualize autofluorescence of Symbiodinium. Measurements of tissue thickness were taken in triplicate at random locations on each tissue sample to determine a colony average. Coral tissue thickness was characterized by either (i) high biomass, thick tissues anastomosing through highly perforate skeletons of perforate corals or (ii) low biomass, thin tissue ‘veneers’ of imperforate corals. Thus, tissue thickness did not appear to be altered by water absorption mechanisms (e.g., in the gastrovascular cavity) that may alter tissue thickness."
 - Other papers:
     - Liu et al 2020: "DAPI was excited using a **410‐nm** laser, and the fluorescence signal was collected with a **490‐nm** bandpass filter. Coral green fluorescence protein and apoptosis TUNEL assays were excited using a **488‐nm** laser and collected with a **533‐nm** bandpass filter. [...] The autofluorescence of the chlorophyll was excited using a **410‐nm** laser and collected with a **610‐nm** long‐pass emission filter."
     - Majerova et al 2021: "Host cell fluorescence was excited with the **405 nm** laser and collected in emission range **454-621 nm** with *master gain set at 650, digital gain 1.0, laser power 28%, and pinhole 35.5*. Symbiodinium fluorescence was excited with the **405 nm** laser and collected in emission range **655–718 nm** with *master gain set at 575, digital gain 1.0, laser power 28%, and pinhole 35.5.*"
+
