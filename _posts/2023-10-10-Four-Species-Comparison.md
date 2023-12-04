@@ -83,6 +83,8 @@ decalcificaton not fully done, taken on 10/16/23:
 
 #### Imaged Tissue "Skirts" on the following days:
 
+![skirts.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/skirts.jpeg?raw=true)
+
 - 10/19/23: Pocillpora, did not work well
 - 10/31/23: Pocillpora
 - 11/3/23: Seriatopora + more Poc
@@ -97,8 +99,8 @@ decalcificaton not fully done, taken on 10/16/23:
 
 #### Attempted sectioning on 12/1/23 but failed. 
 
-    - Had lots of issues with sections rolling and crumpling
-    - The Porites and Montipora were almost melting as I sectionined them? And the sections I did get were undefined and weird. Maybe we need to skip the sucrose step, becuase it is leading to an explosion in the porites tissue and maybe also the others that is less evident.
+- Had lots of issues with sections rolling and crumpling
+- The Porites and Montipora were almost melting as I sectionined them? And the sections I did get were undefined and weird. Maybe we need to skip the sucrose step, becuase it is leading to an explosion in the porites tissue and maybe also the others that is less evident.
 
 Microscopy methods:
 - **Yost et al. methods**: "Samples were scanned with excitations of violet (**405 nm**) and green (**498 nm and 543 nm**) light, and emissions were collected at **450 nm** to visualize host tissues and at **600 nm** to visualize autofluorescence of Symbiodinium. Measurements of tissue thickness were taken in triplicate at random locations on each tissue sample to determine a colony average. Coral tissue thickness was characterized by either (i) high biomass, thick tissues anastomosing through highly perforate skeletons of perforate corals or (ii) low biomass, thin tissue ‘veneers’ of imperforate corals. Thus, tissue thickness did not appear to be altered by water absorption mechanisms (e.g., in the gastrovascular cavity) that may alter tissue thickness."
