@@ -108,3 +108,24 @@ Microscopy methods:
     - Liu et al 2020: "DAPI was excited using a **410‐nm** laser, and the fluorescence signal was collected with a **490‐nm** bandpass filter. Coral green fluorescence protein and apoptosis TUNEL assays were excited using a **488‐nm** laser and collected with a **533‐nm** bandpass filter. [...] The autofluorescence of the chlorophyll was excited using a **410‐nm** laser and collected with a **610‐nm** long‐pass emission filter."
     - Majerova et al 2021: "Host cell fluorescence was excited with the **405 nm** laser and collected in emission range **454-621 nm** with *master gain set at 650, digital gain 1.0, laser power 28%, and pinhole 35.5*. Symbiodinium fluorescence was excited with the **405 nm** laser and collected in emission range **655–718 nm** with *master gain set at 575, digital gain 1.0, laser power 28%, and pinhole 35.5.*"
 
+
+### Fixed extra corals on 12/14/23 
+
+Just wanted to get some *P. compressa* and *M. capitata* in fixative before break. Transferred to stabilizer on 12/15/12 at 4PM in 4 ºC.
+
+![20231214_POR_Test2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_POR_Test2.jpeg?raw=true)
+
+![20231214_POR_2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_POR_2.jpeg?raw=true)
+
+![20231214_POR_3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_POR_3.jpeg?raw=true)
+
+![20231214_POR_4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_POR_4.jpeg?raw=true)
+
+
+![20231214_MONT_F14.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_MONT_F14.jpeg?raw=true)
+
+![20231214_MONT_2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_MONT_2.jpeg?raw=true)
+
+![20231214_MONT_3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_MONT_3.jpeg?raw=true)
+
+![20231214_MONT_4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_MONT_4.jpeg?raw=true)
