@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Charm RNA Extraction Laser Capture Microdissection on Cryosectioned and LCM-d P. acuta 
+title: Testing Charm Biotech RNA Extraction on Cryosectioned and LCM-d P. acuta 
 date: '2024-01-25'
 categories: Processing
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]

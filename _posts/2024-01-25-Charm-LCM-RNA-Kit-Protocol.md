@@ -6,9 +6,7 @@ categories: Protocols
 tags: [DNA, RNA, PAXgene, Protocol, LCM]
 ---
 
-**Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM) Sample Total RNA/MicroRNA Purification Kit**
-
-**Goal: to extract *high-quality* RNA from PAXgene-fixed cryosectioned tissue.**
+## Goal: to extract *high-quality* RNA from PAXgene-fixed cryosectioned tissue.
 
 ## Materials and Equipment
 
