@@ -6,9 +6,15 @@ categories: Processing
 tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
 ---
 
+## Testing Charm Kit on P. acuta
+
+### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-RNA-Kit-Protocol/)
+
 ## 11/10/23 - Extracting RNA from LCM-captured RNA as well as from cryosections manually dissected fom slides
 
 Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/c90a9f5225f541e20b15b3125f474c77712cd64b/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
+
+### Sectioning performed on 10/23/23 and LCM on 10/24/23. See details [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-LCM/)
 
 - For the LCM sample, I had to make some adjustments to the protocol. After LCM, I originally resuspended the cells in 50 uL of RNAse/DNAse-free water, but I should have made digestion buffer and resuspended the captured cells in this. To try to make up for this, I made the digestion buffer at 2X concentration of BME and Proteinase K by doing the following:
     - 40 uL buffer RD2 + 9 uL Proteinase K + 2 uL BME
@@ -44,6 +50,8 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 ## 1/25/24 - Extracting RNA from cryosections manually dissected fom slides, using frozen tissue protocol instead of FFPE protocol
 
 Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/c90a9f5225f541e20b15b3125f474c77712cd64b/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
+
+### Sectioning performed on 10/23/23 and LCM on 10/24/23. See details [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-LCM/)
 
 - Removed a cryosectioned slide from -80 ºC (same sample/sectioning round as used for LCM) thawed a slide on dry ice 
     - Rinsed slide in 70% Ethanol for 5 minutes on dry ice
