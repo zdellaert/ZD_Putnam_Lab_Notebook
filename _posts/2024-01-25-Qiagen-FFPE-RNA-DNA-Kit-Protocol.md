@@ -32,6 +32,6 @@ tags: [DNA, RNA, PAXgene, Protocol, LCM]
 
 #### RNA Quality Check: Tapestation
 
-![2024-01-25.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25.JPG?raw=true)
+![2024-01-25_Qiagen.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25_Qiagen.JPG?raw=true)
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25.pdf)
