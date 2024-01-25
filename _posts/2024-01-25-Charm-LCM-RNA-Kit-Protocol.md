@@ -17,3 +17,21 @@ tags: [DNA, RNA, PAXgene, Protocol, LCM]
 
 ## First time opening kit: Reagent Preparation
 
+
+
+
+## Sample prep from slides
+
+- Removed a cryosectioned slide from -80 ºC (same sample/sectioning round as used for LCM) thawed a slide on dry ice 
+    - Rinsed slide in 70% Ethanol for 5 minutes on dry ice
+    - Replaced ethanol with RNAse/DNAse-free water to rinse
+    - Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared RD1 digestion buffer.
+    - Then, I followed the protocol as written for FFPE, with a 1 hour digestion at 52 ºC.
+
+
+## Sample prep from LCM samples
+
+- For the LCM sample, I had to make some adjustments to the protocol. After LCM, I originally resuspended the cells in 50 uL of RNAse/DNAse-free water, but I should have made digestion buffer and resuspended the captured cells in this. To try to make up for this, I made the digestion buffer at 2X concentration of BME and Proteinase K by doing the following:
+    - 40 uL buffer RD2 + 9 uL Proteinase K + 2 uL BME
+        - I later realized this was actually 4X concentration of BME...
+- Then, I followed the protocol as written for FFPE, with a 3 hour digestion at 60 ºC.

@@ -68,3 +68,7 @@ Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample To
 ![2024-01-25.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25.JPG?raw=true)
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25.pdf)
+
+### Thoughts:
+
+It seems like the FFPE protocol/RD2 buffer worked better than the frozen one. Maybe we should try the RD2 protocol again but with a shorter incubation? The RIN was higher for the RD2 protocol (for FFPE).
