@@ -51,6 +51,20 @@ Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample To
     - Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared RD1 digestion buffer.
     - Then, I followed the protocol as written for FFPE, with a 1 hour digestion at 52 ºC.
 
-## 1/25/24 - Extracting RNA from cryosections manually dissected fom slides, using Zymo Quick DNA/RNA Kit:
+#### Qubit Results
 
-### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
+- Used Broad range RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+ RNA Standards: 370.23 (S1) & 9494.15 (S2)
+
+| colony_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| Charm_Low_Input   |  10.8   |  10.4     |   10.6       |
+| Charm_High_Input  |  10.8   |  11.0     |   10.9       |
+
+#### RNA Quality Check: Tapestation
+
+![2024-01-25.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25.JPG?raw=true)
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25.pdf)
