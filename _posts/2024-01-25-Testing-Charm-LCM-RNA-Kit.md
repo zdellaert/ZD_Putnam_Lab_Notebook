@@ -57,7 +57,7 @@ Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample To
     - Rinsed slide in 70% Ethanol for 5 minutes on dry ice
     - Replaced ethanol with RNAse/DNAse-free water to rinse
     - Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared RD1 digestion buffer.
-    - Then, I followed the protocol as written for FFPE, with a 1 hour digestion at 52 ºC.
+    - Then, I followed the protocol as written for frozen tissue, with a 1 hour digestion at 52 ºC.
 
 #### Qubit Results
 
