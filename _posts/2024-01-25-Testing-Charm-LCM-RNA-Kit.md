@@ -194,3 +194,47 @@ revisiting helpful vidoes and references from my [cryosectioning protocol](https
 - [Paxgene protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/HB-1543-S01-001_PX20_SP_TIssue_System_Preparation_of_sections_from_PFPE_and_PFCE_tissues_for_manual_or_LMD_1015_WW.pdf)
 
 - [Helpful notes about cryosectioning for LCM](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-isolation/general-articles/getting-intact-rna-from-lcm-samples.html)
+
+## Game Plan as of 1/26/24:
+
+1. Modifications to Charm Extraction Protocol
+   1. **Pre-cool lysis buffer** mixture
+   2. Use increased volume of lysis buffer mixture for whole sections
+      1. 100 uL lysis buffer mixture, 200 uL RB7
+   3. Pre-cool forceps and razor blades for transferring tissue to lysis buffer
+   4. **Incubate on a shaker–incubator for 15 min at 56°C and 1400 rpm.**
+      1. instead of 1 hour at 52 ºC or 3 hours at 60 ºC. Feels like a big jump, but seems like PAXgene isn't crosslinking RNA based off of their RNA extraction protocols.
+2. Improve sample prep for all sectioned tissues.
+   1. Use dessicants to dry slides before they go into -80 ºC
+      1. Cut sections onto slide, then air dry PEN slide at room temp for 2 minutes on dessicant ([Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))
+      2. **If staining, transport slides to lab in ice cold ethanol**
+         1. Dehydrate in ethanol series and perform staining
+            1. 2 minute in ice-cold 70% Ethanol
+            2. 45 s in ice-cold 50% Ethanol
+            3. 30 s in ice-cold 30% Ethanol
+            4. if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
+         2. Staining: cresyl violet or H&E
+            1. incubate in CV-staining solution for 30 secs
+               1. dissolve solid CV at 1% w/v in 50% ethanol. Stir overnight at room temp. filter before use
+            2. remove stain from slide on absorbant surface
+            3. Rinse 3x in ice-cold 70% ethanol for washing
+            4. Rinse 3x with ice-cold 100% ethanol
+            5. **Dry on dessicator for 1-2 minutes, use immediately for LCM or store at -80 ºC**
+      3. If able to perform LCM day of, perform immediatley after dessication or **keep freshly prepared slides in ice-cold ethanol until microdissection.**
+            1. Dry slides again on dessicator right before LCM if needed
+      4. **If not able to perform LCM day of**, store dried slide at -80 ºC in a slide mailer in vaccum bag (or just in a falcon tube?) containing dessicant
+         1. day of, take slide in container with desiccant out of -80 ºC and allow  to slowly reach room temperature, for at least 60 min, before opening ([Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))
+   2. Improvements to LCM sample collection protocol, [Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf)
+      1. "Clean the collect tube caps (0.5 ml) with RNaseZap, followed by a rinse with RNase-free water."
+      2. Immediately add lysis buffer to the collection caps, close the cap upside down and vortex for 1 min.
+      3. Centrifuge and store tubes at -80 °C.
+
+To order to make game plan happen, trying to get good RNA out of sections (not even LCM yet):
+1. Dessicant
+2. Dessicator (glass jar)
+3. Staining tray for slides: glass or metal
+4. Cresyl violet stain
+5. Have alternatives for now:
+   1. Vaccum bags?
+   2. Better cryostat brushes?
+6. DNAse for use with Charm kit.
