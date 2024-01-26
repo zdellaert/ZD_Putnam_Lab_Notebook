@@ -204,15 +204,17 @@ revisiting helpful vidoes and references from my [cryosectioning protocol](https
    3. Pre-cool forceps and razor blades for transferring tissue to lysis buffer
    4. **Incubate on a shaker–incubator for 15 min at 56°C and 1400 rpm.**
       1. instead of 1 hour at 52 ºC or 3 hours at 60 ºC. Feels like a big jump, but seems like PAXgene isn't crosslinking RNA based off of their RNA extraction protocols.
+   5. Stain and wash all slides and perform dissections in petri dishes (or 96-well plate lids) cleaned to be RNAse free
 2. Improve sample prep for all sectioned tissues.
    1. Use dessicants to dry slides before they go into -80 ºC
       1. Cut sections onto slide, then air dry PEN slide at room temp for 2 minutes on dessicant ([Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))
       2. **If staining, transport slides to lab in ice cold ethanol**
          1. Dehydrate in ethanol series and perform staining
-            1. 2 minute in ice-cold 70% Ethanol
-            2. 45 s in ice-cold 50% Ethanol
-            3. 30 s in ice-cold 30% Ethanol
-            4. if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
+            1. Stain and wash all slides and perform dissections in petri dishes (or 96-well plate lids) cleaned to be RNAse free
+            2. 2 minute in ice-cold 70% Ethanol
+            3. 45 s in ice-cold 50% Ethanol
+            4. 30 s in ice-cold 30% Ethanol
+            5. if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
          2. Staining: cresyl violet or H&E
             1. incubate in CV-staining solution for 30 secs
                1. dissolve solid CV at 1% w/v in 50% ethanol. Stir overnight at room temp. filter before use
@@ -232,9 +234,4 @@ revisiting helpful vidoes and references from my [cryosectioning protocol](https
 To order to make game plan happen, trying to get good RNA out of sections (not even LCM yet):
 1. Dessicant
 2. Dessicator (glass jar)
-3. Staining tray for slides: glass or metal
-4. Cresyl violet stain
-5. Have alternatives for now:
-   1. Vaccum bags?
-   2. Better cryostat brushes?
-6. DNAse for use with Charm kit.
+3. Cresyl violet stain
