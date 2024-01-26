@@ -12,7 +12,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora, LCM]
 
 ## 11/10/23 - Extracting RNA from LCM-captured RNA as well as from cryosections manually dissected fom slides
 
-Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/c90a9f5225f541e20b15b3125f474c77712cd64b/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
+Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
 
 ### Sectioning performed on 10/23/23 and LCM on 10/24/23. See details [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-LCM/)
 
@@ -49,7 +49,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 ## 1/25/24 - Extracting RNA from cryosections manually dissected fom slides, using frozen tissue protocol instead of FFPE protocol
 
-Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/c90a9f5225f541e20b15b3125f474c77712cd64b/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
+Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM)Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
 
 ### Sectioning performed on 10/23/23 and LCM on 10/24/23. See details [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-LCM/)
 
@@ -81,13 +81,16 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 It seems like the FFPE protocol/RD2 buffer worked better than the frozen one. Maybe we should try the RD2 protocol again but with a shorter incubation? The RIN was higher for the RD2 protocol (for FFPE).
 
-#### Thouhts based on Qiagen PAXgene RNA protocols:
+#### Thoughts based on Qiagen PAXgene RNA protocols:
 
-Handbook: https://www.preanalytix.com/storage/download/_ProductResources_/Handbooks/HB-0164-006_HB_PX_Tissue_RNA_miRNA_Kit_0621_WW_1124963.pdf
+Paxgene recommends extracting RNA using the PAXgene Tissue RNA/miRNA [Kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/rna-purification/mirna/paxgene-tissue-rna-mirna-kit), [handbook](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Tissue_RNA_miRNA_Kit.pdf)
 
-Extracting RNA from paxgene-fixed cryoembedded samples, sectioned:
+And has the following notes about extracting using this kit for Paxgene Fixed, Cryoembedded (PFCE) Samples from [sections](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_RNA_PFCE_sections.pdf) and [LCM microdissections](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_RNA_from_microdissected_PFPE_and_PFCE.pdf).
 
-https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0164-S02-001_PX22_SP_RNA_including_miRNA_from_PFCE_sections_0716_WW.pdf 
+  - *For DNA: Paxgene recommends extracting DNA using the PAXgene Tissue DNA [Kit](https://www.qiagen.com/us/products/discovery-and-translational-research/sample-collection-stabilization/tissue-ffpe/paxgene-tissue-dna-kit), [handbook](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Tissue_DNA_Kit.pdf)*
+    - *And has the following notes about extracting using this kit for Paxgene Fixed, Cryoembedded (PFCE) Samples from [sections](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_gDNA_from_PFCE_sections.pdf) and [LCM microdissections](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_gDNA_from_microdissected_PFPE_and_PFCE.pdf).*
+
+Extracting RNA from paxgene-fixed cryoembedded samples, [sections](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_RNA_PFCE_sections.pdf):
 
 1. Label the lid and the side of a 1.5 ml safe-lock microcentrifuge tube (not provided). Prepare the lysis reagent by adding 150 µl Buffer TM1 and 290 µl RNase-free water to the tube. Mix by gently flicking the tube. Add 10 µl Proteinase K, mix again, and centrifuge briefly to collect residual liquid from the sides of the tube. Note: Do not mix Buffer TM1 and Proteinase K before adding water.
 2. **Pre-cool the lysis reagent on ice.**
@@ -109,6 +112,4 @@ https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB
   - could try this protocol with the AllPrep Qiagen kit
 
 
-Extracting RNA from paxgene-fixed, cryoembedded samples, LCM-d:
-
-https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf
+Extracting RNA from paxgene-fixed, cryoembedded samples, [LCM](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_RNA_from_microdissected_PFPE_and_PFCE.pdf)-d:
