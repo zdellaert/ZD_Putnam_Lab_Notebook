@@ -65,12 +65,12 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
    - Add 50 uL of prepared digestion buffer (see above) to the cap containing the LCM-captured cells, invert the tube and tap the cap with a finger until the solution spreads andcovers the whole cap completely.
      - Frozen tissue protocol: use RD1, prepared as detailed above
      - FFPE protocol: use RD2, prepared as detailed above
-2. Incubate the inverted tube at 52C° for frozen tissues or at 60C° for FFPE tissues for 10-15 minutes to allow the captured cells and tissues detaching from the cap into the digestion buffer.
+2. Incubate the inverted tube at 52 ºC for frozen tissues or at 6 ºC for FFPE tissues for 10-15 minutes to allow the captured cells and tissues detaching from the cap into the digestion buffer.
 3. Centrifuge briefly to collect all liquid at the bottom of the tube. Mix the liquid by pipetting up and down the solution several times ot disperse any pellet precipitate.
 4. **Incubate the tube at 52 ºC or 60 ºC** in a thermocycler or incubator for complete cell/tissue digestion.
-   - Frozen tissue protocol: Incubate at 52°C for 1-2 hour with occasional mixing until lysis is complete.
-   - FFPE protocol: Incubate at 60 C° for 3-4 hour with occasional mixing until lysis is complete.
-     - (Optional: For FFPE tissue samples, you may perform digestion at 48 C° overnight if preferred).
+   - Frozen tissue protocol: Incubate at 52 °C for 1-2 hour with occasional mixing until lysis is complete.
+   - FFPE protocol: Incubate at 60 ºC for 3-4 hour with occasional mixing until lysis is complete.
+     - (Optional: For FFPE tissue samples, you may perform digestion at 48 ºC overnight if preferred).
    - **At the end of incubation,no pellets should be visible**, otherwise, extend incubation 15 minutes more to make sure no pellets exist.
 5. Centrifuge briefly to collect all liquid at the bottom of the tube.
 
@@ -110,7 +110,7 @@ To prevent any DNA contamination, DNase I (not provided) digestion is required f
 
 1. DNase I digestions can be performed directly in the Binding Tube. For DNase I digestion, use a final reaction volume of 20 ul for each sample.
     - Please follow the DNase I supplier's instructions for DNase I digestion and inactivation directly in the Binding Tube. (Note: After inactivation of DNase, RNA sample can be used directly for downstream applications.)
-2. Once the DNase I digestion and inactivation are completed, centrifuge the Binding Tube briefly and place it on ice for further downstream applications. If you are not going ot analyze the samples immediately, store the tube at -80 C° untiluse
+2. Once the DNase I digestion and inactivation are completed, centrifuge the Binding Tube briefly and place it on ice for further downstream applications. If you are not going ot analyze the samples immediately, store the tube at -80 ºC until use
 
 ## Quality Control (QC)
 
