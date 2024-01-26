@@ -10,7 +10,7 @@ tags: [DNA, RNA, PAXgene, Protocol, LCM]
 
 ## Materials and Equipment
 
-- Qiagen AllPrep DNA/RNA FFPE [Kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/multianalyte-and-virus/allprep-dnarna-ffpe-kit), [manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/protocols/Qiagen_AllPrep_DNA_RNA_FFPE.pdf)
+- Qiagen AllPrep DNA/RNA FFPE [Kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/multianalyte-and-virus/allprep-dnarna-ffpe-kit), [manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Qiagen_AllPrep_DNA_RNA_FFPE.pdf)
 - Heating block capable of heating to 90ºC
 - Centrifuge and rotor capable of spinning at 15,000 rcf
 - 100% Ethanol
@@ -19,7 +19,7 @@ tags: [DNA, RNA, PAXgene, Protocol, LCM]
 
 ## First time opening kit: Reagent Preparation
 
-- Check all buffers for precipitates. Make sure to warm and reconstitute any precipitates as directed in the [manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/protocols/Qiagen_AllPrep_DNA_RNA_FFPE.pdf).
+- Check all buffers for precipitates. Make sure to warm and reconstitute any precipitates as directed in the [manual](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Qiagen_AllPrep_DNA_RNA_FFPE.pdf).
 - Add 42 ml isopropanol to Buffer FRN (14 ml). Mix by shaking. Tick the check box on the bottle label to indicate that isopropanol has been added.
 - Prep DNAse I stock solution as directed
 - Add 44 ml ethanol to Buffer RPE (11 ml). Mix by shaking. Tick the check box on the bottle label to indicate that ethanol has been added.
@@ -110,6 +110,22 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 34. Place the spin column in a new 2 ml collection tube (supplied). Open the lid of the spin column, and centrifuge at **full speed for 5 min**. Discard the collection tube with the flow-through.
 35. Place the spin column in a new 1.5 ml collection tube (supplied). Add 30–100 μl Buffer ATE directly to the spin column membrane. Close the lid gently, and incubate for 1 min at room temperature. Centrifuge at full speed for 1 min to elute the DNA.
     - Incubating the spin column loaded with Buffer ATE for 5 min at room temperature before centrifugation can increase DNA yield.
+
+## Quality Control (QC)
+
+These steps analyze the quantity and quality of the DNA/RNA extracted.
+
+### RNA/DNA Quantity  
+
+Follow Broad Range dsDNA and RNA Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
+
+## RNA Quality
+
+Proceed to this step if RNA does not appear clean on the gel. If RNA quantity is sufficient follow the Tape Station [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/RNA-TapeStation-Protocol/) to determine RNA quality and obtain a RNA Integrity Number (RIN). "Good" RNA should have a RIN above 8.0 and form two distinct peaks at the 18S and 28S locations.
+
+### DNA Quality  
+
+If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel. You can also run a DNA Tapestation, following roughly the same protocol as above.
 
 ## Test 1/25/24
 

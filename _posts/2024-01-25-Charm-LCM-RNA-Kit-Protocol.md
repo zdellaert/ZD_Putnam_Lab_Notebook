@@ -62,7 +62,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 ## Protocol Steps
 
 1. **Sample prep from LCM samples**
-   - Add 50 uL of prepared digestion buffer (see above) to the cap containing the LCM-captured cells, invert the tube and tap the cap with afinger until the solution spreads andcovers the whole cap completely.
+   - Add 50 uL of prepared digestion buffer (see above) to the cap containing the LCM-captured cells, invert the tube and tap the cap with a finger until the solution spreads andcovers the whole cap completely.
      - Frozen tissue protocol: use RD1, prepared as detailed above
      - FFPE protocol: use RD2, prepared as detailed above
 2. Incubate the inverted tube at 52C° for frozen tissues or at 60C° for FFPE tissues for 10-15 minutes to allow the captured cells and tissues detaching from the cap into the digestion buffer.
@@ -82,7 +82,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
     - Note: During centrifugation always position the micro-tube hinge pointed outward from thecenter of rotation. Maiority of RNA will collect at the botom along the hinge side of the Binding Tube.)
 4. Remove the solution from the tube
    - Decant the solution by quick flip-over the tube over a waste container and shaking briskly, then put the inverted tube on a stack of clean absorbent paper such as Kimwipe, or paper towels, then tap the tube on the clean paper to remove as much liquid as possible
-   - Be sure not ot scrape the walsof the tube with pipettetips during aspiration as the products are bound ot the walls of the Binding Tube.
+   - If pipetting the liquid out instead, be sure not to scrape the walls of the tube with pipette tips during aspiration as the products are bound to the walls of the Binding Tube.
 
 ### Washing Products
 
@@ -91,7 +91,8 @@ Washing Products
 2. Centrifuge the Binding Tube (BT5) at maximum sped (about 13000 rpm or 16000 X g) at room temperature for one minute. (Note: During centrifugation, always position micro-tube hinge pointed outward from the center of rotation.)
 3. Remove the Wash Buffer II (WB2) from the Binding Tube as above.
 4. Repeat step 1 to 3 above for a total of two washes with Washing Buffer II (WB2).
-5. Afler the final wash, to ensure complete removal of Washing Buffer, spin the Binding Tube (BT5) very briefly, aspirate the last drop of liquid at the bottom of the tube with a 200 ul pipet tip, and air-dry the Binding Tube (BT5) in a lab hood for 8- 10 minutes to remove any residual liquid.
+5. After the final wash, to ensure complete removal of Washing Buffer, spin the Binding Tube (BT5) very briefly, aspirate the last drop of liquid at the bottom of the tube with a 200 ul pipet tip, and air-dry the Binding Tube (BT5) in a lab hood for 8- 10 minutes to remove any residual liquid.
+   - Be sure not to scrape the walls of the tube with pipette tips during aspiration as the products are bound to the walls of the Binding Tube.
 
 ### DNase I Digestion, and Eluting RNA Products
 
@@ -116,7 +117,7 @@ To prevent any DNA contamination, DNase I (not provided) digestion is required f
 
 These steps analyze the quantity and quality of the DNA/RNA extracted.
 
-### RNAA Quantity  
+### RNA Quantity  
 
 Follow Broad Range RNA Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
 
