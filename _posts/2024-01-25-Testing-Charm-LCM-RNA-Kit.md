@@ -80,3 +80,35 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 ### Thoughts:
 
 It seems like the FFPE protocol/RD2 buffer worked better than the frozen one. Maybe we should try the RD2 protocol again but with a shorter incubation? The RIN was higher for the RD2 protocol (for FFPE).
+
+#### Thouhts based on Qiagen PAXgene RNA protocols:
+
+Handbook: https://www.preanalytix.com/storage/download/_ProductResources_/Handbooks/HB-0164-006_HB_PX_Tissue_RNA_miRNA_Kit_0621_WW_1124963.pdf
+
+Extracting RNA from paxgene-fixed cryoembedded samples, sectioned:
+
+https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0164-S02-001_PX22_SP_RNA_including_miRNA_from_PFCE_sections_0716_WW.pdf 
+
+1. Label the lid and the side of a 1.5 ml safe-lock microcentrifuge tube (not provided). Prepare the lysis reagent by adding 150 µl Buffer TM1 and 290 µl RNase-free water to the tube. Mix by gently flicking the tube. Add 10 µl Proteinase K, mix again, and centrifuge briefly to collect residual liquid from the sides of the tube. Note: Do not mix Buffer TM1 and Proteinase K before adding water.
+2. **Pre-cool the lysis reagent on ice.**
+3. Using a cryostat, prepare a tissue section of 8–12 µm thickness from the PFCE tissue.
+4. **Using pre-cooled forceps, transfer the PFCE tissue section into the pre-cooled lysis** reagent and mix by vortexing for 5 s.
+5. If required, repeat steps 3 and 4 for a maximum of 3 sections.
+6. Incubate for 15 min at 56°C using a shaker–incubator set to 1400 rpm.
+7. Centrifuge for 3 min at 15,000–20,000 x g.
+8. Carefully transfer the supernatant to a new 1.5 ml safe-lock microcentrifuge tube without disturbing the pellet.
+9. Continue with step 12 of the protocol “Purification of Total RNA, Including miRNA, from Sections of PFPE Tissue”, in the PAXgene Tissue miRNA Kit handbook.
+
+##### From this I get:
+
+- pre-cool lysis buffer, and use about 450 uL for 2-5 sections
+- pre-cool forceps and perform lysis on ice
+- temp of 56ºC, with shaking, try this incubation for the Charm kit
+  - "Incubate for 15 min at 56°C using a shaker–incubator set to 1400 rpm"
+- Then, to the supernatant, they add isopropanol and it foes into columns
+  - could try this protocol with the AllPrep Qiagen kit
+
+
+Extracting RNA from paxgene-fixed, cryoembedded samples, LCM-d:
+
+https://www.preanalytix.com/storage/download/_ProductResources_/SuppProtocols/HB-0163-S04-001_PX17_SP_Tissue_RNA_System_Purification_RNA_from_microdissected_PFPE_and_PFCE_tissues_1015_WW.pdf

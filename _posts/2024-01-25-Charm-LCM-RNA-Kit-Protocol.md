@@ -86,4 +86,40 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 
 ### Washing Products
 
+Washing Products
+1. Add 200 ul Wash Buffer II (WB2) containing ethanol to the Binding Tube (BT5). Incubate the tube for 30 seconds at room temperature.
+2. Centrifuge the Binding Tube (BT5) at maximum sped (about 13000 rpm or 16000 X g) at room temperature for one minute. (Note: During centrifugation, always position micro-tube hinge pointed outward from the center of rotation.)
+3. Remove the Wash Buffer II (WB2) from the Binding Tube as above.
+4. Repeat step 1 to 3 above for a total of two washes with Washing Buffer II (WB2).
+5. Afler the final wash, to ensure complete removal of Washing Buffer, spin the Binding Tube (BT5) very briefly, aspirate the last drop of liquid at the bottom of the tube with a 200 ul pipet tip, and air-dry the Binding Tube (BT5) in a lab hood for 8- 10 minutes to remove any residual liquid.
+
 ### DNase I Digestion, and Eluting RNA Products
+
+<u>Sample Elution</u>
+- RNA attached to the walls of the Binding Tube can be stored directly in the tube at -80 °C for long-term storage until further use. If the RNA is to be eluted for analysis before DNase I digestion, please follow the procedure below.
+
+1. Add 20 ul Elution Buffer (EB3) into each tube.
+2. Close the tube and vortex the tube for 10 - 30 seconds, or tap the Binding Tube (RT5) 10 - 15 times with a finger.
+3. Briefly centrifuge the tube to collect all solution, and place the tube on ice for downstream applications. If you are not going to analyze the samples immediately, store the tube at -80 °C until use.
+ 
+If DNaseI digestion procedure is needed, please directly proceed to the DNase I digestion procedure without sample elution first.
+
+<u>DNase I Digestion</u>
+
+To prevent any DNA contamination, DNase I (not provided) digestion is required for removal of gDNA. When choosing DNase I, please make sure to use RNase-free DNase I.
+
+1. DNase I digestions can be performed directly in the Binding Tube. For DNase I digestion, use a final reaction volume of 20 ul for each sample.
+    - Please follow the DNase I supplier's instructions for DNase I digestion and inactivation directly in the Binding Tube. (Note: After inactivation of DNase, RNA sample can be used directly for downstream applications.)
+2. Once the DNase I digestion and inactivation are completed, centrifuge the Binding Tube briefly and place it on ice for further downstream applications. If you are not going ot analyze the samples immediately, store the tube at -80 C° untiluse
+
+## Quality Control (QC)
+
+These steps analyze the quantity and quality of the DNA/RNA extracted.
+
+### RNAA Quantity  
+
+Follow Broad Range RNA Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
+
+## RNA Quality
+
+Proceed to this step if RNA does not appear clean on the gel. If RNA quantity is sufficient follow the Tape Station [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/RNA-TapeStation-Protocol/) to determine RNA quality and obtain a RNA Integrity Number (RIN). "Good" RNA should have a RIN above 8.0 and form two distinct peaks at the 18S and 28S locations.
