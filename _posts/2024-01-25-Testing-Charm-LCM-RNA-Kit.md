@@ -197,6 +197,12 @@ revisiting helpful vidoes and references from my [cryosectioning protocol](https
 
 ## Game Plan as of 1/26/24:
 
+Next week Monday, I will embed and section more Pocillopora tissue with the modifications listed below and try to extract RNA from cryosectioned slides same day, using the modified protocol below. I will also dry and freeze slides and attempt to extract RNA from those slides the next day, to see if desiccating slides and reducing condensation during thawing helps improve RNA quality.
+
+Simultaneously, I am decalcifying fixed Porites and Montipora to move forward with learning how to section these more difficult tissues and then will start optimizing the RNA extraction protocol for these species (and Seriatopora, easy to section) as well.
+s
+Modifications to protocol below:
+
 1. Modifications to Charm Extraction Protocol
    1. **Pre-cool lysis buffer** mixture
    2. Use increased volume of lysis buffer mixture for whole sections
@@ -226,12 +232,12 @@ revisiting helpful vidoes and references from my [cryosectioning protocol](https
             1. Dry slides again on dessicator right before LCM if needed
       4. **If not able to perform LCM day of**, store dried slide at -80 ºC in a slide mailer in vaccum bag (or just in a falcon tube?) containing dessicant
          1. day of, take slide in container with desiccant out of -80 ºC and allow  to slowly reach room temperature, for at least 60 min, before opening ([Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))
-   2. Improvements to LCM sample collection protocol, [Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf)
+3. Improvements to LCM sample collection protocol, [Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf)
       1. "Clean the collect tube caps (0.5 ml) with RNaseZap, followed by a rinse with RNase-free water."
       2. Immediately add lysis buffer to the collection caps, close the cap upside down and vortex for 1 min.
       3. Centrifuge and store tubes at -80 °C.
 
 To order to make game plan happen, trying to get good RNA out of sections (not even LCM yet):
-1. Dessicant
+1. Dessicants
 2. Dessicator (glass jar)
-3. Cresyl violet stain
+3. Cresyl violet stain (maybe? unclear if we need any stain to visualize what we care about dissecting)
