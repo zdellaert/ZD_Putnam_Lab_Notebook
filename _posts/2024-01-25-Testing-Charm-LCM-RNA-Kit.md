@@ -113,3 +113,5 @@ Extracting RNA from paxgene-fixed cryoembedded samples, [sections](https://githu
 
 
 Extracting RNA from paxgene-fixed, cryoembedded samples, [LCM](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_RNA_from_microdissected_PFPE_and_PFCE.pdf)-d:
+
+#### Potential to use Carrier RNA?
