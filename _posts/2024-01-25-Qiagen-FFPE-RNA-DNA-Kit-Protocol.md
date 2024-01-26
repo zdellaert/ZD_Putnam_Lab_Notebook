@@ -157,3 +157,44 @@ DNA Standards: 190.84 (S1) & 19325.18 (S2)
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-01-25.pdf)
 
 ### This didn't work at all!
+
+### Potential modifications to this protocol based off of:
+
+"[PAXgene® Tissue AllPrep® DNA/RNA/miRNA: Simultaneous purification of genomic DNA and total RNA, including miRNA, from sections of PAXgene Tissue fixed, paraffin-embedded (PFPE) tissue protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Simultaneous_DNA_RNA.pdf)"
+
+1. Lysis mixture with half the amount of RNase-free water and twice the amount of Proteinase K
+     - 150 uL TM1 + 130 uL RNase-free water + 20 uL proteinase K
+     - total volume = 300 uL
+2. **Incubate on a shaker–incubator for 15 min at 56°C and 1400 rpm.**
+3. Add 200 μl Buffer TM1
+     - total volume = 500 uL
+4. Pipet the sample, including any precipitate that may have formed, into a PAXgene DNA
+spin column placed in a 2 ml processing tube, and centrifuge for 1 min at 6000 x g.
+5.  Place the PAXgene DNA spin column in a new collection tube , and store
+at 4°C for up to 24 hours for later DNA purification
+    - **Use the flow-through for RNA purification**
+
+RNA purification
+
+1. Add 750 μl isopropanol to the flowthrough
+2. Pipet the sample into a PAXgene RNA MinElute® spin column and centrifuge for 1 min
+3. Pipet 700 μl Buffer TM2. Centrifuge for 20 s
+4. Pipet 500 μl Buffer TM3. Centrifuge for 20 s
+5. Pipet 500 μl 80% ethanol. Centrifuge for 2 min
+6. Place the spin column in a new 2 ml processing tube. Open the cap of the spin column, and centrifuge for 5 min at maximum speed.
+7. Place the spin column in a 1.5 ml microcentrifuge tube, and pipet 14–40 μl Buffer TM4 directly onto the membrane. Centrifuge for 1 min at maximum speed to elute the RNA
+
+DNA purification
+
+1. Pipet 350 μl Buffer TD3 into the PAXgene Tissue DNA spin column from step 13, and centrifuge for 1 min
+2. Add 25 μl proteinase K to 50 μl Buffer TD3 in a 1.5 ml microcentrifuge tube. Mix by gently flicking the tube, and centrifuge briefly to collect residual liquid from the sides of the tube.
+3. Pipet the proteinase K incubation mix (75 μl) directly onto the PAXgene DNA spin column, and incubate for 30 min at ambient temperature (20–30°C).
+4. Pipet 350 μl Buffer TD3. Centrifuge for 1 min
+5. Pipet 500 μl Buffer TD4. Centrifuge for 1 min
+6. Centrifuge for 3 min at maximum speed to dry the membrane completely. 
+7. Place the spin column in a 1.5 ml microcentrifuge tube, and pipet 20–200 μl Buffer TD5 directly onto the membrane. Centrifuge for 1 min at maximum speed to elute the DNA. 
+
+#### How could I adjust the allprep protocol based on this?
+
+- definitely cut out 80 ºC RNA step
+- cut out the warm incubations for DNA as well. Try a 30 minute incubation at room temp. 
