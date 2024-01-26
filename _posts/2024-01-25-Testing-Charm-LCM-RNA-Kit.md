@@ -200,7 +200,7 @@ revisiting helpful vidoes and references from my [cryosectioning protocol](https
 Next week Monday, I will embed and section more Pocillopora tissue with the modifications listed below and try to extract RNA from cryosectioned slides same day, using the modified protocol below. I will also dry and freeze slides and attempt to extract RNA from those slides the next day, to see if desiccating slides and reducing condensation during thawing helps improve RNA quality.
 
 Simultaneously, I am decalcifying fixed Porites and Montipora to move forward with learning how to section these more difficult tissues and then will start optimizing the RNA extraction protocol for these species (and Seriatopora, easy to section) as well.
-s
+
 Modifications to protocol below:
 
 1. Modifications to Charm Extraction Protocol
