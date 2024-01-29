@@ -129,3 +129,7 @@ Just wanted to get some *P. compressa* and *M. capitata* in fixative before brea
 ![20231214_MONT_3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_MONT_3.jpeg?raw=true)
 
 ![20231214_MONT_4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_MONT_4.jpeg?raw=true)
+
+### Decalcified one *P. compressa* and one *M. capitata* from the 12/14/23 fixation 
+
+![20240126_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20240126_decalc.jpeg?raw=true)
