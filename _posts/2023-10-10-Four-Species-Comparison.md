@@ -130,6 +130,10 @@ Just wanted to get some *P. compressa* and *M. capitata* in fixative before brea
 
 ![20231214_MONT_4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20231214_MONT_4.jpeg?raw=true)
 
-### Decalcified one *P. compressa* and one *M. capitata* from the 12/14/23 fixation 
+### 01/26/24 - Decalcified one *P. compressa* and one *M. capitata* from the 12/14/23 fixation 
 
 ![20240126_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20240126_decalc.jpeg?raw=true)
+
+- Decalcified for ~72 hours (15:30 01/26/24 - 14:30 01/29/24)
+  - skeleton almost all gone on 1/28/24
+- Embedded without sucrose step on 01/29/24 - washed in DNAse/RNAse free H2O, then embedded using [this protocol, with LN2](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/).
