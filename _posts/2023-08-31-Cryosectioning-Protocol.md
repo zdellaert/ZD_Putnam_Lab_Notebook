@@ -134,3 +134,21 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
         - And has the following notes about extracting using this kit for Paxgene Fixed, Cryoembedded (PFCE) Samples from [sections](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_gDNA_from_PFCE_sections.pdf) and [LCM microdissections](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_gDNA_from_microdissected_PFPE_and_PFCE.pdf).
 
 - See my [LCM protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-LCM/) for an application of this
+
+### Other Species examples
+
+Sectioning Porites compressa
+
+![POR_top](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg)
+
+![POR_mid](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg)
+
+![POR_mid2](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid2.jpeg)
+
+![POR_bottom](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg)
+
+Sectioning Montipora capitata, cut at -19 ºC
+
+![MON_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg?raw=true)
+
+![MON_floofs.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true)

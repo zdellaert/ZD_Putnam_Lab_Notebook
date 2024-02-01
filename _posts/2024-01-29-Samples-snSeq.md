@@ -53,14 +53,14 @@ These tubes were parafilmed and put into zip lock bags and stored at -80 ºC unt
     - Day 2 (01/30/24): Replaced fixative with stabilizer, transferred to 4 ºC
     - Day 3 (01/31/24): Started decalcification, kept on shaker in cold room (4 ºC)
     - Day 4 (02/01/24): Changed EDTA solution (24 hours)
-    - Day 5 (02/02/24): Changed EDTA solution (48 hours)
+    - Day 5 (02/02/24): Changed EDTA solution (48 hours) - POR might be done at this point
     - Day 6 (02/03/24): Changed EDTA solution (72 hours)
     - Day 7 (02/04/24): Decalc done after 96 hours. Tissue washed (10 mins, 1X RNAse-free PBS). Transferred into Paxgene tissue stabilizer for 24 hours at 4 ºC.
     - Shipping: 2/5/2024 (Day 8), on dry ice.
 
 **Image before decalcification:**
 
-![pre_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/pre_decalc .jpeg?raw=true)
+![pre_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/pre_decalc.jpeg?raw=true)
 
 **Images after decalcification:**
 
