@@ -249,13 +249,11 @@ To order to make game plan happen, trying to get good RNA out of sections (not e
 
 Sectioning Porites compressa
 
-![POR_top](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg)
+<img src="[path/to/your/image.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg)" alt="POR_top.jpeg" style="width:50%;">
 
-![POR_mid](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg)
+![POR_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg)
 
-![POR_mid2](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid2.jpeg)
-
-![POR_bottom](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg)
+![POR_bottom.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg)
 
 Sectioning Montipora capitata, cut at -19 ºC
 
