@@ -137,3 +137,17 @@ Just wanted to get some *P. compressa* and *M. capitata* in fixative before brea
 - Decalcified for ~72 hours (15:30 01/26/24 - 14:30 01/29/24)
   - skeleton almost all gone on 1/28/24
 - Embedded without sucrose step on 01/29/24 - washed in DNAse/RNAse free H2O, then embedded using [this protocol, with LN2](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/).
+
+Sectioning *Porites compressa*
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg" alt="POR_top" style="width:50%;">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg" alt="POR_mid" style="width:50%;">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg" alt="POR_bottom" style="width:50%;">
+
+Sectioning *Montipora capitata*, cut at -19 ºC
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg" alt="MON_mid" style="width:50%;">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg" alt="MON_floofs" style="width:50%;">

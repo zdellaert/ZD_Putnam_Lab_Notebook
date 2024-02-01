@@ -246,21 +246,6 @@ To order to make game plan happen, trying to get good RNA out of sections (not e
  
 1. Section the Porites and Montipora fixed and embedded [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Four-Species-Comparison/)
    - [sectioning protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
-
-Sectioning *Porites compressa*
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg" alt="POR_top" style="width:50%;">
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg" alt="POR_mid" style="width:50%;">
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg" alt="POR_bottom" style="width:50%;">
-
-Sectioning *Montipora capitata*, cut at -19 ºC
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg" alt="MON_mid" style="width:50%;">
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg" alt="MON_floofs" style="width:50%;">
-
    - Notes: was having trouble with the inside of the skeletons. Maybe we could somehow fill this up with OCT? 
    - Playing around with temperature, mostly sectioned at -19 ºC
    - Slides dried in cryostat for 5-10 minutes then transferred to falcon tube with silica gel packet on dry ice (2 slides back to back per tube)
