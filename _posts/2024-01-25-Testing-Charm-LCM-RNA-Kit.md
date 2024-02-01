@@ -247,21 +247,19 @@ To order to make game plan happen, trying to get good RNA out of sections (not e
 1. Section the Porites and Montipora fixed and embedded [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Four-Species-Comparison/)
    - [sectioning protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
 
-Sectioning Porites compressa
+Sectioning *Porites compressa*
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg" alt="Your Image" style="width:50%;">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg" alt="POR_top" style="width:50%;">
 
-![POR_top.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg" alt="POR_mid" style="width:50%;">
 
-![POR_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg" alt="POR_bottom" style="width:50%;">
 
-![POR_bottom.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg)
+Sectioning *Montipora capitata*, cut at -19 ºC
 
-Sectioning Montipora capitata, cut at -19 ºC
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg" alt="MON_mid" style="width:50%;">
 
-![MON_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg?raw=true)
-
-![MON_floofs.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg" alt="MON_floofs" style="width:50%;">
 
    - Notes: was having trouble with the inside of the skeletons. Maybe we could somehow fill this up with OCT? 
    - Playing around with temperature, mostly sectioned at -19 ºC
