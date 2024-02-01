@@ -249,7 +249,9 @@ To order to make game plan happen, trying to get good RNA out of sections (not e
 
 Sectioning Porites compressa
 
-<img src="[path/to/your/image.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg)" alt="POR_top.jpeg" style="width:50%;">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg" alt="Your Image" style="width:50%;">
+
+![POR_top.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg)
 
 ![POR_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg)
 
