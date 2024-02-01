@@ -34,7 +34,7 @@ Protocol: Using sterilized forcepts, flash frozen in liquid nitrogen, then place
 - FF_POR_2
 - FF_POR_3
 
-[POC_FF.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/POC_FF.jpeg?raw=true)
+![POC_FF.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/POC_FF.jpeg?raw=true)
 ![POR_FF.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/POR_FF.jpeg?raw=true)
 ![MON_FF.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/MON_FF.jpeg?raw=true)
 
@@ -58,19 +58,9 @@ These tubes were parafilmed and put into zip lock bags and stored at -80 ºC unt
     - Day 7 (02/04/24): Decalc done after 96 hours. Tissue washed (10 mins, 1X RNAse-free PBS). Transferred into Paxgene tissue stabilizer for 24 hours at 4 ºC.
     - Shipping: 2/5/2024 (Day 8), on dry ice.
 
-**Images before decalcification:**
+**Image before decalcification:**
 
-*Pocillopora acuta*
-
-![POC.jpeg]()
-
-*Montipora capitata*
-
-![MON.jpeg]()
-
-*Porites compressa*
-
-![POR.jpeg]()
+![pre_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/pre_decalc .jpeg?raw=true)
 
 **Images after decalcification:**
 

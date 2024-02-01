@@ -241,3 +241,7 @@ To order to make game plan happen, trying to get good RNA out of sections (not e
 1. Dessicants
 2. Dessicator (glass jar)
 3. Cresyl violet stain (maybe? unclear if we need any stain to visualize what we care about dissecting)
+
+## 02/01/24 - Sectioining new tissue and attempting to extracti RNA from cryosections
+ 
+1. Attempt to section the Porites and Montipora fixed and embedded [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Four-Species-Comparison/)

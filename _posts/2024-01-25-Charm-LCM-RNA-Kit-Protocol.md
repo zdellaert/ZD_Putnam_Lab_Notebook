@@ -3,16 +3,17 @@ layout: post
 title: Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM) Sample Total RNA/MicroRNA Purification Kit
 date: '2024-01-25'
 categories: Protocols
-tags: [DNA, RNA, PAXgene, Protocol, LCM]
+tags: [RNA, PAXgene, Protocol, LCM]
 ---
 
 ## Goal: to extract *high-quality* RNA from PAXgene-fixed cryosectioned tissue.
 
 ## Materials and Equipment
 
-- Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM) Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/c90a9f5225f541e20b15b3125f474c77712cd64b/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
+- Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM) Sample Total RNA/MicroRNA Purification [Kit](https://www.charmbiotech.com/lcm-rna.htm), [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Charm_Biotech_LCM_RNA_Kit.pdf)
 - Heating block capable of heating to 60ºC
 - Centrifuge and rotor capable of spinning at 15,000 rcf
+- 14.3 M B-mercaptoethanol
 - 100% Ethanol
 - 100% Isopropanol
 - **DNAse I and its buffer**
@@ -36,7 +37,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 
 ## Day of extraction (only prep amount for samples extracted that day): Reagent Preparation
 
-- Prepare fresh working Digestion Buffer RD1 (RD1) if you use LCM samples from frozen tissue sections, or fresh working Digestion Buffer RD2 (RD2)if you use LCM samples from FFPEtissue sections.
+- Prepare fresh working Digestion Buffer RD1 (RD1) if you use LCM samples from frozen tissue sections, or fresh working Digestion Buffer RD2 (RD2)if you use LCM samples from FFPE tissue sections.
   - Add **9 ul of Proteinase K** (provided) and **1 ul of 14.3 M B-mercaptoethanol** (BME, not provided) or 1.0M DTT (not provided) to each 90 ul of Digestion Buffer (RD1 or RD2) to reach final 1% (v/v)B-mercaptoethanol or 10 mM DTT concentration and mix well. Add 50 ul working Digestion Buffer for each LCM sample.
     - For 2 samples: 90 ul RD2 + 9 ul Proteinase K + 1 ul BME
       - split into 2 tubes, 50 uL each
@@ -62,11 +63,11 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 ## Protocol Steps
 
 1. **Sample prep from LCM samples**
-   - Add 50 uL of prepared digestion buffer (see above) to the cap containing the LCM-captured cells, invert the tube and tap the cap with a finger until the solution spreads andcovers the whole cap completely.
+   - Add 50 uL of prepared digestion buffer (see above) to the cap containing the LCM-captured cells, invert the tube and tap the cap with a finger until the solution spreads and covers the whole cap completely.
      - Frozen tissue protocol: use RD1, prepared as detailed above
      - FFPE protocol: use RD2, prepared as detailed above
 2. Incubate the inverted tube at 52 ºC for frozen tissues or at 6 ºC for FFPE tissues for 10-15 minutes to allow the captured cells and tissues detaching from the cap into the digestion buffer.
-3. Centrifuge briefly to collect all liquid at the bottom of the tube. Mix the liquid by pipetting up and down the solution several times ot disperse any pellet precipitate.
+3. Centrifuge briefly to collect all liquid at the bottom of the tube. Mix the liquid by pipetting up and down the solution several times to disperse any pellet precipitate.
 4. **Incubate the tube at 52 ºC or 60 ºC** in a thermocycler or incubator for complete cell/tissue digestion.
    - Frozen tissue protocol: Incubate at 52 °C for 1-2 hour with occasional mixing until lysis is complete.
    - FFPE protocol: Incubate at 60 ºC for 3-4 hour with occasional mixing until lysis is complete.
@@ -77,7 +78,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 ### Binding RNA Products
 
 1. **Transfer** all 50 ul cell lysate solution from the capturing tube to a Binding Tube (BT5).
-2. Add **100 uL fresh RB7** (prepared above) to the Binding Tube (BT5). Mix well with the lysate by pipeting up and down thesolution 10 times to obtain a homogenous solution.
+2. Add **100 uL fresh RB7** (prepared above) to the Binding Tube (BT5). Mix well with the lysate by pipeting up and down the solution 10 times to obtain a homogenous solution.
 3. Centrifuge the Binding Tube (BT5) at maximum speed (about 13000 rpm or 16000 X g) at room temperature for 8 minutes ot bind the RNA
     - (Note: During centrifugation always position the micro-tube hinge pointed outward from thecenter of rotation. Maiority of RNA will collect at the botom along the hinge side of the Binding Tube.)
 4. Remove the solution from the tube
@@ -87,7 +88,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 ### Washing Products
 
 1. Add **200 ul Wash Buffer II** (WB2) containing ethanol to the Binding Tube (BT5). Incubate the tube for 30 seconds at room temperature.
-2. Centrifuge the Binding Tube (BT5) at maximum sped (about 13000 rpm or 16000 X g) at room temperature for one minute. (Note: During centrifugation, always position micro-tube hinge pointed outward from the center of rotation.)
+2. Centrifuge the Binding Tube (BT5) at maximum speed (about 13000 rpm or 16000 X g) at room temperature for one minute. (Note: During centrifugation, always position micro-tube hinge pointed outward from the center of rotation.)
 3. Remove the WB2 from the Binding Tube as above.
 4. **Repeat step 1 to 3** above for a total of two washes with Washing Buffer II (WB2).
 5. After the final wash, to ensure **complete removal of Washing Buffer**, spin the Binding Tube (BT5) very briefly, aspirate the last drop of liquid at the bottom of the tube with a 200 ul pipet tip, and air-dry the Binding Tube (BT5) in a lab hood for 8-10 minutes to remove any residual liquid.
