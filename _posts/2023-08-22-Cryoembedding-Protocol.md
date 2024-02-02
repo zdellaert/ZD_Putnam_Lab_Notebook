@@ -54,6 +54,7 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
 2. Perform "cryoprotection" by transfering from PAXgene stabilizer to a > 10mL volume of 30% sucrose solution at 4ºC for several hours or overnight, once the tissue sinks you can continue processing. If it never sinks, overnight should be OK.
     - ![sucrose.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/sucrose.jpg?raw=true)
     - Alternatively you can place the tissue in a 15% sucrose solution at 4ºC until tissue sinks then to a 30% solution for several hours or overnight.
+    - **Read online people do this in PBS! Might be better than what I have been doing (RNAse/DNAse-Free H2O)**
 
 ## Embedding
 1. Fill labelled cryomold with cooled OCT, being careful to not make any bubbles
@@ -66,10 +67,12 @@ See Video from 10X genomics: [Video](https://www.youtube.com/watch?v=PCj8XrpskPw
     ![11_place.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/11_place.jpeg?raw=true)
 3. Cover tissue with more OCT so no tissue is exposed to air
     ![12_top.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/12_top.jpeg?raw=true)
+    - *Let tissue equilibriate to OCT for 5-10 mins? Could do in cold room*
 4. Immediaetely place cryomold on powdered dry ice so all outside surfaces of the mold are touching powdered dry ice until OCT block is completely opaque
-    - OR: Place (do not submerge, LN2 should not touch OCT, the top should remain exposed) in liquid nitrogen until OCT block is completely opaque
     ![13_ice.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/13_ice.jpeg?raw=true)
     ![14_opaque.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/14_opaque.jpeg?raw=true)
+   - OR: Place (do not submerge, LN2 should not touch OCT, the top should remain exposed) in liquid nitrogen until OCT block is completely opaque
+     - **This is apparently not as good for the tissue, preferred is dry ice or dry ice-100% ethanol slurry**
     ![LN2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/LN2.jpeg?raw=true)
     ![LN2_freeze.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryoembedding/LN2_freeze.jpeg?raw=true)
 5. Once embedded tissue block is opaque, wrap in aluminum foil and then seal in labelled zip-lock bag or whirlpack and immediately transfer (on dry ice) to -80 freezer
