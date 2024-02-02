@@ -243,37 +243,5 @@ To order to make game plan happen, trying to get good RNA out of sections (not e
 3. Cresyl violet stain (maybe? unclear if we need any stain to visualize what we care about dissecting)
 
 ## 02/01/24 - Sectioining new tissue and attempting to extract RNA from cryosections
- 
-1. Section the Porites and Montipora fixed and embedded [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Four-Species-Comparison/)
-   - [sectioning protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
-   - Notes: was having trouble with the inside of the skeletons. Maybe we could somehow fill this up with OCT? 
-   - Playing around with temperature, mostly sectioned at -19 ºC
-   - Slides dried in cryostat for 5-10 minutes then transferred to falcon tube with silica gel packet on dry ice (2 slides back to back per tube)
-   - After sectioning, transported slides to Molecular lab and proceeded with RNA extraction within 1 hout
-    - Slides were kept in falcon tube with silica gel packet on dry ice 
-    - Rinsed slide in 100% Ethanol for 30s on dry ice
-    - Replaced ethanol with RNAse/DNAse-free water to rinse
-    - Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared **100 uL RD2 digestion buffer**.
-      - this is double the normal RD2 amount, because I added a lot of tissue
-      - honestly just used my tiny forceps this time to scoop up tissue, they were cleaned with ethanol and RNAse cleaner
-    - Then, I followed the protocol as written for FFPE, with a **15 minute digestion at 56 ºC.**
-      - since I used double the amount of lysis buffer, I used double the amount of binding buffer
-      - still had some debris in the Porites tube when I transerred to the binding tube, but this seemed okay. In the future, spin down and remove any pellet before proceeding or increase digestion time.
 
-#### Qubit Results
-
-- Used Broad range RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
-- All samples read twice, standard only read once
-
- RNA Standards: 370.23 (S1) & 9494.15 (S2)
-
-| colony_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
-|-----------|------------|------------|--------------|
-| Porites   |  27.0   |  27.4     |   27.2      |
-| Monitpora  |  16.2   |  16.2     |   16.2       |
-
-#### RNA Quality Check: Tapestation
-
-![2024-02-01.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-01.JPG?raw=true)
-
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-01.pdf)
+See post [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
