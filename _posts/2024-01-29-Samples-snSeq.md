@@ -66,12 +66,16 @@ These tubes were parafilmed and put into zip lock bags and stored at -80 ºC unt
 
 *Pocillopora acuta*
 
-![POC_decalc.jpeg]()
+![POC_decalc_020524.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/POC_decalc_020524.jpeg?raw=true)
 
 *Montipora capitata*
 
-![MON_decalc.jpeg]()
+![MON_decalc_020524.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/MON_decalc_020524.jpeg?raw=true)
 
 *Porites compressa*
 
-![POR_decalc.jpeg]()
+![POR_decalc_020524.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/POR_decalc_020524.jpeg?raw=true)
+
+box with decalc and FF samples sent on 2/5/24, delivered in NY on 2/6/24
+
+![box_020524.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/snSeq/box_020524.jpeg?raw=true)

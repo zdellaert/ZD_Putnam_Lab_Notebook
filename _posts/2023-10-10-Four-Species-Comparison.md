@@ -138,6 +138,10 @@ Just wanted to get some *P. compressa* and *M. capitata* in fixative before brea
   - skeleton almost all gone on 1/28/24
 - Embedded without sucrose step on 01/29/24 - washed in DNAse/RNAse free H2O, then embedded using [this protocol, with LN2](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/).
 
+- **02/01/24** - Sectioining new tissue and attempting to extract RNA from cryosections
+   - [sectioning protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
+   - **NOTE: These were embedded without a sucrose cryoprotection step beforehand**
+
 Sectioning *Porites compressa*
 
 ![POR_top.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg?raw=true)
@@ -151,3 +155,13 @@ Sectioning *Montipora capitata*, cut at -19 ºC
 ![MON_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg?raw=true)
 
 ![MON_floofs.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true)
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true" width="100" />
+
+- **02/01/24** - Extracted RNA using CHARM kit, both with RIN ~5, [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
+
+- **2/6/24** - Stained one slide each from Pcomp and Mcap according to Hoescht staining protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
+
+![POR_hoescht_slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/POR_hoescht_slide.jpeg?raw=true)
+
+![MONT_hoescht_slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/MONT_hoescht_slide.jpeg?raw=true)
