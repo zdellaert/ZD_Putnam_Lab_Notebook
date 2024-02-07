@@ -137,16 +137,17 @@ tags: [PAXgene, Fixative, Pocillopora, Protocol]
 
 ### Other Species examples
 
+
 Sectioning *Porites compressa*
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg" width="100" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg?raw=true" width="200" />
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg" width="100" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg?raw=true" width="200" />
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg" width="100" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg?raw=true" width="200" />
 
 Sectioning *Montipora capitata*, cut at -19 ºC
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg" width="100" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg?raw=true" width="200" />
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg" width="100" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true" width="200" />
