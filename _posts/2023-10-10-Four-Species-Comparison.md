@@ -144,19 +144,17 @@ Just wanted to get some *P. compressa* and *M. capitata* in fixative before brea
 
 Sectioning *Porites compressa*
 
-![POR_top.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg?raw=true)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_top.jpeg?raw=true" width="200" />
 
-![POR_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg?raw=true)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_mid.jpeg?raw=true" width="200" />
 
-![POR_bottom.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg?raw=true)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/POR_bottom.jpeg?raw=true" width="200" />
 
 Sectioning *Montipora capitata*, cut at -19 ºC
 
-![MON_mid.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg?raw=true)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_mid.jpeg?raw=true" width="200" />
 
-![MON_floofs.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true)
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true" width="100" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/cryosection/MON_floofs.jpeg?raw=true" width="200" />
 
 - **02/01/24** - Extracted RNA using CHARM kit, both with RIN ~5, [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
 
