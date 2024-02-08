@@ -15,6 +15,10 @@ Samples:
 - P_1_3 - POR DD1 buffer 3 hr incubation, 56 ºC
 - P_2_1 - POR DD2 buffer 1 hr incubation, 56 ºC, 1400rpm
 - P_2_3 - POR DD2 buffer 3 hr incubation, 56 ºC
+- M_1_1 - MON DD1 buffer 1 hr incubation, 56 ºC, 1400rpm
+- M_1_3 - MON DD1 buffer 3 hr incubation, 56 ºC
+- M_2_1 - MON DD2 buffer 1 hr incubation, 56 ºC, 1400rpm
+- M_2_3 - MON DD2 buffer 3 hr incubation, 56 ºC
 
 **Sample prep notes for extracting from whole sections instead of LCM samples:**
 
