@@ -46,7 +46,7 @@ These tubes were parafilmed and put into zip lock bags and stored at -80 ºC unt
 
 ### Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)
 
-1. Fixing in three separate 5mL containers for good tissue:fixative ratio, fragments do not need to be separated because we are not using these for downstream molecular work, just morphology.
+1. Fixing in three separate 5mL containers for good tissue:fixative ratio.
     - Day 1 (01/29/24): Fixed tissue in PAXgene fixative
       - sterilized, RNAse cleaned clippers and forceps used for all steps, cleaned in between species.
       - fixed in 5 mL PAXgene fixatives in 5mL tubes

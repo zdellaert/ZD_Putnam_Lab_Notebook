@@ -35,7 +35,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 
 - Prepare fresh working Digestion Buffer RD1 (DD1) if you use LCM samples from frozen tissue sections (if using FFPE tissue, use buffer DD2 instead).
   - Add **10 ul of Proteinase K** (provided) to each 90 ul DD1 for each LCM sample.
-- (Note: Digestion Buffer 1(DDI) contains SDS, which can precipitate out of the buffer if stored at room temperature for a long time. If a precipitate is present, incubate the buffer in a 37 °C - 58 ºC water bath for 5 minutes, or until the SDS re-dissolves and the solution clears. Mix thoroughly but swirling gently.)
+- (Note: Digestion Buffer 1 (DDI) contains SDS, which can precipitate out of the buffer if stored at room temperature for a long time. If a precipitate is present, incubate the buffer in a 37 °C - 58 ºC water bath for 5 minutes, or until the SDS re-dissolves and the solution clears. Mix thoroughly but swirling gently.)
 
 ## Protocol Steps
 
@@ -58,6 +58,22 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
    - **At the end of incubation,no pellets should be visible**, otherwise, extend incubation 15 minutes more to make sure no pellets exist.
 5. Centrifuge the microtube at maximum speed (about 13000 rpm or 16000 X g) for one minute.
 
+### Alternate version of this for Paxgene-fixed, cryoembedded samples (incubation does not need to be as aggressive because there is no paraffin and the tissue was fixed with Paxgene fixative, not formalin)
+
+1. **Sample prep from LCM samples**
+   - LCM from PFCE tissue sections
+     - Add 100 uL buffer DD2
+2. Incubate the inverted tube at 60 ºC for 10 minutes to allow the captured cells and tissues detaching from the cap into the digestion buffer.
+3. Centrifuge briefly to collect all liquid at the bottom of the tube. Mix the liquid by pipetting up and down the solution several times to disperse any pellet precipitate.
+4. Digestion with Proteinase K
+   - **LCM from PFCE tissue sections**
+     - Add 10 uL proteinase K to the tube and mix well
+     - Incubate at 60 °C for 3-4 hours with occasional mixing until lysis is complete.
+        -  (Optional: You may perform digestion at 52 ºC overnight if preferred).
+      -  **Alternatively, I have had success with a shorter incubation** for RNA, see notes [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-Charm-LCM-RNA-Kit/)
+         -  Instead of 60 °C for 3-4 hours, try **shaker–incubator for 1 h at 56°C and 1400 rpm.**
+   - **At the end of incubation,no pellets should be visible**, otherwise, extend incubation 15 minutes more to make sure no pellets exist.
+5. Centrifuge the microtube at maximum speed (about 13000 rpm or 16000 X g) for one minute.
 
 ### Binding DNA Products
 
