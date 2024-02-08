@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Testing Charm Biotech RNA Extraction on Cryosectioned P. comp and M. cap 
-date: '2024-02-09'
+title: Testing Charm Biotech DNA Extraction on Cryosectioned P. comp and M. cap 
+date: '2024-02-08'
 categories: Processing
 tags: [RNA, PAXgene, Fixative, Pocillopora, LCM]
 ---
