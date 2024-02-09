@@ -62,4 +62,4 @@ DNA Standards: 414.64 (S1) & 8566.59 (S2)
 
 If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
 
-![2024-02-09-gel.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-02-09-gel.jpeg?raw=true)
+![2024-02-09-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-02-09-gel.JPG?raw=true)
