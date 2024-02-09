@@ -48,7 +48,7 @@ These steps analyze the quantity and quality of the DNA extracted.
 
 Follow Broad Range dsDNA Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
 
- RNA Standards: 414.64 (S1) & 8566.59 (S2)
+DNA Standards: 414.64 (S1) & 8566.59 (S2)
 
 | sample_id | Species                                     | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
 |-----------|---------------------------------------------|------------|------------|--------------|
