@@ -50,16 +50,6 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
     - For 4 samples: 352 ul 100% isopropanol + 88 ul RB7
       - makes 440 ul, enough for 4 samples + 10% error
 
-## ALT Step 1: Sample prep from slides (for testing)
-
-- Remove a cryosectioned slide from -80 ºC (same sample/sectioning round as used for LCM), transfer to -20 ºC for 30 minutes, then transfer slide to cooler with dry ice
-    - Rinse slide in 70% Ethanol for 5 minutes on dry ice
-    - Replace ethanol with RNAse/DNAse-free water to rinse
-    - Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared RD2 digestion buffer.
-      - Then, follow the protocol as written for frozen tissue, with a 1 hour digestion at 52 ºC.
-        - OR
-      - Then, follow the protocol as written for FFPE, with a 3 hour digestion at 60 ºC.
-
 ## Protocol Steps
 
 1. **Sample prep from LCM samples**
@@ -124,3 +114,20 @@ Follow Broad Range RNA Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_La
 ## RNA Quality
 
 Proceed to this step if RNA does not appear clean on the gel. If RNA quantity is sufficient follow the Tape Station [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/RNA-TapeStation-Protocol/) to determine RNA quality and obtain a RNA Integrity Number (RIN). "Good" RNA should have a RIN above 8.0 and form two distinct peaks at the 18S and 28S locations.
+
+---
+
+### Sample prep notes for extracting from whole sections instead of LCM samples:
+
+1. Remove a cryosectioned slide from -80 ºC (same sample/sectioning round as used for LCM), transfer to -20 ºC for 30 minutes, then transfer slide to cooler with dry ice
+   1. KEEP CONTAINER CLOSED, with dessicant inside
+      - "take slide in container with desiccant out of -80 ºC and allow  to slowly reach room temperature, for at least 60 min, before opening ([Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))"
+2. Pre-cool lysis buffer mixture on ice
+3. Pre-cool forceps and razor blades for transferring tissue to lysis buffer
+4. Stain and wash all slides and perform dissections in petri dishes cleaned to be RNAse free
+5. Remove OCT, in RNAse free petri dish on ice, pipette solutions on and off slide with 1mL pipette
+    - 2 minute in ice-cold 70% Ethanol
+    - 45 s in ice-cold 50% Ethanol
+    - 30 s in ice-cold 30% Ethanol
+    - if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
+6. Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared **100 uL digestion buffer**.
