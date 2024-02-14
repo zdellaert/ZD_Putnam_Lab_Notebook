@@ -16,28 +16,31 @@ Continuation from [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook
 
 ### Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)
 
+- Make 50mL of 1X PBS in RNAse Free H2O and keep at 4ºC for this step and following extraction steps.
+
 1. Fixing two "chunky" branches from a large BT3/4 POC colony in one 5mL container with 5.5mL of Fixative.
     - Day 1 (02/08/24): Fixed tissue in PAXgene fixative
       - sterilized, RNAse cleaned clippers and forceps used for all steps
-    - **Day 2 (02/09/24): Replaced fixative with stabilizer, transferred to 4 ºC**
-    - **Day 3 (02/10/24): Started decalcification, kept on shaker in cold room (4 ºC)**
-    - **Day 5 (02/12/24): Decalc done after 48 hours.**
+    - Day 2 (02/09/24): Replaced fixative with stabilizer, transferred to 4 ºC
+    - Day 3 (02/10/24): Started decalcification, kept on shaker in cold room (4 ºC)
+    - Day 5 (02/12/24): EDTA changed after 48 hours, tissue still not floating, still bits of skeleton.
+    - Day 7 (02/14/24): Decalc done after 96 hours. Wanted to stop at 72 hours but campus was closed with storm.
+      - Still wasn't floating, but seemed clear and ready to go.
       - Tissue washed (10 mins, 1X RNAse-free PBS).
-      - Transferred into Paxgene tissue stabilizer for 24 hours at 4 ºC.
-2. Notes on plan with cryoprotection
+      - Transferred one branch into Paxgene tissue stabilizer for 6 hours at 4 ºC 
+        - Leave in PAXgene stabilizer at 4ºC until other branch cryoprotection is complete.
+      - Transferred one branch into 30% Sucrose in RNAse-free PBS for 6 hours at 4 ºC (see notes below)
+        - Add 3 g sucrose + 10 mL RNAse Free PBS in a 15-mL Falcon tube, vortex to dissolve
+        - Perform "cryoprotection" by transfering branch from PAXgene stabilizer to the sucrose solution at 4ºC for several hours or overnight, once the tissue sinks you can continue processing.
+          - Check every hour to see if it sunk. Record hours in sucrose.
+2. Embedding
+   - Embed both branches on afternoon 2/14/24 (6 hours from 8:30AM sucrose/stabilizer step) on powereded dry ice, place in -80 ºC overnight for sectioning in morning.
+     - [protocol here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
+
+Notes on plan with cryoprotection
    - On 2/1/24, I attempted to section a branch from [this series](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc/) that I embedded on 1/29/24 without sucrose cryoprotection and the sectioning failed. The tissue was melting out of the block of OCT, much like the very first time I sectioned P. acuta, which was also without a sucrose cryoprotection step.
    - Therefore, I want to test if I am able to section a newly-fixed branch without cryoprotection (not one that has been sitting in the -80 for months), but at the same time I will have a back-up, cryoprotected branch from the same colony to also test RNA and DNA extractions with if the non-sucrose branch sectioning fails.
    - Ideally, I am able to section and maintain morphology without a sucrose step as this [significantly increases RNA quality](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc/)
-3. Embedding
-   - Sucrose Branch:
-     - 100mL of 1X PBS in RNAse Free H2O and keep at 4ºC for this step and following extraction steps.
-     - Add 3 g sucrose + 10 mL 10 RNAse Free PBS in a 50-mL Falcon tube.
-       - Place the tube on a rocker to dissolve sucrose and then keep at 4°C.
-     - Perform "cryoprotection" by transfering branch from PAXgene stabilizer to the sucrose solution at 4ºC for several hours or overnight, once the tissue sinks you can continue processing.
-   - Fresh Branch:
-     - Leave in PAXgene stabilizer at 4ºC until other branch cryoprotection is complete.
-   - Embed both branches on late afternoon 2/13/24 or morning 2/14/24 on powereded dry ice.
-     - [protocol here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
 
 ## 2/15/24 - Sectioning
 
