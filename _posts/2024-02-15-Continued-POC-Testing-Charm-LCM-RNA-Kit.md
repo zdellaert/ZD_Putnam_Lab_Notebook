@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extracting RNA and DNA from Fixed P. acuta Sections (newly fixed 2/8/24)
-date: '2024-02-08'
+date: '2024-02-15'
 categories: Processing
 tags: [RNA, PAXgene, Fixative, Pocillopora, LCM]
 ---
@@ -46,41 +46,66 @@ Notes on plan with cryoprotection
 
 [sectioning protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
 
-"Cut sections onto slide, then air dry PEN slide at room temp for 2 minutes on dessicant ([Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))"
+- Section, make sure temp is around -19 to -20 ºC and play around with the blade angle as necessary
+- Keep slides outside of cryostat so they are warm and allow for cold sections to adhere to the slide
+- "Cut sections onto slide, then air dry PEN slide at room temp for 2 minutes on dessicant
+  - ([Roy et al 2020 Bioprotocols](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))"
+- Once slide has been dried for 2 mins, place in 50 mL falcon tube with silica gel packet on dry ice and place in -80 ASAP
+  - (2 slides back to back per tube)
 
-Notes from 2/1/24, update after sectioning 2/15/24:
-   - Playing around with temperature, mostly sectioned at -19 ºC
-   - Slides dried in cryostat for 5-10 minutes then transferred to falcon tube with silica gel packet on dry ice (2 slides back to back per tube)
-   - After sectioning, transported slides to Molecular lab and proceeded with RNA extraction within 1 hour
-   - Slides were kept in falcon tube with silica gel packet on dry ice 
+- After sectioning, transported slides to Molecular lab and proceeded with RNA extraction within 1 hour
+
+- Notes from sectioning
+  - the non-sucrose P. acuta branch sectioning failed miserably, like on 2/1. So it wasn't just the old tissue that was the issue. I think there is something about the alcohol in the PAXgene stabilizer that prevents freezing of the tissue; it becomes gummy and the blade is unable to cut through
+  - got 3 slides from the sucrose-protected tissue, testing one for 
 
 ## 2/15/24 - RNA Extraction using protocol modificiations used for [P. compressa and M. capitata](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
 
 Modifications to protocol:
 - Make 100 uL of lysis buffer mixture and pre-cool on ice
 - Pre-cool forceps and razor blades for transferring tissue to lysis buffer
-- Rinsed slide in 100% Ethanol for 30s on dry ice
-  - **should be this series of steps....**
-    - 2 minute in ice-cold 70% Ethanol
-    - 45 s in ice-cold 50% Ethanol
-    - 30 s in ice-cold 30% Ethanol
-    - if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
-  - Stain and wash all slides and perform dissections in petri dish cleaned to be RNAse free
+- 2 minute in ice-cold 70% Ethanol
+  - 45 s in ice-cold 50% Ethanol
+  - 30 s in ice-cold 30% Ethanol
+  - if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
+    - Stain and wash all slides and perform dissections in petri dish cleaned to be RNAse free
 - Replaced ethanol with RNAse/DNAse-free water to rinse
 - Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared **100 uL RD2 digestion buffer**.
   - this is double the normal RD2 amount, because I added a lot of tissue
   - honestly just used my tiny forceps this time to scoop up tissue, they were cleaned with ethanol and RNAse cleaner
 - Then, I followed the protocol as written for FFPE, with a **15 minute digestion at 56 ºC (shaker-incubator, 1400 rpm)**
   - since I used double the amount of lysis buffer, I used double the amount of binding buffer (**200 uL RB7**)
-  - still had some debris in the Porites tube when I transerred to the binding tube, but this seemed okay. In the future, spin down and remove any pellet before proceeding or increase digestion time.
+    - For 2 samples: 176 ul 100% isopropanol + 44 ul RB7
+      - makes 210 ul, enough for 2 samples + 10% error
+
+Low input sample: 
+
+High input sample:
 
 #### Qubit Results
 
 - Used Broad range RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
+RNA Standards: BR:  (S1) &  (S2)
+               HS:
+
+| sample_id       | Species              | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------------|----------------------|------------|------------|--------------|
+| Low_Input (HS)  | *Pocillopora acuta*  | 4.40       | 4.40       | 4.40         |
+| High_Input (BR) | *Pocillopora acuta*  | 46.4       | 46.6       | 46.5         |
+
 
 #### RNA Quality Check: Tapestation
 
+![2024-02-15.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-15.JPG?raw=true)
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-15.pdf)
+
 
 ## 2/16/24 - DNA Extraction, protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-DNA-Kit-Protocol/)
+
+
+Low input sample: 
+
+High input sample:
