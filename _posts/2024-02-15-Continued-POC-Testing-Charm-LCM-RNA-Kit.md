@@ -57,7 +57,7 @@ Notes on plan with cryoprotection
 
 - Notes from sectioning
   - the non-sucrose P. acuta branch sectioning failed miserably, like on 2/1. So it wasn't just the old tissue that was the issue. I think there is something about the alcohol in the PAXgene stabilizer that prevents freezing of the tissue; it becomes gummy and the blade is unable to cut through
-  - got 3 slides from the sucrose-protected tissue, testing one for 
+  - got 3 slides from the sucrose-protected tissue, testing one for RNA and DNA extraction, other two put into -80 with dessicant
 
 ## 2/15/24 - RNA Extraction using protocol modificiations used for [P. compressa and M. capitata](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
 
@@ -67,9 +67,6 @@ Modifications to protocol:
 - 2 minute in ice-cold 70% Ethanol
   - 45 s in ice-cold 50% Ethanol
   - 30 s in ice-cold 30% Ethanol
-  - if there is excess OCT, dip slide in ice-cold RNAse free water 5-6 times over 1-2 mins
-    - Stain and wash all slides and perform dissections in petri dish cleaned to be RNAse free
-- Replaced ethanol with RNAse/DNAse-free water to rinse
 - Remove slide to dark background over PCR rack (over dry ice, though be careful to not freeze the water once the volume on the slide is low, if that's freezing move to regular ice) and use sterile razor blade, cleaned with RNAse cleaner, to scrape off tissue sections into a tube filled with prepared **100 uL RD2 digestion buffer**.
   - this is double the normal RD2 amount, because I added a lot of tissue
   - honestly just used my tiny forceps this time to scoop up tissue, they were cleaned with ethanol and RNAse cleaner
@@ -78,23 +75,22 @@ Modifications to protocol:
     - For 2 samples: 176 ul 100% isopropanol + 44 ul RB7
       - makes 210 ul, enough for 2 samples + 10% error
 
-Low input sample: 
+Low input sample: 2 polyps worth of tissue put into digestion buffer
 
-High input sample:
+High input sample: 2 sections worth of tissue put into digestion buffer
 
 #### Qubit Results
 
 - Used Broad range RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
-RNA Standards: BR:  (S1) &  (S2)
-               HS:
+RNA Standards: BR: 374.17 (S1) & 9837.62 (S2)
+               HS: 30.93 (S1) & 368.43 (S2)
 
-| sample_id       | Species              | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
-|-----------------|----------------------|------------|------------|--------------|
-| Low_Input (HS)  | *Pocillopora acuta*  | 4.40       | 4.40       | 4.40         |
-| High_Input (BR) | *Pocillopora acuta*  | 46.4       | 46.6       | 46.5         |
-
+| sample_id       | Species       | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------------|----------------------|------------|------------|------|
+| Low_Input (HS)  | *Pocillopora acuta*  | 4.40       | 4.40      | 4.40    |
+| High_Input (BR) | *Pocillopora acuta*  | 13.4       | 13.2      | 13.3    |
 
 #### RNA Quality Check: Tapestation
 
@@ -102,10 +98,35 @@ RNA Standards: BR:  (S1) &  (S2)
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-15.pdf)
 
+### Notes on RNA:
+
+These are both very degraded. And just not a lot of RNA. When I did the successful POR and MON extractions, I used more tissue and I also did the 15 minute incubation in the incubator genie instead of the thermomixer. I will try the incubator genie again. 
+
+I guess there is a potential that these were not fixed very well? Two branches in 5mL of fixative. And, I only was able to section the sucrose-protected tissue and we know the sucrose step adds degredation. Maybe there needs to be some dehydration step somewhere?
 
 ## 2/16/24 - DNA Extraction, protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-DNA-Kit-Protocol/)
 
+Same slide and tissue amounts as above, followed protocol as written, very similar to [this post for POR and MON](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-Charm-LCM-DNA-Kit-POC-MON/)
 
-Low input sample: 
+- Followed steps for 3 hr incubation, 60 ºC in thermomixer, no shaking
+  - pipetted up and down once during the 3 hour incubation to mix
 
-High input sample:
+Low input sample: 2 polyps worth of tissue put into digestion buffer
+
+High input sample: 2 sections worth of tissue put into digestion buffer
+
+DNA Standards: BR: 217.27 (S1) & 22522.93 (S2)
+
+| sample_id       | Species       | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------------|----------------------|------------|------------|------|
+| Low_Input   | *Pocillopora acuta*  | 2       | 2      | 2   |
+| High_Input  | *Pocillopora acuta*  | 2.82      | 2.74    | 2.78    |
+
+
+#### DNA Quality  
+
+PPP Agarose Gel [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
+
+Ran gel next day:
+
+![2024-02-16-gel.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-02-16-gel.jpg?raw=true)
