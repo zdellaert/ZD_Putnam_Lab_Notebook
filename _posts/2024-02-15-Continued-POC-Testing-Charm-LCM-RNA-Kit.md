@@ -10,8 +10,6 @@ tags: [RNA, PAXgene, Fixative, Pocillopora, LCM]
 
 Continuation from [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-Charm-LCM-RNA-Kit/), and [this post](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/), in which I was able to get relatively good RNA from sectioned tissue from P. compressa and M. capitata.
 
-### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-RNA-Kit-Protocol/)
-
 ## 02/08/24 - Fixing tissue, decalcifying, and preparing for sectioning
 
 ### Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)
@@ -61,6 +59,8 @@ Notes on plan with cryoprotection
 
 ## 2/15/24 - RNA Extraction using protocol modificiations used for [P. compressa and M. capitata](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
 
+### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-RNA-Kit-Protocol/)
+
 Modifications to protocol:
 - Make 100 uL of lysis buffer mixture and pre-cool on ice
 - Pre-cool forceps and razor blades for transferring tissue to lysis buffer
@@ -104,6 +104,79 @@ These are both very degraded. And just not a lot of RNA. When I did the successf
 
 I guess there is a potential that these were not fixed very well? Two branches in 5mL of fixative. And, I only was able to section the sucrose-protected tissue and we know the sucrose step adds degredation. Maybe there needs to be some dehydration step somewhere?
 
+## 2/19/24 - RNA Extraction using protocol modificiations used for [P. compressa and M. capitata](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
+
+### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-RNA-Kit-Protocol/)
+
+Modifications/Notes to protocol:
+- same as above
+- Scrape off tissue sections into a tube: **struggled A LOT with this today, tissue was very stuck on slides, which is great, but it took me a long time to scrape into the tubes**
+- Then, I followed the protocol as written for FFPE, with 3 different versions of the digestion step:
+  - since I used double the amount of lysis buffer, I used double the amount of binding buffer (**200 uL RB7**)
+    - For 3 samples: 528 ul 100% isopropanol + 132 ul RB7
+      - makes 660 ul, enough for 3 samples + 10% error
+
+Samples:
+
+- Shake: 15 minute digestion at 56 ºC (shaker-incubator, 1400 rpm)
+- No shake: 15 minute digestion at 56 ºC (shaker-incubator, 0 rpm)
+- Incubator Genie: 15 minute digestion at 56 ºC (incubator genie, shaking speed 25)
+
+#### Qubit Results
+
+- Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+RNA Standards: HS: 30.78 (S1) & 360.61 (S2)
+
+| sample_id       | Species       | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------------|----------------------|------------|------------|------|
+| Shake | *Pocillopora acuta*  | nd (0) | nd (0)| nd (0)|
+| No shake | *Pocillopora acuta*  | nd (0) | nd (0)| nd (0)|
+| Incubator genie | *Pocillopora acuta* | nd (0) | nd (0)| nd (0)|
+
+### Notes: Hmm! this feels wrong. I want to try this again to really hone in on if the incubation is the source of degredation.
+
+## 2/19/24 - RNA Extraction using protocol modificiations used for [P. compressa and M. capitata](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Continued-Testing-Charm-LCM-RNA-Kit/)
+
+### [Protocol Link](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-RNA-Kit-Protocol/)
+
+Modifications/Notes to protocol:
+- Trying the protocol from this morning again with the following modifications to attempt to reduce tissue loss: 
+  - washing slide on dry ice in 100% ethanol for 30s-1min only, and then going straight into the dissection phase.  
+- Also using a different p200.
+- Then, I followed the protocol as written for FFPE, with 3 different versions of the digestion step:
+  - since I used double the amount of lysis buffer, I used double the amount of binding buffer (**200 uL RB7**)
+    - For 3 samples: 624 ul 100% isopropanol + 156 ul RB7
+      - makes 780 ul, enough for 3 samples + 50% error
+
+Samples:
+
+- Shake: 15 minute digestion at 56 ºC (shaker-incubator, 1400 rpm)
+- No shake: 15 minute digestion at 56 ºC (shaker-incubator, 0 rpm)
+- Incubator Genie: 15 minute digestion at 56 ºC (incubator genie, shaking speed 25)
+
+#### Qubit Results
+
+- Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+RNA Standards: HS: 30.07 (S1) & 341.39 (S2)
+
+| sample_id       | Species       | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------------|----------------------|------------|------------|------|
+| Shake | *Pocillopora acuta* | 9.42 | 9.50 | 9.46 |
+| No shake | *Pocillopora acuta* | 7.72 | 7.78 | 7.76 |
+| Incubator genie | *Pocillopora acuta*  | 6.52 | 6.58 | 6.55 |
+
+### Yay!
+
+#### RNA Quality Check: Tapestation
+
+![2024-02-19.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-19.JPG?raw=true)
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-19.pdf)
+
 ## 2/16/24 - DNA Extraction, protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-DNA-Kit-Protocol/)
 
 Same slide and tissue amounts as above, followed protocol as written, very similar to [this post for POR and MON](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-Charm-LCM-DNA-Kit-POC-MON/)
@@ -129,4 +202,5 @@ PPP Agarose Gel [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Ge
 
 Ran gel next day:
 
-![2024-02-16-gel.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-02-16-gel.jpg?raw=true)
+![2024-02-16-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-02-16-gel.JPG?raw=true)
+
