@@ -166,7 +166,7 @@ RNA Standards: HS: 30.07 (S1) & 341.39 (S2)
 | sample_id       | Species       | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------------|----------------------|------------|------------|------|
 | Shake | *Pocillopora acuta* | 9.42 | 9.50 | 9.46 |
-| No shake | *Pocillopora acuta* | 7.72 | 7.78 | 7.76 |
+| No shake | *Pocillopora acuta* | 7.72 | 7.78 | 7.74 |
 | Incubator genie | *Pocillopora acuta*  | 6.52 | 6.58 | 6.55 |
 
 ### Yay!
@@ -175,7 +175,11 @@ RNA Standards: HS: 30.07 (S1) & 341.39 (S2)
 
 ![2024-02-19.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-19.JPG?raw=true)
 
+![2024-02-19_cont.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-19_cont.png?raw=true)
+
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-02-19.pdf)
+
+### Hmm. Tapestation looks worse than the 15th. But, good to see the concentrations up. Incubator genie, though faint, seems to have the best 18S/28S peaks. Might be best to reduce degredation but the concentration is So Low! Could try to increase time of incubation using incubator genie?
 
 ## 2/16/24 - DNA Extraction, protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Charm-LCM-DNA-Kit-Protocol/)
 
