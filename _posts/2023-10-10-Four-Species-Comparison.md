@@ -163,3 +163,30 @@ Sectioning *Montipora capitata*, cut at -19 ºC
 ![POR_hoescht_slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/POR_hoescht_slide.jpeg?raw=true)
 
 ![MONT_hoescht_slide.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/MONT_hoescht_slide.jpeg?raw=true)
+
+### 02/19/24 - Decalcified the other *P. compressa* and another *M. capitata* from the 12/14/23 fixation 
+
+- Trying to get tissue for tissue skirt imaging (see above) - to image on afternoon of 2/23/24 
+- But also getting tissue for sucrose cryoprotection and then embedding, but trying a 15% sucrose step first before 30% to see if slower sucrose infiltration helps maintain the tissue integrity
+  - Slightly regret not also keeping some tissue for embedding without sucrose to compare RNA quality...
+
+- Decalcified for ~96 hours (12:00 02/19/24 - 9:30 02/23/24)
+  - skeleton almost all gone on 2/22/24 but I wanted to make sure all CaCO3 was gone for successful sectioning
+
+Didn't get any good montipora pictures, but Porites looked great:
+
+![20240223_POR_decalc.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20240223_POR_decalc.jpeg?raw=true)
+
+![20240223_POR_decalc2.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20240223_POR_decalc2.jpeg?raw=true)
+
+![20240223_POR_decalc_polyps.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/PAXgene/4species/20240223_POR_decalc_polyps.jpeg?raw=true)
+
+- On 2/23/24:
+  - washed for 15 mins in RNAse free PBS at 4 ºC on shaker
+  - poured into petri dish with RNAse free PBS and disected each fragment (one per species) into two parts:
+    - one went into 4 mL of RNAse free PBS at 4 ºC in the dark for tissue skirt imaging
+- the other went into 10 mL of 15% sucrose in RNAse free PBS until the tissue sank,
+    - P. comp: sank after 40 minutes in 15 % sucrose
+    - M. cap: 
+- then into 30 % sucrose in RNAse free PBS until the tissue sank
+- then embedded on powdered dry ice
