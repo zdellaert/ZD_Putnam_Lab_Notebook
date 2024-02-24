@@ -186,7 +186,9 @@ Didn't get any good montipora pictures, but Porites looked great:
   - poured into petri dish with RNAse free PBS and disected each fragment (one per species) into two parts:
     - one went into 4 mL of RNAse free PBS at 4 ºC in the dark for tissue skirt imaging
 - the other went into 10 mL of 15% sucrose in RNAse free PBS until the tissue sank,
-    - P. comp: sank after 40 minutes in 15 % sucrose
-    - M. cap: 
+    - P. comp: sank after 40 minutes in 15 % sucrose, after ~3 hours in 30% sucrose
+    - M. cap: sank after 2.5 hours in 15% sucrose, ~4 hours in 30% sucrose
 - then into 30 % sucrose in RNAse free PBS until the tissue sank
 - then embedded on powdered dry ice
+
+- 2/23/24: successfully imaged the Porites tissue "skirt", both polyp side and underside. GFP & Chlorophyll channels
