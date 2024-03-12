@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TagSeq Gene Expression Pipeline
-date: '2023-10-10'
+date: '2024-03-12'
 categories: Analysis
 tags: [RNA, Bioinformatics, TagSeq]
 ---
