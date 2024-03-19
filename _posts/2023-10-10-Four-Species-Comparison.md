@@ -192,3 +192,8 @@ Didn't get any good montipora pictures, but Porites looked great:
 - then embedded on powdered dry ice
 
 - 2/23/24: successfully imaged the Porites tissue "skirt", both polyp side and underside. GFP & Chlorophyll channels
+
+#### Sectioned on 3/18/24
+  - had a lot of issues with section curling, but otherwise the tissue cut much more nicely than last time - I think all the skeleton was successfully dissolved much better this time, and the sucrose embedding may have helped as well
+  - still some ripping of the tissue, though, which could be a temperature issue.
+  - will try to stain slides on 3/19/24 for morphology imaging and test RNA and DNA quality of sucrose-incubated POR/MON ASAP
