@@ -197,3 +197,5 @@ Didn't get any good montipora pictures, but Porites looked great:
   - had a lot of issues with section curling, but otherwise the tissue cut much more nicely than last time - I think all the skeleton was successfully dissolved much better this time, and the sucrose embedding may have helped as well
   - still some ripping of the tissue, though, which could be a temperature issue.
   - will try to stain slides on 3/19/24 for morphology imaging and test RNA and DNA quality of sucrose-incubated POR/MON ASAP
+
+- **3/22/24** - Stained one slide each from Pcomp and Mcap according to Hoescht staining protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/)
