@@ -10,7 +10,7 @@ tags: [Coding]
 
 I am starting a new Github Repository for my Chapter Three analysis, and wanted to initate this repository with a version-controlled, reproducible R environment. I am using the tutorial found [here](https://rstudio.github.io/renv/articles/renv.html).
 
-![renv.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/renv.pngg?raw=true)
+![renv.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/renv.png?raw=true)
 
 First, I made a new github repository. Inside this repository, I created a new Rproject through Rstudio, located at "Path/To/Repo/reponame.Rproj".
 
