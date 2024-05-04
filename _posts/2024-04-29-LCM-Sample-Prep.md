@@ -17,15 +17,17 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
       2. Adding 3 g MgCl2 to 100 mL of seawater
    3. Then cut off branches and transfer gently to PAXgene fixative for 24 hours in fume hood, room temp
       1. used 4 small branches in a PAXgene container that was about 1/2 full
-2. Day 2 (4/30/24): *Replaced fixative with stabilizer, transferred to 4 ºC*
-3. Day 3 (5/1/24): *Started decalcification, kept on shaker in cold room (4 ºC)*
-4. Day 4 (5/2/24): *Changed EDTA solution*
-5. Day 5 (5/3/24): *Decalcification done, tissue washed and cryoprotected*
-   1. Wash for 15 minutes in in RNAse-free PBS at 4 ºC on shaker
-   2. Transfer into 10 mL of 15% RNAse-free sucrose in RNAse-free PBS until the tissue sinks
-   3. Then into 30 % sucrose in RNAse-free PBS until the tissue sank
-   4. Embed on powdered dry ice and store at -80 ºC over weekend
-6. Day 8 (5/6/24): [Section](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) onto PEN membrane slide for LCM as well as extra slides for confocal morpholgy imaging and backup for RNA and DNA extraction
+2. Day 2 (4/30/24): Replaced fixative with stabilizer, transferred to 4 ºC
+3. Day 3 (5/1/24): Started decalcification, kept on shaker in cold room (4 ºC)
+4. Day 4 (5/2/24): Changed EDTA solution
+5. Day 5 (5/3/24): Decalcification done, tissue cryoprotected
+   1. Transfer into 10 mL of 15% RNAse-free sucrose in RNAse-free PBS until the tissue sinks
+      1. Sank immediately, left in 15% sucrose for ~10 mins at 4ºC while preparing 30% sucrose solution
+   2. Then into 30 % sucrose in RNAse-free PBS overnight
+      1. Was still floating on morning of 5/4/24, but became neutrally bouyant/sunk when tube was agitated
+6. Day 6 (5/4/24): Embed on powdered dry ice and store at -80 ºC over weekend
+   1. Tightly wrapped in aluminum foil cleaned with Ethanol and RNAse away, then aluminum package wrapped tightly in whirlpack and stored at - 80 ºC in a plastic box.
+7. Day 8 (5/6/24): [Section](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) onto PEN membrane slide for LCM as well as extra slides for confocal morpholgy imaging and backup for RNA and DNA extraction
    1. **All surfaces and equipment should be treated with RNAse cleaner!!!**
    2. Morning of: prepare PEN slide with UV and RNAse cleaner
       1. Make sure to not damage or touch the membrane in any way
@@ -34,7 +36,7 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
       4. Let dry, at room temperature or at 37 ºC
       5. When visibly dry, place in UV box for 30 minutes (ideally do so immediately prior to sectioning)
       6. With clean, gloved hands, transfer to slide box for sectioning
-7. Day X (LCM DATE)
+8. Day X (LCM DATE)
    1. Morning of LCM, bring slide up to room temperature, slowly to avoid formation of water condensation inside the container
        - 15 minutes at - 20 ºC
        - 15 minutes at 4 ºC
