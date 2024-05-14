@@ -73,11 +73,23 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 - Used High Sensitivity DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
- DNA Standards:   (S1) &   (S2)
+ DNA Standards: 67.25  (S1) &  22077.28 (S2)
 
 | colony_id | DNA_QBIT_1 | DNA_QBIT_2 |  DNA_QBIT_AVG |
 |-----------|------------|------------|---------------|
-| LCM sample #3   |  nd |  nd        |   nd         |
-| LCM sample #10  |  nd |  nd        |   nd         |
-| LCM sample #2   |  nd |  nd        |   nd         |
-| LCM sample #6  |  nd |  nd        |   nd         |
+| LCM sample #3   |  0.913 | 0.924    |  0.9185         |
+| LCM sample #10  |  0.793 | 0.798    |  0.7955     |
+| LCM sample #2   | 1.32 | 1.35     |  1.335       |
+| LCM sample #6  |  1.71 | 1.68     |   1.695     |
+
+So, there is DNA!
+
+### DNAse I digestion
+
+https://www.zymoresearch.com/products/dnase-i-set
+
+https://files.zymoresearch.com/protocols/_r1013_r1014_r1015_r1016_rna_clean_concentrator-5.pdf
+
+Sample final volume is 13 uL. Added 1.875 uL of DNAse digestion buffer and 1.875 uL of DNAse. Incubated 15 mins at room temp.
+
+ - Heat to 75ºC for 15 mins to inactivate the DNAse. Should I just skip this step and run a tapestation right away? Seems like it will just degrade the RNA more.
