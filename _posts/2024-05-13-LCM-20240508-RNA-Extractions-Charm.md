@@ -93,3 +93,17 @@ https://files.zymoresearch.com/protocols/_r1013_r1014_r1015_r1016_rna_clean_conc
 Sample final volume is 13 uL. Added 1.875 uL of DNAse digestion buffer and 1.875 uL of DNAse. Incubated 15 mins at room temp.
 
  - Heat to 75ºC for 15 mins to inactivate the DNAse. Should I just skip this step and run a tapestation right away? Seems like it will just degrade the RNA more.
+ - Skipping this for today, since we know we will not use this RNA for any cDNA synthesis. in the future, definitley deactivate the DNAse.
+
+#### RNA Quality Check: Tapestation
+
+What does the RNA look like after DNAse digestion?
+
+Not great! Missing the lower marker? Any chance this is because of the DNAse? Either way, when blowing up the contrast I can see bands that could (?) be RNA but honestly it looks unlikely.
+
+![2024-05-14-RNA.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-05-14-RNA.JPG?raw=true)
+
+![2024-05-14-RNA-HC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-05-14-RNA-HC.JPG?raw=true)
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-05-14-RNA.pdf)
+
