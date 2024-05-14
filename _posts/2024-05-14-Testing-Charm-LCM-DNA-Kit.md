@@ -27,12 +27,12 @@ Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM) Sample T
 - Used High Sensitivity DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
- RNA Standards: 27.24 (S1) & 325.15 (S2)
+ DNA Standards: 60.85 (S1) & 21384.80 (S2)
 
-| colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
-|-----------|------------|------------|--------------|
-| LCM sample #7   |  nd |  nd        |   nd         |
-| LCM sample #11  |  nd |  nd        |   nd         |
+| colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_3 | DNA_QBIT_AVG |
+|-----------|------------|------------|--------------|--------------|
+| LCM sample #7   |  0.143 |  0.139   |   0.165      |  0.149 ng/uL |
+| LCM sample #11  |  0.113 |  0.098   |   0.100      |  0.104 ng/uL |
 
 #### RNA Quality Check: Tapestation
 
@@ -42,3 +42,6 @@ Nothing! Again!
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-05-14.pdf)
 
+#### DNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
+
+![2024-05-14-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-05-14-gel.JPG?raw=true)
