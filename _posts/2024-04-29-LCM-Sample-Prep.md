@@ -36,19 +36,20 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
       4. Let dry, at room temperature or at 37 ºC
       5. When visibly dry, place in UV box for 30 minutes (ideally do so immediately prior to sectioning)
       6. With clean, gloved hands, transfer to slide box for sectioning
-8. Day X (LCM DATE)
-   1. Morning of LCM, bring slide up to room temperature, slowly to avoid formation of water condensation inside the container
+8. Day 10 (5/8/24)
+   1. Planned protocol
+   2. Morning of LCM, bring slide up to room temperature, slowly to avoid formation of water condensation inside the container
        - 15 minutes at - 20 ºC
        - 15 minutes at 4 ºC
        - 15 minutes at room temp in dessicator
-    2. Make sure all OCT is removed:
+    3. Make sure all OCT is removed:
         - 70% EtOH, 1 min
         - DEPC water, 30 s
-    3. Cresyl Violet staining if desired
-    4. Wash in DEPC water or RNAse-free 1X PBS in dark
-        - 95% EtOH, 30 s
-        - 100% EtOH, 30 s
+    4. Did not do: Cresyl Violet staining if desired
+       1. Wash in DEPC water or RNAse-free 1X PBS in dark
+           - 95% EtOH, 30 s
+           - 100% EtOH, 30 s
     5. Remove excess liquid by aspirating and pat dry area around sample with Kimwipe
     6. Air dry, covered to prevent dust from accumulating
-        - **10 mins at 40 ºC to fully dry sections**
-    7. LCM ! - might make separate post for this
+       1. Did this in the dessicator but had Loads!! of dust.
+    7. LCM ! 
