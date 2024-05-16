@@ -44,4 +44,6 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 #### DNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
+Loaded 10 uL of extracted DNA into each well (3&4) -- no DNA present.
+
 ![2024-05-14-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-05-14-gel.JPG?raw=true)
