@@ -34,7 +34,7 @@ Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM) Sample T
 | LCM sample #7   |  0.143 |  0.139   |   0.165      |  0.149 ng/uL |
 | LCM sample #11  |  0.113 |  0.098   |   0.100      |  0.104 ng/uL |
 
-#### RNA Quality Check: Tapestation
+#### DNA Quality Check: Tapestation
 
 Nothing! Again!
 
