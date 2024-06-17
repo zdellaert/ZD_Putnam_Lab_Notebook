@@ -147,9 +147,9 @@ Maybe something! But, more degraded than last week (see above). The ProK did not
 
 Tapestation concentrations:
 
-| sample_id | concentration | RIN
-|-----------|------------|------------|
-| LCM sample 6/13 #8  |   735 pg/uL (0.735 ng/uL)  | 2.1 |
+| sample_id | concentration | RIN  | DV200 | 
+|-----------|------------|------------|------|
+| LCM sample 6/13 #8  |   735 pg/uL (0.735 ng/uL)  | 2.1 | 56.31 |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17.pdf)
 
@@ -186,9 +186,9 @@ Nada.
 
 Tapestation concentrations:
 
-| sample_id | concentration |  RIN | 
-|-----------|-------------------------------------|----|
-| LCM sample 6/13 #6  |   302 pg/uL (0.302 ng/uL)  | - |
+| sample_id | concentration |  RIN | DV200 | 
+|-----------|-------------------------------------|----|----|
+| LCM sample 6/13 #6  |   302 pg/uL (0.302 ng/uL)  | - | 62.59 |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17.pdf)
 
