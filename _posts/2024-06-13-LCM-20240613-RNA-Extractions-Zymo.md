@@ -60,6 +60,8 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 ## I also tried one sample with an expired Zymo Quick [DNA/RNA Microprep](https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf) sample kit, on sample #5. Neither the DNA or RNA extractions of these were successful, but here are some notes.
 
+- Basically exact same protocol as the Quick RNA but you spin the lysis buffer on a DNA column before adding ethanol, and instead you add ethanol to the flow-through of this column and the proceed with this onto the RNA column. Perform DNAse digestion on the RNA column and then all steps after are the same washes and such.
+
 #### Qubit Results
 
 - Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
@@ -70,6 +72,16 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 | sample_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|------------|------------|--------------|
 | LCM sample 6/13 #5  |  nd |  nd        |   nd      |
+
+- Used High Sensitivity DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+ DNA Standards: 61.30 (S1) & 21623.16 (S2)
+
+| colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| LCM sample 6/13 #5  | nd |  nd        |   nd      |
+
 
 #### RNA Quality Check: Tapestation
 
@@ -82,6 +94,20 @@ Tapestation concentrations:
 | LCM sample 6/13 #5  |   451 pg/uL (0.451 ng/uL)  | 1.0 |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-13.pdf)
+
+#### DNA Quality Check: Tapestation
+
+Nada.
+
+![2024-06-17-DNAZymoDNARNAmicro5.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-DNAZymoDNARNAmicro5.JPG?raw=true)
+
+Tapestation concentrations:
+
+| sample_id | concentration | 
+|-----------|-------------------------------------|
+| LCM sample 6/13 #5  |    - |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-DNA.pdf)
 
 ## Modifications to protocol to try:
 
@@ -130,6 +156,8 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 ## I also tried one sample with an expired Zymo Quick [DNA/RNA Microprep](https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf) sample kit, on sample #6. Neither the DNA or RNA extractions of these were successful, but here are some notes.
 
+- Same protocol as 6/13 for Quick DNA/RNA but with the same 15 minute proK digestion mentioned above for the other 6/17 extraction.
+ 
 #### Qubit Results
 
 - Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
@@ -141,16 +169,39 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 |-----------|------------|------------|--------------|
 | LCM sample 6/13 #6  |  nd |  nd        |   nd      |
 
+- Used High Sensitivity DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+ DNA Standards: 64.64 (S1) & 23642.49 (S2)
+
+| colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| LCM sample 6/13 #6  | nd |  nd        |   nd      |
+
 #### RNA Quality Check: Tapestation
 
 Nada.
 
-![2024-06-17-DNARNAmicro.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-DNARNAmicro.JPG?raw=true)
+![2024-06-17-ZymoDNARNAmicro.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-ZymoDNARNAmicro.JPG?raw=true)
+
+Tapestation concentrations:
+
+| sample_id | concentration |  RIN | 
+|-----------|-------------------------------------|----|
+| LCM sample 6/13 #6  |   302 pg/uL (0.302 ng/uL)  | - |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17.pdf)
+
+#### DNA Quality Check: Tapestation
+
+Nada.
+
+![2024-06-17-DNAZymoDNARNAmicro5.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-DNAZymoDNARNAmicro6.JPG?raw=true)
 
 Tapestation concentrations:
 
 | sample_id | concentration | 
 |-----------|-------------------------------------|
-| LCM sample 6/13 #6  |   302 pg/uL (0.302 ng/uL)  |
+| LCM sample 6/13 #6  |    - |
 
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17.pdf)
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-DNA.pdf)
