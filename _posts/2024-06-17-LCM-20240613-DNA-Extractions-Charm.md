@@ -37,6 +37,17 @@ Used Charm Biotech Just-a-Tube ™ Laser Captured Microdissection (LCM) Sample T
 
 Could have possibly overdried the pellets....
 
+After heating the DNA to 56 ºC for 5 mins: 
+
+ DNA Standards: 64.64 (S1) & 23642.49 (S2)
+
+| colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| LCM sample #10  |  0.804 |  0.792   |  0.798 ng/uL |
+| LCM sample #14  |  0.577 |  0.571   |  0.574 ng/uL | 
+
+Nice! Wonder how this would affect DNA quality on the tapestation. But a viable option to extract DNA, I think.
+
 #### DNA Quality Check: Tapestation
 
 Womp womp. Nothing. Maybe some smudges?
