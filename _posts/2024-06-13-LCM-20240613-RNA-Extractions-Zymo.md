@@ -28,6 +28,7 @@ Used Quick-RNA™ Microprep [Kit](https://www.zymoresearch.com/products/quick-rn
   - Added equal volume of ethanol (100 uL) and mixed well by pipetting
   - Rest of protocol followed almost exactly as written. Eluted in 15 uL nuclease free water.
     - After last wash buffer I did modify the protocol slightly and moved the column to a new collection tube and spun dry for 2 minutes to try to remove any residual ethanol. Could try playing with this step since it is not in the protocol.
+- **Tube #7 had a big chunk of tissue and the lysis buffer was visibly purple from the cresyl violet stain**
 
 #### Qubit Results
 
@@ -50,13 +51,37 @@ Maybe something! This really looks like RNA! And is DNA free as well. Especially
 
 Tapestation concentrations:
 
-| sample_id | concentration |
-|-----------|------------|
-| LCM sample 6/13 #3   |  451 pg/uL (0.451 ng/uL) |
-| LCM sample 6/13 #7  |   1240 pg/uL (1.240 ng/uL)  |
+| sample_id | concentration | RIN |
+|-----------|------------|------------|
+| LCM sample 6/13 #3   |  451 pg/uL (0.451 ng/uL) | - |
+| LCM sample 6/13 #7  |   1240 pg/uL (1.240 ng/uL)  | 1.5 | 
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-13.pdf)
 
+## I also tried one sample with an expired Zymo Quick [DNA/RNA Microprep](https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf) sample kit, on sample #5. Neither the DNA or RNA extractions of these were successful, but here are some notes.
+
+#### Qubit Results
+
+- Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+  RNA Standards: 45.89 (S1) & 1056.01 (S2) (**used the HS qubit RNA kit from the fridge instead of molecular drawer, and normally the S2 value is much lower**)
+
+| sample_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| LCM sample 6/13 #5  |  nd |  nd        |   nd      |
+
+#### RNA Quality Check: Tapestation
+
+Nada.
+
+Tapestation concentrations:
+
+| sample_id | concentration | RIN |
+|-----------|-----------|------|
+| LCM sample 6/13 #5  |   451 pg/uL (0.451 ng/uL)  | 1.0 |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-13.pdf)
 
 ## Modifications to protocol to try:
 
@@ -75,14 +100,14 @@ Used Quick-RNA™ Microprep [Kit](https://www.zymoresearch.com/products/quick-rn
 
 #### Protocol notes:
 
-- Same as above. Same sample and LCM date, but adding a ProK digestion step to see if this helps or hurts our problem.
+- Same as above. Same sample and LCM date, but adding a ProK digestion step to see if this helps or hurts our problem. Tried to be extra quick with spins and only did the final dry spin for 1 minute. Let the water sit on column for 5 whole minutes before elution spin to fully soak column.
 
 #### Qubit Results
 
 - Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
- RNA Standards: 28.29 (S1) & 301.79 (S2) (**used the HS qubit RNA kit from the fridge instead of molecular drawer, and normally the S2 value is much lower**)
+ RNA Standards: 28.29 (S1) & 301.79 (S2)
 
 | sample_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|------------|------------|--------------|
@@ -94,20 +119,38 @@ Maybe something! But, more degraded than last week (see above). The ProK did not
 
 ![2024-06-17-RNAmicro.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-RNAmicro.JPG?raw=true)
 
-
 Tapestation concentrations:
 
-| sample_id | concentration |
-|-----------|------------|
-| LCM sample 6/13 #8  |   735 pg/uL (0.735 ng/uL)  |
+| sample_id | concentration | RIN
+|-----------|------------|------------|
+| LCM sample 6/13 #8  |   735 pg/uL (0.735 ng/uL)  | 2.1 |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17.pdf)
 
 
-## For both of the above extractions, I also tried one sample with an expired Quick DNA/RNA sample kit, on samples #5 and #6. Neither of these were successful in extracting RNA or DNA, but here are some notes.
+## I also tried one sample with an expired Zymo Quick [DNA/RNA Microprep](https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf) sample kit, on sample #6. Neither the DNA or RNA extractions of these were successful, but here are some notes.
 
-Put in:
-- Qubit info
-- Tapestation info
-- Anything else
-- 
+#### Qubit Results
+
+- Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+ RNA Standards: 28.29 (S1) & 301.79 (S2) 
+
+| sample_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| LCM sample 6/13 #6  |  nd |  nd        |   nd      |
+
+#### RNA Quality Check: Tapestation
+
+Nada.
+
+![2024-06-17-DNARNAmicro.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-DNARNAmicro.JPG?raw=true)
+
+Tapestation concentrations:
+
+| sample_id | concentration | 
+|-----------|-------------------------------------|
+| LCM sample 6/13 #6  |   302 pg/uL (0.302 ng/uL)  |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17.pdf)
