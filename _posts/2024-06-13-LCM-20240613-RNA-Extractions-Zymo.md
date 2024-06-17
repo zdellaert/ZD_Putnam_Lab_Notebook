@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Zymo Quick RNA Microprep Kit on Cryosectioned and LCM-d *P. acuta* 
+title: Testing Zymo Quick RNA Microprep Kit on Cryosectioned and LCM-d P. acuta 
 date: '2024-06-13'
 categories: Processing
 tags: [RNA, PAXgene, Fixative, Pocillopora, LCM]
@@ -14,7 +14,7 @@ tags: [RNA, PAXgene, Fixative, Pocillopora, LCM]
 
 Used Quick-RNA™ Microprep [Kit](https://www.zymoresearch.com/products/quick-rna-microprep-kit), [protocol](https://files.zymoresearch.com/protocols/_r1050_r1051_quick-rna_microprep_kit.pdf) based off of a protocol used in [this paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ics.12956)
 
-### Sectioning performed on 6/12/24 and LCM on 6/14/24. See details [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Test-2/) 
+### Sectioning performed on 6/12/24 and LCM on 6/13/24. See details [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Test-2/) 
 
 #### Protocol notes:
 
@@ -56,3 +56,58 @@ Tapestation concentrations:
 | LCM sample 6/13 #7  |   1240 pg/uL (1.240 ng/uL)  |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-13.pdf)
+
+
+## Modifications to protocol to try:
+
+- Elute in less volume?
+- Be faster in general with the extraction - dont do the long spins
+- Try a proteinase K digestion?
+  - 15 mins at 56 ºC?
+    - 100 uL sample in lysis buffer + 10 uL PK digestion buffer + 5 uL PK
+    - then add 115 uL ethanol after 15 mins
+
+## 6/17/24 - Extracting RNA from LCM-captured cells (LCM date 6/13/24) with ProK digestion
+
+Used Quick-RNA™ Microprep [Kit](https://www.zymoresearch.com/products/quick-rna-microprep-kit), [protocol](https://files.zymoresearch.com/protocols/_r1050_r1051_quick-rna_microprep_kit.pdf) based off of a protocol used in [this paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ics.12956)
+
+### Sectioning performed on 6/12/24 and LCM on 6/13/24. See details [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Test-2/) 
+
+#### Protocol notes:
+
+- Same as above. Same sample and LCM date, but adding a ProK digestion step to see if this helps or hurts our problem.
+
+#### Qubit Results
+
+- Used High Sensitivity RNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+ RNA Standards: 28.29 (S1) & 301.79 (S2) (**used the HS qubit RNA kit from the fridge instead of molecular drawer, and normally the S2 value is much lower**)
+
+| sample_id | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|------------|------------|--------------|
+| LCM sample 6/13 #8  |  nd |  nd        |   nd         |
+
+#### RNA Quality Check: Tapestation
+
+Maybe something! But, more degraded than last week (see above). The ProK did not seem to increase RNA concnetration but may have introduced degredation. This is super helpful to know! We can skip this :) 
+
+![2024-06-17-RNAmicro.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17-RNAmicro.JPG?raw=true)
+
+
+Tapestation concentrations:
+
+| sample_id | concentration |
+|-----------|------------|
+| LCM sample 6/13 #8  |   735 pg/uL (0.735 ng/uL)  |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-17.pdf)
+
+
+## For both of the above extractions, I also tried one sample with an expired Quick DNA/RNA sample kit, on samples #5 and #6. Neither of these were successful in extracting RNA or DNA, but here are some notes.
+
+Put in:
+- Qubit info
+- Tapestation info
+- Anything else
+- 
