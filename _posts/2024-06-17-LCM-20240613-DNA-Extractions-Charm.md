@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing Charm Biotech DNA Extraction on Cryosectioned and LCM-d P. acuta 
-date: '2024-05-14'
+date: '2024-06-17'
 categories: Processing
 tags: [DNA, PAXgene, Fixative, Pocillopora, LCM]
 ---
