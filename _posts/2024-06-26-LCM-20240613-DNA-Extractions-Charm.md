@@ -50,10 +50,11 @@ Steps taken:
 | LCM sample #10  |  1.81 |  1.81   |  1.81 ng/uL | 27.15 ng |
 | LCM sample #14  |  4.29 |  4.29   |  4.29 ng/uL | 64.35 ng |
 
-#### #### DNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
+#### DNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
 - Made a 1% gel (50 uL TAE + 0.5g agarose) with 1.5 uL Gel Green (bumping up from normal amount to maximize visualization)
 - Loaded 9.5 uL of extracted DNA into each well (3&5)
+- Ran at 65 V for 40 minutes
 
 ![2024-06-26-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-06-26-gel.JPG?raw=true)
 
