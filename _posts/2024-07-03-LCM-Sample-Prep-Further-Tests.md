@@ -40,5 +40,4 @@ tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
    3. Then into 30 % sucrose in RNAse-free PBS at 4 ºC for 4 hours, until sink
 9. Day 8 (7/10/24): Embed POC and POR on powdered dry ice and store at -80 ºC until sectioning
    1. Tightly wrapped in aluminum foil cleaned with Ethanol and RNAse away, then aluminum package wrapped tightly in ziplock and stored at - 80 ºC in a plastic box.
-10. Sectioning: 7/15/24
-11. LCM 7/16/24
+10. Sectioning and LCM Notes: https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Test-4/
