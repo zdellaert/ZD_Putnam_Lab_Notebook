@@ -85,3 +85,13 @@ DNA Standards: 60.16 (S1) & 21073.89 (S2)
 - Ran at 65 V for 60 minutes
 
 ![2024-07-19-gel-Zymo.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-19-gel-Zymo.JPG?raw=true)
+
+
+### Thoughts:
+
+1. RNA:
+   1. This is some of the best RNA I've gotten from LCM! Even though the concentration was too low to calculate a RIN, the 1 hour ProK digestion for Porites (#5) looks super good with very clear 18S and 28S bands.
+   2. The overnight digestion caused a lot of RNA degredation, so I think we can try to move away from this. However, it may be needed for DNA, so I will reach out to zymo for advice.
+   3. The Pocillopora RNA (#s 17, 20, 21) did not work as well. This could be because the input was so low, or it could be the sample prep in general. I had issues with the Pocillopora sectioning (detailed [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Test-4/)), and these issues contributed to a lot of tissue loss and other issues. The Pocillopora RNA from my [last LCM test](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-RNA-Extractions-Zymo/) looked better than today. For that extraction, the cells were just collected in lysis buffer, with no ProK digestion. However, the cells collected in lysis buffer for this extraction looked the most degraded. There is a chance we may need to use different collection buffers for different species. Will continue to try some different protocols.
+2. DNA:
+   1. Not a lot. Pocillopora worked better than Porites, but this is much less visible on the gel than from the Charm kit. I did load less on the gel (5uL vs 10uL), but still. Need to make this better.
