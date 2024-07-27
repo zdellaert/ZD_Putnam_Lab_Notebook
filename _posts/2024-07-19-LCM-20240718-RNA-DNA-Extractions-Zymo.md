@@ -52,8 +52,12 @@ Tapestation concentrations:
 
 | sample_id | concentration | RIN |
 |-----------|------------|------------|
-| LCM sample 7/18 #3   |  451 pg/uL (0.451 ng/uL) | - |
-| LCM sample 7/18 #7  |   1240 pg/uL (1.240 ng/uL)  | 1.5 | 
+| #1, Porites, Lysis Buffer   |  344 pg/uL (0.344 ng/uL) | - |
+| #5, Porites, ProK 52 ºC 1 hour  |   311 pg/uL (0.311 ng/uL)  | - | 
+| #6, Porites, ProK 52 ºC overnight  |   603 pg/uL (0.603 ng/uL)  | 2.5 | 
+| #17, Pocillopora, Lysis Buffer   |  1350 pg/uL (1.350 ng/uL) | 1.0 |
+| #20, Pocillopora, ProK 52 ºC 1 hour  |   811 pg/uL (0.811 ng/uL)  | 1.2 | 
+| #21, Pocillopora, ProK 52 ºC overnight  |   1220 pg/uL (1.220 ng/uL)  | 1.0 | 
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-19.pdf)
 
@@ -67,11 +71,11 @@ DNA Standards: 60.16 (S1) & 21073.89 (S2)
 | colony_id            | DNA_QBIT_1 | DNA_QBIT_2 |    DNA_QBIT_AVG |
 |----------------------|------------|------------|-----------------|
 | #1, Porites, Lysis Buffer         | nd    |  nd      |   nd      |
-| #5, Porites, ProK 55 ºC 1 hour    | 0.299 |  0.296   |   0.298   |
-| #6, Porites, ProK 55 ºC overnight | 0.319 | 0.328    |   0.324   |
+| #5, Porites, ProK 52 ºC 1 hour    | 0.299 |  0.296   |   0.298   |
+| #6, Porites, ProK 52 ºC overnight | 0.319 | 0.328    |   0.324   |
 | #17, Pocillopora, Lysis Buffer    | 0.245 |  0.247   |   0.246   |
-| #20, Pocillopora, ProK 55 ºC 1 hour  | 0.991 | 0.981 |   0.986   |
-| #21, Pocillopora, ProK 55 ºC overnight | 1.32 | 1.31 |   1.32    |
+| #20, Pocillopora, ProK 52 ºC 1 hour  | 0.991 | 0.981 |   0.986   |
+| #21, Pocillopora, ProK 52 ºC overnight | 1.32 | 1.31 |   1.32    |
 
 #### DNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
