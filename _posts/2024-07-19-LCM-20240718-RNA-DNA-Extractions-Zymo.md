@@ -50,16 +50,18 @@ Have not been runnning RNA Qubit's because I never detect anything from these su
 
 ![2024-07-19.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-19.JPG?raw=true)
 
-Tapestation concentrations:
+Tapestation concentrations and [DV200 values](https://www.agilent.com/en/promotions/tapestation-dv200-determination):
 
-| sample_id | concentration | RIN |
-|-----------|------------|------------|
-| #1, Porites, Lysis Buffer   |  344 pg/uL (0.344 ng/uL) | - |
-| #5, Porites, ProK 52 ºC 1 hour  |   311 pg/uL (0.311 ng/uL)  | - | 
-| #6, Porites, ProK 52 ºC overnight  |   603 pg/uL (0.603 ng/uL)  | 2.5 | 
-| #17, Pocillopora, Lysis Buffer   |  1350 pg/uL (1.350 ng/uL) | 1.0 |
-| #20, Pocillopora, ProK 52 ºC 1 hour  |   811 pg/uL (0.811 ng/uL)  | 1.2 | 
-| #21, Pocillopora, ProK 52 ºC overnight  |   1220 pg/uL (1.220 ng/uL)  | 1.0 | 
+| sample_id | concentration | RIN | DV200 | 
+|-----------|------------|------------|-------|
+| #1, Porites, Lysis Buffer   |  344 pg/uL (0.344 ng/uL) | - | 54.38% | 
+| #5, Porites, ProK 52 ºC 1 hour  |   311 pg/uL (0.311 ng/uL)  | - |  70.99% | 
+| #6, Porites, ProK 52 ºC overnight  |   603 pg/uL (0.603 ng/uL)  | 2.5 | 64.89% | 
+| #17, Pocillopora, Lysis Buffer   |  1350 pg/uL (1.350 ng/uL) | 1.0 | 36.68% | 
+| #20, Pocillopora, ProK 52 ºC 1 hour  |   811 pg/uL (0.811 ng/uL)  | 1.2 | 47.06% | 
+| #21, Pocillopora, ProK 52 ºC overnight  |   1220 pg/uL (1.220 ng/uL)  | 1.0 | 46.23% | 
+
+Positive control: Pdam Heron Island project (RNA I extracted in 11/2022) sample RF14B. Diluted, used 1 uL RNA and 1 uL nucelase-free water for the tapestation.
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-19.pdf)
 
@@ -88,7 +90,7 @@ DNA Standards: 60.16 (S1) & 21073.89 (S2)
 
 ![2024-07-19-gel-Zymo.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-19-gel-Zymo.JPG?raw=true)
 
-Mayyybe bands for the 2 Pocillopora ProK digestions (# 20,21) ?
+Mayyybe bands for the 2 Pocillopora ProK digestions (# 20,21) ? Positve control was the DNA from the Pdam Heron Island project (extracted in 11/2022), sample RF14B. Diluted, likely too much....
 
 ##### Reran these samples on a gel on 7/24/24:
 
