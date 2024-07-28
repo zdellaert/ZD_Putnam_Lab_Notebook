@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Zymo Quick RNA Microprep Kit on Cryosectioned and LCM-d P. acuta and P. compressa
+title: Testing Zymo Quick DNA/RNA Microprep Kit on LCM-d P. acuta and P. compressa
 date: '2024-07-19'
 categories: Processing
 tags: [RNA, PAXgene, Fixative, Pocillopora, Porites, LCM]
@@ -32,7 +32,7 @@ Used Quick-DNA/RNA™ Microprep [Kit](https://www.zymoresearch.com/products/quic
   - Thaw tube on ice and then proceed
   - For samples collected in ProK Mix:
     - Added another 60 uL of ProK mix, moved to 1.5 mL tube, making sure to transfer all cellular debris, and incubated at 52 ºC on the thermomixer, shaking 1400 rpm, for either overnight (OVERNIGHT SAMPLES) or 1 hour (1 HOUR SAMPLES)
-    - After incubation, spin at 
+    - After incubation, spin at 9,000 rcf for 3 mins to pellet any debris, then move supernatant to new 1.5 mL tube. Add equal parts lysis buffer and mix well, then move whole volume into IC-XM column.
   - For samples collected in lysis buffer:
     - Added another 160 uL of lysis buffer (final vol = 200 uL) and vortex 5 seconds to homogenize and further lyse cells
     - Went straight into IC-XM column (1st step in Zymo protocol)
