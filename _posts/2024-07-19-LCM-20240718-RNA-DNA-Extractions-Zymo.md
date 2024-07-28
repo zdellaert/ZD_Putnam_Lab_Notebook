@@ -42,9 +42,11 @@ Used Quick-DNA/RNA™ Microprep [Kit](https://www.zymoresearch.com/products/quic
     - Wash with 400 uL wash buffer, then do DNAse treatment (40 uL)
     - Then 400 uL prep buffer and spin, 700 uL wash buffer and spin, and 400 uL wash buffer and spin.
     - After last wash buffer I did modify the protocol slightly and moved the column to a new collection tube and spun dry for 2 minutes to try to remove any residual ethanol. Could try playing with this step since it is not in the protocol. But, they provide extra collection tubes so it seems appropriate.
-    - Eluted in 15 uL nuclease free water.
+    - Eluted RNA in 15 uL nuclease free water, and DNA in 20 uL nuclease free TRIS, warmed to 60ºC (based on our other Putnam Lab [Zymo Extraction Protocols](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/))
 
 #### RNA Quality Check: Tapestation
+
+Have not been runnning RNA Qubit's because I never detect anything from these super low concentrations.
 
 ![2024-07-19.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-19.JPG?raw=true)
 
@@ -86,6 +88,17 @@ DNA Standards: 60.16 (S1) & 21073.89 (S2)
 
 ![2024-07-19-gel-Zymo.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-19-gel-Zymo.JPG?raw=true)
 
+Mayyybe bands for the 2 Pocillopora ProK digestions (# 20,21) ?
+
+##### Reran these samples on a gel on 7/24/24:
+
+- Made a 1% gel (50 uL TAE + 0.5g agarose) with 2 uL Gel Green (bumping up from normal amount to maximize visualization)
+- Loaded 7 uL of extracted DNA into each well
+- Ran at 65 V for 60 minutes
+
+![2024-07-24-gel-Zymo-719.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-24-gel-Zymo-719.JPG?raw=true)
+
+Same result. 20 and 21 have bands but streaky. No bands for any other samples. 
 
 ### Thoughts:
 
@@ -95,3 +108,4 @@ DNA Standards: 60.16 (S1) & 21073.89 (S2)
    3. The Pocillopora RNA (#s 17, 20, 21) did not work as well. This could be because the input was so low, or it could be the sample prep in general. I had issues with the Pocillopora sectioning (detailed [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Test-4/)), and these issues contributed to a lot of tissue loss and other issues. The Pocillopora RNA from my [last LCM test](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-RNA-Extractions-Zymo/) looked better than today. For that extraction, the cells were just collected in lysis buffer, with no ProK digestion. However, the cells collected in lysis buffer for this extraction looked the most degraded. There is a chance we may need to use different collection buffers for different species. Will continue to try some different protocols.
 2. DNA:
    1. Not a lot. Pocillopora worked better than Porites, but this is much less visible on the gel than from the Charm kit. I did load less on the gel (5uL vs 10uL), but still. Need to make this better.
+   2. I don't understand why the POR RNA works so well and the DNA doesn't and vice versa (ish) for POC! Need to think through how different tissue inputs and digestion timepoints would impact DNA vs. RNA accessibility/degredation. Want to reach out to Zymo, too.
