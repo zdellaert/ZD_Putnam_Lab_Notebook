@@ -38,7 +38,7 @@ Extraction steps taken:
 6. Transferred contents/supernatant (100 uL) to the Charm binding tube and followed all following [instructions as written](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Charm_Biotech_LCM_DNA_Kit.pdf) from step "Binding DNA Products" onward.
    1. Saw a large pellet in both tubes, which was very promising for DNA content!
    2. Used the dumping method of supernatant removal instead of [pipetting out](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-DNA-Extractions-Charm/) (possibly a mistake? See below.)
-7. Eluted the DNA in 2- uL of elution buffer **warmed to 60ºC** ([last time](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-DNA-Extractions-Charm/) I warmed it to 56 ºC...). Pipetted up and down until pellet was visibly resuspended and then briefly vortexed and spun down. Pipetted up and down ~5-10 times, then spun down again to remove bubbles, and repeated the pipetting up and down ~5-10 times followed by a spin once more.
+7. Eluted the DNA in 20 uL of elution buffer **warmed to 60ºC** ([last time](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-DNA-Extractions-Charm/) I warmed it to 56 ºC...). Pipetted up and down until pellet was visibly resuspended and then briefly vortexed and spun down. Pipetted up and down ~5-10 times, then spun down again to remove bubbles, and repeated the pipetting up and down ~5-10 times followed by a spin once more.
   
 #### Qubit Results
 
