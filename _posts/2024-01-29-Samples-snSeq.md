@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sending FF and PX corals for snSeq and Spatial Trials
+title: Sending FF and PX corals for snSeq Trials
 date: '2024-01-29'
 categories: Processing
-tags: [Spatial, snSeq, Pocillopora, Porites, Montipora]
+tags: [snSeq, Pocillopora, Porites, Montipora]
 ---
 
 ## Flash freezing fragments from three species from CBLS wetlab
