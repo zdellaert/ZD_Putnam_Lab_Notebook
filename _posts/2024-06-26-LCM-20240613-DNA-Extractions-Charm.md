@@ -3,7 +3,7 @@ layout: post
 title: Suucessful? Testing of Charm Biotech DNA Extraction on LCM-d P. acuta 
 date: '2024-06-26'
 categories: Processing
-tags: [DNA, PAXgene, Fixative, Pocillopora, LCM]
+tags: [DNA, Pocillopora, LCM]
 ---
 
 ## Testing Charm DNA Kit on LCM Samples

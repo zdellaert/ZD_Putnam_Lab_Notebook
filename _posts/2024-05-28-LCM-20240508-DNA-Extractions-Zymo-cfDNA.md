@@ -3,7 +3,7 @@ layout: post
 title: Testing Zymo cfDNA DNA Extraction on Cryosectioned and LCM-d P. acuta 
 date: '2024-05-28'
 categories: Processing
-tags: [DNA, PAXgene, Fixative, Pocillopora, LCM]
+tags: [DNA, Pocillopora, LCM]
 ---
 
 ## Testing Zymo cfDNA Kit on LCM Samples

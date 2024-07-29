@@ -3,7 +3,7 @@ layout: post
 title: Testing Charm Biotech RNA Extraction on Cryosectioned and LCM-d P. acuta 
 date: '2024-05-13'
 categories: Processing
-tags: [RNA, PAXgene, Fixative, Pocillopora, LCM]
+tags: [RNA, Pocillopora, LCM]
 ---
 
 ## Testing Charm RNA Kit on LCM Samples

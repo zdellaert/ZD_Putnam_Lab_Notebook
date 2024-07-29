@@ -3,7 +3,7 @@ layout: post
 title: Testing of Charm Biotech DNA Extraction on LCM-d P. compressa and P. acuta
 date: '2024-07-24'
 categories: Processing
-tags: [DNA, PAXgene, Fixative, Pocillopora, Porites, LCM]
+tags: [DNA, Pocillopora, Porites, LCM]
 ---
 
 ## Testing Charm DNA Kit on 7/18 LCM Samples, Second Try

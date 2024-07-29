@@ -3,7 +3,7 @@ layout: post
 title: Fixing Coral Tissues for LCM
 date: '2024-04-29'
 categories: Processing
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
+tags: [LCM, PAXgene, Fixative, Pocillopora]
 ---
 
 ## Fixing and decalcifying Pocillopora tissue for LCM, second test before summer experiments

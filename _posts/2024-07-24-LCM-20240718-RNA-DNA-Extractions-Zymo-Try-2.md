@@ -3,7 +3,7 @@ layout: post
 title: Further Testing of Zymo Quick DNA/RNA Microprep Kit on LCM-d P. acuta and P. compressa
 date: '2024-07-24'
 categories: Processing
-tags: [RNA, PAXgene, Fixative, Pocillopora, Porites, LCM]
+tags: [RNA, DNA, Pocillopora, Porites, LCM]
 ---
 
 ## Further Testing of Zymo Quick-DNA/RNA Microprep Kit on 7/18 LCM Samples

@@ -3,7 +3,7 @@ layout: post
 title: Testing Zymo Quick RNA Microprep Kit on Cryosectioned and LCM-d P. acuta 
 date: '2024-06-13'
 categories: Processing
-tags: [RNA, PAXgene, Fixative, Pocillopora, LCM]
+tags: [RNA, Pocillopora, LCM]
 ---
 
 ## Testing Zymo Quick-RNA Microprep Kit on LCM Samples

@@ -3,7 +3,7 @@ layout: post
 title: Fixing POC and POR Coral Tissues for LCM
 date: '2024-07-03'
 categories: Processing
-tags: [DNA, RNA, PAXgene, Fixative, Pocillopora]
+tags: [PAXgene, Fixative, Pocillopora, Porites, LCM]
 ---
 
 ## Fixing and decalcifying Pocillopora and Porites tissue for LCM, to further improve sectioning and extractions
