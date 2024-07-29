@@ -6,7 +6,7 @@ categories: Processing
 tags: [RNA, PAXgene, Fixative, Pocillopora, Porites, LCM]
 ---
 
-## Testing Zymo Quick-DNA/RNA Microprep Kit on LCM Samples
+## Testing Zymo Quick-DNA/RNA Microprep Kit on 7/18 LCM Samples
 
 ### [Protocol Link](https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf)
 
