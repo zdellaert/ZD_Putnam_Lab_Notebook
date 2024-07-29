@@ -65,7 +65,7 @@ Tapestation concentrations and [DV200 values](https://www.agilent.com/en/promoti
 |-----------|------------|------------|-------|
 | #2, Porites, Lysis Buffer   |  270 pg/uL (0.270 ng/uL) | - | 64.33% |
 | #7, Porites, ProK 52 ºC 1 hour  |   280 pg/uL (0.280 ng/uL)  | - | 66.86% |
-| #11, Porites, ProK 52 ºC 30 mins (*low tissue input!!*)  |   304 pg/uL (0.304 ng/uL)  | 2.5 | 60.03% |
+| #11, Porites, ProK 52 ºC 30 mins (*low tissue input!!*)  |   304 pg/uL (0.304 ng/uL)  | - | 60.03% |
 | #18, Pocillopora, Lysis Buffer   |  484 pg/uL (0.484 ng/uL) | 2.7 | 48.13% |
 
 Positive control was my successful [RNA extraction from 7/19/24 (POR sample #5)](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240718-RNA-DNA-Extractions-Zymo/), but I did not thaw it on ice which was a mistake....

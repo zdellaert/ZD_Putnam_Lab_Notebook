@@ -461,3 +461,18 @@ briefly spin the tube/plate, place back on the magnet and **remove traces of eth
     - 65°C, 75 seconds
   - 65°C, 5 minutes
   - Hold at 4°C
+
+## Samples:
+
+Just going to start with two, and then will try again and see if I need to pool RNA or anything.
+
+- POC: need to decide between
+  - #18, [7/24 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240718-RNA-DNA-Extractions-Zymo-Try-2/)
+    - 0.484 ng/uL
+  -  #7, [6/13 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-RNA-Extractions-Zymo/)
+     -  1.240 ng/uL
+  -  Or a re-extraction (sample #22? in ProK for 1 hour?)
+     -  we shall see
+- POR:
+  - #7, [7/24 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240718-RNA-DNA-Extractions-Zymo-Try-2/)
+    - 0.280ng/uL
