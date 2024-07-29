@@ -133,7 +133,7 @@ I have a sample kit of 6 preps. Detailing the steps of the protocol below, and w
 - for an input of 4.99 ng RNA, at 8µl volume, the sample would have a minimum concentration of 0.62 ng/µl
   - Most of our high quality RNA is below this concentration, so we will use the < 5 ng mixture
   - for a low-concentration sample (like LCM RNA), of lets say, 0.280 ng/µl, 8 µl of input would be 2.24 ng. So we would put in 8 µl of the thawed RNA and use the < 5 ng mixture.
-- if you have > 7 µl of an RNA of concentration greater than 0.714 ng/µl (5 ng / 7 µl), you should use the ≥ 5 ng RNA VOLUME (µl) mixture.
+- if you have > 7 µl of an RNA of concentration greater than 0.714 ng/µl (5 ng / 7 µl), you should use the ≥ 5 ng RNA workflow.
 
 | COMPONENT               | *< 5 ng RNA*: VOLUME (µl) | *≥ 5 ng RNA*: VOLUME (µl) |
 |----------------------------------|------------------------|------------------------|
@@ -143,7 +143,6 @@ I have a sample kit of 6 preps. Detailing the steps of the protocol below, and w
 | Total Volume                     | 9 µl                   |  9 µl                  |
 
 - [ ] 2.2.2. Mix well by pipetting up and down gently at least 10 times, then centrifuge briefly to collect solution to the bottom of the tubes.
-
 - [ ] 2.2.3. Incubate for 5 minutes at 70°C in a thermal cycler with the heated lid set to 105°C, then hold at 4ºC until next step.
 
 During the above annealing step, prepare the components for the following step.
@@ -151,7 +150,7 @@ During the above annealing step, prepare the components for the following step.
 ### 2.3. Reverse Transcription (RT) and Template Switching
 
 - [ ] 2.3.1. Vortex the NEBNext Single Cell RT Buffer briefly
-  - [ ] **Note: It is important to vortex the buffer prior to use for optimal performance** (they even have a [video about this](https://www.neb.com/en-us/tools-and-resources/video-library/quick-tips---vortexing-the-nebnext-single-cell-low-input-rna-library-prep-kit-rt-buffer))
+  - **Note: It is important to vortex the buffer prior to use for optimal performance** (they even have a [video about this](https://www.neb.com/en-us/tools-and-resources/video-library/quick-tips---vortexing-the-nebnext-single-cell-low-input-rna-library-prep-kit-rt-buffer))
 - [ ] Then, prepare the RT mix in a separate tube as follows (adding NEBNext Single Cell RT Enzyme Mix last)
   
 | COMPONENT                              | VOLUME (µl) PER REACTION |
@@ -164,11 +163,8 @@ During the above annealing step, prepare the components for the following step.
 | **Total Volume**                      | 11 µl                    |
 
 - [ ] 2.3.2. Mix thoroughly by pipetting up and down several times, then centrifuge briefly to collect solutions to the bottom of tubes.
-
 - [ ] 2.3.3. Combine 11 μl of the RT mix (above) with 9 μl of the annealed sample (Step 2.2.3.). 
-
 - [ ] Mix well by pipetting up and down at least 10 times and centrifuge briefly.
-
 - [ ] 2.3.4. Incubate the reaction mix in a thermal cycler with the following steps and the heated lid set to 105°C:
   - 90 minutes at 42°C
   - 10 minutes at 70°C
@@ -181,7 +177,6 @@ During the above annealing step, prepare the components for the following step.
 ### 2.4. cDNA Amplification by PCR
 
 - [ ] 2.4.1. Prepare cDNA amplification mix as follows:
-
   - [ ] ⚪️ NEBNext Cell Lysis Buffer (10X) needs to be homogenous with no precipitates (should be clear, if not, warm to 37 ºC). [Vortex thoroughly and spin down before adding.](https://www.neb.com/en-us/tools-and-resources/video-library/quick-tip-adding-the-lysis-buffer-for-the-pcr-in-the-nebnext-rna-workflow)
 
 | COMPONENT                              | VOLUME (µl) PER REACTION |
@@ -194,9 +189,7 @@ During the above annealing step, prepare the components for the following step.
 | **Total Volume**                       | 80 µl                     |
 
 - [ ] 2.4.2. Add 80 µl cDNA amplification mix to 20 µl of the sample from Step 2.3.4.
-
 - [ ] Mix by pipetting up and down at least 10 times.
-
 - [ ] 2.4.3. Incubate the reaction in a thermal cycler with the following PCR cycling conditions and the heated lid set to 105°C:
 
 | CYCLE STEP           | TEMP  | TIME       | CYCLES | 
@@ -225,54 +218,36 @@ For the various inputs listed above, the recommended PCR cycles will typically r
 - [ ] 2.5.1. Allow the ⚪️ [NEBNext Bead Reconstitution Buffer](https://www.neb.com/en-us/tools-and-resources/video-library/quick-tips---bead-reconstitution-buffer-for-nebnext-single-cell-low-input-rna-library-prep) and the SPRI® beads (if stored at 4°C) to warm to room temperature for at least 30 minutes before use.
   - [ ] Vortex SPRI Beads to resuspend well
   - [ ] Prepare fresh 80% ethanol
-    - [ ] 800 uL per sample
+    - 800 uL per sample
   - [ ] Prepare 0.1X TE (dilute ⚪️ 1X TE Buffer 1:10 in nuclease free water)
-    - [ ] 50 uL per sample
-
+    - 50 uL per sample
 - [ ] 2.5.2. Add 60 μl (0.6X of sample volume) resuspended beads to the PCR reaction.
   - [ ] Mix well by pipetting up and down at least 10 times.
   - [ ] Be careful to expel all of the liquid out of the tip during the last mix
-
 - [ ] 2.5.3. Incubate samples on the bench top for at least **5 minutes at room temperature**.
-
 - [ ] 2.5.4. Place the tube/plate on an appropriate magnetic stand to separate the beads from the supernatant. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing on the magnetic stand.
-
 - [ ] 2.5.5. After **5 minutes** (or when the solution is clear), carefully remove and **discard the supernatant**. Be careful not to disturb the beads that contain cDNA (**Caution: do not discard the beads**).
-
 - [ ] 2.5.6. Add **200 μl of 80% freshly prepared ethanol** to the tube/plate while in the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain cDNA.
-
 - [ ] 2.5.7. Repeat Step 2.5.6. once for a total of **two washes**. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnet and **remove traces of ethanol with a p10 pipette tip**.
-
 - [ ] 2.5.8. Air dry the beads for *up to 5 minutes* while the tube/plate is on the magnetic stand with the lid open.
-  - [ ] **Caution: Do not over-dry the beads.** This may result in lower recovery of cDNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
-
+  - **Caution: Do not over-dry the beads.** This may result in lower recovery of cDNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
 - [ ] 2.5.9. Remove the tube/plate from the magnetic stand.
   - [ ] Elute the cDNA from the beads by adding 50 μl of 0.1X TE (dilute ⚪️ 1X TE Buffer 1:10 in nuclease free water).
-
 - [ ] 2.5.10. Mix well by pipetting up and down 10 times, or on a vortex mixer. Incubate for at least **2 minutes at room temperature**.
   - [ ] If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells.
-
 - [ ] 2.5.11. Add 45 μl of (room temperature) ⚪️ NEBNext Bead Reconstitution Buffer to the eluted cDNA + bead mixture from Step 2.5.10 for a second sample clean up.
   - [ ] Mix well by pipetting up and down at least 10 times
-
 - [ ] 2.5.12. Incubate samples on the bench top for at least **5 minutes at room temperature**.
-
 - [ ] 2.5.13. Place the tube/plate on an appropriate magnetic stand to separate the beads from the supernatant. If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing on the magnetic stand.
-
 - [ ] 2.5.14. After **5 minutes** (or when the solution is clear), carefully remove and discard the supernatant. Be careful not to disturb the beads that contain cDNA (**Caution: do not discard the beads**).
-
 - [ ] 2.5.15. Add **200 μl of 80% freshly prepared ethanol** to the tube/plate while in the magnetic stand. Incubate at room temperature for 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain cDNA.
-
 - [ ] 2.5.16. Repeat Step 2.5.15 once for a total of **two washes**. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnet and **remove traces of ethanol**.
-
 - [ ] 2.5.17. Air dry the beads for *up to 5 minutes* while the tube/plate is on the magnetic stand with the lid open.
-  - [ ] **Caution: Do not over-dry the beads.** This may result in lower recovery of cDNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
-
+  - **Caution: Do not over-dry the beads.** This may result in lower recovery of cDNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
 - [ ] 2.5.18. Remove the tube/plate from the magnetic stand.
   - [ ] Elute the cDNA from the beads by adding 33 μl of ⚪️ 1X TE (provided in kit).
-
 - [ ] 2.5.19. Mix well by pipetting up and down 10 times, or on a vortex mixer. Incubate for **at least 2 minutes at room temperature**.
-  - [ ] If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
+  - If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
 
 **NOW WE KEEP SUPERNATANT**
 
@@ -281,8 +256,8 @@ For the various inputs listed above, the recommended PCR cycles will typically r
 ### 2.6. Assess Amplified cDNA Quality and Quantity on a Bioanalyzer
 
 - [ ] 2.6.1. Run 1 µl of amplified cDNA from Step 2.5.20 on a DNA High Sensitivity Chip.
-  - [ ] I will use DNA tapestation instead
-  - [ ] 1 ng–20 ng cDNA yield is typical yield, with [broad peak around 2000 bp](https://www.neb.com/en-us/tools-and-resources/video-library/quick-tips---bead-reconstitution-buffer-for-nebnext-single-cell-low-input-rna-library-prep)
+  - I will use DNA tapestation instead
+  - 1 ng–20 ng cDNA yield is typical yield, with [broad peak around 2000 bp](https://www.neb.com/en-us/tools-and-resources/video-library/quick-tips---bead-reconstitution-buffer-for-nebnext-single-cell-low-input-rna-library-prep)
 - See manual for recommendations based on QC results.
   - While 1 ng–20 ng cDNA yield is typical, 100 pg–20 ng purified cDNA can be used in the library construction protocol (Sections 2.7–2.12). If using cDNA outside the range of 1 ng–20 ng (as determined in Step 2.6), adjust the PCR cycles to amplify the adaptor ligated DNA. For details, see Step 2.10 in this protocol.
   - **If the cDNA yield is variable, the samples can be normalized to the same concentration prior to Step 2.7 in order to treat all of the samples with the same number of PCR cycles**.
@@ -296,9 +271,7 @@ For the various inputs listed above, the recommended PCR cycles will typically r
 ### 2.7. Fragmentation/End Prep
 
 - [ ] 2.7.1. Ensure that the 🟡 NEBNext Ultra II FS Reaction Buffer is completely thawed. If a precipitate is seen in the buffer, pipette up and down several times to break it up, and quickly vortex to mix. Place on ice until use.
-
 - [ ] 2.7.2. Vortex the 🟡 NEBNext Ultra II FS Enzyme Mix 5–8 seconds prior to use and place on ice.
-
 - [ ] 2.7.3. Add the following components to a 0.2 ml thin wall PCR tube on ice:
 
 | COMPONENT              | VOLUME (µl) PER REACTION |
@@ -310,7 +283,6 @@ For the various inputs listed above, the recommended PCR cycles will typically r
 |Total Volume  | 35 µl                  |   
 
 - [ ] 2.7.4. Vortex the reaction for 5 seconds and briefly spin in a microcentrifuge. 
-
 - [ ] 2.7.5. In a thermal cycler, with the heated lid set to 75°C, run the following program:
   - 25 minutes at 37°C
   - 30 minutes at 65°C
@@ -321,7 +293,6 @@ For the various inputs listed above, the recommended PCR cycles will typically r
 ### 2.8. Adaptor Ligation
 
 - [ ] From the **NEB Oligo Kit**, thaw adaptor for illumina NEBNext Adaptor for Illumina and USER® Enzyme
-
 - [ ] 2.8.1. Dilute NEBNext Adaptor for Illumina by 25-fold (0.6 µM) in the NEBNext ⚪️ Adaptor Dilution Buffer.
 - [ ] 2.8.2. Mix the 🔴 NEBNext Ultra II Ligation Master Mix by pipetting up and down several times.
 - [ ] 2.8.3. Add the following components directly to the FS Reaction Mixture on ice:
@@ -341,9 +312,7 @@ For the various inputs listed above, the recommended PCR cycles will typically r
   - [ ] Perform a quick spin to collect all liquid from the sides of the tube. (Caution: The NEBNext Ultra II Ligation Master Mix is very **viscous**. Care should be taken to ensure adequate mixing of the ligation reaction, as incomplete mixing will result in reduced ligation efficiency. The presence of a small amount of bubbles will not interfere with performance).
 
 - [ ] 2.8.5. Incubate at 20°C for 15 minutes in a thermal cycler with the heated lid off.
-
 - [ ] 2.8.6. Add 3 μl of 🔴 USER® Enzyme to the ligation mixture from Step 2.8.5.
-
 - [ ] 2.8.7. Mix well and incubate at 37°C for 15 minutes with the heated lid set to ≥ 47°C. 
 
 ### 🛑 Safe Stopping Point: Samples can be safely stored overnight at 4°C or –20°C.
@@ -355,32 +324,23 @@ For the various inputs listed above, the recommended PCR cycles will typically r
 - [ ] 2.9.1. If stored at 4°C allow the SPRI beads to warm to room temperature for at least 30 minutes before use.
   - [ ] Vortex SPRI beads to resuspend well
   - [ ] Prepare fresh 80% ethanol
-    - [ ] 400 uL per sample
+    - 400 uL per sample
   - [ ] Prepare 0.1X TE (dilute ⚪️ 1X TE Buffer 1:10 in nuclease free water)
-    - [ ] 17 uL per sample
-
+    - 17 uL per sample
 - [ ] 2.9.2. Add 57 μl (0.8X of sample volume) resuspended beads to the PCR reaction.
   - [ ] Mix well by pipetting up and down at least 10 times.
   - [ ] Be careful to expel all of the liquid out of the tip during the last mix.
-
 - [ ] 2.9.3. Incubate samples on the bench top for at least **5 minutes at room temperature**.
-
 - [ ] 2.9.4. Place the tube/plate on an appropriate magnetic stand to separate the beads from the supernatant. If necessary, quickly spin
 the sample to collect the liquid from the sides of the tube or plate wells before placing on the magnetic stand.
-
 - [ ] 2.9.5. After **5 minutes** (or when the solution is clear), carefully remove and **discard the supernatant**. Be careful not to disturb the beads that contain DNA targets (**Caution: do not discard the beads**).
-
 - [ ] 2.9.6. Add **200 μl of 80% freshly prepared ethanol** to the tube/ plate while in the magnetic stand. Incubate at room temperature for
 30 seconds, and then carefully remove and discard the supernatant. Be careful not to disturb the beads that contain DNA targets.
-
 - [ ] 2.9.7. Repeat Step 2.9.6 once for a total of **two washes**. Be sure to remove all visible liquid after the second wash. If necessary, briefly spin the tube/plate, place back on the magnet and **remove traces of ethanol with a p10 pipette tip**.
-
 - [ ] 2.9.8. Air dry the beads for *up to 5 minutes* while the tube/plate is on the magnetic stand with the lid open.
-  - [ ] **Caution: Do not over-dry the beads.** This may result in lower recovery of DNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
-
+  - **Caution: Do not over-dry the beads.** This may result in lower recovery of DNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
 - [ ] 2.9.9. Remove the tube/plate from the magnetic stand.
   - [ ] Elute the DNA target from the beads by adding 17 μl of 0.1X TE (dilute ⚪️ 1X TE Buffer 1:10 in nuclease free water).
-
 - [ ] 2.9.10. Mix well by pipetting up and down 10 times, or on a vortex mixer. Incubate for at least **2 minutes at room temperature**.
   - [ ] If necessary, quickly spin the sample to collect the liquid from the sides of the tube or plate wells before placing back on the magnetic stand.
 
@@ -395,7 +355,6 @@ the sample to collect the liquid from the sides of the tube or plate wells befor
 ### 2.10. PCR Enrichment of Adaptor-ligated DNA
 
 - [ ] From the **NEB Oligo Kit**, thaw i7 and i5 primers according to instructions
-
 - [ ] 2.10.1. Combine the following components in a sterile tube:
   - Using Option A, since my NEBNext oligo kit has index primers **supplied in tubes**. These kits have the forward and reverse primers supplied in separate tubes. Primers are supplied at 10 µM each.
 
@@ -415,9 +374,7 @@ the sample to collect the liquid from the sides of the tube or plate wells befor
   - [ ] Perform a quick spin to collect all liquid from the sides of the tube.
 - [ ] 2.10.3. Place the tube on a thermal cycler and perform PCR amplification using the following PCR cycling conditions:
 
-*If your cDNA input is outside the input range of 1 ng–20 ng, adjust the PCR cycle numbers accordingly. We recommend a minimum
-of 3 PCR cycles for all of the original molecules to make it into the final library. For cDNA yield of 100 pg we recommend testing
-12 PCR cycles. For cDNA input of 1 ng–20 ng, the typical Illumina library yield, using 8 PCR cycles, is 100 ng–1 μg.*
+*If your cDNA input is outside the input range of 1 ng–20 ng, adjust the PCR cycle numbers accordingly. We recommend a minimum of 3 PCR cycles for all of the original molecules to make it into the final library. For cDNA yield of 100 pg we recommend testing 12 PCR cycles. For cDNA input of 1 ng–20 ng, the typical Illumina library yield, using 8 PCR cycles, is 100 ng–1 μg.*
 
 | CYCLE STEP           | TEMP  | TIME       | CYCLES | 
 |----------------------|-------|------------|--------|
@@ -434,9 +391,9 @@ of 3 PCR cycles for all of the original molecules to make it into the final libr
 - [ ] 2.11.1. If stored at 4°C allow the SPRI beads to warm to room temperature for at least 30 minutes before use.
   - [ ] Vortex SPRI beads to resuspend well
   - [ ] Prepare fresh 80% ethanol
-    - [ ] 400 uL per sample
+    - 400 uL per sample
   - [ ] Prepare 0.1X TE (dilute ⚪️ 1X TE Buffer 1:10 in nuclease free water)
-    - [ ] 33 uL per sample
+    - 33 uL per sample
 - [ ] 2.11.2. Add 45 μl (0.9X of sample volume) resuspended beads to the PCR reaction.
   - [ ] Mix well by pipetting up and down at least 10 times.
   - [ ] Be careful to expel all of the liquid out of the tip during the last mix. 
@@ -448,7 +405,7 @@ of 3 PCR cycles for all of the original molecules to make it into the final libr
 - [ ] 2.11.7. Repeat Step 2.11.6 once for a total of **two washes**. Be sure to remove all visible liquid after the second wash. If necessary,
 briefly spin the tube/plate, place back on the magnet and **remove traces of ethanol with a p10 pipette tip**.
 - [ ] 2.11.8. Air dry the beads for *up to 5 minutes* while the tube/plate is on the magnetic stand with the lid open.
-  - [ ] **Caution: Do not over-dry the beads**. This may result in lower recovery of DNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
+  - **Caution: Do not over-dry the beads**. This may result in lower recovery of DNA. Elute the samples when the beads are **still dark brown and glossy looking**, but when all visible liquid has evaporated. When the beads turn lighter brown and start to crack, they are too dry.
 - [ ] 2.11.9. Remove the tube/plate from the magnetic stand.
   - [ ] Elute the DNA target from the beads by adding 33 μl of 0.1X TE (dilute ⚪️ 1X TE Buffer 1:10 in nuclease free water).
 - [ ] 2.11.10. Mix well by pipetting up and down 10 times, or on a vortex mixer. Incubate for at least **2 minutes at room temperature**.
@@ -462,12 +419,12 @@ briefly spin the tube/plate, place back on the magnet and **remove traces of eth
 
 ### 2.12. Assess Library Quality and Quantity on a Bioanalyzer
 - [ ] 2.12.1. Dilute library (from Step 2.11.11) 5-fold in 0.1X TE Buffer (dilute ⚪️ 1X TE Buffer 1:10 in nuclease free water)
-  - [ ] Mix 1 uL library with 4 uL 0.1X TE
-  - [ ] inputs ≤ 1 ng may not require dilution to run on a Bioanalyzer.
+  - Mix 1 uL library with 4 uL 0.1X TE
+  - inputs ≤ 1 ng may not require dilution to run on a Bioanalyzer.
 - [ ] 2.12.2. Run 1 μl on a DNA High Sensitivity Chip.
-  - [ ] I am going to try with tapestation
+  - I am going to try with tapestation
 - [ ] 2.12.3. Check that the electropherogram shows a **narrow distribution with a peak size of 300–350 bp**.
-  - [ ] Note: If a peak ~80 bp (primers) or 128-140 bp (adaptor-dimer) is visible in the Bioanalyzer trace, bring up the sample volume (from Step 2.11.11.) to 50 μl with 0.1X TE Buffer and repeat the cleanup of PCR Reaction as described in Section 2.11. You may see adaptor-dimer when starting with inputs ≤ 1 ng.
+  - Note: If a peak ~80 bp (primers) or 128-140 bp (adaptor-dimer) is visible in the Bioanalyzer trace, bring up the sample volume (from Step 2.11.11.) to 50 μl with 0.1X TE Buffer and repeat the cleanup of PCR Reaction as described in Section 2.11. You may see adaptor-dimer when starting with inputs ≤ 1 ng.
 
 ----
 
