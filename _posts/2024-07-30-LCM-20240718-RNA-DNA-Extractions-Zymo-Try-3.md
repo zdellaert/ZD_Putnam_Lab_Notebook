@@ -102,3 +102,16 @@ Well that's pretty good increase for DNA from the Zymo kit! At least for POC...
 - Ran at 65 V for 60 minutes
 
 ![2024-07-30-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-30-gel.JPG?raw=true)
+
+### Thoughts
+
+- Okay, so unfortunately decreasing the digestion time and temperature did not magically make the POC RNA not be degraded. That's the last sample I have collected in ProK digestion buffer, but can continue to play around with the lysis buffer samples. But there is something weird going on that I don't fully understand. 
+
+- Once again, all of this could be dependent mostly on tissue input and the more tissue that goes in the more intact RNA that comes out.
+
+- emailed Zymo support with basically the following questions
+  - Why would we get degraded RNA from the DNA/RNA kit if we were getting less degraded RNA from the [RNA only kit](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-RNA-Extractions-Zymo/)?
+  - Why would we be able to get great RNA from Porites with the DNA/RNA kit but not DNA?
+  - Vice versa, why would we be able to get great DNA from Pocillopora but not RNA?
+    - Didn't use the species names, but just brought up this question/idea
+  - Asked if they have recommendations for digestion times and/or on-column proteinase K digestion.
