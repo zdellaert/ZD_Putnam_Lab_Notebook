@@ -57,7 +57,7 @@ I have a sample kit of 6 preps. Detailing the steps of the protocol below, and w
 - ⚪️ NEBNext Bead Reconstitution Buffer
 - ⚪️ NEBNext Adaptor Dilution Buffer
 - ⚪️ TE Buffer
-- ⚪️ Nuclease-free Buffer
+- ⚪️ Nuclease-free Water
 
 ### Best practices (thanks, [Jill](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-06-13-Zymo-Pico-Methyl-Seq-Library-Prep.md))
 
@@ -105,7 +105,7 @@ I have a sample kit of 6 preps. Detailing the steps of the protocol below, and w
      - [ ] 🟠 NEBNext Single Cell cDNA PCR Primer
      - [ ] ⚪️ NEBNext Bead Reconstitution Buffer
      - [ ] ⚪️ TE Buffer
-     - [ ] ⚪️ Nuclease-free Buffer
+     - [ ] ⚪️ Nuclease-free Water
    - [ ] Mix each component thoroughly, centrifuge briefly to collect solutions to the bottom of the tube, and **then place on ice**.
    - [ ] Leave the NEBNext Cell Lysis Buffer bottle at 4°C or at room temperature for storage.
 
@@ -119,7 +119,7 @@ I have a sample kit of 6 preps. Detailing the steps of the protocol below, and w
      - [ ] 🔵 NEBNext Ultra II Q5® Master Mix
      - [ ] ⚪️ NEBNext Adaptor Dilution Buffer
      - [ ] ⚪️ TE Buffer
-     - [ ] ⚪️ Nuclease-free Buffer
+     - [ ] ⚪️ Nuclease-free Water
    - [ ] Mix each component thoroughly, centrifuge briefly to collect solutions to the bottom of the tube, and **then place on ice**.
 
 ## Day 1
@@ -471,8 +471,9 @@ Just going to start with two, and then will try again and see if I need to pool 
     - 0.484 ng/uL
   -  #7, [6/13 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-RNA-Extractions-Zymo/)
      -  1.240 ng/uL
-  -  Or a re-extraction (sample #22? in ProK for 1 hour?)
+  -  Or a re-extraction (sample #22? in ProK , 55 ºC, for 1 hour?)
      -  we shall see
+     -  what about a 15 min digestion at 56 ºC 1400 rpm like in the [PaxGene protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_RNA_from_microdissected_PFPE_and_PFCE.pdf)
 - POR:
   - #7, [7/24 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240718-RNA-DNA-Extractions-Zymo-Try-2/)
     - 0.280ng/uL
