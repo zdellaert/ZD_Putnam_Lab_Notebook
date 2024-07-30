@@ -203,7 +203,11 @@ During the above annealing step, prepare the components for the following step.
 | Final Extension      | 72°C  | 5 minutes  | 1       |
 | Hold                 | 4°C   | ∞          |         |
 
-For 1-10 ng of RNA, we will use 10-11 cycles. This step should take about an hour
+This step should take about an hour depending on # of cycles.
+
+For 1-10 ng of RNA, they recommend 10-11 cycles.
+
+**Based on looking at other Putnam lab Library Prep protocols, we almost always have to increase the number of cycles for our input. And mine is extra degraded. I will increase cycles to 15.**
 
 For the various inputs listed above, the recommended PCR cycles will typically result in cDNA yields between 1–20 ng (in most cases 5–15 ng). We recommend quantifying cDNA after the cleanup (Step 2.5) before proceeding to the library preparation (Sections 2.7–2.12). 
 
