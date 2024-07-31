@@ -466,18 +466,29 @@ briefly spin the tube/plate, place back on the magnet and **remove traces of eth
   - 65°C, 5 minutes
   - Hold at 4°C
 
-## Samples:
+---
+
+## Samples: Starting library prep 7/30/24
 
 Just going to start with two, and then will try again and see if I need to pool RNA or anything.
 
-- POC: need to decide between
-  - #18, [7/24 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240718-RNA-DNA-Extractions-Zymo-Try-2/)
-    - 0.484 ng/uL
+- POC:
   -  #7, [6/13 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240613-RNA-Extractions-Zymo/)
-     -  1.240 ng/uL
-  -  Or a re-extraction (sample #22? in ProK , 55 ºC, for 1 hour?)
-     -  we shall see
-     -  what about a 15 min digestion at 56 ºC 1400 rpm like in the [PaxGene protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_RNA_from_microdissected_PFPE_and_PFCE.pdf)
+     - 1.240 ng/uL
+     - 7 ul * 1.24 ng/ul = 8.68 ng
+       - Using > 5 ng protocol
 - POR:
   - #7, [7/24 Zymo Extraction](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240718-RNA-DNA-Extractions-Zymo-Try-2/)
-    - 0.280ng/uL
+    - 0.280 ng/uL
+    - 8 ul * 0.28 ng/ul = 2.24 ng
+       - Using < 5 ng protocol
+
+Just a coincidence that they are the same number.
+
+## Notes on beads:
+
+- we only have KAPA Pure beads 
+- Protocol calls for SPRIselect Reagent Kit (Beckman Coulter®, Inc. #B23317) or AMPure® XP Beads (Beckman Coulter, Inc. #A63881)
+- Based on some research the recommended ratios seem really similar. Going to move forward and see how the cleaned up cDNA looks.
+
+
