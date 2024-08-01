@@ -489,13 +489,13 @@ Just a coincidence that they are the same number.
 
 ### cDNA QC, step 2.6
 
-![2024-08-01-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POC.JPG?raw=true)
+![2024-07-31-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POC.JPG?raw=true)
 
-![2024-08-01-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POR.JPG?raw=true)
+![2024-07-31-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POR.JPG?raw=true)
 
 These traces do not have the beautiful cDNA peak around 2000 bp as shown in the manual. However, this is likely expected since we had degraded RNA as our input. I reached out to NEB with the traces and they said they were not surprised by the traces, and recommended moving forward with the cDNA! Yay!
 
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01.pdf)
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31.pdf)
 
 #### Normalizing cDNA input to go into step 2.7 (Fragmentation/End Prep)
 
