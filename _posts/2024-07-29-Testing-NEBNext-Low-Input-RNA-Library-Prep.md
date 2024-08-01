@@ -489,13 +489,13 @@ Just a coincidence that they are the same number.
 
 ### cDNA QC, step 2.6
 
-![2024-07-31-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POC.JPG?raw=true)
+![2024-08-01-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POC.JPG?raw=true)
 
-![2024-07-31-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POR.JPG?raw=true)
+![2024-08-01-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POR.JPG?raw=true)
 
 These traces do not have the beautiful cDNA peak around 2000 bp as shown in the manual. However, this is likely expected since we had degraded RNA as our input. I reached out to NEB with the traces and they said they were not surprised by the traces, and recommended moving forward with the cDNA! Yay!
 
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31.pdf)
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01.pdf)
 
 #### Normalizing cDNA input to go into step 2.7 (Fragmentation/End Prep)
 
@@ -527,9 +527,35 @@ Tapestation concentrations:
 
 | sample_id | cDNA input |    range     | recommended # of cycles | 
 |-----------|------------|--------------|-------------------------|
-| POR       |  2.834 ng  | 1 ng–20 ng   |     6–9                 |   
-| POC       |  100 ng    | 20 ng–100 ng |     3–6                 |
+|   POR     |  2.834 ng  | 1 ng–20 ng   |     6–9                 |   
+|   POC     |  100 ng    | 20 ng–100 ng |     3–6                 |
 
-I think I am going to do 9 cycles for both. Upper range for both of them, but I would rather amplify more than less. And once again, so much of the POC cDNA that is going in is very short.
+Split over two thermocylcers and did 9 cycles for POR and 6 for POC.
 
-Or I could splt over two thermocylcers and do 9 for POR and 6 for POC.
+### FINISHED LIBRARY PREP
+
+![2024-08-01-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POC.JPG?raw=true)
+
+![2024-08-01-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POR.JPG?raw=true)
+
+YAY!! These look SO good! Eluted in 30 uL and 3 uL used for Qubit and Tapestation. Final volume 27 uL.
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01.pdf)
+
+| sample_id | tapestation concentration | ng Library  (conc * 27 uL) |
+|-----------|---------------------------|----------------------------|
+| POR       |  9.23 ng/uL               |     249.21 ng              |
+| POC       |  6.21 ng/uL               |     167.67 ng              |
+
+#### Qubit Values:
+
+- Used dsDNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+  - I have been doing 2 uL of DNA product with 198 uL of DNA buffer, just to reduce any possible pipetting error. This is corrected for in the Qubit readings.
+- All samples read twice, standard only read once
+
+DNA Standards: 204.13 (S1) & 24677.72 (S2)
+
+| colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG  | ng Library (Qubit * 27 uL) | 
+|-----------|------------|------------|---------------|----------------------------|
+| POR       |  7.36      |  7.44      |  7.40 ng/uL   |      199.8 ng              |
+| POC       |  5.27      |  5.24      |  5.255 ng/uL  |     141.885 ng             |
