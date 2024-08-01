@@ -487,6 +487,10 @@ Just going to start with two, and then will try again and see if I need to pool 
 
 Just a coincidence that they are the same number.
 
+Tapestation traces for each:
+
+![2024-07-30-RNA-Input.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-30-RNA-Input.JPG?raw=true)
+
 ### cDNA QC, step 2.6
 
 ![2024-07-31-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POC.JPG?raw=true)
