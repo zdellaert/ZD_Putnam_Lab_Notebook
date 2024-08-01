@@ -12,7 +12,7 @@ Product: [NEBNext® Single Cell/Low Input RNA Library Prep Kit for Illumina](htt
 
 Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manualE6420_NEBNext_Low_Input_RNA_Library_Prep.pdf). Most of the text here is taken directly from this protocol. I will only be using (and detailing the steps below) for one of the workflows in this protocol: "**Section 2: Protocol for Low Input RNA: cDNA Synthesis, Amplification and Library Generation**". 
 
-I have a sample kit of 6 preps. Detailing the steps of the protocol below, and will have a separate post where I will detail the samples and exact steps or modifications taken.
+I have a sample kit of 6 preps.
 
 ### Overview image of workflow:
 
@@ -32,6 +32,8 @@ I have a sample kit of 6 preps. Detailing the steps of the protocol below, and w
 - Vortex
 - Microcentrifuge
 - SPRIselect Reagent Kit (Beckman Coulter®, Inc. #B23317) or AMPure® XP Beads (Beckman Coulter, Inc. #A63881)
+  - we only have KAPA Pure beads
+  - Based on some research the recommended ratios seem really similar
 - Agilent® Bioanalyzer® or similar fragment analyzer and associated consumables
   - I will be using an Agilent Tapestation instead
 - [NEBNext Oligos](https://www.neb.com/en-us/products/next-generation-sequencing-library-preparation/multiplex-oligos-adaptors-and-primers/multiplex-oligos-adaptors-and-primers)
@@ -485,10 +487,49 @@ Just going to start with two, and then will try again and see if I need to pool 
 
 Just a coincidence that they are the same number.
 
-## Notes on beads:
+### cDNA QC, step 2.6
 
-- we only have KAPA Pure beads 
-- Protocol calls for SPRIselect Reagent Kit (Beckman Coulter®, Inc. #B23317) or AMPure® XP Beads (Beckman Coulter, Inc. #A63881)
-- Based on some research the recommended ratios seem really similar. Going to move forward and see how the cleaned up cDNA looks.
+![2024-07-31-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POC.JPG?raw=true)
+
+![2024-07-31-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POR.JPG?raw=true)
+
+These traces do not have the beautiful cDNA peak around 2000 bp as shown in the manual. However, this is likely expected since we had degraded RNA as our input. I reached out to NEB with the traces and they said they were not surprised by the traces, and recommended moving forward with the cDNA! Yay!
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31.pdf)
+
+#### Normalizing cDNA input to go into step 2.7 (Fragmentation/End Prep)
+
+So, 26 uL of this cDNA goes into step 2.7. How many ng is this?
+
+The amount of ng input into this step determines how many cycles to use in step 2.10.
+
+Tapestation concentrations:
+
+| sample_id | concentration | amount cDNA (conc * 26 uL) | range | recommended # of cycles  | 
+|-----------|---------------|----------------------------|-------|------------------------|
+| POR       |  0.109 ng/uL  |     2.834 ng               |    1 ng–20 ng  |  6–9        |   
+| POC       |  19.2 ng/uL   |     499.2 ng               |     > 100ng    | NA - need to normalize   |
 
 
+So, I need to normalize my POC cDNA. I want to bring it down to 100ng of input, because even though the concentration is so high, I am guessing that a lot of the cDNA in this is quite short, so I still want to maximize the amount of cDNA going into the reaction. I will have plenty left over and can try again if I want.
+
+To input 100 ng of cDNA into the reaction, I want a final concentration of 100/26 = 3.846 ng/uL
+
+(19.2 ng/uL)(X) = 100 ng
+
+100 / 1.92 = 5.2 uL of cDNA input
+
+So into step 2.7, I am adding 5.2 uL of POC cDNA and 20.8 uL of nuclease free water. 
+
+### cDNA input
+
+Tapestation concentrations:
+
+| sample_id | cDNA input |    range     | recommended # of cycles | 
+|-----------|------------|--------------|-------------------------|
+| POR       |  2.834 ng  | 1 ng–20 ng   |     6–9                 |   
+| POC       |  100 ng    | 20 ng–100 ng |     3–6                 |
+
+I think I am going to do 9 cycles for both. Upper range for both of them, but I would rather amplify more than less. And once again, so much of the POC cDNA that is going in is very short.
+
+Or I could splt over two thermocylcers and do 9 for POR and 6 for POC.
