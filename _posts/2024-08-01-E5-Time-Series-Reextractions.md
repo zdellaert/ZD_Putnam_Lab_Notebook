@@ -78,6 +78,33 @@ Can clip or can try to extract from shield tube:
     - 20220221
     - 20220203
 
+### Clipping list (all samples)
+
+- POC-53, TP4 (Nov)
+  - subset bag in freezer: blue (M1)
+- POR-262, TP2 (Mar)
+  - subset bag in freezer: yellow (M2)
+- ACR-173, TP4 (Nov)
+  - subset bag in freezer: blue (M1)
+- ACR-186, TP1 (Jan)
+  - subset bag in freezer: blue (M1); orange (M2)
+- POC-219, TP3 (Sep)
+  - subset bag in freezer: GREEN - 2 M2 frags?
+- POR-245, TP4 (Nov)
+  - subset bag in freezer: pink (M1)
+- POR-74, TP2 (Mar)
+  - subset bag in freezer: green (M1) + yellow (M2)
+- POR-83, TP1 (Jan)
+  - subset bag in freezer: orange (M1) + blue (M2)
+- ACR-150, TP1 (Jan)
+  - subset bag in freezer: blue (M1) + orange (M2)
+- ACR-145, TP1 (Jan)
+  - subset bag in freezer: blue (M1) + orange (M2)
+- ACR-173, TP1 (Jan)
+  - subset bag in freezer: blue (M1) + orange (M2)
+- POC-52, TP1 (Jan)
+  - subset bag in freezer: orange (M1) + blue (M2)
+
 ## Protocol
 
 - We will clip them following [this protocol](https://emmastrand.github.io/EmmaStrand_Notebook/KBay-Coral-Chipping-2021/) into 2.0 screw cap tubes with 1000 uL of DNA/RNA shield and 0.25 mL of 0.5mm glass beads. These were kept on dry ice during clipping and immediately put into the -80 ºC freezer.
