@@ -81,13 +81,13 @@ Can clip or can try to extract from shield tube:
 ### Clipping list (all samples)
 
 - POC-53, TP4 (Nov)
-  - subset bag in freezer: blue (M1)
+  - subset bag in freezer: blue
 - POR-262, TP2 (Mar)
   - subset bag in freezer: yellow (M2)
 - ACR-173, TP4 (Nov)
-  - subset bag in freezer: blue (M1)
+  - subset bag in freezer: blue
 - ACR-186, TP1 (Jan)
-  - subset bag in freezer: blue (M1); orange (M2)
+  - subset bag in freezer: blue
 - POC-219, TP3 (Sep)
   - subset bag in freezer: GREEN - 2 M2 frags?
 - POR-245, TP4 (Nov)
@@ -95,15 +95,15 @@ Can clip or can try to extract from shield tube:
 - POR-74, TP2 (Mar)
   - subset bag in freezer: green (M1) + yellow (M2)
 - POR-83, TP1 (Jan)
-  - subset bag in freezer: orange (M1) + blue (M2)
+  - subset bag in freezer: blue
 - ACR-150, TP1 (Jan)
-  - subset bag in freezer: blue (M1) + orange (M2)
+  - subset bag in freezer: blue
 - ACR-145, TP1 (Jan)
-  - subset bag in freezer: blue (M1) + orange (M2)
+  - subset bag in freezer: blue
 - ACR-173, TP1 (Jan)
-  - subset bag in freezer: blue (M1) + orange (M2)
+  - subset bag in freezer: blue
 - POC-52, TP1 (Jan)
-  - subset bag in freezer: orange (M1) + blue (M2)
+  - subset bag in freezer: blue
 
 ## Protocol
 
