@@ -25,37 +25,58 @@ Can clip or can try to extract from shield tube:
   - subset bag in freezer: blue (M1)
   - shield tube: 775
   - extraction attempts:
-    - 20210902
-    - 20220211
+    - 20210902 - no RNA
+    - 20220211 - no RNA
 - ACR-186, TP1 (Jan)
   - subset bag in freezer: blue (M1); orange (M2)
   - shield tube: 249
   - extraction attempts:
-    - 20211005
-    - 20220221
+    - 20211005 - no RNA
+    - 20220221 - no RNA
 - POC-219, TP3 (Sep)
   - subset bag in freezer: GREEN - 2 M2 frags?
   - shield tube: 521
   - extraction attempts:
-    - 20211004
+    - 20211004 - degraded, and molecular sheet doesn't match notebook
 - POR-245, TP4 (Nov)
   - subset bag in freezer: pink (M1)
   - shield tube: 903
   - extraction attempts:
-    - 20211116
-    - 20220208
+    - 20211116 - no RNA
+    - 20220208 - no RNA
 - POR-74, TP2 (Mar)
   - subset bag in freezer: green (M1) + yellow (M2)
   - shield tube: 479
   - extraction attempts:
-    - 20211020
-    - 20220208
+    - 20211020 - nothing on Qubit but gel and nanodrop look okay???
+    - 20220208 - nothing on Qubit; but gel looks okay
 - POR-83, TP1 (Jan)
   - subset bag in freezer: orange (M1) + blue (M2)
   - shield tube: 215
   - extraction attempts:
+    - 20211130 - no RNA
+    - 20220217 - no RNA
+- ACR-150, TP1 (Jan)
+  - subset bag in freezer: blue (M1) + orange (M2)
+  - shield tube: 211
+  - extraction attempts:
     - 20211130
-    - 20220217
+- ACR-145, TP1 (Jan)
+  - subset bag in freezer: blue (M1) + orange (M2)
+  - shield tube: 187
+  - extraction attempts:
+    - 20211115
+- ACR-173, TP1 (Jan)
+  - subset bag in freezer: blue (M1) + orange (M2)
+  - shield tube: 203
+  - extraction attempts:
+    - 20211130
+- POC-52, TP1 (Jan)
+  - subset bag in freezer: orange (M1) + blue (M2)
+  - shield tube: 213
+  - extraction attempts:
+    - 20220221
+    - 20220203
 
 ## Protocol
 
