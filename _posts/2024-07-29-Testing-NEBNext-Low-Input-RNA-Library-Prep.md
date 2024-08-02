@@ -493,9 +493,9 @@ Tapestation traces for each:
 
 ### cDNA QC, step 2.6
 
-![2024-07-31-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POC.JPG?raw=true)
-
 ![2024-07-31-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POR.JPG?raw=true)
+
+![2024-07-31-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-07-31-POC.JPG?raw=true)
 
 These traces do not have the beautiful cDNA peak around 2000 bp as shown in the manual. However, this is likely expected since we had degraded RNA as our input. I reached out to NEB with the traces and they said they were not surprised by the traces, and recommended moving forward with the cDNA! Yay!
 
@@ -538,9 +538,9 @@ Split over two thermocylcers and did 9 cycles for POR and 6 for POC.
 
 ### FINISHED LIBRARY PREP
 
-![2024-08-01-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POC.JPG?raw=true)
-
 ![2024-08-01-POR.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POR.JPG?raw=true)
+
+![2024-08-01-POC.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-01-POC.JPG?raw=true)
 
 YAY!! These look SO good! Eluted in 30 uL and 3 uL used for Qubit and Tapestation. Final volume 27 uL.
 
