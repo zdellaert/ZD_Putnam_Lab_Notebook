@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing NEBNext Low Input RNA Library Prep
-date: '2024-07-29'
+date: '2024-08-01 17:00:00'
 categories: Protocols
 tags: [RNA, Pocillopora, Porites, LCM, Library Prep]
 ---
