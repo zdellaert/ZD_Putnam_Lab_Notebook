@@ -53,7 +53,7 @@ Tapestation concentrations:
 
 | sample_id | concentration | RIN |
 |-----------|------------|------------|
-| LCM sample 6/13 #3   |  451 pg/uL (0.451 ng/uL) | - |
+| LCM sample 6/13 #3   |  312 pg/uL (0.312 ng/uL) | - |
 | LCM sample 6/13 #7  |   1240 pg/uL (1.240 ng/uL)  | 1.5 | 
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-06-13.pdf)

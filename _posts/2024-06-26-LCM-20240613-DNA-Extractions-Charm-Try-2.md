@@ -47,8 +47,8 @@ Steps taken:
 
 | colony_id | DNA_QBIT_1 | DNA_QBIT_2 | DNA_QBIT_AVG | ng in tube (Qubit * 15 uL) | 
 |-----------|------------|------------|--------------|--------------|
-| LCM sample #10  |  1.81 |  1.81   |  1.81 ng/uL | 27.15 ng |
-| LCM sample #14  |  4.29 |  4.29   |  4.29 ng/uL | 64.35 ng |
+| LCM sample #9  |  1.81 |  1.81   |  1.81 ng/uL | 27.15 ng |
+| LCM sample #13  |  4.29 |  4.29   |  4.29 ng/uL | 64.35 ng |
 
 #### DNA Quality Check: Gel, using [Kristina's gel protocol at the bottom of this page.](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/)
 
