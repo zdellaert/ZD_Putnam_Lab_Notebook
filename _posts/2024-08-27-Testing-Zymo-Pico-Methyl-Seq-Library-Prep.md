@@ -65,7 +65,7 @@ Just going to start with two, and then will try again and see if I need to pool 
   - ![2024-07-24-gel-Charm.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-24-gel-Charm.JPG?raw=true)
 - POC:
   -  #22, [7/30 Zymo Extraction](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2024-07-30-LCM-20240718-RNA-DNA-Extractions-Zymo-Try-3.md)
-  - ![2024-07-30-gel.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-30-gel.JPG?raw=true)
+  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-30-gel.JPG?raw=true" width="400" height="500">
 
 ### Protocol notes
 
@@ -73,7 +73,7 @@ In section 4, I used 9 cycles for 10 ng input and 12 cycles for 1 ng input sampl
 
 ### FINISHED SUCCESSFUL LIBRARY PREP
 
-![2024-08-28.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28.JPG?raw=true)
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28.JPG?raw=true" width="400" height="500">
 
 ![2024-08-28-POR-1ng.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28-POR-1ng.JPG?raw=true)
 ![2024-08-28-POR-10ng.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28-POR-10ng.JPG?raw=true)
@@ -84,7 +84,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 | sample_id     | tapestation concentration | ng Library  (conc * 14 uL) |
 |---------------|---------------------------|----------------------------|
-| POR_14, 1ng   |  5.74                  | 80.36       |
-| POR_14, 10 ng | 10.8                  | 151.2       |
-| POC_22, 1 ng  |  6.36                  | 89.04       |
-| POC_22, 10ng  | 4.62                  | 64.68       |
+| POR_14, 1ng   |  5.74                     | 80.36       |
+| POR_14, 10 ng |  10.8                     | 151.2       |
+| POC_22, 1 ng  |  6.36                     | 89.04       |
+| POC_22, 10ng  |  4.62                     | 64.68       |
