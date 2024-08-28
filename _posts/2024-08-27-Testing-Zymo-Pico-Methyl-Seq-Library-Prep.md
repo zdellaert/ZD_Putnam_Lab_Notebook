@@ -73,7 +73,7 @@ In section 4, I used 9 cycles for 10 ng input and 12 cycles for 1 ng input sampl
 
 ### FINISHED SUCCESSFUL LIBRARY PREP
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28.JPG?raw=true" width="400" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28.JPG?raw=true" width="205" height="500">
 
 ![2024-08-28-POR-1ng.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28-POR-1ng.JPG?raw=true)
 ![2024-08-28-POR-10ng.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-08-28-POR-10ng.JPG?raw=true)
