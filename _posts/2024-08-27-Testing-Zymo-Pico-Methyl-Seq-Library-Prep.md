@@ -62,14 +62,18 @@ Just going to start with two, and then will try again and see if I need to pool 
 
 - POR:
   - #14, [7/24 Charm Extraction](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2024-07-24-LCM-20240718-DNA-Extractions-Charm-Try-2.md)
+  - Concentration: 1.68 ng/uL
   - ![2024-07-24-gel-Charm.JPG](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-24-gel-Charm.JPG?raw=true)
 - POC:
   -  #22, [7/30 Zymo Extraction](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2024-07-30-LCM-20240718-RNA-DNA-Extractions-Zymo-Try-3.md)
+  -  Concentration: 2.55 ng/uL
   - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2024-07-30-gel.JPG?raw=true" width="400" height="500">
+
+https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9oLU/edit?usp=sharing
 
 ### Protocol notes
 
-In section 4, I used 9 cycles for 10 ng input and 12 cycles for 1 ng input samples.
+Samples were diluted to 1 ng or 10 ng in 20 uL of DNA elution buffer to test ideal input amonts. In section 4, I used 9 cycles for 10 ng input and 12 cycles for 1 ng input samples.
 
 ### FINISHED SUCCESSFUL LIBRARY PREP
 
