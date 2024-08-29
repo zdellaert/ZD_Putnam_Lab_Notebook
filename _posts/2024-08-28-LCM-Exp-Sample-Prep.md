@@ -12,7 +12,9 @@ tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot]
 
 1. Day 1 (8/28/24): Fixed tissue in PAXgene fixative (*Pocillopora* from CBLS Wetlab)
    1. Selected 5 plugs from crate 14, labelled A-E. Took photos with size standard of each.
-   2. Then cut off branches and transfer gently to PAXgene fixative for 24 hours in fume hood, room temp
+   2. ![Pretty_Frags.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/Pretty_Frags.png?raw=true)
+   3. ![Frags_label_Size.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/Frags_label_Size.png?raw=true)
+   4. Then cut off branches and transfer gently to PAXgene fixative for 24 hours in fume hood, room temp
       1. Pocillopora: put 2 branches each in a 5 mL tube with 5 mL PAXgene fixative each
 2. Day 2 (8/29/24): Replace fixative with stabilizer, transfer to 4 ºC
 3. Day 3 (8/30/24): Started decalcification, kept on shaker in cold room (4 ºC)
