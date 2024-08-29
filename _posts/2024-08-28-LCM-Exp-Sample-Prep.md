@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-08-28 LCM Sample Prep
+title: 2024-08-28 LCM Experiment Sample Prep
 date: '2024-08-28'
 categories: Processing
 tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot]
