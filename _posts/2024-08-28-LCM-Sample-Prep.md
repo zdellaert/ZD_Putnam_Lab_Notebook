@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2024-08-28 LCM Pilot Sample Prep
+title: 2024-08-28 LCM Sample Prep
 date: '2024-08-28'
 categories: Processing
 tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot]
 ---
 
-## Fixing and decalcifying Pocillopora for LCM Pilot Experiment
+## Fixing and decalcifying Pocillopora for LCM Experiment
 
 ### Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/PAXgene-Fix-Decalc-Protocol/)
 
