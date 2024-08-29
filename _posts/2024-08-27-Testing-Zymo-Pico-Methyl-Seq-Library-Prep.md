@@ -14,7 +14,7 @@ I am basing my test off of [Jill's protocol](https://github.com/JillAshey/JillAs
 
 ### Here's the Pico Methyl-Seq library prep workflow: 
 
-![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_picomethylseq.png)
+![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_picomethylseq.png?raw=true)
 
 ### Materials 
 
