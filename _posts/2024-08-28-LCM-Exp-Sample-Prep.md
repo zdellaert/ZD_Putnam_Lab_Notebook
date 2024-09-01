@@ -17,6 +17,10 @@ tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot]
    4. Then cut off branches and transfer gently to PAXgene fixative for 24 hours in fume hood, room temp
       1. First frag fixed at 16:42, last at 15:12 (so all within 20 minutes)
       2. 2 branches each in a 5 mL tube with 5 mL PAXgene fixative each
+   5. Environmental conditions:
+      1. Temp: 26.38 ºC
+      2. pH: -73.2 mv (8.1)
+      3. Salinity: 35.14 psu
 2. Day 2 (8/29/24): Replace fixative with stabilizer, transfer to 4 ºC
 3. Day 3 (Fri 8/30/24): Started decalcification, kept on shaker in cold room (4 ºC)
    1. First wash with ICE-COLD Rnase-free PBS to remove excess ethanol, then transfer to sterilized and RNA-se cleaned beaker or tube with ICE-COLD EDTA and put in cold room at 4 ºC.
