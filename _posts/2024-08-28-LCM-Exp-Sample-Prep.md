@@ -25,13 +25,16 @@ tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot]
 3. Day 3 (Fri 8/30/24): Started decalcification, kept on shaker in cold room (4 ºC)
    1. First wash with ICE-COLD Rnase-free PBS to remove excess ethanol, then transfer to sterilized and RNA-se cleaned beaker or tube with ICE-COLD EDTA and put in cold room at 4 ºC.
    2. ![decalc.jpeg](image link)
-4. Day 4 (Sat 8/31/24): Changed EDTA solution
-5. Day 5 (Sun 9/1/24), Transfer into 10 mL of 15% RNAse-free sucrose at 4 ºC in RNAse-free PBS until the tissue sinks
-   1. Then into 30 % sucrose in RNAse-free PBS at 4 ºC overnight or until tissue sinks
+4. Day 4 (Sat 8/31/24): Changed EDTA solution (24 h)
+5. Day 5 (Sun 9/1/24): Still not decalcified, had to change the solution again. Moved to 6-well plate (48 h)
+6. Day 6 (Mon 9/2/24): Still not decalcified, had to change the solution again. (72 h)
+7. Day 7 (Tues 9/3/24): Morining: Transfer into 10 mL of 15% RNAse-free sucrose at 4 ºC in RNAse-free PBS until the tissue sinks
+   1. Then into 30 % sucrose in RNAse-free PBS until tissue sinks --> then embed and store at -80 overnight
+   2. Decalcification went from 5pm 8/30 to 8am 9/3 - about 87 hours.
 
 ### Embedding Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryoembedding-Protocol/)
 
-1. Day 6 (9/2/24): Embed on powdered dry ice and store at -80 ºC until sectioning
+1. Day 7 (9/3/24): Embed on powdered dry ice and store at -80 ºC until sectioning
    1. In cold room?
    2. Make sure to cool forceps on dry ice and OCT to 4ºC
    3. Make sure to fully dry tissue before embedding
