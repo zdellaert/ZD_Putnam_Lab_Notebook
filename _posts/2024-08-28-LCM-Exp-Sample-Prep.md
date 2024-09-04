@@ -73,9 +73,10 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
       2. 100% Ethanol 
    4. **Sectioning procedure:**
       1. Keep slide cold in the cryostat, briefly warm sections with finger to adhere
-      2. Air-dry the slide for 1 min at room temperature (15–25°C).
-      3. 70% Ethanol, 1 minute (**some protocols say 2 min**)
-      4. Transfer the slide to ice-cold 100% ethanol for transport to lab
+      2. In clean petri dish, pipette ice-cold 100% ethanol onto the sections and let sit for 30s. 
+      3. **Air-dry the slide for 15 min at room temperature (15–25°C) in dessication chamber or falcon tube with dessicant.**
+      4. ~~70% Ethanol, 1 minute (**some protocols say 2 min**)~~
+      5. ~~Transfer the slide to ice-cold 100% ethanol for transport to lab~~
    5. **In lab: Staining Procedure** (modified/combined from [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/leicalmdprotocolguide-May-2015.pdf) and [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Zeiss-RNA-extraction-frozen-sections.pdf) to reduce exposure to aqueous solutions of lower than 70% ethanol to reduce RNAses) ([ALSO](https://www.olivelab.org/uploads/6/3/6/2/6362060/laser_capture_microdissection_on_frozen_sections_for_extraction_of_high-quality_nucleic_acids.pdf))
       1. **ALL SOLUTIONS ICE COLD**
          1. Place slide on petri dish
@@ -93,3 +94,7 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 1. Buffers to collect cells in, bring to LCM and fill tube caps with 40 uL of solution when loading onto scope:
    1. Zymo Proteinase K digestion buffer (190 uL) + proteinase K (10 uL)
    2. Charm DD1 frozen tissue buffer
+
+### Extraction plan:
+
+
