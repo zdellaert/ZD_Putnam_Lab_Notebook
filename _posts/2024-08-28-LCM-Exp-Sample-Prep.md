@@ -130,18 +130,23 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 5. Samples collected (all from the second slide from this morning, A2)
    1. Section 1
       1. Tube 1: Aboral tissue, 8 dissections (dissection 2 lost)
+         1. **128,089 μm<sup>2</sup>**
       2. ~~Tube 2~~ (did not end up using for dissections)
       3. Tube 3: Oral epidermis, 6 dissections
+         1. **99,914 μm<sup>2</sup>**
    2. Section 2
       1. Tube 4: Aboral tissue, 9 dissections
+         1. **133,602 μm<sup>2</sup>**
       2. Tube 5: Oral epidermis, 6 dissections
+         1. **139,106 μm<sup>2</sup>**
    3. Section 3
       1. Tube 6: Oral epidermis, 4 dissections
+         1. **100,191 μm<sup>2</sup>**
       2. Tube 7: Aboral tissue, 4 dissections
+         1. **71,444 μm<sup>2</sup>**
 6. LCM lasted from 1:30-4:30. Needs to be faster.
 
 ### Extraction plan:
-
 
 **15 minute ROOM TEMP ProK digestion only** - can extend to 30 mins; can always try on column proK for dna
 
