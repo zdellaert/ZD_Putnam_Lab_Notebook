@@ -58,8 +58,8 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 3. Mix solution and store at 4°C sealed air-tight and dark
    1. mixed on orbital shaker overnight in cold room, with occasional vigorous shaking to resuspend powder into solution
 
-#### Sectioning: 9/4/24
-4.  [Section](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) onto PEN membrane slide for LCM as well as extra slides for confocal morpholgy imaging and backup for RNA and DNA extraction
+#### Sectioning: 9/4/24 (Frag A), 9/5/24 (Frags B&C)
+1.  [Section](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) onto PEN membrane slide for LCM as well as extra slides for confocal morpholgy imaging and backup for RNA and DNA extraction
    1. **All surfaces and equipment should be treated with RNAse cleaner!!!**
    2. Morning of: prepare PEN slide with UV and RNAse cleaner
       1. Make sure to not damage or touch the membrane in any way
@@ -90,11 +90,98 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
             1. **if possible, proceed to immediate LCM at this step!**
    6. Freeze slides at -80 ºC
 
-#### LCM: 
-1. Buffers to collect cells in, bring to LCM and fill tube caps with 40 uL of solution when loading onto scope:
-   1. Zymo Proteinase K digestion buffer (190 uL) + proteinase K (10 uL)
-   2. Charm DD1 frozen tissue buffer
+### LCM Procedure: 
+1. Bring to LCM
+   1. Lab notebook
+   2. 70% ethanol and RNAse away
+   3. Kimwipes + some paper towels
+   4. Gloves
+   5. p200 + tips
+   6. Dry ice for tubes (& slides when done dissecting)
+   7. RNAse free 0.2 mL PCR tubes (I keep one rack with clean closed tubes at RT and one in the dry ice cooler)
+   8. Buffers to collect cells in, bring to LCM and fill tube caps with 40 uL of solution when loading onto scope:
+      1. Zymo Proteinase K digestion buffer (95 uL 2X, 95 uL H2O) + proteinase K (10 uL)
+      2. Charm DD1 frozen tissue buffer
+   9. LCM slides prepared above
+2. Clean working space, and all parts of scope around the slide and sample collectors (also computer mouse and focus/stage knobs) with 70% ethanol and RNAse cleaner. Do so carefully for scope with damp kimwipe, do not spray anything onto the equipment.
+3. Unload the slide holder and clean with ethanol and RNAse away
+4. Load slide onto slide holder (thick part with label goes towards the spring holder)
+5. Unload the collector and clean with ethanol and RNAse away
+6. Label 4 PCR tubes and put in the collector
+7. Fill caps of each tube with appropriate buffer, recorded in lab notebook 
+   1. **Note order carefully and know which tube is A, B, C, & D on the LCM**
+8. Load collector onto scope and get crackin!
+9. Windows to pull up: Laser, microscope control
+10. Take overview image of slide at 5X
+11. Dissect cells at 20X. Find areas (typically not in the polyp where there are many sections through the tissue and oral vs. aboral is harder to tease apart) where you can clearly differentiate oral epidermis and aboral tissue. For each section, choose a tube that will collect the oral epidermis and the tube that will collect aboral epi/gastrodermis. Record this carefully! When drawing areas to dissect, select the correct tube in the bottom left and make sure the ROI drawing is the same color as the tube color. You can draw multiple ROIs for different tubes in one view, just make sure to switch tubes between ROIs. And when going from one view/dissection to the next, always confirm the tube selected for collection before dissecting.
+    1.  Make sure scale bar is on
+    2.  Take image before dissecting, with ROI in view (SAVE + L), and name the image with the tube # and the dissection #
+    3.  The program records the area in um^2 for the ROI drawn, and I record this in my lab notebook for each dissection number to get a general idea of how much tissue has been dissected per tube (However, the ROI area doesn't necessarily equal tissue area!!)
+    4.  Keep dissecting along the section , with the appropriate tissue going into the appropriate tube (and taking pictures/writing notes for each cut) until you have enough tissue for RNA extraction (for POC, I am estimating this will be around 7-8 20X dissections)
+    5.  Try to work as quickly as possible. Once a section is done, unload the collector and remove the tubes with the dissections VERY CAREFULLY, closing the cap as you remove it. Spin down in the mini centrifuge, then vortex 5-10s, then spin down for at least 30s. Then place in tube rack on dry ice.
+12. After a slide is done, I place it back in the falcon tube with dessicant and transport on dry ice to -80 for storage.
+
+#### LCM Notes, Day 1
+
+1. Sectioining: Today went much harder than expected. I was having issues during sectioning with the tissue coming out of the OCT, and some rolling issues as well. Sectioined two slides - labelled A1 and A2. 
+2. Even though I was very careful during all staining and washes (pipetting solutions only, no dunking), and did not notice any visible tissue loss, the tissue quality did not look great on the LCM. Collected 6 samples total (2 each from 3 sections on slide A2); focusing on collecting external epidermis (possibly difficult to disentangle from gastrodermis) and internal calicodermis. I pooled dissections within one section only all into the same tube for each tissue layer/section.
+3. I was having issues with static. I performed the LCM with the tissue facing upward for better visualization, which could have contributed to the static? It could also just be an issue of cutting small dissections and them not being heavy enough to fall well.
+4. But, I got samples. It took a long time. But there are some. But this replicate may need to be redone
+5. Samples collected (all from the second slide from this morning, A2)
+   1. Section 1
+      1. Tube 1: Aboral tissue, 8 dissections (dissection 2 lost)
+      2. ~~Tube 2~~ (did not end up using for dissections)
+      3. Tube 3: Oral epidermis, 6 dissections
+   2. Section 2
+      1. Tube 4: Aboral tissue, 9 dissections
+      2. Tube 5: Oral epidermis, 6 dissections
+   3. Section 3
+      1. Tube 6: Oral epidermis, 4 dissections
+      2. Tube 7: Aboral tissue, 4 dissections
+6. LCM lasted from 1:30-4:30. Needs to be faster.
 
 ### Extraction plan:
 
 
+**15 minute ROOM TEMP ProK digestion only** - can extend to 30 mins; can always try on column proK for dna
+
+- added 60 uL more buffer after thawing on ice, then incubated at room temo for 15 minutes
+- then transferred to 1.5 mL tube and spun down (9000 rcf, 3 mins) to pellet debris and moved supernatant to new tube
+- added 100 uL lysis buffer to the 100 uL of supernatant and mixed well via vortex. Transferred all volume to IC-XM (DNA column) and proceeded as usual.
+- put DNA columns in fridge while proceeding with RNA extraction as normal, with an elution of 2X 9 uL instead of once 15 uL
+
+
+Possible DNA on column pro-K:
+- DNA extraction changes (see above notes):
+  - Wash column with 400 uL wash buffer like before DNAse treatment
+  - Make a mixture of 30 µl of PK digestion buffer and 15 µl Proteinase K (1:2 ratio of Proteinase K:PK Digestion Buffer) and pipette whole 45 uL onto DNA column
+  - Incubate for 30 min at room temp
+  - Normal wash steps, and eluted 2X 9 uL instead of once 15 uL
+    - eluted in Tris warmed to 60 ºC
+
+Otherwise details of protocol were same as [7/24/24](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-20240718-RNA-DNA-Extractions-Zymo-Try-2/)
+
+
+- Cell collection procedure:
+  1. During LCM, were collected in 40 uL of buffer (see below) in tube cap during LCM
+  2. Vortexed and spun down briefly in LCM room and let cells lyse for ~5 minutes at room temperature (seeing homogenous leeching of cresyl violet stain into solution) before transferring to tube rack on dry ice.
+  3. Lysed cells tranferred on dry ice to -80ºC until extraction.
+- Cells were collected directly in Zymo Proteinase K Digestion mix (FFPE Section of protocol):
+     1. 95 uL DNAse/RNAse free water
+     2. 95 uL Zymo 2X Digestion Buffer
+     3. 10 uL Proteinase K
+- Extraction prep:
+  - Thaw tube on ice and then proceed
+  - For samples collected in ProK Mix:
+    - Added another 60 uL of ProK mix, moved to 1.5 mL tube, making sure to transfer all cellular debris
+      - **Incubate at room temp for 15 mins**
+    - After incubation, spin at 9,000 rcf for 3 mins to pellet any debris, then move supernatant to new 1.5 mL tube. Add equal parts lysis buffer and mix well, then move whole volume into IC-XM column.
+      - **Can double lysis buffer**
+  - Rest of protocol followed almost exactly [as written]((https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf)). 
+    - Spin IC-XM column, move to a new collection tube and move flow-though to 1.5 mL tube, combine with equal parts ethanol and mix well
+    - Move into RNA (IC) column and spin down, discard flow through
+    - Wash with 400 uL wash buffer, then do DNAse treatment (40 uL)
+    - Then 400 uL prep buffer and spin, 700 uL wash buffer and spin, and 400 uL wash buffer and spin.
+    - After last wash buffer I did modify the protocol slightly and moved the column to a new collection tube and spun dry for 2 minutes to try to remove any residual ethanol. Could try playing with this step since it is not in the protocol. But, they provide extra collection tubes so it seems appropriate.
+    - Eluted RNA in 18 uL (2 X 9uL) nuclease free water, and DNA in 20 uL nuclease free TRIS, warmed to 60ºC (based on our other Putnam Lab [Zymo Extraction Protocols](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/))
+      - 
