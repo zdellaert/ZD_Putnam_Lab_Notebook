@@ -121,11 +121,10 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
     5.  Try to work as quickly as possible. Once a section is done, unload the collector and remove the tubes with the dissections VERY CAREFULLY, closing the cap as you remove it. Spin down in the mini centrifuge, then vortex 5-10s, then spin down for at least 30s. Then place in tube rack on dry ice.
 12. After a slide is done, I place it back in the falcon tube with dessicant and transport on dry ice to -80 for storage.
 
-#### LCM Notes, Day 2 (9/6/24, tissue sectioned 9/5/24)
+#### LCM Protocol adjustment Day 2 (9/6/24)
 
-1. Sectioning went better than yesterday. I was able to get the brush method to work pretty well for sections at -22ºC. I got one slide per frag (B&C), with four sections each. There was definitely still a little bit of folding and rollage in some cases during section transfer, but overall I think better than yesterday.
-2. I am modifying the staining protocol for today. After sectioining, the slides were dried at room temp for 1 miniute, and then fixed at the cryostat with ice-cold 100% ethanol for 2 minutes. Then this was removed, sides of the slide were blotted with a kimwipe, and I transferred the slide to a falcon tube with dessicant and let this dry at room temp for 15 minutes. Then transported back to the lab on dry ice and transferred to -80 ºC for overnight.
-3. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
+1. I am modifying the staining protocol for today. After sectioining, the slides were dried at room temp for 1 miniute, and then fixed at the cryostat with ice-cold 100% ethanol for 2 minutes. Then this was removed, sides of the slide were blotted with a kimwipe, and I transferred the slide to a falcon tube with dessicant and let this dry at room temp for 15 minutes. Then transported back to the lab on dry ice and transferred to -80 ºC for overnight.
+2. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
    1. 30 minutes at -20 ºC
    2. 30 minutes at 4°C
    3. 15 minutes at room temp
@@ -141,6 +140,10 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
          7. Final fix, 1 minute in 100% ethanol or even for short-term storage prior to LCM
          8. Air dry sample 1-2 in drying chamber with desiccant or fume hood
             1. Proceed to LCM now.
+
+#### LCM Notes, Day 2 (9/6/24, tissue sectioned 9/5/24)
+
+1. Sectioning went better than yesterday. I was able to get the brush method to work pretty well for sections at -22ºC. I got one slide per frag (B&C), with four sections each. There was definitely still a little bit of folding and rollage in some cases during section transfer, but overall I think better than yesterday.
 
 #### LCM Notes, Day 1 (9/4/24)
 
