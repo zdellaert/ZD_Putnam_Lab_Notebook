@@ -121,6 +121,27 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
     5.  Try to work as quickly as possible. Once a section is done, unload the collector and remove the tubes with the dissections VERY CAREFULLY, closing the cap as you remove it. Spin down in the mini centrifuge, then vortex 5-10s, then spin down for at least 30s. Then place in tube rack on dry ice.
 12. After a slide is done, I place it back in the falcon tube with dessicant and transport on dry ice to -80 for storage.
 
+#### LCM Notes, Day 2 (9/6/24, tissue sectioned 9/5/24)
+
+1. Sectioning went better than yesterday. I was able to get the brush method to work pretty well for sections at -22ºC. I got one slide per frag (B&C), with four sections each. There was definitely still a little bit of folding and rollage in some cases during section transfer, but overall I think better than yesterday.
+2. I am modifying the staining protocol for today. After sectioining, the slides were dried at room temp for 1 miniute, and then fixed at the cryostat with ice-cold 100% ethanol for 2 minutes. Then this was removed, sides of the slide were blotted with a kimwipe, and I transferred the slide to a falcon tube with dessicant and let this dry at room temp for 15 minutes. Then transported back to the lab on dry ice and transferred to -80 ºC for overnight.
+3. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
+   1. 30 minutes at -20 ºC
+   2. 30 minutes at 4°C
+   3. 15 minutes at room temp
+   4. The performed staining with cresyl violet
+      1.  **ALL SOLUTIONS ICE COLD**
+         1. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
+         2. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
+         3. Rinse (pipetting) with ice-cold 75% ethanol
+         4. And then place back on clean petri dish and cover slide with ice-cold 70% ethanol (ideally the ethanol just stays on the slide but if it rolls off then gently submerge the slide in 75% ethanol)
+            1. Ideally this removes all the OCT. And hopefully no tissue.
+         5. Be as gentle as possible and keep everything as cold as possible
+         6. If successful, we should hopefully be able to skip the H2O step.
+         7. Final fix, 1 minute in 100% ethanol or even for short-term storage prior to LCM
+         8. Air dry sample 1-2 in drying chamber with desiccant or fume hood
+            1. Proceed to LCM now.
+
 #### LCM Notes, Day 1 (9/4/24)
 
 1. Sectioining: Today went much harder than expected. I was having issues during sectioning with the tissue coming out of the OCT, and some rolling issues as well. Sectioined two slides - labelled A1 and A2. 
@@ -145,24 +166,3 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
       2. Tube 7: Aboral tissue, 4 dissections
          1. **71,444 μm<sup>2</sup>**
 6. LCM lasted from 1:30-4:30. Needs to be faster.
-
-#### LCM Notes, Day 2 (9/6/24, tissue sectioned 9/5/24)
-
-1. Sectioning went better than yesterday. I was able to get the brush method to work pretty well for sections at -22ºC. I got one slide per frag (B&C), with four sections each. There was definitely still a little bit of folding and rollage in some cases during section transfer, but overall I think better than yesterday.
-2. I am modifying the staining protocol for today. After sectioining, the slides were dried at room temp for 1 miniute, and then fixed at the cryostat with ice-cold 100% ethanol for 2 minutes. Then this was removed, sides of the slide were blotted with a kimwipe, and I transferred the slide to a falcon tube with dessicant and let this dry at room temp for 15 minutes. Then transported back to the lab on dry ice and transferred to -80 ºC for overnight.
-3. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
-   1. 30 minutes at -20 ºC
-   2. 30 minutes at 4°C
-   3. 15 minutes at room temp
-   4. The performed staining with cresyl violet
-      1.  **ALL SOLUTIONS ICE COLD**
-         1. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
-         2. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
-         3. Rinse (pipetting) with ice-cold 75% ethanol
-         4. And then place back on clean petri dish and cover slide with ice-cold 70% ethanol (ideally the ethanol just stays on the slide but if it rolls off then gently submerge the slide in 75% ethanol)
-            1. Ideally this removes all the OCT. And hopefully no tissue.
-         5. Be as gentle as possible and keep everything as cold as possible
-         6. If successful, we should hopefully be able to skip the H2O step.
-         7. Final fix, 1 minute in 100% ethanol or even for short-term storage prior to LCM
-         8. Air dry sample 1-2 in drying chamber with desiccant or fume hood
-            1. Proceed to LCM now.
