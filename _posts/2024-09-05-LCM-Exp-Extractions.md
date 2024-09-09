@@ -81,9 +81,9 @@ DNA Standards: 66.72 (S1) & 24527.74 (S2)
 Hmm.
 
 
-#### RNA Quality Check: Tapestation
+#### DNA Quality Check: Tapestation
 
-Have not been runnning RNA Qubit's because I never detect anything from these super low concentrations.
+Nothing detected on Qubit. Likely nothing will be on a gel, so trying gDNA tapestation.
 
 ![2024-09-08-gdna](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-08-gdna.png?raw=true)
 
