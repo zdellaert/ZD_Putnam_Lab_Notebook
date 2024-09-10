@@ -175,3 +175,5 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 
 #### LCM Notes, Day 3 (9/11/24) 
 
+1. Sectioning went well, used mixture of brush method and roll plate. Sectionined at -22ºC. One slide each for frags D&E. 
+2. 
