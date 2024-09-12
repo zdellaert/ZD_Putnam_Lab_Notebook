@@ -36,7 +36,7 @@ tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot]
 1. Day 7 (9/3/24): Embed on powdered dry ice and store at -80 ºC until sectioning
    1. Make sure to cool forceps on dry ice and OCT to 4ºC
    2. Make sure to fully dry tissue before embedding
-   3. :et tissue sit in OCT for 2 minutes before freezing, to let it fully soak in
+   3. Let tissue sit in OCT for 2 minutes before freezing, to let it fully soak in
    4. Tightly wrapped in aluminum foil cleaned with Ethanol and RNAse away, then put in whirlpak and stored at - 80 ºC in a plastic box. 
       1. Two branches per frag
    5. Cryomold, alumnium foil labelled with frag number, two wrapped molds per one labelled whirlpak per frag.
@@ -106,12 +106,13 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 2. Clean working space, and all parts of scope around the slide and sample collectors (also computer mouse and focus/stage knobs) with 70% ethanol and RNAse cleaner. Do so carefully for scope with damp kimwipe, do not spray anything onto the equipment.
 3. Unload the slide holder and clean with ethanol and RNAse away
 4. Load slide onto slide holder (thick part with label goes towards the spring holder)
+   1. Slide should be loaded right-side up, with tissue on the bottom
 5. Unload the collector and clean with ethanol and RNAse away
 6. Label 4 PCR tubes and put in the collector
 7. Fill caps of each tube with appropriate buffer, recorded in lab notebook 
    1. **Note order carefully and know which tube is A, B, C, & D on the LCM**
 8. Load collector onto scope and get crackin!
-9. Windows to pull up: Laser, microscope control
+9.  Windows to pull up: Laser, microscope control
 10. Take overview image of slide at 5X
 11. Dissect cells at 20X. Find areas (typically not in the polyp where there are many sections through the tissue and oral vs. aboral is harder to tease apart) where you can clearly differentiate oral epidermis and aboral tissue. For each section, choose a tube that will collect the oral epidermis and the tube that will collect aboral epi/gastrodermis. Record this carefully! When drawing areas to dissect, select the correct tube in the bottom left and make sure the ROI drawing is the same color as the tube color. You can draw multiple ROIs for different tubes in one view, just make sure to switch tubes between ROIs. And when going from one view/dissection to the next, always confirm the tube selected for collection before dissecting.
     1.  Make sure scale bar is on
@@ -146,6 +147,11 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
          1. **71,444 μm<sup>2</sup>**
 6. LCM lasted from 1:30-4:30. Needs to be faster.
 
+Example photo:
+
+![TUBE3_4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE3_4.jpeg?raw=true)
+![TUBE3_4_POST.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE3_4_POST.jpeg?raw=true)
+
 #### LCM Protocol adjustment Day 2 (9/6/24)
 
 1. I am modifying the staining protocol for today. After sectioining, the slides were dried at room temp for 1 miniute, and then fixed at the cryostat with ice-cold 100% ethanol for 2 minutes. Then this was removed, sides of the slide were blotted with a kimwipe, and I transferred the slide to a falcon tube with dessicant and let this dry at room temp for 15 minutes. Then transported back to the lab on dry ice and transferred to -80 ºC for overnight.
@@ -173,7 +179,18 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 3. Got one slide each for Frags B and C, and collected two sets of samples for Frag B and three for Frag C.
 4. LCM lasted about 5 hours, from 11 to 4.
 
+Example photo:
+
+![TUBE17_3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE17_3.jpeg?raw=true)
+
 #### LCM Notes, Day 3 (9/11/24) 
 
 1. Sectioning went well, used mixture of brush method and roll plate. Sectionined at -22ºC. One slide each for frags D&E. 
-2. 
+2. LCM went much better, I flipped the orientation of my slides on the LCM (tissue on bottom instead of on top) and it seemed that the focal distance for images and ability of the laser to cut were much, much better. Barely had to re-cut any dissections or adjust the laser power, which helped with speed and likely dissection quality
+3. Got one slide each for Frags D and E, and collected two sets of samples for Frag D and four for Frag E.
+4. LCM lasted about 4.5 hours, from 11:30 to 4.
+
+Example photo:
+
+![TUBE27_4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE27_4.jpeg?raw=true)
+![TUBE26_5A.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE26_5A.jpeg?raw=true)
