@@ -183,6 +183,37 @@ Example photo:
 
 ![TUBE17_3.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE17_3.jpg?raw=true)
 
+Frag B Samples collected
+   1. Section 1
+      1. Tube 8: Oral epidermis, 7 dissections
+         1. **130,914 μm<sup>2</sup>**
+      2. Tube 9: Aboral tissue, 6 dissections
+         1. **92,727 μm<sup>2</sup>**
+      3. Tube 10: Symbionts only, 17 dissections
+         1. **156,815 μm<sup>2</sup>**
+   2. Section 3
+      1. Tube 11: Oral epidermis, 3 dissections
+         1. **78,431 μm<sup>2</sup>**
+      2. Tube 12: Aboral tissue, 3 dissections
+         1. **42,643 μm<sup>2</sup>**
+
+Frag C Samples collected
+   1. Section 3
+      1. Tube 13: Oral epidermis, 7 dissections
+         1. **282,917 μm<sup>2</sup>**
+      2. Tube 14: Aboral tissue, 7 dissections
+         1. **192,027 μm<sup>2</sup>**
+   2. Section 1
+      1. Tube 15: Oral epidermis, 8 dissections
+         1. **470,189 μm<sup>2</sup>**
+      2. Tube 16: Aboral tissue, 5 dissections
+         1. **300,731 μm<sup>2</sup>**
+   3. Section 4
+      1. Tube 17: Oral epidermis, 7 dissections
+         1. **364,858 μm<sup>2</sup>**
+      2. Tube 18: Aboral tissue, 4 dissections
+         1. **194,848 μm<sup>2</sup>**
+
 #### Sectioning and LCM Notes, Day 3 (9/11/24, tissue sectioned 9/10/24) 
 
 1. Sectioning went well, used mixture of brush method and roll plate. Sectionined at -22ºC. One slide each for frags D&E. 
@@ -195,3 +226,39 @@ Example photo:
 
 ![TUBE27_4.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE27_4.jpeg?raw=true)
 ![TUBE26_5A.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE26_5A.jpeg?raw=true)
+
+Frag D Samples collected
+   1. Section 2
+      1. Tube 20: Oral epidermis, 7 dissections
+         1. **297,944 μm<sup>2</sup>**
+      2. Tube 21: Aboral tissue, 8 dissections
+         1. **217,521 μm<sup>2</sup>**
+      3. Tube 22: Cnidocytes only, 16 dissections
+         1. **103,883 μm<sup>2</sup>**
+   2. Section 1
+      1. Tube 24: Oral epidermis, 9 dissections
+         1. **313,540 μm<sup>2</sup>**
+      2. Tube 25: Aboral tissue, 9 dissections
+         1. **292,276 μm<sup>2</sup>**
+
+Frag E Samples collected
+   1. Section 2
+      1. Tube 13: Oral epidermis, 10 dissections
+         1. **387,947 μm<sup>2</sup>**
+      2. Tube 14: Aboral tissue, 11 dissections
+         1. **371,129 μm<sup>2</sup>**
+   2. Section 4
+      1. Tube 15: Oral epidermis, 13 dissections
+         1. **467,440 μm<sup>2</sup>**
+      2. Tube 16: Aboral tissue, 15 dissections
+         1. **517,157 μm<sup>2</sup>**
+   3. Section 3
+      1. Tube 17: Oral epidermis, 5 dissections
+         1. **217,426 μm<sup>2</sup>**
+      2. Tube 18: Aboral tissue, 5 dissections
+         1. **182,599 μm<sup>2</sup>**
+   4. Section 1
+      1. Tube 17: Oral epidermis, 7 dissections
+         1. **289,071 μm<sup>2</sup>**
+      2. Tube 18: Aboral tissue, 7 dissections
+         1. **307,806 μm<sup>2</sup>**
