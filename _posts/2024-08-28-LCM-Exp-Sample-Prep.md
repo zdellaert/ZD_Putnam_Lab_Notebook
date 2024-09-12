@@ -243,22 +243,22 @@ Frag D Samples collected
 
 Frag E Samples collected
    1. Section 2
-      1. Tube 13: Oral epidermis, 10 dissections
+      1. Tube 26: Oral epidermis, 10 dissections
          1. **387,947 μm<sup>2</sup>**
-      2. Tube 14: Aboral tissue, 11 dissections
+      2. Tube 27: Aboral tissue, 11 dissections
          1. **371,129 μm<sup>2</sup>**
    2. Section 4
-      1. Tube 15: Oral epidermis, 13 dissections
+      1. Tube 28: Oral epidermis, 13 dissections
          1. **467,440 μm<sup>2</sup>**
-      2. Tube 16: Aboral tissue, 15 dissections
+      2. Tube 29: Aboral tissue, 15 dissections
          1. **517,157 μm<sup>2</sup>**
    3. Section 3
-      1. Tube 17: Oral epidermis, 5 dissections
+      1. Tube 30: Oral epidermis, 5 dissections
          1. **217,426 μm<sup>2</sup>**
-      2. Tube 18: Aboral tissue, 5 dissections
+      2. Tube 31: Aboral tissue, 5 dissections
          1. **182,599 μm<sup>2</sup>**
    4. Section 1
-      1. Tube 17: Oral epidermis, 7 dissections
+      1. Tube 32: Oral epidermis, 7 dissections
          1. **289,071 μm<sup>2</sup>**
-      2. Tube 18: Aboral tissue, 7 dissections
+      2. Tube 33: Aboral tissue, 7 dissections
          1. **307,806 μm<sup>2</sup>**
