@@ -45,7 +45,7 @@ I had some great success in [extracting high quality](https://zdellaert.github.i
   - For samples collected in lysis buffer (samples #2 (POR) and #18 (POC)):
     - Added another 60 uL of lysis buffer (final vol = 100 uL) and vortex 5 seconds to homogenize and further lyse cells
     - Went straight into IC-XM column (1st step in Zymo protocol)
-  - Rest of protocol followed almost exactly [as written]((https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf)). 
+  - Rest of protocol followed almost exactly [as written](https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf). 
     - Spin IC-XM column, move to a new collection tube and move flow-though to 1.5 mL tube, combine with equal parts ethanol and mix well
     - Move into RNA (IC) column and spin down, discard flow through
     - Wash with 400 uL wash buffer, then do DNAse treatment (40 uL)

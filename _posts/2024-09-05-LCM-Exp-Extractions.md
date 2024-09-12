@@ -29,7 +29,7 @@ tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot, RNA, DNA]
     - After incubation, spin at 9,000 rcf for 3 mins to pellet any debris, then move supernatant to new 1.5 mL tube. Add equal parts lysis buffer and mix well, then move whole volume into IC-XM column.
       - **Can double lysis buffer**
       - Used 150 uL on 9/8/24
-  - Rest of protocol followed almost exactly [as written]((https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf)). 
+  - Rest of protocol followed almost exactly [as written](https://files.zymoresearch.com/protocols/_d7005t_d7005_quick-dna-rna_microprep_plus_kit.pdf). 
     - Spin IC-XM column, move to a new collection tube and move flow-though to 1.5 mL tube, combine with equal parts ethanol and mix well
     - Move into RNA (IC) column and spin down, discard flow through
     - Wash with 400 uL wash buffer, then do DNAse treatment (40 uL)
