@@ -58,7 +58,7 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 3. Mix solution and store at 4°C sealed air-tight and dark
    1. mixed on orbital shaker overnight in cold room, with occasional vigorous shaking to resuspend powder into solution
 
-#### Sectioning: 9/4/24 (Frag A), 9/5/24 (Frags B&C)
+### Sectioning Procedure: 9/4/24 (Frag A), 9/5/24 (Frags B&C), 9/10/24 (Frags D&E)
 1.  [Section](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) onto PEN membrane slide for LCM as well as extra slides for confocal morpholgy imaging and backup for RNA and DNA extraction
    1. **All surfaces and equipment should be treated with RNAse cleaner!!!**
    2. Morning of: prepare PEN slide with UV and RNAse cleaner
@@ -90,7 +90,7 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
             1. **if possible, proceed to immediate LCM at this step!**
    6. Freeze slides at -80 ºC
 
-### LCM Procedure: 
+### LCM Procedure: 9/4/24 (Frag A), 9/6/24 (Frags B&C), 9/11/24 (Frags D&E)
 1. Bring to LCM
    1. Lab notebook
    2. 70% ethanol and RNAse away
@@ -122,7 +122,7 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
     5.  Try to work as quickly as possible. Once a section is done, unload the collector and remove the tubes with the dissections VERY CAREFULLY, closing the cap as you remove it. Spin down in the mini centrifuge, then vortex 5-10s, then spin down for at least 30s. Then place in tube rack on dry ice.
 12. After a slide is done, I place it back in the falcon tube with dessicant and transport on dry ice to -80 for storage.
 
-#### LCM Notes, Day 1 (9/4/24)
+#### Sectioning and LCM Notes, Day 1 (9/4/24)
 
 1. Sectioining: Today went much harder than expected. I was having issues during sectioning with the tissue coming out of the OCT, and some rolling issues as well. Sectioined two slides - labelled A1 and A2. 
 2. Even though I was very careful during all staining and washes (pipetting solutions only, no dunking), and did not notice any visible tissue loss, the tissue quality did not look great on the LCM. Collected 6 samples total (2 each from 3 sections on slide A2); focusing on collecting external epidermis (possibly difficult to disentangle from gastrodermis) and internal calicodermis. I pooled dissections within one section only all into the same tube for each tissue layer/section.
@@ -172,7 +172,7 @@ Example photo:
          8. Air dry sample 1-2 in drying chamber with desiccant or fume hood
             1. Proceed to LCM now.
 
-#### LCM Notes, Day 2 (9/6/24, tissue sectioned 9/5/24)
+#### Sectioning and LCM Notes, Day 2 (9/6/24, tissue sectioned 9/5/24)
 
 1. Sectioning went better than yesterday. I was able to get the brush method to work pretty well for sections at -22ºC. I got one slide per frag (B&C), with four sections each. There was definitely still a little bit of folding and rollage in some cases during section transfer, but overall I think better than yesterday.
 2. LCM went okay. The tissue looked much better than 9/4/24, so the sectioning was definitely improved. There was more intact tissue with the adjusted staining protocol, but there was also lots of OCT left on the slide, which is a problem. However, maybe having to cut through extra OCT is the price to pay for intact tissue, especially with these very delicate layers.
@@ -183,12 +183,13 @@ Example photo:
 
 ![TUBE17_3.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE17_3.jpg?raw=true)
 
-#### LCM Notes, Day 3 (9/11/24) 
+#### Sectioning and LCM Notes, Day 3 (9/11/24, tissue sectioned 9/10/24) 
 
 1. Sectioning went well, used mixture of brush method and roll plate. Sectionined at -22ºC. One slide each for frags D&E. 
-2. LCM went much better, I flipped the orientation of my slides on the LCM (tissue on bottom instead of on top) and it seemed that the focal distance for images and ability of the laser to cut were much, much better. Barely had to re-cut any dissections or adjust the laser power, which helped with speed and likely dissection quality
-3. Got one slide each for Frags D and E, and collected two sets of samples for Frag D and four for Frag E.
-4. LCM lasted about 4.5 hours, from 11:30 to 4.
+2. I added the RNAse-free water rinse back into the staining protocol today to remove excess OCT. All was done over dry ice and kept very cold. The cresyl violet stain took better in the tissues today than 9/6/24.
+3. LCM went much better, I flipped the orientation of my slides on the LCM (tissue on bottom instead of on top) and it seemed that the focal distance for images and ability of the laser to cut were much, much better. Barely had to re-cut any dissections or adjust the laser power, which helped with speed and likely dissection quality
+4. Got one slide each for Frags D and E, and collected two sets of samples for Frag D and four for Frag E.
+5. LCM lasted about 4.5 hours, from 11:30 to 4.
 
 Example photo:
 
