@@ -181,7 +181,7 @@ Example photo:
 
 Example photo:
 
-![TUBE17_3.jpeg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE17_3.jpeg?raw=true)
+![TUBE17_3.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/LCM_Pilot_Fixing/TUBE17_3.jpg?raw=true)
 
 #### LCM Notes, Day 3 (9/11/24) 
 
