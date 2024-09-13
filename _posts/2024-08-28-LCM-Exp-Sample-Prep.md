@@ -130,8 +130,8 @@ Modifying sectioning protocol to fix tissue to slides immediately after sectioni
 4. But, I got samples. It took a long time. But there are some. But this replicate may need to be redone
 5. Samples collected (all from the second slide from this morning, A2)
    1. Section 1
-      1. Tube 1: Aboral tissue, 8 dissections (dissection 2 lost)
-         1. **128,089 μm<sup>2</sup>**
+      1. Tube 1: Aboral tissue, 7 dissections (dissections 2 and 8 lost)
+         1. **108,479 μm<sup>2</sup>**
       2. ~~Tube 2~~ (did not end up using for dissections)
       3. Tube 3: Oral epidermis, 6 dissections
          1. **99,914 μm<sup>2</sup>**
@@ -185,10 +185,10 @@ Example photo:
 
 Frag B Samples collected
    1. Section 1
-      1. Tube 8: Oral epidermis, 7 dissections
-         1. **130,914 μm<sup>2</sup>**
-      2. Tube 9: Aboral tissue, 6 dissections
-         1. **92,727 μm<sup>2</sup>**
+      1. Tube 8: Oral epidermis, 8 dissections
+         1. **157,063 μm<sup>2</sup>**
+      2. Tube 9: Aboral tissue, 7 dissections
+         1. **99,063 μm<sup>2</sup>**
       3. Tube 10: Symbionts only, 17 dissections
          1. **156,815 μm<sup>2</sup>**
    2. Section 3
