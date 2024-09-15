@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2024-09-05 LCM Experiment Extractions
+title: 2024-09-05 LCM Experiment Test Extraction
 date: '2024-09-05'
 categories: Processing
-tags: [PAXgene, Fixative, Pocillopora, LCM, LCM-Pilot, RNA, DNA]
+tags: [Pocillopora, LCM, LCM-Pilot, RNA, DNA]
 ---
 
 ## Extracting RNA and DNA from LCM-d Pocillopora for LCM Experiment
