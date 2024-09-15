@@ -69,6 +69,25 @@ Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/m
 
 ### Can we use our WGBS custom indeces/adaptors with this kit?
 
+#### NEBNext Adaptor for Illumina Overview
+
+NEBNext Adaptor for Illumina sequence:
+
+5´-/5Phos/GAT CGG AAG AGC ACA CGT CTG AAC TCC AGT CdUA CAC TCT TTC CCT ACA CGA CGC TCT TCC GAT C-s-T-3´
+
+5´-/5Phos/GATCGGAAGAGCACACGTCTGAACTCCAGTC dU ACACTCTTTCCCTACACGACGCTCTTCCGATC-s-T-3´
+
+The following sequences are used for adaptor trimming of NEBNext adaptors for Illumina:
+Read 1 AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+Read 2 AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+
+| PRODUCT | INDEX PRIMER SEQUENCE | EXPECTED INDEX PRIMER SEQUENCE READ      |
+|----------|----------------------|-------------------------------|
+| NEBNext Index 1 Primer for Illumina (10 µM) | 5´- CAAGCAGAAGACGGCATACGAGATCGTGATGTGACTGGAGTTCAGACGTGTGCTCTTCCGA TC-s-T-3´  | ATCACG |
+| NEBNext Index 2 Primer for Illumina (10 µM) | 5´- CAAGCAGAAGACGGCATACGAGATACATCGGTGACTGGAGTTCAGACGTGTGCTCTTCCGA TC-s-T-3´  | CGATGT |
+
+#### Can we use our WGBS custom indeces/adaptors with this kit?
+
 - The index primers we have in lab are listed [here](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/DNA_RNA-protocols/Indexes_and_Barcodes/UDI_Index_Primer_Pairs_for_Pico_WGBS.csv) (and I downloaded a version 9/15/2024 [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/resources/UDI_Index_Primer_Pairs_for_Pico_WGBS.csv))
   - these were designed for WGBS with the Zymo Pico Kit
   - Each of the 60 pairs has a unique i7 and unique i5 sequence, for example:
@@ -80,16 +99,31 @@ Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/m
 
   - the i7_UDI Sequence contains:
     - CAAGCAGAAGACGGCATACGAGAT
+      - Illumina P7 adaptor: 5'- CAAGCAGAAGACGGCATACGAGA**T** -3'
+        - **T overhang**
     - unique i7_ sequence (UDI0001: AACCGCGG, UDI0002: GGTTATAA)
     - GTGACTGGAGTTCAGACGTGT
+      - Reverse completment: ACACGTCTGAACTCCAGTCA
   - the i5_UDI Sequence contains:
     - AATGATACGGCGACCACCGAGATCTACAC
+      - Illumina P5 adaptor: 5'- AATGATACGGCGACCACCGAGATCTACAC -3'
     - unique i5_ sequence (UDI0001: AGCGCTAG, UDI0002: GATATCGA)
     - ACACTCTTTCCCTACACGAC
+      - reverse complement: GTCGTGTAGGGAAAGAGTGT
 
+[Helpful resource here](https://teichlab.github.io/scg_lib_structs/methods_html/Illumina.html)
 
+Since these are T-overhang adaptors, with what I believe are universal PCR primers, we can hopefully use these indeces with this kit.
 
+There are no exact instructions on how to modify the protocol with use of custom adapters/primers, but this is how the general NEB RNA library prep protocol is modified for custom adapters/primers:
 
+[Original Protocol](https://www.neb.com/en/-/media/nebus/files/manuals/manuale7770.pdf) --> [Modified protocol](https://www.neb.com/en-us/-/media/nebus/files/manuals/manuale7770_e7775-w-umi-rna-adaptors-e7416.pdf?rev=5b3a8f304ea94292bddb543bb2c9700f&sc_lang=en-us&hash=3F8D20069A0FE765588C0BE08A67EB54)
+
+1. 5 uL of the Dual Index adapter is used instead of 2.5 uL of the NEBNext Adaptor
+2. "Proceed immediately to Purification of the Ligation Reaction." after the 15 minute incubation instead of adding the USER enzyme continued by another incubation.
+3. In the bead cleanup, a ratio of 0.7X of beads is used instead of 0.9X. And then, the elution is 20 uL instead of 15 uL.
+4. In PCR enrichment, no index primers are added at this step (since they are included in the adapters above). The NEBNext primer mix is used instead.
+5. The primer-dimer and adaptor-dimer peaks will be at different expected bps depending on which adaptor/primer set was used
 
 ## Protocol for Low Input RNA: cDNA Synthesis, Amplification and Library Generation
 
