@@ -3,7 +3,7 @@ layout: post
 title: Testing Pico Methyl-Seq Library Prep
 date: '2024-08-27'
 categories: Protocols
-tags: [RNA, Pocillopora, Porites, LCM, Library Prep]
+tags: [DNA, Pocillopora, Porites, LCM, Library Prep]
 ---
 
 ## Testing NEBNext Low Input RNA Library Prep
