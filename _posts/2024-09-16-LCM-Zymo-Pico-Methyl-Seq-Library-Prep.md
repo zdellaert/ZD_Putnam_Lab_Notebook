@@ -54,7 +54,7 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 
 ## Protocol
 
-See Jill: https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-06-13-Zymo-Pico-Methyl-Seq-Library-Prep.md
+[See Jill's here](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-06-13-Zymo-Pico-Methyl-Seq-Library-Prep.md)
 
 ### Buffer preperation 
 
@@ -89,35 +89,34 @@ Thermocycler settings:
 
 ![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section1_thermocycler.png)
 
-- Thaw samples on ice 
-- Prepare samples to correct volume in strip tubes 
-	- See table above 
-- Add 130 uL of Lightning Conversion Reagent to each tube 
-- Vortex for 10 seconds and centrifuge briefly 
-- Run thermocycler program (labeled BS CONVERSION PICO under Maggie's profile)
-- Store at 4°C for <20 hours (overnight)
+- [ ]Thaw samples on ice 
+- [ ]Prepare samples with Tris buffer to 10ng in 20 uL in strip tubes 
+- [ ]Add 130 uL of Lightning Conversion Reagent to each tube 
+- [ ]Vortex for 10 seconds and centrifuge briefly 
+- [ ] Run thermocycler program (labeled BS CONVERSION PICO under Maggie's profile)
+- [ ] Store at 4°C for <20 hours (overnight)
 
 NEXT DAY!
 
-- Label Zymo-spin IC columns, collection tubes and 1.5 mL tubes for each sample 
-- Add 600 uL of M-Binding Buffer to each column
-- Add the entire bisulfite-converted sample to column and invert several times to mix 
-- Centrifuge at 16,000 g for 30 seconds 
-- Discard flow through 
-- Add 100 uL M-Wash Buffer 
-- Centrifuge at 16,000 g for 30 seconds + discard flow through 
-- Add 200 uL L-Desulphonation Buffer to column and incubate at room temperature for 15 minutes 
-	- Near end of incubation, heat DNA Elution buffer to 56°C on thermoblock 
-- After incubation, centrifuge at 10,000 g for 30 seconds + discard flow through
-- Add 200 uL of M-Wash Buffer 
-- Centrifuge at 16,000 g for 30 seconds + discard flow through 
-- Repeat the wash step above 
-- Move spin columns into their respective 1.5 mL tubes 
-- Add 8 uL of warmed DNA Elution buffer to column
-- Incubate at room temperature for **3** minutes 
-- Centrifuge at 16,000 g for 30 seconds to elute bisulfite-converted DNA
-- Check if all tubes have same volume (greater elution volume may cause library prep failure)
-- Move 1.5 mL tubes to ice 
+- [ ] Label Zymo-spin IC columns, collection tubes and 1.5 mL tubes for each sample 
+- [ ] Add 600 uL of M-Binding Buffer to each column
+- [ ] Add the entire bisulfite-converted sample to column and invert several times to mix 
+- [ ] Centrifuge at 16,000 g for 30 seconds 
+- [ ] Discard flow through 
+- [ ] Add 100 uL M-Wash Buffer 
+- [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
+- [ ] Add 200 uL L-Desulphonation Buffer to column and incubate at room temperature for 15 minutes 
+	- [ ] Near end of incubation, **heat DNA Elution buffer to 56°C on thermoblock** 
+- [ ] After incubation, centrifuge at 10,000 g for 30 seconds + discard flow through
+- [ ] Add 200 uL of M-Wash Buffer 
+- [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
+- [ ] Repeat the wash step above 
+- [ ] Move spin columns into their respective 1.5 mL tubes 
+- [ ] Add 8 uL of warmed DNA Elution buffer to column
+- [ ] Incubate at room temperature for **3** minutes 
+- [ ] Centrifuge at 16,000 g for 30 seconds to elute bisulfite-converted DNA
+- [ ] Check if all tubes have same volume (greater elution volume may cause library prep failure)
+- [ ] Move 1.5 mL tubes to ice 
 
 #### Section 2: Amplification with PrepAmp Primer 
 
@@ -127,54 +126,54 @@ Thermocycler settings:
 
 Lid should be set at 25°C
 
-- Thaw the following reagents on ice 
-	- PreAmpBuffer (5x)
-	- PreAmp Primer (40 uM)
-	- PreAmp pre-mix 
-	- PreAmp polymerase 
-- Determine n number: number of samples + % error (~5%)
-- Labeling scheme for master mixes 
-	- PMM = A
-	- PAMM = B
-	- dPAP = C
-	- AMM = D
-- Create Priming Master Mix (PMM or A) on ice. Vortex and centrifuge briefly
-	- 2 uL 5x PreAmp Buffer * n = 
-	- 1 uL 40 uM PreAmp Primer * n = 
-- Create PreAmp Master Mix (PAMM or B) on ice. Vortex and centrifuge briefly
-	- 1 uL 5x PrepAmp Buffer * n = 
-	- 3.75 uL PrepAmp Pre Mix * n = 
-	- 0.3 uL PrepAmp Polymerase * n = 
-- Create 'diluted' PreAmp Polymerase mix (dPAP or c) on ice. Pipette to mix and centrifuge briefly
+- [ ] Thaw the following reagents on ice 
+	- [ ] PreAmpBuffer (5x)
+	- [ ] PreAmp Primer (40 uM)
+	- [ ] PreAmp pre-mix 
+	- [ ] PreAmp polymerase 
+- [ ] Determine n number: number of samples + % error (~5%)
+- [ ] Labeling scheme for master mixes 
+	- [ ] PMM = A
+	- [ ] PAMM = B
+	- [ ] dPAP = C
+	- [ ] AMM = D
+- [ ] Create Priming Master Mix (PMM or A) on ice. Vortex and centrifuge briefly
+	- [ ] 2 uL 5x PreAmp Buffer * n = 
+	- [ ] 1 uL 40 uM PreAmp Primer * n = 
+- [ ] Create PreAmp Master Mix (PAMM or B) on ice. Vortex and centrifuge briefly
+	- [ ] 1 uL 5x PrepAmp Buffer * n = 
+	- [ ] 3.75 uL PrepAmp Pre Mix * n = 
+	- [ ] 0.3 uL PrepAmp Polymerase * n = 
+- [ ] Create 'diluted' PreAmp Polymerase mix (dPAP or c) on ice. Pipette to mix and centrifuge briefly
 	- This is to avoid adding less than 0.5 uL during protocol. (original protocol asks you to add 0.3ul to the tubes in the thermocycler, sometimes that small of an amount does not come out of the tip so you can add DNA elution buffer to the enzyme to pipette 0.5ul).
-	- 0.3 uL PrepAmp Polymerase * n = 
-	- 0.2 uL DNA Elution Buffer * n = 
-- Add 7 uL of bisulfite converted sample to new PCR tubes 
-- Add 3 uL of PMM (A) to each tube 
-- Vortex and centrifuge briefly
-- Run the thermocycler program with the lid temperature at 25°C with 2 cycles 
+	- [ ] 0.3 uL PrepAmp Polymerase * n = 
+	- [ ] 0.2 uL DNA Elution Buffer * n = 
+- [ ] Add 7 uL of bisulfite converted sample to new PCR tubes 
+- [ ] Add 3 uL of PMM (A) to each tube 
+- [ ] Vortex and centrifuge briefly
+- [ ] Run the thermocycler program with the lid temperature at 25°C with 2 cycles 
 	- During the Step 2 8°C hold:
-		- Cycle 1: Add 5.05 ul of PreAmp Master Mix (PAMM or B). Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold 
-		- Cycle 2: Add 0.5 uL of diluted PreAmp Polymerase (dPAP or C) to each tube.Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold 
-- Put samples on ice 
+		- [ ] Cycle 1: Add 5.05 ul of PreAmp Master Mix (PAMM or B). Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold 
+		- [ ] Cycle 2: Add 0.5 uL of diluted PreAmp Polymerase (dPAP or C) to each tube.Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold 
+- [ ] Put samples on ice 
 
 #### Section 3: Purification with DNA Clean-up and Concentrator (DCC)
 
-- Label 1.5 mL tubes + IC columns for each sample
-- Heat DNA Elution Buffer to 56°C on thermoblock
-- Add 108.85 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)
-- Move the sample from the PCR tube into the 1.5 mL tube 
-- Vortex and spin down to mix
-- Move sample into a Zymo-Spin IC column 
-- Centrifuge at 16,000 g for 30 seconds + discard flow through 
-- Add 200 uL of DNA Wash Buffer to each column 
-- Centrifuge at 16,000 g for 30 seconds + discard flow through 
-- Repeat this wash step 
-- Move spin columns into their respective 1.5 mL tubes 
-- Add **14** uL of warmed DNA Elution Buffer 
-- Incubate spin columns at room temperature for **2.5** minutes 
-- Centrifuge at 16,000 g for 30 seconds
-- Toss spin columns and keep 1.5 mL tubes on ice 
+- [ ] Label 1.5 mL tubes + IC columns for each sample
+- [ ] **Heat DNA Elution Buffer to 56°C on thermoblock**
+- [ ] Add 108.85 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)
+- [ ] Move the sample from the PCR tube into the 1.5 mL tube 
+- [ ] Vortex and spin down to mix
+- [ ] Move sample into a Zymo-Spin IC column 
+- [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
+- [ ] Add 200 uL of DNA Wash Buffer to each column 
+- [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
+- [ ] Repeat this wash step 
+- [ ] Move spin columns into their respective 1.5 mL tubes 
+- [ ] Add **14** uL of warmed DNA Elution Buffer 
+- [ ] Incubate spin columns at room temperature for **2.5** minutes 
+- [ ] Centrifuge at 16,000 g for 30 seconds
+- [ ] Toss spin columns and keep 1.5 mL tubes on ice 
 
 #### Section 4: Library Amplification 
 
@@ -184,30 +183,30 @@ Thermocycler settings:
 
 ***I will do 10 cycles. Possibly 12.***
 
-- Make Amplification Master Mix (AMM or D) on ice. Vortex and centrifuge briefly
-	- 12.5 uL 2X Library Amp Mix * n =
-	- 1 uL 10 uM Library Amp Primers * n =
-- Add 13.5 of AMM to new strip tubes 
-- Add 11.5 uL of sample into each strip tube 
-- Vortex and centrifuge briefly 
-- Run the thermocycler program 
-- Put samples on ice 
+- [ ] Make Amplification Master Mix (AMM or D) on ice. Vortex and centrifuge briefly
+	- [ ] 12.5 uL 2X Library Amp Mix * n =
+	- [ ] 1 uL 10 uM Library Amp Primers * n =
+- [ ] Add 13.5 of AMM to new strip tubes 
+- [ ] Add 11.5 uL of sample into each strip tube 
+- [ ] Vortex and centrifuge briefly 
+- [ ] Run the thermocycler program 
+- [ ] Put samples on ice 
 
 #### Section 5: Purification with DNA Clean-up and Concentrator (DCC)
 
-- Label 1.5 mL tubes for each sample 
-- Heat DNA Elution Buffer to 56°C on thermoblock
-- Add 175 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)
-- Move the sample from the PCR tube into the 1.5 mL tube 
-- Move sample into a Zymo-Spin IC column 
-- Centrifuge at 16,000 g for 30 seconds + discard flow through 
-- Add 200 uL of DNA Wash Buffer to each column 
-- Centrifuge at 16,000 g for 30 seconds + discard flow through 
-- Repeat this wash step 
-- Move spin columns to 1.5 mL tubes 
-- Add **14.5** uL of warmed DNA Elution Buffer to the column matrix 
-- Incubate for **2.5** minutes at room temperature 
-- Centrifuge at 10,000 g for 30 seconds to elute 
+- [ ] Label 1.5 mL tubes for each sample 
+- [ ] **Heat DNA Elution Buffer to 56°C on thermoblock**
+- [ ] Add 175 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)
+- [ ] Move the sample from the PCR tube into the 1.5 mL tube 
+- [ ] Move sample into a Zymo-Spin IC column 
+- [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
+- [ ] Add 200 uL of DNA Wash Buffer to each column 
+- [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
+- [ ] Repeat this wash step 
+- [ ] Move spin columns to 1.5 mL tubes 
+- [ ] Add **14.5** uL of warmed DNA Elution Buffer to the column matrix 
+- [ ] Incubate for **2.5** minutes at room temperature 
+- [ ] Centrifuge at 10,000 g for 30 seconds to elute 
 
 #### Section 6: Amplification with Index Primers 
 
@@ -215,32 +214,32 @@ Thermocycler settings:
 
 ![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section6_thermocycler.png)
 
-- Move 10.5 uL of sample into new strip tubes
-- Add 12.5 uL of 2X Library Amp Master Mix to each sample 
-- Add 2 uL of combined i7 and i5 primer pair (1 uL of each)
-- Run the thermocycler program for 10 amplification cycles 
-- After program is done, put samples on ice 
+- [ ] Move 10.5 uL of sample into new strip tubes
+- [ ] Add 12.5 uL of 2X Library Amp Master Mix to each sample 
+- [ ] Add 2 uL of combined i7 and i5 primer pair (1 uL of each)
+- [ ] Run the thermocycler program for 10 amplification cycles 
+- [ ] After program is done, put samples on ice 
 
 #### Section 7: 1x Bead Cleanup 
 
-- Take Kapa beads out of fridge >30 minutes before using to allow beads to equilibrate to room temperature
-- Shake the bottle to mix the beads (don't vortex)
-- Make fresh 80% ethanol using 100% ethanol 
-- Add 25 uL of beads to each sample 
-- Pipette up and down at least 10 times to mix sample and beads (or until homogeous)
-- Put strip tubes on the shaker at 200 rpm for 15 minutes
-- After 15 minutes, put tubes on magnetic stand 
-- Wait until liquid is clear (~3-5 minutes)
-- Using a p200 set to 45 uL, remove the supernatent without disturbing the beads and discard 
-- Add 200 uL of 80% ethanol to each sample 
-- Remove ethanol from tube without disturbing beads and discard liquid 
-- Repeat the wash step 
-- Allow beads to air dry for 1-2 minutes 
-- Remove any residual liquid from each tube 
-- Resuspend beads in 15 uL of DNA Elution Buffer 
-- Put tubes back on shaker at 200 rpm for 5 minutes
-- After 5 minutes, put tubes back on magnetic stand and wait until liquid is clear (~3-5 minutes)
-- Move 15 uL of elute into new strip tubes
+- [ ] Take Kapa beads out of fridge >30 minutes before using to allow beads to equilibrate to room temperature
+- [ ] Shake the bottle to mix the beads (don't vortex)
+- [ ] Make fresh 80% ethanol using 100% ethanol 
+- [ ] Add 25 uL of beads to each sample 
+- [ ] Pipette up and down at least 10 times to mix sample and beads (or until homogeous)
+- [ ] Put strip tubes on the shaker at 200 rpm for 15 minutes
+- [ ] After 15 minutes, put tubes on magnetic stand 
+- [ ] Wait until liquid is clear (~3-5 minutes)
+- [ ] Using a p200 set to 45 uL, remove the supernatent without disturbing the beads and discard 
+- [ ] Add 200 uL of 80% ethanol to each sample 
+- [ ] Remove ethanol from tube without disturbing beads and discard liquid 
+- [ ] Repeat the wash step 
+- [ ] Allow beads to air dry for 1-2 minutes 
+- [ ] Remove any residual liquid from each tube 
+- [ ] Resuspend beads in 15 uL of DNA Elution Buffer 
+- [ ] Put tubes back on shaker at 200 rpm for 5 minutes
+- [ ] After 5 minutes, put tubes back on magnetic stand and wait until liquid is clear (~3-5 minutes)
+- [ ] Move 15 uL of elute into new strip tubes
 
 THIS IS THE FINAL WGBS LIBRARY. STORE AT -20°C. 
 
