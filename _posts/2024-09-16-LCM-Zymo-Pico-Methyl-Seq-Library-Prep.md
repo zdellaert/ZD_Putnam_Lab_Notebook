@@ -221,7 +221,7 @@ Thermocycler settings:
 
 Thermocycler settings: 
 
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section6_thermocycler.png)
+<img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section6_thermocycler.png" width="5">
 
 For our custom primers:
 
