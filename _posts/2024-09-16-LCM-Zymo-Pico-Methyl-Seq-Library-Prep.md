@@ -85,29 +85,36 @@ Jill written modifications in notebook:
 
 #### Section 1: Bisulfite Conversion of DNA 
 
-Thermocycler settings: 
-
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section1_thermocycler.png)
-
-- [ ]Thaw samples on ice 
-- [ ]Prepare samples with Tris buffer to 10ng in 20 uL in strip tubes 
-- [ ]Add 130 uL of Lightning Conversion Reagent to each tube 
-- [ ]Vortex for 10 seconds and centrifuge briefly 
+- [ ] Thaw samples on ice 
+- [ ] Prepare samples with Tris buffer to 10ng in 20 uL in strip tubes 
+- [ ] Add 130 uL of Lightning Conversion Reagent to each tube 
+- [ ] Vortex for 10 seconds and centrifuge briefly 
 - [ ] Run thermocycler program (labeled BS CONVERSION PICO under Maggie's profile)
 - [ ] Store at 4°C for <20 hours (overnight)
 
-NEXT DAY!
+![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section1_thermocycler.png)
 
-- [ ] Label Zymo-spin IC columns, collection tubes and 1.5 mL tubes for each sample 
+#### Next Day:
+
+- [ ] Prepare buffers if needed (see above)
+- [ ] Label Zymo-spin IC columns (in collection tubes) and 1.5 mL tubes for each sample
+  - [ ] Section 1: 1 set of columns + 1 set of 1.5 mL tubes
+  - [ ] Section 2: 1 set of PCR tubes
+  - [ ] Section 3: 1 set of columns + 1 set of 1.5 mL tubes
+  - [ ] Section 4.5: 1 set of columns + 1 set of 1.5 mL tubes
+  - [ ] Section 5: 1 set of PCR tubes
+  - [ ] Bead Cleanup: 2 sets of PCR tubes, one labelled as final library (date, initals, info, etc)
+
+#### Section 1, continued
+
 - [ ] Add 600 uL of M-Binding Buffer to each column
 - [ ] Add the entire bisulfite-converted sample to column and invert several times to mix 
-- [ ] Centrifuge at 16,000 g for 30 seconds 
-- [ ] Discard flow through 
+- [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
 - [ ] Add 100 uL M-Wash Buffer 
 - [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
 - [ ] Add 200 uL L-Desulphonation Buffer to column and incubate at room temperature for 15 minutes 
 	- [ ] Near end of incubation, **heat DNA Elution buffer to 56°C on thermoblock** 
-- [ ] After incubation, centrifuge at 10,000 g for 30 seconds + discard flow through
+- [ ] After 15 min, centrifuge at 16,000 g for 30 seconds + discard flow through
 - [ ] Add 200 uL of M-Wash Buffer 
 - [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
 - [ ] Repeat the wash step above 
@@ -116,27 +123,22 @@ NEXT DAY!
 - [ ] Incubate at room temperature for **3** minutes 
 - [ ] Centrifuge at 16,000 g for 30 seconds to elute bisulfite-converted DNA
 - [ ] Check if all tubes have same volume (greater elution volume may cause library prep failure)
-- [ ] Move 1.5 mL tubes to ice 
+- [ ] Toss spin columns and keep 1.5 mL tubes on ice 
 
 #### Section 2: Amplification with PrepAmp Primer 
 
-Thermocycler settings: 
-
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section2_thermocycler.png)
-
-Lid should be set at 25°C
+**Prepare Master mixes**:
 
 - [ ] Thaw the following reagents on ice 
 	- [ ] PreAmpBuffer (5x)
 	- [ ] PreAmp Primer (40 uM)
-	- [ ] PreAmp pre-mix 
-	- [ ] PreAmp polymerase 
+	- [ ] PreAmp Pre-mix 
+	- [ ] PreAmp Polymerase 
 - [ ] Determine n number: number of samples + % error (~5%)
-- [ ] Labeling scheme for master mixes 
-	- [ ] PMM = A
-	- [ ] PAMM = B
-	- [ ] dPAP = C
-	- [ ] AMM = D
+- Labeling scheme for master mixes 
+	- PMM = A
+	- PAMM = B
+	- dPAP = C
 - [ ] Create Priming Master Mix (PMM or A) on ice. Vortex and centrifuge briefly
 	- [ ] 2 uL 5x PreAmp Buffer * n = 
 	- [ ] 1 uL 40 uM PreAmp Primer * n = 
@@ -144,27 +146,37 @@ Lid should be set at 25°C
 	- [ ] 1 uL 5x PrepAmp Buffer * n = 
 	- [ ] 3.75 uL PrepAmp Pre Mix * n = 
 	- [ ] 0.3 uL PrepAmp Polymerase * n = 
-- [ ] Create 'diluted' PreAmp Polymerase mix (dPAP or c) on ice. Pipette to mix and centrifuge briefly
+- [ ] Create 'diluted' PreAmp Polymerase mix (dPAP or C) on ice. Pipette to mix and centrifuge briefly
 	- This is to avoid adding less than 0.5 uL during protocol. (original protocol asks you to add 0.3ul to the tubes in the thermocycler, sometimes that small of an amount does not come out of the tip so you can add DNA elution buffer to the enzyme to pipette 0.5ul).
 	- [ ] 0.3 uL PrepAmp Polymerase * n = 
 	- [ ] 0.2 uL DNA Elution Buffer * n = 
-- [ ] Add 7 uL of bisulfite converted sample to new PCR tubes 
+
+**Amplification:**
+
+- [ ] On ice, add 7 uL of bisulfite converted sample to new PCR tubes 
 - [ ] Add 3 uL of PMM (A) to each tube 
 - [ ] Vortex and centrifuge briefly
+
+Thermocycler settings: 
+
+![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section2_thermocycler.png)
+
+Lid should be set at 25°C
+
+This program runs through two cycles. In the second step of each cycle, you need to add something to the tubes.
+
 - [ ] Run the thermocycler program with the lid temperature at 25°C with 2 cycles 
 	- During the Step 2 8°C hold:
-		- [ ] Cycle 1: Add 5.05 ul of PreAmp Master Mix (PAMM or B). Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold 
-		- [ ] Cycle 2: Add 0.5 uL of diluted PreAmp Polymerase (dPAP or C) to each tube.Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold 
+		- [ ] Cycle 1: Add 5.05 ul of PreAmp Master Mix (PAMM or B). Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold
+		- [ ] **about 24 minutes later** Cycle 2: Add 0.5 uL of diluted PreAmp Polymerase (dPAP or C) to each tube.Pipette up and down to mix, centrifuge briefly, put back in thermocycler and proceed past hold 
 - [ ] Put samples on ice 
+  - Current volume: 15.55 uL
 
 #### Section 3: Purification with DNA Clean-up and Concentrator (DCC)
 
-- [ ] Label 1.5 mL tubes + IC columns for each sample
 - [ ] **Heat DNA Elution Buffer to 56°C on thermoblock**
-- [ ] Add 108.85 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)
-- [ ] Move the sample from the PCR tube into the 1.5 mL tube 
-- [ ] Vortex and spin down to mix
-- [ ] Move sample into a Zymo-Spin IC column 
+- [ ] Add 108.85 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample) to PCR tube
+- [ ] Vortex and spin down to mix, then transfer to spin column 
 - [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
 - [ ] Add 200 uL of DNA Wash Buffer to each column 
 - [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
@@ -177,12 +189,6 @@ Lid should be set at 25°C
 
 #### Section 4: Library Amplification 
 
-Thermocycler settings: 
-
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section4_thermocycler.png)
-
-***I will do 10 cycles. Possibly 12.***
-
 - [ ] Make Amplification Master Mix (AMM or D) on ice. Vortex and centrifuge briefly
 	- [ ] 12.5 uL 2X Library Amp Mix * n =
 	- [ ] 1 uL 10 uM Library Amp Primers * n =
@@ -190,15 +196,21 @@ Thermocycler settings:
 - [ ] Add 11.5 uL of sample into each strip tube 
 - [ ] Vortex and centrifuge briefly 
 - [ ] Run the thermocycler program 
+
+Thermocycler settings: 
+
+![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section4_thermocycler.png)
+
+***I will do 10 cycles. Possibly 12.***
+
 - [ ] Put samples on ice 
+  - Current volume: 25 uL
 
-#### Section 5: Purification with DNA Clean-up and Concentrator (DCC)
+#### Section 4.5: Purification with DNA Clean-up and Concentrator (DCC)
 
-- [ ] Label 1.5 mL tubes for each sample 
 - [ ] **Heat DNA Elution Buffer to 56°C on thermoblock**
-- [ ] Add 175 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)
-- [ ] Move the sample from the PCR tube into the 1.5 mL tube 
-- [ ] Move sample into a Zymo-Spin IC column 
+- [ ] Add 175 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)to PCR tube
+- [ ] Vortex and spin down to mix, then transfer to spin column 
 - [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
 - [ ] Add 200 uL of DNA Wash Buffer to each column 
 - [ ] Centrifuge at 16,000 g for 30 seconds + discard flow through 
@@ -206,21 +218,34 @@ Thermocycler settings:
 - [ ] Move spin columns to 1.5 mL tubes 
 - [ ] Add **14.5** uL of warmed DNA Elution Buffer to the column matrix 
 - [ ] Incubate for **2.5** minutes at room temperature 
-- [ ] Centrifuge at 10,000 g for 30 seconds to elute 
+- [ ] Centrifuge at 16,000 g for 30 seconds
+- [ ] Toss spin columns and keep 1.5 mL tubes on ice 
 
-#### Section 6: Amplification with Index Primers 
+#### Section 5: Amplification with Index Primers 
 
 Thermocycler settings: 
 
 ![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section6_thermocycler.png)
 
+For our custom primers:
+
 - [ ] Move 10.5 uL of sample into new strip tubes
 - [ ] Add 12.5 uL of 2X Library Amp Master Mix to each sample 
 - [ ] Add 2 uL of combined i7 and i5 primer pair (1 uL of each)
 - [ ] Run the thermocycler program for 10 amplification cycles 
+  - [ ] Take Kapa beads out of fridge >30 minutes before next step
 - [ ] After program is done, put samples on ice 
 
-#### Section 7: 1x Bead Cleanup 
+For Zymo Index primers:
+
+- [ ] Move 12 uL of sample into new strip tubes
+- [ ] Add 12.5 uL of 2X Library Amp Master Mix to each sample 
+- [ ] Add 0.5 uL of index primer
+- [ ] Run the thermocycler program for 10 amplification cycles 
+  - [ ] Take Kapa beads out of fridge >30 minutes before next step
+- [ ] After program is done, put samples on ice 
+
+#### 1x Bead Cleanup 
 
 - [ ] Take Kapa beads out of fridge >30 minutes before using to allow beads to equilibrate to room temperature
 - [ ] Shake the bottle to mix the beads (don't vortex)
@@ -245,7 +270,7 @@ THIS IS THE FINAL WGBS LIBRARY. STORE AT -20°C.
 
 ### QC
 
-Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md) for visualize libraries. Here's an example of what the library should look like on a Tapestation: 
+Run to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
 
 ![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_library_example.png)
 
@@ -254,6 +279,36 @@ Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/bl
 https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9oLU/edit?usp=sharing
 
 Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA tapestation concentrations.
+
+![2024-09-13-gDNA.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-13-gDNA.png?raw=true)
+
+Tapestation concentrations:
+
+| sample_id      | concentration | DIN | 
+|----------------|------------|------------|
+| #4 (Frag A)    |  4.86 ng/uL  | 2.8 | 
+| #5 (Frag A)    |  5.01 ng/uL  | 2.8 | 
+| #8 (Frag B)    |  4.46 ng/uL  | 3.3 | 
+| #9 (Frag B)    |  4.37 ng/uL  | 3.1 | 
+| #15 (Frag C)   |  3.80 ng/uL  | 2.4 | 
+| #16 (Frag C)   |  3.43 ng/uL  | 2.5 | 
+| #20 (Frag D)   |  3.37 ng/uL  | 2.3 | 
+| #21 (Frag D)   |  4.41 ng/uL  | 2.8 | 
+| #26 (Frag E)   |  2.75 ng/uL  | - | 
+| #27 (Frag E)   |  1.96 ng/uL  | - | 
+
+| ng input | Starting volume (uL) | Volume DNA (uL) | Volume Tris (uL) |
+|----------|----------------------|-----------------|------------------|
+| 10       | 20                   | 2.1             | 17.9             |
+| 10       | 20                   | 2.0             | 18.0             |
+| 10       | 20                   | 2.2             | 17.8             |
+| 10       | 20                   | 2.3             | 17.7             |
+| 10       | 20                   | 2.6             | 17.4             |
+| 10       | 20                   | 2.9             | 17.1             |
+| 10       | 20                   | 3.0             | 17.0             |
+| 10       | 20                   | 2.3             | 17.7             |
+| 10       | 20                   | 3.6             | 16.4             |
+| 10       | 20                   | 5.1             | 14.9             |
 
 #### About indeces:
 
