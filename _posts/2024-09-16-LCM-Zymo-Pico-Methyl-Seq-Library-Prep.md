@@ -153,9 +153,7 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 
 Thermocycler settings: 
 
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section2_thermocycler.png)
-
-<img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section2_thermocycler.png" width="500" height="200">
+<img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section2_thermocycler.png" width="750" height="750">
 
 Lid should be set at 25°C
 
@@ -195,8 +193,6 @@ This program runs through two cycles. In the second step of each cycle, you need
 
 Thermocycler settings: 
 
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section4_thermocycler.png)
-
 <img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section4_thermocycler.png" width="500" height="200">
 
 ***I will do 10 cycles. Possibly 12.***
@@ -223,9 +219,7 @@ Thermocycler settings:
 
 Thermocycler settings: 
 
-<img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section6_thermocycler.png" width="500" height="200">
-
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section6_thermocycler.png)
+<img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section6_thermocycler.png" width="550" height="200">
 
 For our custom primers:
 
