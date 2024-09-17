@@ -101,9 +101,13 @@ Jill written modifications in notebook:
   - [ ] Section 1: 1 set of columns + 1 set of 1.5 mL tubes
   - [ ] Section 2: 1 set of PCR tubes
   - [ ] Section 3: 1 set of columns + 1 set of 1.5 mL tubes
+  - [ ] Section 4: 1 set of PCR tubes
   - [ ] Section 4.5: 1 set of columns + 1 set of 1.5 mL tubes
   - [ ] Section 5: 1 set of PCR tubes
-  - [ ] Bead Cleanup: 2 sets of PCR tubes, one labelled as final library (date, initals, info, etc)
+  - [ ] Bead Cleanup: 1 set of PCR tubes, labelled as final library (date, initals, info, etc)
+  - Total:
+    - 3 sets of columns + 1 set of 1.5 mL tubes
+    - 4 sets of PCR tubes, one labelled as final library
 
 #### Section 1, continued
 
