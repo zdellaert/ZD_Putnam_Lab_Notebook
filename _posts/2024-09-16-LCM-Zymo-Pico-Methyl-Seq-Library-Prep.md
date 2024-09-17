@@ -150,7 +150,7 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 
 Thermocycler settings: 
 
-<img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section2_thermocycler.png" width="500" height="450">
+<img src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section2_thermocycler.png" width="520" height="500">
 
 Lid should be set at 25°C
 
