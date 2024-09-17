@@ -133,6 +133,12 @@ Jill written modifications in notebook:
 
 **Prepare Master mixes**:
 
+|   | Priming Master Mix (PMM) |          | PrepAmp Master Mix (PAMM) |                  |                     | "Diluted" PrepAmp Polymerase mix (dPAP) |                     | 1st Amplification Master Mix (AMM) |
+|--------------------------|-----------------------|----------------------------|------------------|---------------------|-----------------------------------------|---------------------|------------------------------------|----------------------------|
+| Sample # (+5% error) | 5X PrepAmp Buffer | 40 uM PrepAmp Primer  | 5X PrepAmp Buffer  | PrepAmp Pre Mix  | PrepAmp Polymerase  | PrepAmp Polymerase  | DNA Elution Buffer  | Library Amp Mix 2X | Library Amp Primers 10 uM  | 
+|----------|---------|-------|-----------|-------|----------|------|------------|--------------------|----------------------------|
+| 10.5                 | 21                | 10.5                  | 10.5               | 39.375           | 3.15                | 3.15                | 2.1                 | 131.25             | 10.5                       | 
+
 - [ ] Thaw the following reagents on ice 
 	- [ ] PreAmpBuffer (5x)
 	- [ ] PreAmp Primer (40 uM)
