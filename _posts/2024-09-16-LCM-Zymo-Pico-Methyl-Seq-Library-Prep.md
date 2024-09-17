@@ -51,10 +51,7 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 | LibraryAmp Primers (10 μM)        |  30 µl           |       -20 °C         |
 | Index Primer Sets - 6 Sets(10 μM) |  30 µl           |       -20 °C         |  
 
-
 ## Protocol
-
-[See Jill's here](https://github.com/JillAshey/JillAshey_Putnam_Lab_Notebook/blob/master/_posts/2024-06-13-Zymo-Pico-Methyl-Seq-Library-Prep.md)
 
 ### Buffer preperation 
 
@@ -72,18 +69,7 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 - Allow Kapa beads to equilibrate to room temperature >30 mins before use
 - Resuspend magnetic particles immediately before each use by gently inverting until homogenous
 
-### Protocol 
-
-Jill written modifications in notebook:
-
-- Incubate elution only 3 minutes instead of 5
-- Section 3: elute in 14 uL instead of 12
-  - incubate elution 2.5 min instead of 5
-- Section 4 cycles are increased to 9, I may do 10 or 12.
-- Section 4: elute in 14.5 uL instead of 12.5
-  - incubate elution 2.5 min instead of 5
-
-#### Section 1: Bisulfite Conversion of DNA 
+### Section 1: Bisulfite Conversion of DNA 
 
 - [ ] Thaw samples on ice 
 - [ ] Prepare samples with Tris buffer to 10ng in 20 uL in strip tubes 
@@ -94,7 +80,7 @@ Jill written modifications in notebook:
 
 ![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_section1_thermocycler.png)
 
-#### Next Day:
+### Next Day:
 
 - [ ] Prepare buffers if needed (see above)
 - [ ] Label Zymo-spin IC columns (in collection tubes) and 1.5 mL tubes for each sample
@@ -109,7 +95,7 @@ Jill written modifications in notebook:
     - 3 sets of columns + 1 set of 1.5 mL tubes
     - 4 sets of PCR tubes, one labelled as final library
 
-#### Section 1, continued
+### Section 1, continued
 
 - [ ] Add 600 uL of M-Binding Buffer to each column
 - [ ] Add the entire bisulfite-converted sample to column and invert several times to mix 
@@ -129,7 +115,7 @@ Jill written modifications in notebook:
 - [ ] Check if all tubes have same volume (greater elution volume may cause library prep failure)
 - [ ] Toss spin columns and keep 1.5 mL tubes on ice 
 
-#### Section 2: Amplification with PrepAmp Primer 
+### Section 2: Amplification with PrepAmp Primer 
 
 **Prepare Master mixes**:
 
@@ -182,7 +168,7 @@ This program runs through two cycles. In the second step of each cycle, you need
 - [ ] Put samples on ice 
   - Current volume: 15.55 uL
 
-#### Section 3: Purification with DNA Clean-up and Concentrator (DCC)
+### Section 3: Purification with DNA Clean-up and Concentrator (DCC)
 
 - [ ] **Heat DNA Elution Buffer to 56°C on thermoblock**
 - [ ] Add 108.85 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample) to PCR tube
@@ -197,7 +183,7 @@ This program runs through two cycles. In the second step of each cycle, you need
 - [ ] Centrifuge at 16,000 g for 30 seconds
 - [ ] Toss spin columns and keep 1.5 mL tubes on ice 
 
-#### Section 4: Library Amplification 
+### Section 4: Library Amplification 
 
 - [ ] Make Amplification Master Mix (AMM or D) on ice. Vortex and centrifuge briefly
 	- [ ] 12.5 uL 2X Library Amp Mix * n =
@@ -216,7 +202,7 @@ Thermocycler settings:
 - [ ] Put samples on ice 
   - Current volume: 25 uL
 
-#### Section 4.5: Purification with DNA Clean-up and Concentrator (DCC)
+### Section 4.5: Purification with DNA Clean-up and Concentrator (DCC)
 
 - [ ] **Heat DNA Elution Buffer to 56°C on thermoblock**
 - [ ] Add 175 uL of DNA binding buffer (7:1 ratio of DNA binding buffer:sample)to PCR tube
@@ -231,7 +217,7 @@ Thermocycler settings:
 - [ ] Centrifuge at 16,000 g for 30 seconds
 - [ ] Toss spin columns and keep 1.5 mL tubes on ice 
 
-#### Section 5: Amplification with Index Primers 
+### Section 5: Amplification with Index Primers 
 
 Thermocycler settings: 
 
@@ -255,7 +241,7 @@ For Zymo Index primers:
   - [ ] Take Kapa beads out of fridge >30 minutes before next step
 - [ ] After program is done, put samples on ice 
 
-#### 1x Bead Cleanup 
+### 1x Bead Cleanup 
 
 - [ ] Take Kapa beads out of fridge >30 minutes before using to allow beads to equilibrate to room temperature
 - [ ] Shake the bottle to mix the beads (don't vortex)
