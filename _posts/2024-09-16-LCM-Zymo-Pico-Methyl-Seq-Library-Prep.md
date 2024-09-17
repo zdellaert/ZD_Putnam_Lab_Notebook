@@ -14,8 +14,7 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 
 ### Here's the Pico Methyl-Seq library prep workflow: 
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_picomethylseq.png?raw=true" width="500" height="800">
-
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_picomethylseq.png?raw=true" width="396" height="590">
 
 ### Materials 
 
