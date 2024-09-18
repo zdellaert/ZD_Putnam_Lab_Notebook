@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LCM Pico Methyl-Seq Library Prep
-date: '2024-09-16'
+date: '2024-09-17'
 categories: Protocols
 tags: [DNA, Pocillopora, LCM, Library Prep]
 ---
@@ -16,6 +16,42 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_picomethylseq.png?raw=true" width="396" height="590">
 
+## Samples: All 10 extracted on 9/13
+
+https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9oLU/edit?usp=sharing
+
+Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA tapestation concentrations.
+
+<img width="600" alt="2024-09-13-gDNA" src="https://github.com/user-attachments/assets/7ace01f1-332e-47f8-a9f5-e0c1d5f41b21">
+
+Tapestation concentrations:
+
+| sample_id      | concentration | DIN | 
+|----------------|------------|------------|
+| #4 (Frag A)    |  4.86 ng/uL  | 2.8 | 
+| #5 (Frag A)    |  5.01 ng/uL  | 2.8 | 
+| #8 (Frag B)    |  4.46 ng/uL  | 3.3 | 
+| #9 (Frag B)    |  4.37 ng/uL  | 3.1 | 
+| #15 (Frag C)   |  3.80 ng/uL  | 2.4 | 
+| #16 (Frag C)   |  3.43 ng/uL  | 2.5 | 
+| #20 (Frag D)   |  3.37 ng/uL  | 2.3 | 
+| #21 (Frag D)   |  4.41 ng/uL  | 2.8 | 
+| #26 (Frag E)   |  2.75 ng/uL  | - | 
+| #27 (Frag E)   |  1.96 ng/uL  | - | 
+
+| ng input | Starting volume (uL) | Volume DNA (uL) | Volume Tris (uL) |
+|----------|----------------------|-----------------|------------------|
+| 10       | 20                   | 2.1             | 17.9             |
+| 10       | 20                   | 2.0             | 18.0             |
+| 10       | 20                   | 2.2             | 17.8             |
+| 10       | 20                   | 2.3             | 17.7             |
+| 10       | 20                   | 2.6             | 17.4             |
+| 10       | 20                   | 2.9             | 17.1             |
+| 10       | 20                   | 3.0             | 17.0             |
+| 10       | 20                   | 2.3             | 17.7             |
+| 10       | 20                   | 3.6             | 16.4             |
+| 10       | 20                   | 5.1             | 14.9             |
+
 ### Materials 
 
 - [Kit contents](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit)
@@ -26,6 +62,11 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 - Vortex, shaker
 - Aluminum beads (to keep things on ice)
 - Magnetic stand for PCR tubes 
+- Custom index primers for Illumina if you have more than 6 samples (Zymo kit provides 6)
+
+#### About indeces:
+
+"1. Ensure that there is diversity within the first couple of bases. Illumina recommends choosing barcodes that do not share the same base at the position. 2. Order new primers according to the “Can additional index primers be purchased for multiplexing?” section 3. Illumina recommends the following multiplexing strategy for 6 or fewer samples: Pool of 2 samples: • Index #6 GCCAAT • Index #12 CTTGTA Pool of 3 samples: • Index #4 TGACCA • Index #6 GCCAAT • Index #12 CTTGTA Pool of 6 samples: • Index #2 CGATGT • Index #4 TGACCA • Index #5 ACAGTG • Index #6 GCCAAT • Index #7 CAGATC • Index #12 CTTGTA"
 
 #### Kit contents
 
@@ -265,52 +306,11 @@ Run to visualize libraries. Here's an example of what the library should look li
 
 ![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/pico_lib_prep_library_example.png)
 
-## Samples: All 10 extracted on 9/13
-
-https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9oLU/edit?usp=sharing
-
-Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA tapestation concentrations.
-
-<img width="600" alt="2024-09-13-gDNA" src="https://github.com/user-attachments/assets/7ace01f1-332e-47f8-a9f5-e0c1d5f41b21">
-
-Tapestation concentrations:
-
-| sample_id      | concentration | DIN | 
-|----------------|------------|------------|
-| #4 (Frag A)    |  4.86 ng/uL  | 2.8 | 
-| #5 (Frag A)    |  5.01 ng/uL  | 2.8 | 
-| #8 (Frag B)    |  4.46 ng/uL  | 3.3 | 
-| #9 (Frag B)    |  4.37 ng/uL  | 3.1 | 
-| #15 (Frag C)   |  3.80 ng/uL  | 2.4 | 
-| #16 (Frag C)   |  3.43 ng/uL  | 2.5 | 
-| #20 (Frag D)   |  3.37 ng/uL  | 2.3 | 
-| #21 (Frag D)   |  4.41 ng/uL  | 2.8 | 
-| #26 (Frag E)   |  2.75 ng/uL  | - | 
-| #27 (Frag E)   |  1.96 ng/uL  | - | 
-
-| ng input | Starting volume (uL) | Volume DNA (uL) | Volume Tris (uL) |
-|----------|----------------------|-----------------|------------------|
-| 10       | 20                   | 2.1             | 17.9             |
-| 10       | 20                   | 2.0             | 18.0             |
-| 10       | 20                   | 2.2             | 17.8             |
-| 10       | 20                   | 2.3             | 17.7             |
-| 10       | 20                   | 2.6             | 17.4             |
-| 10       | 20                   | 2.9             | 17.1             |
-| 10       | 20                   | 3.0             | 17.0             |
-| 10       | 20                   | 2.3             | 17.7             |
-| 10       | 20                   | 3.6             | 16.4             |
-| 10       | 20                   | 5.1             | 14.9             |
-
-#### About indeces:
-
-"1. Ensure that there is diversity within the first couple of bases. Illumina recommends choosing barcodes that do not share the same base at the position. 2. Order new primers according to the “Can additional index primers be purchased for multiplexing?” section 3. Illumina recommends the following multiplexing strategy for 6 or fewer samples: Pool of 2 samples: • Index #6 GCCAAT • Index #12 CTTGTA Pool of 3 samples: • Index #4 TGACCA • Index #6 GCCAAT • Index #12 CTTGTA Pool of 6 samples: • Index #2 CGATGT • Index #4 TGACCA • Index #5 ACAGTG • Index #6 GCCAAT • Index #7 CAGATC • Index #12 CTTGTA"
-
 ### Library prep results, 9/17/24
 
 <img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/user-attachments/assets/ad7c9e8d-a09d-4c17-a494-d2cd34c4adff">
 
-
-**These reuslts look super odd! It could be primer dimer from having too little DNA input relative to primer and possibly too many cycles?**
+**These results look super odd! It could be primer dimer from having too little DNA input relative to primer and possibly too many cycles?**
 
 - While I did put in 10ng of DNA based on the tapestation values, keep in mind that the Qubit values (high sensitivity) were all non detectable, so it is unclear how much DNA really went into the prep.
 

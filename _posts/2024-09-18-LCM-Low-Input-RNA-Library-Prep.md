@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LCM Low Input RNA Library Prep
-date: '2024-09-15 7:00:00'
+date: '2024-09-18 7:00:00'
 categories: Protocols
 tags: [RNA, Pocillopora, LCM, Library Prep]
 ---
@@ -135,19 +135,6 @@ There are no exact instructions on how to modify the protocol with use of custom
   - Our RNA is definitely not RIN score > 8.0, but we will see what we can do.
 
 ### 2.1 Sample and Reagent preperation
-
-#### If doing in 1 day:
-
-- [ ] Prepare fresh 80% Ethanol with nucelase-free water
-- [ ] Thaw total RNA on ice prior to starting the protocol
-- [ ] The **⚪️ Murine RNase Inhibitor** is not needed for this protocol, so it should be kept at -20 ºC
-- [ ] Briefly centrifuge the tubes containing 🟣 **NEBNext Single Cell RT Enzyme Mix** to collect solutions to the bottom of the tubes, then **place on ice**.
-- [ ] Thaw all other frozen components at **room temperature**
-  - if the ⚪️ 10X NEBNext Cell Lysis Buffer appears cloudy after thawing, incubate briefly at 37°C to clear up the solution.
-- [ ] Mix each component thoroughly, centrifuge briefly to collect solutions to the bottom of the tube, and **then place on ice**.
-- [ ] Leave the NEBNext Cell Lysis Buffer bottle at 4°C or at room temperature for storage.
-
-#### If doing in 2 days:
 
 1. Day 1 (Annealing, RT, cDNA PCR, cleanup, cDNA QC):
    - [ ] Prepare fresh 80% Ethanol with nucelase-free water
@@ -501,7 +488,7 @@ briefly spin the tube/plate, place back on the magnet and **remove traces of eth
   - Hold at 4°C
 - cDNA Amplification (2.4.3):
   - 98°C, 45 seconds (with heated lid set to 105°C)
-  - 7-21 cycles (likely 10-11?) of
+  - 7-21 cycles (likely 15-17) of
     - 98°C, 10 seconds (with heated lid set to 105°C)
     - 62°C, 15 seconds (with heated lid set to 105°C)
     - 72°C, 3 minutes (with heated lid set to 105°C)
