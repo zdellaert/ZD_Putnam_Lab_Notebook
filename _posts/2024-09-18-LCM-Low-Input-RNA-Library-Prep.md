@@ -63,8 +63,6 @@ Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/m
 
 [Zoe metadata link](https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9oLU/edit?gid=312575474#gid=312575474)
 
-An input of 8uL was used for all samples
-
 <img width="600" alt="2024-09-13-rna" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-13-rna.png?raw=true">
 
 Tapestation concentrations and [DV200 values](https://www.agilent.com/en/promotions/tapestation-dv200-determination):
@@ -95,7 +93,7 @@ Tapestation concentrations and [DV200 values](https://www.agilent.com/en/promoti
 | 0.283                     | 8                         | 2.26                  |
 | 0.211                     | 8                         | 1.69                  |
 
-Median input: 2.19 ng
+Median input: 2.19 ng. An input of 8uL was used for all samples
 
 ## Protocol for Low Input RNA: cDNA Synthesis, Amplification and Library Generation
 
