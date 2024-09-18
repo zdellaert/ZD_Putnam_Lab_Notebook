@@ -273,6 +273,8 @@ Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA t
 
 ![2024-09-13-gDNA.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-13-gDNA.png?raw=true)
 
+<img width="500" alt="2024-09-13-gDNA" src="https://github.com/user-attachments/assets/7ace01f1-332e-47f8-a9f5-e0c1d5f41b21">
+
 Tapestation concentrations:
 
 | sample_id      | concentration | DIN | 
@@ -308,6 +310,8 @@ Tapestation concentrations:
 ### Library prep results, 9/17/24
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-17-LCM-WGBS.png?raw=true">
+
+<img width="500" alt="2024-09-17-LCM-WGBS" src="https://github.com/user-attachments/assets/ad7c9e8d-a09d-4c17-a494-d2cd34c4adff">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-17-LCM-WGBS.pdf)
 
