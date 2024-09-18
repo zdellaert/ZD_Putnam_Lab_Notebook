@@ -271,9 +271,7 @@ https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9
 
 Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA tapestation concentrations.
 
-![2024-09-13-gDNA.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-13-gDNA.png?raw=true)
-
-<img width="500" alt="2024-09-13-gDNA" src="https://github.com/user-attachments/assets/7ace01f1-332e-47f8-a9f5-e0c1d5f41b21">
+<img width="600" alt="2024-09-13-gDNA" src="https://github.com/user-attachments/assets/7ace01f1-332e-47f8-a9f5-e0c1d5f41b21">
 
 Tapestation concentrations:
 
@@ -309,9 +307,7 @@ Tapestation concentrations:
 
 ### Library prep results, 9/17/24
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-17-LCM-WGBS.png?raw=true">
-
-<img width="500" alt="2024-09-17-LCM-WGBS" src="https://github.com/user-attachments/assets/ad7c9e8d-a09d-4c17-a494-d2cd34c4adff">
+<img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/user-attachments/assets/ad7c9e8d-a09d-4c17-a494-d2cd34c4adff">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-17-LCM-WGBS.pdf)
 
@@ -322,14 +318,14 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 | POC_22, 1 ng  |  6.36                     | 89.04       |
 | POC_22, 10ng  |  4.62                     | 64.68       |
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_5.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_4.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_8.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_9.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_15.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_16.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_20.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_21.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_26.png?raw=true" width="451" height="215">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_27.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_5.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_4.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_8.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_9.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_15.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_16.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_20.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_21.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_26.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_27.png?raw=true" width="677" height="323">
 
