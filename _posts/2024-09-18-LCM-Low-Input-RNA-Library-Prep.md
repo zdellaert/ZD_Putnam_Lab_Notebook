@@ -10,7 +10,7 @@ tags: [RNA, Pocillopora, LCM, Library Prep]
 
 Using product: [NEBNext® Single Cell/Low Input RNA Library Prep Kit for Illumina](https://www.neb.com/en-us/products/e6420-nebnext-single-cell-low-input-rna-library-prep-kit-for-illumina)
 
-Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manualE6420_NEBNext_Low_Input_RNA_Library_Prep.pdf). Most of the text here is taken directly from this protocol. I will only be using (and detailing the steps below) for one of the workflows in this protocol: "**Section 2: Protocol for Low Input RNA: cDNA Synthesis, Amplification and Library Generation**". 
+Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manualE6420_NEBNext_Low_Input_RNA_Library_Prep.pdf). Most of the text here is taken directly from this protocol. I will only be using (and detailing the steps below) for one of the workflows in this protocol: "**Section 2: Protocol for Low Input RNA: cDNA Synthesis, Amplification and Library Generation**". I successfully tested this on [7/30/24](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Testing-NEBNext-Low-Input-RNA-Library-Prep/).
 
 ### Overview image of workflow:
 
@@ -90,8 +90,6 @@ Tapestation concentrations and [DV200 values](https://www.agilent.com/en/promoti
 | 0.263                     | 8                         | 2.10                  |
 | 0.272                     | 8                         | 2.18                  |
 | 0.339                     | 8                         | 2.71                  |
-| 0.283                     | 8                         | 2.26                  |
-| 0.211                     | 8                         | 1.69                  |
 
 Median input: 2.19 ng. An input of 8uL was used for all samples
 
