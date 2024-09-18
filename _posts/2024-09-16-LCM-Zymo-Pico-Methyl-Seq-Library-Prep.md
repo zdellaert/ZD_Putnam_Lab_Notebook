@@ -309,14 +309,28 @@ Tapestation concentrations:
 
 <img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/user-attachments/assets/ad7c9e8d-a09d-4c17-a494-d2cd34c4adff">
 
+
+**These reuslts look super odd! It could be primer dimer from having too little DNA input relative to primer and possibly too many cycles?**
+
+- While I did put in 10ng of DNA based on the tapestation values, keep in mind that the Qubit values (high sensitivity) were all non detectable, so it is unclear how much DNA really went into the prep.
+
+"Primer dimers at 126 bp may appear as a result of a high PrepAmp Primer concentration relative to the amount
+of input DNA. The PrepAmp Primer (40 μM) can be diluted to 20 μM to alleviate this issue (Section 2)."
+
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-17-LCM-WGBS.pdf)
 
-| sample_id     | tapestation concentration | ng Library  (conc * 14 uL) |
-|---------------|---------------------------|----------------------------|
-| POR_14, 1ng   |  5.74                     | 80.36       |
-| POR_14, 10 ng |  10.8                     | 151.2       |
-| POC_22, 1 ng  |  6.36                     | 89.04       |
-| POC_22, 10ng  |  4.62                     | 64.68       |
+| Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
+|--------------|------------------------------------|-----------------------|-------------|
+| #4 (Frag A)  | 14                                 | 4.01                  | 56.14       |
+| #5 (Frag A)  | 14                                 | 1.6                   | 22.4        |
+| #8 (Frag B)  | 14                                 | 2.41                  | 33.74       |
+| #9 (Frag B)  | 14                                 | 4.84                  | 67.76       |
+| #15 (Frag C) | 14                                 | 0.523                 | 7.322       |
+| #16 (Frag C) | 14                                 | 3.38                  | 47.32       |
+| #20 (Frag D) | 14                                 | 2.06                  | 28.84       |
+| #21 (Frag D) | 14                                 | 0.931                 | 13.034      |
+| #26 (Frag E) | 14                                 | 7.56                  | 105.84      |
+| #27 (Frag E) | 14                                 | 1.69                  | 23.66       |
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_5.png?raw=true" width="677" height="323">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_4.png?raw=true" width="677" height="323">
