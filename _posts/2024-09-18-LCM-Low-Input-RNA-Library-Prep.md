@@ -94,13 +94,6 @@ Median input: 2.19 ng. An input of 8uL was used for all samples
 
 ## Protocol for Low Input RNA: cDNA Synthesis, Amplification and Library Generation
 
-### Sample Recommendations
-
-- The RNA sample should be free of salts (e.g., Mg2+, or guanidinium salts), divalent cation chelating agents (e.g. EDTA, EGTA, citrate), or organics (e.g., phenol and ethanol). If an excess amount of genomic DNA is present in RNA samples, an optional DNase I treatment could be performed. Inactivate/remove DNase I after treatment.
-- Assess quality of the input RNA by running input RNA on an Agilent Bioanalyzer to determine the RNA Integrity Number (RIN).
-- **Starting Material**: 2 pg–200 ng poly(A) tail-containing total RNA (DNA free), RIN score ≥ 8.0.
-  - Our RNA is definitely not RIN score > 8.0, but we will see what we can do.
-
 ### 2.1 Sample and Reagent preperation
 
 1. Day 1 (Annealing, RT, cDNA PCR, cleanup, cDNA QC):
