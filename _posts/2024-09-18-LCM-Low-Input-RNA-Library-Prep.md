@@ -65,8 +65,6 @@ Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/m
 
 An input of 8uL was used for all samples
 
-<img width="600" alt="2024-09-13-rna" src="https://github.com/user-attachments/assets/65dbe4f3-d576-4fbf-b6d1-4d8203cb87f9">
-
 <img width="600" alt="2024-09-13-rna" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-13-rna.png?raw=true">
 
 Tapestation concentrations and [DV200 values](https://www.agilent.com/en/promotions/tapestation-dv200-determination):
