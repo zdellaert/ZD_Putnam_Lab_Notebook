@@ -6,7 +6,7 @@ categories: Protocols
 tags: [DNA, Pocillopora, LCM, Library Prep]
 ---
 
-## Testing NEBNext Low Input RNA Library Prep
+## LCM Pico Methyl-Seq Library Prep
 
 Product: [Zymo Pico Methyl Seq Library Prep](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit)
 
@@ -304,4 +304,28 @@ Tapestation concentrations:
 #### About indeces:
 
 "1. Ensure that there is diversity within the first couple of bases. Illumina recommends choosing barcodes that do not share the same base at the position. 2. Order new primers according to the “Can additional index primers be purchased for multiplexing?” section 3. Illumina recommends the following multiplexing strategy for 6 or fewer samples: Pool of 2 samples: • Index #6 GCCAAT • Index #12 CTTGTA Pool of 3 samples: • Index #4 TGACCA • Index #6 GCCAAT • Index #12 CTTGTA Pool of 6 samples: • Index #2 CGATGT • Index #4 TGACCA • Index #5 ACAGTG • Index #6 GCCAAT • Index #7 CAGATC • Index #12 CTTGTA"
+
+### Library prep results, 9/17/24
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-17-LCM-WGBS.png?raw=true">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-17-LCM-WGBS.pdf)
+
+| sample_id     | tapestation concentration | ng Library  (conc * 14 uL) |
+|---------------|---------------------------|----------------------------|
+| POR_14, 1ng   |  5.74                     | 80.36       |
+| POR_14, 10 ng |  10.8                     | 151.2       |
+| POC_22, 1 ng  |  6.36                     | 89.04       |
+| POC_22, 10ng  |  4.62                     | 64.68       |
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_5.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_4.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_8.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_9.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_15.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_16.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_20.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_21.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_26.png?raw=true" width="451" height="215">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_27.png?raw=true" width="451" height="215">
 
