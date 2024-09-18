@@ -89,7 +89,6 @@ Tapestation concentrations and [DV200 values](https://www.agilent.com/en/promoti
 | 0.275                     | 8                         | 2.20                  |
 | 0.263                     | 8                         | 2.10                  |
 | 0.272                     | 8                         | 2.18                  |
-| 0.339                     | 8                         | 2.71                  |
 
 Median input: 2.19 ng. An input of 8uL was used for all samples
 
