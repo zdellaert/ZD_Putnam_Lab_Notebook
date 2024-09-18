@@ -18,7 +18,7 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 
 ## Samples: All 10 extracted on 9/13
 
-https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9oLU/edit?usp=sharing
+[Zoe metadata link](https://docs.google.com/spreadsheets/d/1b1TPzleqo81ZLjrh_UIpXEftsjxhxqaMHd7ldFU9oLU/edit?gid=722422936#gid=722422936)
 
 Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA tapestation concentrations.
 
