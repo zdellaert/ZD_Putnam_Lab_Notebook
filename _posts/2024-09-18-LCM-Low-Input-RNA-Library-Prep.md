@@ -445,6 +445,10 @@ briefly spin the tube/plate, place back on the magnet and **remove traces of eth
 - [ ] 2.12.3. Check that the electropherogram shows a **narrow distribution with a peak size of 300–350 bp**.
   - Note: If a peak ~80 bp (primers) or 128-140 bp (adaptor-dimer) is visible in the Bioanalyzer trace, bring up the sample volume (from Step 2.11.11.) to 50 μl with 0.1X TE Buffer and repeat the cleanup of PCR Reaction as described in Section 2.11. You may see adaptor-dimer when starting with inputs ≤ 1 ng.
 
+#### Typical Yield of Illumina Library from a Reaction
+
+Actual yields will depend on the quality and quantity of the input cDNA. Typical library yields range between 100 ng–1 μg based on the PCR cycle recommendations provided in Section 2.10.
+
 ----
 
 ### Thermocycler programs to program:
