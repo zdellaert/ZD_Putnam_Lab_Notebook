@@ -353,7 +353,7 @@ I am attempting a [1.5X Kapa bead cleanup](https://rochesequencingstore.com/wp-c
 - Tapestation basically didn't change at all:
   - concentration went down, peaks didn't budge
 
-Full results can be found [here, last two lanes are not related](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-18-LCM-WGBS-RNA.pdf)
+<img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-18-LCM-WGBS.png?raw=true">
 
 | Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
 |--------------|------------------------------------|-----------------------|-------------|
@@ -367,6 +367,8 @@ Full results can be found [here, last two lanes are not related](https://github.
 | #21 (Frag D) | 14                                 | 0.931                 | 13.034      |
 | #26 (Frag E) | 14                                 | 7.56                  | 105.84      |
 | #27 (Frag E) | 14                                 | 1.69                  | 23.66       |
+
+Full results can be found [here, last two lanes are not related](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-18-LCM-WGBS-RNA.pdf)
 
 #### What's next?
 
