@@ -377,6 +377,7 @@ Start over with less cycles and less primer? 0.9X cleanup?
 - The peak is very likely strong adapter dimer. 
 
 - but also, the concentrations are super low. so, need to figure out if I can increase cycles without just re-doing the adapter dimer /primer dimer problem.
+  - keep cuycles same or even high, but dilute LibraryAmp primers by 0.5x
 
 [Q8: Why does the library banding pattern look like a DNA ladder?](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit?srsltid=AfmBOor5vqUagzU9t9kVusPhbIJAR-HhajC-npuoWID0Hx8dz2q1NhoZ)
 
