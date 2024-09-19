@@ -22,7 +22,7 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 
 Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA tapestation concentrations.
 
-<img width="600" alt="2024-09-13-gDNA" src="https://github.com/user-attachments/assets/7ace01f1-332e-47f8-a9f5-e0c1d5f41b21">
+<img width="600" alt="2024-09-13-gDNA" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-08-gdna.png?raw=true">
 
 Tapestation concentrations:
 
@@ -38,6 +38,8 @@ Tapestation concentrations:
 | #21 (Frag D)   |  4.41 ng/uL  | 2.8 | 
 | #26 (Frag E)   |  2.75 ng/uL  | - | 
 | #27 (Frag E)   |  1.96 ng/uL  | - | 
+
+
 
 | ng input | Starting volume (uL) | Volume DNA (uL) | Volume Tris (uL) |
 |----------|----------------------|-----------------|------------------|
@@ -308,7 +310,7 @@ Run to visualize libraries. Here's an example of what the library should look li
 
 ### Library prep results, 9/17/24
 
-<img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/user-attachments/assets/ad7c9e8d-a09d-4c17-a494-d2cd34c4adff">
+<img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-17-LCM-WGBS.png?raw=true">
 
 **These results look super odd! It could be primer dimer from having too little DNA input relative to primer and possibly too many cycles?**
 
@@ -332,8 +334,8 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 | #26 (Frag E) | 14                                 | 7.56                  | 105.84      |
 | #27 (Frag E) | 14                                 | 1.69                  | 23.66       |
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_5.png?raw=true" width="677" height="323">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_4.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_5.png?raw=true" width="677" height="323">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_8.png?raw=true" width="677" height="323">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_9.png?raw=true" width="677" height="323">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_15.png?raw=true" width="677" height="323">
@@ -343,3 +345,29 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_26.png?raw=true" width="677" height="323">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-17-LCM-WGBS_27.png?raw=true" width="677" height="323">
 
+### Second bead cleanup of 9/17 libraries
+
+I am attempting a [1.5X Kapa bead cleanup](https://rochesequencingstore.com/wp-content/uploads/2022/07/KAPA-Pure-Beads-Technical-Data-Sheet.pdf) of the libraries above to try to remove the big peak at ~150 bp. Using the same protocol as the bead cleanup above. 
+
+- To each 14 uL library, thawed on ice, added 21 uL of beads and followed all the same steps.
+- Tapestation basically didn't change at all:
+  - concentration went down, peaks didn't budge
+
+Full results can be found [here, last two lanes are not related](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-18-LCM-WGBS-RNA.pdf)
+
+| Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
+|--------------|------------------------------------|-----------------------|-------------|
+| #4 (Frag A)  | 14                                 | 4.01                  | 56.14       |
+| #5 (Frag A)  | 14                                 | 1.6                   | 22.4        |
+| #8 (Frag B)  | 14                                 | 2.41                  | 33.74       |
+| #9 (Frag B)  | 14                                 | 4.84                  | 67.76       |
+| #15 (Frag C) | 14                                 | 0.523                 | 7.322       |
+| #16 (Frag C) | 14                                 | 3.38                  | 47.32       |
+| #20 (Frag D) | 14                                 | 2.06                  | 28.84       |
+| #21 (Frag D) | 14                                 | 0.931                 | 13.034      |
+| #26 (Frag E) | 14                                 | 7.56                  | 105.84      |
+| #27 (Frag E) | 14                                 | 1.69                  | 23.66       |
+
+#### What's next?
+
+Start over with less cycles and less primer? 0.9X cleanup?
