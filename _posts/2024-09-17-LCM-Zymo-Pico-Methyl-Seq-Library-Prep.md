@@ -22,7 +22,7 @@ I am basing my protocol text off of [Jill's protocol](https://github.com/JillAsh
 
 Samples were diluted to 10 ng in 20 uL of DNA elution buffer based on the gDNA tapestation concentrations.
 
-<img width="600" alt="2024-09-13-gDNA" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-08-gdna.png?raw=true">
+<img width="600" alt="2024-09-13-gDNA" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-13-gDNA.png?raw=true">
 
 Tapestation concentrations:
 
@@ -373,6 +373,10 @@ Full results can be found [here, last two lanes are not related](https://github.
 #### What's next?
 
 Start over with less cycles and less primer? 0.9X cleanup?
+
+- The peak is very likely strong adapter dimer. 
+
+- but also, the concentrations are super low. so, need to figure out if I can increase cycles without just re-doing the adapter dimer /primer dimer problem.
 
 [Q8: Why does the library banding pattern look like a DNA ladder?](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit?srsltid=AfmBOor5vqUagzU9t9kVusPhbIJAR-HhajC-npuoWID0Hx8dz2q1NhoZ)
 

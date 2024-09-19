@@ -449,6 +449,25 @@ briefly spin the tube/plate, place back on the magnet and **remove traces of eth
 
 Actual yields will depend on the quality and quantity of the input cDNA. Typical library yields range between 100 ng–1 μg based on the PCR cycle recommendations provided in Section 2.10.
 
+## Results
+
+cDNA and planned cycles/indeces
+
+| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles | Index_ID  | index  |
+|--------------|--------------------|----------------------------------|------------|-----------|--------|
+| #4 (Frag A)  | 0.0869             | 2.2594                           | 11         | E7500S-21 | GTTTCG |
+| #5 (Frag A)  | 0.211              | 5.486                            | 9          | E7500S-14 | AGTTCC |
+| #8 (Frag B)  | 0.0744             | 1.9344                           | 11         | E7500S-23 | GAGTGG |
+| #9 (Frag B)  | 0.0232             | 0.6032                           | 11         | E7500S-18 | GTCCGC |
+| #15 (Frag C) | 0.199              | 5.174                            | 9          | E7500S-25 | ACTGAT |
+| #16 (Frag C) | 0.172              | 4.472                            | 9          | E7500S-20 | GTGGCC |
+| #20 (Frag D) | 0.24               | 6.24                             | 9          | E7500S-13 | AGTCAA |
+| #21 (Frag D) | 0.112              | 2.912                            | 9          | E7500S-15 | ATGTCA |
+| #26 (Frag E) | 0.223              | 5.798                            | 9          | E7500S-22 | CGTACG |
+| #27 (Frag E) | 0.188              | 4.888                            | 9          | E7500S-19 | GTGAAA |
+
+
+
 ----
 
 ### Thermocycler programs to program:
