@@ -470,10 +470,28 @@ cDNA and planned cycles/indeces
 
 These look absolutely amazing. In the future any cDNA concentration of less than 5 ng/uL could probably benefit from 11 insterad of 9 cycles but these look so so good! yay!
 
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib.png?raw=true">
 
+<img width="600" alt="2024-09-20-RNA-lib_notscaled.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib_notscaled.png?raw=true">
 
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib.pdf) and [here (not scaled by sample)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib_notscaled.pdf)
+
+| Sample Type  | Final library concentrations, Tapestation | ng Library (conc * 29 uL) |
+|--------------|-------------------------------------------|---------------------------|
+| #4 (Frag A)  | 24.3                                      | 704.7                     |
+| #5 (Frag A)  | 32.5                                      | 942.5                     |
+| #8 (Frag B)  | 26.5                                      | 768.5                     |
+| #9 (Frag B)  | 12                                        | 348                       |
+| #15 (Frag C) | 11.9                                      | 345.1                     |
+| #16 (Frag C) | 5.14                                      | 149.06                    |
+| #20 (Frag D) | 10.3                                      | 298.7                     |
+| #21 (Frag D) | 3.52                                      | 102.08                    |
+| #26 (Frag E) | 9.3                                       | 269.7                     |
+| #27 (Frag E) | 6.42                                      | 186.18                    |
 
 ----
+
+## Notes 
 
 ### Thermocycler programs to program:
 
