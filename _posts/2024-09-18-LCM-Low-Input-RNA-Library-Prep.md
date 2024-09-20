@@ -466,6 +466,11 @@ cDNA and planned cycles/indeces
 | #26 (Frag E) | 0.223              | 5.798                            | 9          | E7500S-22 | CGTACG |
 | #27 (Frag E) | 0.188              | 4.888                            | 9          | E7500S-19 | GTGAAA |
 
+## Final Library Results
+
+These look absolutely amazing. In the future any cDNA concentration of less than 5 ng/uL could probably benefit from 11 insterad of 9 cycles but these look so so good! yay!
+
+
 
 
 ----
