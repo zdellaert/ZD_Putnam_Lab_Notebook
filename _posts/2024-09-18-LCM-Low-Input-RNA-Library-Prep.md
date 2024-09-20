@@ -449,7 +449,11 @@ briefly spin the tube/plate, place back on the magnet and **remove traces of eth
 
 Actual yields will depend on the quality and quantity of the input cDNA. Typical library yields range between 100 ng–1 μg based on the PCR cycle recommendations provided in Section 2.10.
 
-## Results
+## 9/19/24 cDNA Results
+
+<img width="600" alt="2024-09-19-LCM-RNA-cDNA-all.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-19-LCM-RNA-cDNA-all.png?raw=true">
+
+<img width="600" alt="2024-09-19-LCM-RNA-cDNA-all-compare.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-19-LCM-RNA-cDNA-all-compare.png?raw=true">
 
 cDNA and planned cycles/indeces
 
@@ -466,7 +470,7 @@ cDNA and planned cycles/indeces
 | #26 (Frag E) | 0.223              | 5.798                            | 9          | E7500S-22 | CGTACG |
 | #27 (Frag E) | 0.188              | 4.888                            | 9          | E7500S-19 | GTGAAA |
 
-## Final Library Results
+## 9/20/24 Final Library Results
 
 These look absolutely amazing. In the future any cDNA concentration of less than 5 ng/uL could probably benefit from 11 insterad of 9 cycles but these look so so good! yay!
 
@@ -474,7 +478,7 @@ These look absolutely amazing. In the future any cDNA concentration of less than
 
 <img width="600" alt="2024-09-20-RNA-lib_notscaled.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib_notscaled.png?raw=true">
 
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib.pdf) and [here (not scaled by sample)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib_notscaled.pdf)
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib.pdf) and [here (not scaled by sample)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib_notscaled.pdf). Last two lanes are from a different project.
 
 | Sample Type  | Final library concentrations, Tapestation | ng Library (conc * 29 uL) |
 |--------------|-------------------------------------------|---------------------------|
