@@ -401,3 +401,6 @@ Start over with less cycles and less primer? 0.9X cleanup?
 [Q8: Why does the library banding pattern look like a DNA ladder?](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit?srsltid=AfmBOor5vqUagzU9t9kVusPhbIJAR-HhajC-npuoWID0Hx8dz2q1NhoZ)
 
 Using a higher ratio of PrepAmp Primer to DNA input can result in primer dimers that get carried through to the final library. To help avoid banding pattern: - Try reducing the amount of PrepAmp Primer to 20 nM (for inputs of ~10-50 ng) or 10 nM (for inputs <10 ng). - Please evaluate the best ratio for your sample type and sample amount. Ratio dependent on type of input (gDNA, restriction-enzyme digested, cfDNA, etc.). Are libraries produced by the Pico Methyl-Seq library prep kit directional or non-directional? Libraries prepared with this kit are non-directional and as such, the original-top, original-bottom, and the complementary strands for each will be represented.
+
+- could also re-amp the already made library
+- pippin prep for size selection
