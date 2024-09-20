@@ -368,7 +368,26 @@ I am attempting a [1.5X Kapa bead cleanup](https://rochesequencingstore.com/wp-c
 | #26 (Frag E) | 14                                 | 7.56                  | 105.84      |
 | #27 (Frag E) | 14                                 | 1.69                  | 23.66       |
 
-Full results can be found [here, last two lanes are not related](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-18-LCM-WGBS-RNA.pdf)
+Full results can be found [here, last two lanes are not related](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-18-LCM-WGBS-RNA.pdf)
+
+### Third bead cleanup of two 9/17 libraries
+
+I am attempting a [0.9X Kapa bead cleanup](https://rochesequencingstore.com/wp-content/uploads/2022/07/KAPA-Pure-Beads-Technical-Data-Sheet.pdf) on two of the libraries (#26 and 27) above to try to remove the big peak at ~150 bp. Using the same protocol as the bead cleanup above. 
+
+- To each 14 uL library, thawed on ice, increased volume to 30 uL with DNA elution buffer from kit, added 27 uL of beads and followed all the same steps.
+- Tapestation basically didn't change at all:
+  - just lost a ton of concentration, but 150 bp peak decreased a bit
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-20-LCM-WGBS_26_09X.png?raw=true" width="677" height="323">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-20-LCM-WGBS_27_09X.png?raw=true" width="677" height="323">
+
+| Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
+|--------------|------------------------------------|-----------------------|-------------|
+| #26 (Frag E) | 14                                 | 0.619             | 8.666      |
+| #27 (Frag E) | 14                                 | 0.268           | 3.752       |
+
+Full results can be found [here, only the last two lanes](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-20-RNA-lib.pdf)
 
 #### What's next?
 
