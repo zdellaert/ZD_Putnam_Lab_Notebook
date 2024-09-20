@@ -319,7 +319,7 @@ Run to visualize libraries. Here's an example of what the library should look li
 "Primer dimers at 126 bp may appear as a result of a high PrepAmp Primer concentration relative to the amount
 of input DNA. The PrepAmp Primer (40 μM) can be diluted to 20 μM to alleviate this issue (Section 2)."
 
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/tapestation/2024-09-17-LCM-WGBS.pdf)
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-17-LCM-WGBS.pdf)
 
 | Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
 |--------------|------------------------------------|-----------------------|-------------|
