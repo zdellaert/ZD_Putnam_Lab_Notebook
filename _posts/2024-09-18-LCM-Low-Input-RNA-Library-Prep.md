@@ -457,7 +457,7 @@ Actual yields will depend on the quality and quantity of the input cDNA. Typical
 
 cDNA and planned cycles/indeces
 
-| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles | Index_ID  | index  |
+| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles  for final step | Index_ID  | index  |
 |--------------|--------------------|----------------------------------|------------|-----------|--------|
 | #4 (Frag A)  | 0.0869             | 2.2594                           | 11         | E7500S-21 | GTTTCG |
 | #5 (Frag A)  | 0.211              | 5.486                            | 9          | E7500S-14 | AGTTCC |
@@ -469,6 +469,10 @@ cDNA and planned cycles/indeces
 | #21 (Frag D) | 0.112              | 2.912                            | 9          | E7500S-15 | ATGTCA |
 | #26 (Frag E) | 0.223              | 5.798                            | 9          | E7500S-22 | CGTACG |
 | #27 (Frag E) | 0.188              | 4.888                            | 9          | E7500S-19 | GTGAAA |
+
+#5s 5 and 15 were tested on [9/18/24](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-18-LCM-WGBS-RNA.pdf) (last two lanes) with 17 cycles to make sure I could get adequate amplification. I cleaned and QC'd these on 9/18/24 and then set up the other 8 reactions on 9/18/24 as well, also with 17 cycles for cDNA amplification. The other 8 were cleaned and QC'd on [9/19/24](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-19-LCM-RNA-cDNA.pdf). After all cDNA was QC'd, I determined how many cycles would be used for the final library amplification step, and decided to use 11 cycles for cDNA input < 3 ng (#s 4, 8, and 9) and 9 cycles for all the rest.
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-19-LCM-RNA-cDNA-all.pdf).
 
 ## 9/20/24 Final Library Results
 
