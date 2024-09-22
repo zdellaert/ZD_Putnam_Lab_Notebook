@@ -396,7 +396,7 @@ Start over with less cycles and less primer? 0.9X cleanup?
 - The peak is very likely strong adapter dimer. 
 
 - but also, the concentrations are super low. so, need to figure out if I can increase cycles without just re-doing the adapter dimer /primer dimer problem.
-  - keep cuycles same or even high, but dilute LibraryAmp primers by 0.5x
+  - keep cycles same or even higher, but dilute LibraryAmp primers by 0.5x
 
 [Q8: Why does the library banding pattern look like a DNA ladder?](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit?srsltid=AfmBOor5vqUagzU9t9kVusPhbIJAR-HhajC-npuoWID0Hx8dz2q1NhoZ)
 
@@ -404,3 +404,25 @@ Using a higher ratio of PrepAmp Primer to DNA input can result in primer dimers 
 
 - could also re-amp the already made library
 - pippin prep for size selection
+
+## 9/22/24: Try 2 of Library Prep, reducing adapter dimer and increasing amplification
+
+- Testing the following modifications to the protocol:
+  - Dilute LibraryAmp primers by 0.5x
+- Increased cycles in library amp from 10 to 17
+
+Adapter dimer less than before but still very prominent peaks at 150 and 275 bp
+
+<img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-22-WGBS-try2.png?raw=true">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-22-WGBS-try2-5.png?raw=true" width="677" height="323">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-22-WGBS-try2-21.png?raw=true" width="677" height="323">
+
+
+| Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
+|--------------|------------------------------------|-----------------------|-------------|
+| #5 (Frag A)  | 14                                 | 1.35                  | 18.9       |
+| #21 (Frag D) | 14                                 | 1.29                 | 18.06      |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-22-WGBS-try2.pdf)
