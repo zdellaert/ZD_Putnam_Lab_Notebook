@@ -413,6 +413,9 @@ Using a higher ratio of PrepAmp Primer to DNA input can result in primer dimers 
 
 Adapter dimer less than before but still very prominent peaks at 150 and 275 bp
 
+- possible PCR bubble? 17 cycles maybe too many -- but should I decrease library amp primer even further?
+  - if you look at the y axis of the tapestation graphs, the peaks are very similar to 9/17 prep but less high
+
 <img width="300" alt="2024-09-17-LCM-WGBS" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-22-WGBS-try2.png?raw=true">
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-22-WGBS-try2-5.png?raw=true" width="550" height="323">
