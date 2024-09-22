@@ -413,11 +413,11 @@ Using a higher ratio of PrepAmp Primer to DNA input can result in primer dimers 
 
 Adapter dimer less than before but still very prominent peaks at 150 and 275 bp
 
-<img width="600" alt="2024-09-17-LCM-WGBS" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-22-WGBS-try2.png?raw=true">
+<img width="300" alt="2024-09-17-LCM-WGBS" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-22-WGBS-try2.png?raw=true">
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-22-WGBS-try2-5.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-22-WGBS-try2-5.png?raw=true" width="550" height="323">
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-22-WGBS-try2-21.png?raw=true" width="677" height="323">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-09-22-WGBS-try2-21.png?raw=true" width="550" height="323">
 
 
 | Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
