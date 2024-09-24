@@ -1,12 +1,18 @@
 ---
 layout: post
-title: TagSeq Gene Expression Pipeline
+title: Gene Expression Pipeline
 date: '2024-03-12'
 categories: Analysis
 tags: [RNA, Bioinformatics, TagSeq]
 ---
 
-## TagSeq Pipeline based on [Dr. Ariana Huffmyer's pipeline](https://github.com/AHuffmyer/EarlyLifeHistory_Energetics/blob/master/Mcap2020/Scripts/TagSeq/Genome_V3/TagSeq_BioInf_genomeV3.md) and [Dr. Sam Gurr's pipeline](https://github.com/SamGurr/SamGurr.github.io/blob/master/_posts/2021-01-07-Geoduck-TagSeq-Pipeline.md)
+## RNA-seq Data Processing Pipeline
+
+### Below is a pipeline for processing 3'-based TagSeq RNA-seq data. Similar methods can be applied for traditional RNA-seq, with some adjustments for read length, etc. However, all the tools used here (HISAT2, Stringtie2) are applicable for RNA-seq as they are splice- and isoform-aware
+
+#### Trimming parameters and parameters used at each step of pipeline can/should vary depending on your data quality and type. Look into the manuals of each program used for more information.
+
+### TagSeq Pipeline based on [Dr. Ariana Huffmyer's pipeline](https://github.com/AHuffmyer/EarlyLifeHistory_Energetics/blob/master/Mcap2020/Scripts/TagSeq/Genome_V3/TagSeq_BioInf_genomeV3.md) and [Dr. Sam Gurr's pipeline](https://github.com/SamGurr/SamGurr.github.io/blob/master/_posts/2021-01-07-Geoduck-TagSeq-Pipeline.md)
 
 To see an example of this pipeline applied to real data, see [repository](https://github.com/imkristenbrown/Heron-Pdam-gene-expression) here.
 
@@ -54,7 +60,7 @@ Raw data for this example are in:
 
 > /data/putnamlab/KITT/hputnam/20230125_Barott_Pdam/
 
-Sym-link data toown directory on Andromeda
+Sym-link data to own directory on Andromeda
 
 ```
 cd /data/putnamlab/zdellaert/Pdam-TagSeq #Enter working directory
