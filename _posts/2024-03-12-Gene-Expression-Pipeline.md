@@ -275,8 +275,8 @@ echo "Reference genome indexed. Starting alingment" $(date)
 # make the output directory if it does not exist (-p checks for this)
 mkdir -p hisat2
 
-# call the oligo-trimmed sequences into an array
-array=(../data_RNA/trimmed_oligo*_R1_001.fastq.gz)
+# call the trimmed sequences into an array
+array=(../data_RNA/trimmed*_R1_001.fastq.gz)
 
 # align the files to the indexed genome using hisat2
 for read1 in ${array[@]}; do
