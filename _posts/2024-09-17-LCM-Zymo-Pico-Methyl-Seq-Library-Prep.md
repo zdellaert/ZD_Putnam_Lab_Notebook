@@ -429,3 +429,14 @@ Adapter dimer less than before but still very prominent peaks at 150 and 275 bp
 | #21 (Frag D) | 14                                 | 1.29                 | 18.06      |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-09-22-WGBS-try2.pdf)
+
+## 10/14/24: Try 3 of Library Prep with test sample (9/8/24 extraction), reducing adapter dimer and increasing amplification
+
+- I chatted with Zymo and they recommended to dilute the PreAmp primer by 0.5X instead of the library amp primer and they also said not to use more than 12 cycles max. They also said to try to increase input as much as possible.
+
+So, Jill set up sample #13 from [9/8/24](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Exp-Test-Extraction/) (thank you Jill!!) with 5 uL of DNA input. Based on the Tapestation concentration, this is an input of roughly 35 ng of DNA (3.5X what I used above), but Zymo also doesn't trust the tapestation concentrations so who knows how much really went in.
+
+Plan for day 2 library prep:
+
+1. Dilute PreAmp primer by 0.5X (0.5 uL H2O, 0.5 uL PreAmp Primer)
+2. Use 10 cycles in library amp step

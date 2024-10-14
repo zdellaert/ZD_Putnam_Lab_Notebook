@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2024-09-05 LCM Experiment Test Extraction
-date: '2024-09-05'
+title: 2024-09-08 LCM Experiment Test Extraction
+date: '2024-09-08'
 categories: Processing
 tags: [Pocillopora, LCM, LCM-Pilot, RNA, DNA]
 ---
