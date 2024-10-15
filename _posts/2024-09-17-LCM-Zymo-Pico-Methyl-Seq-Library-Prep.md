@@ -440,3 +440,18 @@ Plan for day 2 library prep:
 
 1. Dilute PreAmp primer by 0.5X (0.5 uL H2O, 0.5 uL PreAmp Primer)
 2. Use 10 cycles in library amp step
+
+### Results ! Much better!! 
+
+(THANK YOU JILL)
+
+Adapter dimer less than before but still a tiny peak at ~215 bp
+
+<img width="300" alt="2024-10-15-try3" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-10-15-try3.png?raw=true">
+
+<img width="300" alt="2024-10-15-try3-2" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-10-15-try3-2.png?raw=true">
+
+
+| Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
+|--------------|------------------------------------|-----------------------|-------------|
+| #13 (9/8/24) | 14                                 | 2.73                  | 38.22       |
