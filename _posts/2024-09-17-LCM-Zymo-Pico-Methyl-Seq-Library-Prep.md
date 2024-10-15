@@ -447,7 +447,7 @@ Plan for day 2 library prep:
 
 Adapter dimer less than before but still a tiny peak at ~250 bp
 
-<img alt="2024-10-15-try3-2" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-10-15-try3-2.png?raw=true"><img alt="2024-10-15-try3" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-10-15-try3.png?raw=true">
+<img alt="2024-10-15-try3-2" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-10-15-try3-2.png?raw=true"> <img width="900" alt="2024-10-15-try3" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-10-15-try3.png?raw=true">
 
 
 | Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
