@@ -441,6 +441,11 @@ Plan for day 2 library prep:
 1. Dilute PreAmp primer by 0.5X (0.5 uL H2O, 0.5 uL PreAmp Primer)
 2. Use 10 cycles in library amp step
 
+Jill also made the following adjustments:
+	Section 1 - incubation with warmed DNA elubtion buffer shortened from 5 to 3 minutes. Emma reported that she typically got less out of the column if she did the full 5 minutes.
+	Section 3 - Incubation with warmed DNA elubtion buffer shortened from 5 to 2.5 minutes.
+	Section 5 - incubation with warmed DNA elubtion buffer shortened from 5 to 2.5 minutes.
+
 ### Results ! Much better!! 
 
 (THANK YOU JILL)
@@ -453,3 +458,8 @@ Adapter dimer less than before but still a tiny peak at ~250 bp
 | Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
 |--------------|------------------------------------|-----------------------|-------------|
 | #13 (9/8/24) | 14                                 | 2.73                  | 38.22       |
+
+
+## Redo plans
+
+I want to redo all of my samples with these adjustments and increased DNA input. However, we need more D5000 reagents to QC the libraries so I am going to wait to start until next week.
