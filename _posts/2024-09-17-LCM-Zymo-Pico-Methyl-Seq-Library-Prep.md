@@ -442,9 +442,10 @@ Plan for day 2 library prep:
 2. Use 10 cycles in library amp step
 
 Jill also made the following adjustments:
-	Section 1 - incubation with warmed DNA elubtion buffer shortened from 5 to 3 minutes. Emma reported that she typically got less out of the column if she did the full 5 minutes.
-	Section 3 - Incubation with warmed DNA elubtion buffer shortened from 5 to 2.5 minutes.
-	Section 5 - incubation with warmed DNA elubtion buffer shortened from 5 to 2.5 minutes.
+
+- Section 1 - incubation with warmed DNA elubtion buffer shortened from 5 to 3 minutes. Emma reported that she typically got less out of the column if she did the full 5 minutes.
+- Section 3 - Incubation with warmed DNA elubtion buffer shortened from 5 to 2.5 minutes.
+- Section 5 - incubation with warmed DNA elubtion buffer shortened from 5 to 2.5 minutes.
 
 ### Results ! Much better!! 
 
