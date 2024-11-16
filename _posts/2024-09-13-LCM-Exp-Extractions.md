@@ -10,7 +10,7 @@ tags: [Pocillopora, LCM, LCM-Pilot, RNA, DNA, Protocol]
 
 ## Extraction protocol:
 
-This protocol uses the Zymo Quick-DNA/RNA Microprep Plus kit with several adjustments, and is based off of many months of troubleshooting different extraction methods of LCM tissues. See the base Zymo DNA/RNA Microprep protocol [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Base_Zymo_Quick_DNA_RNA_Microprep_Plus_Booklet.pdf).
+This protocol uses the Zymo Quick-DNA/RNA Microprep Plus kit with several adjustments, and is based off of many months of troubleshooting different extraction methods of LCM tissues. See the base Zymo DNA/RNA Microprep protocol [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Base_Zymo_Quick_DNA_RNA_Microprep_Plus_Booklet.pdf). I used the protocol of the PAXgene Tissue AllPrep RNA/DNA extraction [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Simultaneous_DNA_RNA.pdf) as inspiration for adjustments to the Zymo protocol.
 
 ### Materials and Equipment
 
@@ -82,7 +82,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 
 #### DNA Extraction
 
-**I have tested an on-column proteinase K digestion based on the DNase I digestions used in the RNA extraction. This method is not supported by Zymo, but has worked for me to increase yield of DNA while not over-digesting and degrading the RNA. This was inspired by the PAXgene RNA/DNA concurrent extraction protocol [here]()**
+**I have tested an on-column proteinase K digestion based on the DNase I digestions used in the RNA extraction. This method is not supported by Zymo, but has worked for me to increase yield of DNA while not over-digesting and degrading the RNA. This was inspired by the PAXgene RNA/DNA concurrent extraction protocol [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Simultaneous_DNA_RNA.pdf)**
 
 22. Remove DNA columns from 4 ºC and allow to equilibrate to room temperature for 5-10 minutes
 23. Thaw Proteinase K from -20 ºC 
