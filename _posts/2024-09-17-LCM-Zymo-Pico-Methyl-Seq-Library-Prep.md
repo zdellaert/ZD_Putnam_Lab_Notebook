@@ -464,3 +464,17 @@ Adapter dimer less than before but still a tiny peak at ~250 bp
 ## Redo plans
 
 I want to redo all of my samples with these adjustments and increased DNA input. However, we need more D5000 reagents to QC the libraries so I am going to wait to start until next week.
+
+## 11/19/24: Try 4 of Library Prep with Protocol Jill used on 10/15
+
+| Sample       | Volume left after tapestation (uL) | Concentration (ng/uL) | ng Library  (conc * 14 uL) |
+|--------------|------------------------------------|-----------------------|-------------|
+| #4 (9/13/24) | 14                                 | 0.857                  | 11.998       |
+| #8 (9/13/24) | 14                                 | 1.27                  | 17.78       |
+
+Did not work! Boo. Maybe my 9/13 samples are just too degraded compared to the one Jill used on 10/15 (from 9/8 extraction)
+
+![alt text](../images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4.png) ![alt text](../images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-2.png) ![alt text](../images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-3.png)
+
+<img alt="2024-11-25-try4" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4.png?raw=true"> <img width="900" alt="2024-11-25-try4-2" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-2.png?raw=true"> <img width="900" alt="2024-11-25-try4-3" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-3.png?raw=true">
+
