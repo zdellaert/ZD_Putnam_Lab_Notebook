@@ -474,7 +474,5 @@ I want to redo all of my samples with these adjustments and increased DNA input.
 
 Did not work! Boo. Maybe my 9/13 samples are just too degraded compared to the one Jill used on 10/15 (from 9/8 extraction)
 
-![alt text](../images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4.png) ![alt text](../images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-2.png) ![alt text](../images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-3.png)
-
 <img alt="2024-11-25-try4" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4.png?raw=true"> <img width="900" alt="2024-11-25-try4-2" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-2.png?raw=true"> <img width="900" alt="2024-11-25-try4-3" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-11-25-try4-3.png?raw=true">
 
