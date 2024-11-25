@@ -74,7 +74,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 17. Add 700 uL wash buffer and spin down, discard flow through
 18. Add 400 uL wash buffer and spin for 2 minutes at 15,000 rcf
 19. Transfer column to labelled 1.5 mL tube and elute in 15 uL RNase/DNase-free water.
-20. Allow filter to saturate by spinning at 100 rcf for 2 minutes and then elute by spinning down at 12,000 rcf for 1 minute. 
+20. Allow filter to saturate by spinning at 100 rcf for 1 minute and then elute by spinning down at 12,000 rcf for 1 minute. 
 21. Confirm all liquid has been eluted from the filter into the tube, and discard the filter column.
 22. Immediately transfer RNA tubes to ice and perform QC (hsRNA tapestation using 2 uL RNA) as soon as possible.
     1.  I recommend doing the RNA tapestation before continuing with the DNA extraction
@@ -96,7 +96,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 29. Add 400 uL wash buffer and spin for 2 minutes at 15,000 rcf
 30. Transfer column to labelled 1.5 mL tube and apply 20 uL warmed Tris-EDTA to filter
 31. Let sit for 3 minutes at room temperature.
-32. Allow filter to saturate by spinning at 100 rcf for 2 minutes and then elute by spinning down at 12,000 rcf for 1 minute. 
+32. Allow filter to saturate by spinning at 100 rcf for 1 minute and then elute by spinning down at 12,000 rcf for 1 minute. 
 33. Confirm all liquid has been eluted from the filter into the tube, and discard the filter column.
 34. Immediately transfer DNA to ice and perform QC (gDNA tapestation using 1 uL DNA) as soon as possible.
 35. Store DNA at -20 ºC as quickly after the extraction as possible and limit freeze-thaw cycles.

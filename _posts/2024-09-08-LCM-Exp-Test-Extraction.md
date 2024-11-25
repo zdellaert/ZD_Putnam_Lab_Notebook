@@ -25,7 +25,7 @@ tags: [Pocillopora, LCM, LCM-Pilot, RNA, DNA]
   - For samples collected in ProK Mix:
     - Added another 60 uL of ProK mix, moved to 1.5 mL tube, making sure to transfer all cellular debris
       - **Incubate at room temp for 15 mins**
-      - Only did about 7 minutes on 9/8/24 since the cells sat for a long time at room temp during LCM
+      - Only did about 5-7 minutes on 9/8/24 since the cells sat for a long time at room temp during LCM
     - After incubation, spin at 9,000 rcf for 3 mins to pellet any debris, then move supernatant to new 1.5 mL tube. Add equal parts lysis buffer and mix well, then move whole volume into IC-XM column.
       - **Can double lysis buffer**
       - Used 150 uL on 9/8/24
@@ -36,10 +36,6 @@ tags: [Pocillopora, LCM, LCM-Pilot, RNA, DNA]
     - Then 400 uL prep buffer and spin, 700 uL wash buffer and spin, and 400 uL wash buffer and spin.
     - After last wash buffer I did modify the protocol slightly and moved the column to a new collection tube and spun dry for 2 minutes to try to remove any residual ethanol. Could try playing with this step since it is not in the protocol. But, they provide extra collection tubes so it seems appropriate.
     - Eluted RNA in 18 uL (2 X 9uL) nuclease free water, and DNA in 20 uL (2 X 10 uL) nuclease free TRIS, warmed to 60ºC (based on our other Putnam Lab [Zymo Extraction Protocols](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus/))
-      
-
-**Zoe write up exact extraction method from notebook**
-
 
 #### RNA Quality Check: Tapestation
 
