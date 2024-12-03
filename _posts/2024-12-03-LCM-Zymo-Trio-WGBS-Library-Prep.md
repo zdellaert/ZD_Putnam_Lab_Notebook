@@ -14,7 +14,7 @@ See [Zymo's protocol here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/b
 
 ### Here's the Zymo Trio WGBS library prep workflow: 
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs.png?raw=true" width="396" height="590">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs.png?raw=true" height="500">
 
 ### Materials 
 
@@ -74,9 +74,9 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 2. In **Section 2, Step 12**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 50 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 15 μL of *DNA Elution Buffer* and aspirate all 15 μL eluate into a new tube after separation from the beads.
 3. In **Section 3, Step 3**: The recommended number of PCR cycles may be increased to the following depending on the FFPE DNA sample input amount and type used:
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true" width="396" height="590">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true" height="500">
 
-4. In **Section 3, Step 4**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 40 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 20 μL of *DNA Elution Buffer* and aspirate all 20 μL eluate after separation from the beads.
+1. In **Section 3, Step 4**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 40 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 20 μL of *DNA Elution Buffer* and aspirate all 20 μL eluate after separation from the beads.
 
 ### Section 1: Bisulfite Conversion of DNA (same as Pico Kit)
 
@@ -85,7 +85,7 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 - [ ] Add 130 uL of Lightning Conversion Reagent to each tube and mix well by pipetting
 - [ ] Centrifuge briefly 
 - [ ] Run thermocycler program (lid temp 105°C):
-  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P1.png?raw=true" width="396" height="590">
+  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P1.png?raw=true" height="500">
 - [ ] Store at 4°C for <20 hours (overnight)
 
 ### Section 1, continued
@@ -186,9 +186,9 @@ Before Starting:
 - [ ] Mix entire reaction thoroughly by pipetting or gently vortexing then briefly centrifuge.
 - [ ] If performing the clean-up same-day, equilibrate to room temperature for 30 minutes prior to use
 - [ ] Perform the following steps in a thermal cycler (lid temp 105°C):
-  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P2.png?raw=true" width="396" height="590">
+  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P2.png?raw=true" height="500">
   - The recommended number of PCR cycles may be increased to the following depending on the FFPE DNA sample input amount and type used:
-    - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true" width="396" height="590">
+    - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true" height="500">
 
 ***This is a safe stopping point. Amplified DNA samples can be safely stored overnight at 4°C. Otherwise, continue directly to Step 4 on the next page.***
 
@@ -222,6 +222,6 @@ THIS IS THE FINAL WGBS LIBRARY. **DNA libraries can be safely stored at ≤ −2
 
 Run to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_QC.png?raw=true" width="396" height="590">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_QC.png?raw=true" height="500">
 
 "If adapter dimers are present, they will form an approximately 130-180 bp band. Yields will vary depending on the total quantity and quality of sample input DNA.
