@@ -68,54 +68,6 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 - Allow beads to equilibrate to room temperature >30 mins before use
 - Resuspend magnetic particles immediately before each use by vortexing until homogenous
 
-### Appendix A: Select-a-Size MagBead Clean-Up Protocol
-Before Starting:
-- [ ] Ensure that the indicated volume of ethanol has been added to the **DNA Wash Buffer**.
-- [ ] Allow the **Select-a-Size MagBeads** to equilibrate to room temperature for **30 minutes** prior to use.
-- [ ] **Resuspend** the magnetic particles immediately before use by vortexing the Select-a-Size MagBeads until homogenous.
-
-1. Add 60 μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
-2. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
-3. Carefully remove the supernatant without disturbing the magnetized bead pellet.
-   1. Avoid aspirating any beads when removing the supernatant.
-4. Without removing from the magnetic stand, add 200 μL of **DNA Wash Buffer** to the tube, incubate for at least 30 seconds, and then remove the supernatant completely without disturbing the magnetized bead pellet. _**Repeat this wash step**_ for two washes total.
-5. Remove the tube from the magnetic stand and centrifuge very briefly. Then return the tube to the magnetic stand, wait for the beads to pellet, and remove any residual **DNA Wash Buffer** with a 10 μL pipette tip.
-6. Leave the tube on the magnetic stand and keep the cap open for 2−3 minutes to allow the beads to air dry.
-   1. Do not over dry the beads as this may negatively impact recovery. Beads should remain a glossy brown color.
-   2. When performing the clean-up in **Section 2: Adapter Ligation**, the beads are more likely to disperse around the tube and are more susceptible to drying faster than normal.
-7. Cap and remove the tube from the magnetic stand. Add the indicated volume of **DNA Elution Buffer** and fully resuspend the beads by pipetting up and down. Incubate for 5 minutes at room temperature.
-   1. *When performing the clean-up in Section 2: Adapter Ligation, the resuspended beads behave differently and will be more challenging to remove from the sides of the tube. Briefly centrifuge tubes if necessary. Take care to ensure the beads are still fully resuspended.*
-   2. If performing clean-up in **Section 2: Adapter Ligation**, add 15 μL of **DNA Elution Buffer** to fully resuspend the beads.
-   3. If performing clean-up in **Section 3: Index PCR Amplification**, add 20 μL of **DNA Elution Buffer** to fully resuspend the beads.
-8. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
-9.  Transfer the indicated volume of eluate to a new tube. Discard the beads.
-   1.  If performing clean-up in **Section 2: Adapter Ligation**, aspirate all 15 μL eluate and transfer to a 0.2 mL PCR tube.
-   2.  If performing clean-up in **Section 3: Index PCR Amplification**, aspirate all 20 μL eluate and transfer to a new 1.5 mL microcentrifuge tube.
-
-**This is a safe stopping point. If moving on to Section 3: Index PCR Amplification, the purified adapter-ligated DNA can be safely stored at ≤ −20°C for up to a month. If this is the final clean-up, DNA libraries can be safely stored at ≤ −20°C for months.**
-
-#### 1x Bead Cleanup as used by Putnam lab 
-
-- [ ] Take Kapa beads out of fridge >30 minutes before using to allow beads to equilibrate to room temperature
-- [ ] Shake the bottle to mix the beads (don't vortex)
-- [ ] Make fresh 80% ethanol using 100% ethanol 
-- [ ] Add 25 uL of beads to each sample 
-- [ ] Pipette up and down at least 10 times to mix sample and beads (or until homogeous)
-- [ ] Put strip tubes on the shaker at 200 rpm for 15 minutes
-- [ ] After 15 minutes, put tubes on magnetic stand 
-- [ ] Wait until liquid is clear (~3-5 minutes)
-- [ ] Using a p200 set to 45 uL, remove the supernatent without disturbing the beads and discard 
-- [ ] Add 200 uL of 80% ethanol to each sample 
-- [ ] Remove ethanol from tube without disturbing beads and discard liquid 
-- [ ] Repeat the wash step 
-- [ ] Allow beads to air dry for 1-2 minutes 
-- [ ] Remove any residual liquid from each tube 
-- [ ] Resuspend beads in 15 uL of DNA Elution Buffer 
-- [ ] Put tubes back on shaker at 200 rpm for 5 minutes
-- [ ] After 5 minutes, put tubes back on magnetic stand and wait until liquid is clear (~3-5 minutes)
-- [ ] Move 15 uL of elute into new strip tubes
-
-
 ### I am following the modifications for FFPE DNA! (Appendix F)
 
 1. In **Section 2, Step 11**: After the 1-hour adapter ligation reaction, add 85 μL of *DNA Elution Buffer* to the sample to bring the volume up to 135 μL and mix well by pipetting.
@@ -200,6 +152,28 @@ Before Starting:
 - [ ] Follow the clean-up protocol in **Appendix A**, using 50 μL of *Select-a-Size MagBeads* (60 μL for non-FFPE).
   - [ ] For elution, resuspend the beads in 30 μL (*15 μL* for non-FFPE) of DNA Elution Buffer and aspirate all 15 μL eluate after separation from the beads into a new tube.
 
+### Appendix A: Select-a-Size MagBead Clean-Up Protocol
+Before Starting:
+- [ ] Ensure that the indicated volume of ethanol has been added to the **DNA Wash Buffer**.
+- [ ] Allow the **Select-a-Size MagBeads** to equilibrate to room temperature for **30 minutes** prior to use.
+- [ ] **Resuspend** the magnetic particles immediately before use by vortexing the Select-a-Size MagBeads until homogenous.
+
+1. Add 60 μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
+2. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+3. Carefully remove the supernatant without disturbing the magnetized bead pellet.
+   1. Avoid aspirating any beads when removing the supernatant.
+4. Without removing from the magnetic stand, add 200 μL of **DNA Wash Buffer** to the tube, incubate for at least 30 seconds, and then remove the supernatant completely without disturbing the magnetized bead pellet. _**Repeat this wash step**_ for two washes total.
+5. Remove the tube from the magnetic stand and centrifuge very briefly. Then return the tube to the magnetic stand, wait for the beads to pellet, and remove any residual **DNA Wash Buffer** with a 10 μL pipette tip.
+6. Leave the tube on the magnetic stand and keep the cap open for 2−3 minutes to allow the beads to air dry.
+   1. Do not over dry the beads as this may negatively impact recovery. Beads should remain a glossy brown color.
+   2. When performing the clean-up in **Section 2: Adapter Ligation**, the beads are more likely to disperse around the tube and are more susceptible to drying faster than normal.
+7. Cap and remove the tube from the magnetic stand. Add the indicated volume of **DNA Elution Buffer** and fully resuspend the beads by pipetting up and down. Incubate for 5 minutes at room temperature.
+   1. *When performing the clean-up in Section 2: Adapter Ligation, the resuspended beads behave differently and will be more challenging to remove from the sides of the tube. Briefly centrifuge tubes if necessary. Take care to ensure the beads are still fully resuspended.*
+   2. If performing clean-up in **Section 2: Adapter Ligation**, add 15 μL of **DNA Elution Buffer** to fully resuspend the beads.
+8. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
+9.  Transfer the indicated volume of eluate to a new tube. Discard the beads.
+   1.  If performing clean-up in **Section 2: Adapter Ligation**, aspirate all 15 μL eluate and transfer to a 0.2 mL PCR tube.
+
 ***This is a safe stopping point. The purified adapter-ligated DNA can be safely stored at ≤ −20°C for up to one month.***
 
 ### Section 3: Index PCR Amplification
@@ -221,7 +195,28 @@ Before Starting:
 - [ ] Follow the clean-up protocol in **Appendix A** using 40 μL of *Select-a-Size MagBeads* (60 μL for non-FFPE)
   - [ ] For elution, resuspend the beads in 20 μL of DNA Elution Buffer and aspirate all 20 μL eluate after separation from the beads.
 
-THIS IS THE FINAL WGBS LIBRARY. STORE AT -20°C. 
+### Appendix A: Select-a-Size MagBead Clean-Up Protocol
+Before Starting:
+- [ ] Ensure that the indicated volume of ethanol has been added to the **DNA Wash Buffer**.
+- [ ] Allow the **Select-a-Size MagBeads** to equilibrate to room temperature for **30 minutes** prior to use.
+- [ ] **Resuspend** the magnetic particles immediately before use by vortexing the Select-a-Size MagBeads until homogenous.
+
+1. Add 60 μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
+2. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+3. Carefully remove the supernatant without disturbing the magnetized bead pellet.
+   1. Avoid aspirating any beads when removing the supernatant.
+4. Without removing from the magnetic stand, add 200 μL of **DNA Wash Buffer** to the tube, incubate for at least 30 seconds, and then remove the supernatant completely without disturbing the magnetized bead pellet. _**Repeat this wash step**_ for two washes total.
+5. Remove the tube from the magnetic stand and centrifuge very briefly. Then return the tube to the magnetic stand, wait for the beads to pellet, and remove any residual **DNA Wash Buffer** with a 10 μL pipette tip.
+6. Leave the tube on the magnetic stand and keep the cap open for 2−3 minutes to allow the beads to air dry.
+   1. Do not over dry the beads as this may negatively impact recovery. Beads should remain a glossy brown color.
+7. Cap and remove the tube from the magnetic stand. Add the indicated volume of **DNA Elution Buffer** and fully resuspend the beads by pipetting up and down. Incubate for 5 minutes at room temperature.
+   1. *When performing the clean-up in Section 2: Adapter Ligation, the resuspended beads behave differently and will be more challenging to remove from the sides of the tube. Briefly centrifuge tubes if necessary. Take care to ensure the beads are still fully resuspended.*
+   2. If performing clean-up in **Section 3: Index PCR Amplification**, add 20 μL of **DNA Elution Buffer** to fully resuspend the beads.
+8. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
+9.  Transfer the indicated volume of eluate to a new tube. Discard the beads.
+   1.  If performing clean-up in **Section 3: Index PCR Amplification**, aspirate all 20 μL eluate and transfer to a new 1.5 mL microcentrifuge tube.
+
+THIS IS THE FINAL WGBS LIBRARY. **DNA libraries can be safely stored at ≤ −20°C for months.**
 
 ### QC
 
