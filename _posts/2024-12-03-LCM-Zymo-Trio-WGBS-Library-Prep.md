@@ -74,7 +74,7 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 2. In **Section 2, Step 12**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 50 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 15 μL of *DNA Elution Buffer* and aspirate all 15 μL eluate into a new tube after separation from the beads.
 3. In **Section 3, Step 3**: The recommended number of PCR cycles may be increased to the following depending on the FFPE DNA sample input amount and type used:
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true">
 
 1. In **Section 3, Step 4**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 40 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 20 μL of *DNA Elution Buffer* and aspirate all 20 μL eluate after separation from the beads.
 
@@ -85,7 +85,7 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 - [ ] Add 130 uL of Lightning Conversion Reagent to each tube and mix well by pipetting
 - [ ] Centrifuge briefly 
 - [ ] Run thermocycler program (lid temp 105°C):
-  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P1.png?raw=true" height="500">
+  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P1.png?raw=true">
 - [ ] Store at 4°C for <20 hours (overnight)
 
 ### Section 1, continued
@@ -186,9 +186,9 @@ Before Starting:
 - [ ] Mix entire reaction thoroughly by pipetting or gently vortexing then briefly centrifuge.
 - [ ] If performing the clean-up same-day, equilibrate to room temperature for 30 minutes prior to use
 - [ ] Perform the following steps in a thermal cycler (lid temp 105°C):
-  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P2.png?raw=true" height="500">
+  - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_P2.png?raw=true">
   - The recommended number of PCR cycles may be increased to the following depending on the FFPE DNA sample input amount and type used:
-    - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true" height="500">
+    - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true">
 
 ***This is a safe stopping point. Amplified DNA samples can be safely stored overnight at 4°C. Otherwise, continue directly to Step 4 on the next page.***
 
@@ -210,8 +210,7 @@ Before Starting:
 6. Leave the tube on the magnetic stand and keep the cap open for 2−3 minutes to allow the beads to air dry.
    1. Do not over dry the beads as this may negatively impact recovery. Beads should remain a glossy brown color.
 7. Cap and remove the tube from the magnetic stand. Add the indicated volume of **DNA Elution Buffer** and fully resuspend the beads by pipetting up and down. Incubate for 5 minutes at room temperature.
-   1. *When performing the clean-up in Section 2: Adapter Ligation, the resuspended beads behave differently and will be more challenging to remove from the sides of the tube. Briefly centrifuge tubes if necessary. Take care to ensure the beads are still fully resuspended.*
-   2. If performing clean-up in **Section 3: Index PCR Amplification**, add 20 μL of **DNA Elution Buffer** to fully resuspend the beads.
+   1. If performing clean-up in **Section 3: Index PCR Amplification**, add 20 μL of **DNA Elution Buffer** to fully resuspend the beads.
 8. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
 9.  Transfer the indicated volume of eluate to a new tube. Discard the beads.
    1.  If performing clean-up in **Section 3: Index PCR Amplification**, aspirate all 20 μL eluate and transfer to a new 1.5 mL microcentrifuge tube.
