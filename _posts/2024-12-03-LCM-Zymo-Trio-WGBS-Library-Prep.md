@@ -80,11 +80,8 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 
 1. In **Section 2, Step 11**: After the 1-hour adapter ligation reaction, add 85 μL of *DNA Elution Buffer* to the sample to bring the volume up to 135 μL and mix well by pipetting.
 2. In **Section 2, Step 12**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 50 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 15 μL of *DNA Elution Buffer* and aspirate all 15 μL eluate into a new tube after separation from the beads.
-3. In **Section 3, Step 3**: The recommended number of PCR cycles may be increased to the following depending on the FFPE DNA sample input amount and type used:
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_cycles.png?raw=true" height="180">
-
-1. In **Section 3, Step 4**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 40 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 20 μL of *DNA Elution Buffer* and aspirate all 20 μL eluate after separation from the beads.
+3. In **Section 3, Step 3**: The recommended number of PCR cycles may be increased to the following depending on the FFPE DNA sample input amount and type used (see table below in Section 3)
+4. In **Section 3, Step 4**: Follow the clean-up protocol in **Appendix A** on pg. 13 using 40 μL of *Select-a-Size MagBeads*. Allow beads to equilibrate to room temperature for 30 minutes prior to use. For elution, resuspend the beads in 20 μL of *DNA Elution Buffer* and aspirate all 20 μL eluate after separation from the beads.
 
 ### Section 1: Bisulfite Conversion of DNA (same as Pico Kit)
 
