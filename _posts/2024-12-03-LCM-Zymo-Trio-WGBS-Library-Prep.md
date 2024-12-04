@@ -14,7 +14,7 @@ See [Zymo's protocol here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/b
 
 ### Here's the Zymo Trio WGBS library prep workflow: 
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs.png?raw=true" height="400">
 
 ### Materials 
 
@@ -229,6 +229,6 @@ THIS IS THE FINAL WGBS LIBRARY. **DNA libraries can be safely stored at ≤ −2
 
 Run to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_QC.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/zymo_trio/manual_trio_wgbs_QC.png?raw=true" height="400">
 
 "If adapter dimers are present, they will form an approximately 130-180 bp band. Yields will vary depending on the total quantity and quality of sample input DNA.
