@@ -49,6 +49,14 @@ See [Zymo's protocol here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/b
 | 2X Index PCR Premix               |  600 μL          |       -20 °C         |
 | Zymo-Seq UDI Primer Set (1-12)    |  20 μL/Index     |       -20 °C         |
 
+### Sample Input
+
+- Sample Input Material: Purified cell-free DNA (cfDNA), Sonicated FFPE DNA (average size of 300-600 bp), Sheared genomic DNA (average size of 300-600 bp).
+  - If the formalin-fixed, paraffin-embedded (FFPE) derived DNA input is sufficient (≥20 ng), we recommend performing sonication to shear the FFPE DNA to an average size of 300-600 bp for best results. This should yield enough sheared DNA for the 5 ng minimum input required for the kit (concentration of the DNA may need to be performed for best results). 
+- Minimum Input: 5 ng
+- Recommended Maximum Input: 10 ng. Higher inputs can be used to create libraries; however, the diversity of the library may decline as input increases.
+- Input Quality: For optimal results, use minimum input of DNA with no RNA or genomic DNA contamination. cfDNA can be concentrated using the DNA Clean & ConcentratorTM (D4013) prior to processing. cfDNA can be suspended in water, DNA Elution Buffer, or TE buffer.
+
 ## Protocol
 
 ### Buffer preperation 
