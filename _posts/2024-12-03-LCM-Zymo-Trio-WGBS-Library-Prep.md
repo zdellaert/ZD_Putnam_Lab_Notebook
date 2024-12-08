@@ -155,7 +155,7 @@ Once buffers are prepared for a kit, they do not need to be prepared again.
 - [ ] After the 1-hour adapter ligation reaction, add 85 μL (*60 μL* for non-FFPE) of **DNA Elution Buffer** to the sample to bring the volume up to 135 (*110*) μL
   - [ ] *mix well by pipetting*
 - [ ] Follow the clean-up protocol in **Appendix A**, using 50 μL of *Select-a-Size MagBeads* (60 μL for non-FFPE).
-  - [ ] For elution, resuspend the beads in 30 μL (*15 μL* for non-FFPE) of DNA Elution Buffer and aspirate all 15 μL eluate after separation from the beads into a new tube.
+  - [ ] For elution, resuspend the beads in 15 μL of DNA Elution Buffer and aspirate all 15 μL eluate after separation from the beads into a new tube.
 
 ### Appendix A: Select-a-Size MagBead Clean-Up Protocol
 Before Starting:
@@ -163,7 +163,7 @@ Before Starting:
 - [ ] Allow the **Select-a-Size MagBeads** to equilibrate to room temperature for **30 minutes** prior to use.
 - [ ] **Resuspend** the magnetic particles immediately before use by vortexing the Select-a-Size MagBeads until homogenous.
 
-1. Add 60 μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
+1. Add 50 (*60* for non-FFPE) μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
 2. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
 3. Carefully remove the supernatant without disturbing the magnetized bead pellet.
    1. Avoid aspirating any beads when removing the supernatant.
@@ -206,7 +206,7 @@ Before Starting:
 - [ ] Allow the **Select-a-Size MagBeads** to equilibrate to room temperature for **30 minutes** prior to use.
 - [ ] **Resuspend** the magnetic particles immediately before use by vortexing the Select-a-Size MagBeads until homogenous.
 
-1. Add 60 μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
+1. Add 40 (*60* for non-FFPE) μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
 2. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
 3. Carefully remove the supernatant without disturbing the magnetized bead pellet.
    1. Avoid aspirating any beads when removing the supernatant.
