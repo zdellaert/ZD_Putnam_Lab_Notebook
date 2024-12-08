@@ -2,7 +2,7 @@
 layout: post
 title: LCM Low Input RNA Library Prep
 date: '2024-09-18 7:00:00'
-categories: Protocols
+categories: Protocols, Processing
 tags: [RNA, Pocillopora, LCM, Library Prep]
 ---
 

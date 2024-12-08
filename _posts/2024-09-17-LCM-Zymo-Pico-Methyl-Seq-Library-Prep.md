@@ -2,7 +2,7 @@
 layout: post
 title: LCM Pico Methyl-Seq Library Prep
 date: '2024-09-17'
-categories: Protocols
+categories: Protocols, Processing
 tags: [DNA, Pocillopora, LCM, Library Prep]
 ---
 

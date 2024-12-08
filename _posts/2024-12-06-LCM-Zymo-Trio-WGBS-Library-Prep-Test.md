@@ -1,8 +1,8 @@
 ---
 layout: post
-title: LCM Zymo Trio WGBS Library Prep
+title: LCM Zymo Trio WGBS Library Prep Test
 date: '2024-12-06'
-categories: Protocols
+categories: Processing
 tags: [DNA, Pocillopora, LCM, Library Prep]
 ---
 
