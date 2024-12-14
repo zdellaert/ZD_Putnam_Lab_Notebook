@@ -70,3 +70,50 @@ Run to visualize libraries. Here's an example of what the **library should look 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-08-LCM-WGBS-Trio-Test_18_sonicated_library.png?raw=true" height="400">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-08-WGBS-Trio-Test.pdf)
+
+## 12/12/24, Bead cleanup test:
+
+- Double sided size selection protocol based on Zymo Magbead Select-a-Size clean and concentrate [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_select-a-size_dna_magbead_kit.pdf).
+
+- Tried a double-sided bead cleanup on sample 18_sonicated to see if I can get a library of the right size:
+  1. Add 31 uL DNA elution buffer (EB) to bring volume to 50 uL
+  2. Bind larger fragments (> 900 bp) to beads to remove from sample:
+     1. **0.52X ratio**: Add 26 uL beads
+        1. total volume = 76 uL
+     2. Mix thoroughly by pipetting until homogenous and incubate for 10 minutes at room temperature
+     3. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+     4. Move 70 uL of supernatant to new tube *KEEP SUPERNATANT*. Discard the beads.
+        1. 70/76 = 0.92 ; so new "initial volume" is 0.92*50 = 46 uL
+  3. Add second volume of beads to supernatant tube to clean up all the fragments < 900 bp
+     1. **1.28X ratio** = 1.28 * 46 uL = 59 uL
+     2. Add 59 uL beads to the supernatant that was transferred into the new tube
+     3. Mix thoroughly by pipetting until homogenous and incubate for 10 minutes at room temperature
+     4. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+     5. Without removing from the magnetic stand, add 200 μL of **DNA Wash Buffer** to the tube, incubate for at least 30 seconds, and then remove the supernatant completely without disturbing the magnetized bead pellet. _**Repeat this wash step**_ for two washes total.
+     6. Remove the tube from the magnetic stand and centrifuge very briefly. Then return the tube to the magnetic stand, wait for the beads to pellet, and remove any residual **DNA Wash Buffer** with a 10 μL pipette tip.
+     7. Dry on magnetic stand for 2-3 minutes with cap open, do not over-dry beads
+     8. Elute in 50 uL DNA EB. Fully resuspend beads and incubate for 5 minutes at room temperature.
+     9. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
+     10. Transfer the indicated volume of eluate to a new tube. Discard the beads.
+ 4. Deplete small fragments with another volume of beads
+     1.  **0.76X ratio** = 0.76 * 46 uL = 35 uL beads
+         1.  honestly unclear if this should be *50 uL or *46 uL (38 uL beads vs 35 uL beads)
+     2. Mix thoroughly by pipetting until homogenous and incubate for 10 minutes at room temperature
+     4. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+     5. Without removing from the magnetic stand, add 200 μL of **DNA Wash Buffer** to the tube, incubate for at least 30 seconds, and then remove the supernatant completely without disturbing the magnetized bead pellet. _**Repeat this wash step**_ for two washes total.
+     6. Remove the tube from the magnetic stand and centrifuge very briefly. Then return the tube to the magnetic stand, wait for the beads to pellet, and remove any residual **DNA Wash Buffer** with a 10 μL pipette tip.
+     7. Dry on magnetic stand for 2-3 minutes with cap open, do not over-dry beads
+     8. Elute in **15 uL DNA EB**. Fully resuspend beads and incubate for 5 minutes at room temperature.
+     9. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
+     10. Transfer the indicated volume of eluate to a new tube. Discard the beads.
+ 5.  Honestly I feel that the second and third steps can be combined? This is how KAPA and other bead clean up protocols do it.
+
+BUT! This was successful. Concentration low. But library looking much better:
+
+**Original:**
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-08-LCM-WGBS-Trio-Test_18_sonicated_library.png?raw=true" height="400">
+
+**Cleaned:**
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-08-LCM-WGBS-Trio-Test_18_sonicated_cleaned.png?raw=true" height="400">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-12-WGBS-Trio-Cleaned.pdf)
