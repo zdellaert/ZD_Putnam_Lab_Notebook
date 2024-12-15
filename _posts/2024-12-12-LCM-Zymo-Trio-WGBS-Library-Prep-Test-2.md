@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LCM Zymo Trio WGBS Library Prep Test
+title: LCM Pilot Zymo Trio WGBS Library Prep Round 2
 date: '2024-12-06'
 categories: Processing
 tags: [DNA, Pocillopora, LCM, Library Prep]
@@ -51,7 +51,7 @@ Run to visualize libraries. Here's an example of what the **library should look 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_libraries.png?raw=true" height="500">
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_32_library.png?raw=true" height="400">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_32_library.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_33_library.png?raw=true" height="400">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-14-WGBS-Trio-Test.pdf)
 
@@ -64,7 +64,7 @@ THIS WORKED!!! WOAH! Almost too good!!! Will maybe do another cleanup to remove 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_libraries-ReAmp.png?raw=true" height="500">
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_32_library-ReAmp.png?raw=true" height="400">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_32_library-ReAmp.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_33_library-ReAmp.png?raw=true" height="400">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-14-WGBS-Trio-Test-ReAmp.pdf)
 
