@@ -92,19 +92,19 @@ Did this on both my samples. Split the 16 uL from each sample so 8 uL went into 
 
 Sample 32
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-gDNA-32-all.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-gDNA-32-all.png?raw=true" height="400">
 
 Sample 33
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-gDNA-33-all.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-gDNA-33-all.png?raw=true" height="400">
 
 
 **D5000 Comparisons:**
 
 Sample 32
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-d5000-32.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-d5000-32.png?raw=true" height="400">
 
 Sample 33
 
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-d5000-33.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-d5000-33.png?raw=true" height="400">
