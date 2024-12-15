@@ -164,6 +164,7 @@ Before Starting:
 - [ ] **Resuspend** the magnetic particles immediately before use by vortexing the Select-a-Size MagBeads until homogenous.
 
 1. Add 50 (*60* for non-FFPE) μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
+   1. This is a 0.37X bead cleanup (*0.55X* for non-FFPE)
 2. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
 3. Carefully remove the supernatant without disturbing the magnetized bead pellet.
    1. Avoid aspirating any beads when removing the supernatant.
@@ -207,6 +208,7 @@ Before Starting:
 - [ ] **Resuspend** the magnetic particles immediately before use by vortexing the Select-a-Size MagBeads until homogenous.
 
 1. Add 40 (*60* for non-FFPE) μL of the **Select-a-Size MagBeads** to the tube. Mix thoroughly by pipetting until homogenous and incubate for 5−10 minutes at room temperature.
+   1. This is a 0.8X bead cleanup (*1.2X* for non-FFPE)
 2. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
 3. Carefully remove the supernatant without disturbing the magnetized bead pellet.
    1. Avoid aspirating any beads when removing the supernatant.
