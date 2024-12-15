@@ -32,7 +32,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 | Sample       | Qubit (HS dsDNA) | Tapestation DIN | Tapestation Concentration | DNA in tube ng (*16uL) | Sonication  | Post-Sonication Concentration | ng input (by tapestation value) | PCR Cycles  |
 |--------------|------------------|-----------------|---------------------------|----------------|-------------|----------------|---------------------------------|-------------|
-| #32 - EZ Gold | 0.06643333333      | 2.3      | 4.86              | 77.76     | NA             | NA          | 77.76            | 14          |
+| #32 - EZ Gold | 0.066      | 2.3      | 4.86              | 77.76     | NA             | NA          | 77.76            | 14          |
 | #33 - EZ Gold  | nd               | 3.2       | 4.56              | 72.96     | NA             | NA          | 72.96         | 14          |
 
 ### QC
