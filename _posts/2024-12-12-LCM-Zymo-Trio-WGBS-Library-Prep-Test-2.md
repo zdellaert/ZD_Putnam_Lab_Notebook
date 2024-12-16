@@ -55,20 +55,6 @@ Run to visualize libraries. Here's an example of what the **library should look 
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-14-WGBS-Trio-Test.pdf)
 
-## Re-Amplification
-
-1. Combine 30 uL PCR Pre-Mix, 12 uL primer, and 18 uL of the original library. Cycle with same conditions above, for 8 cycles.
-
-THIS WORKED!!! WOAH! Almost too good!!! Will maybe do another cleanup to remove some of the larger fragments. So happy!!!!!
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_libraries-ReAmp.png?raw=true" height="500">
-
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_32_library-ReAmp.png?raw=true" height="400">
-<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_33_library-ReAmp.png?raw=true" height="400">
-
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-14-WGBS-Trio-Test-ReAmp.pdf)
-
-
 ## Notes on EZ Gold Reaction conditions
 
 1. Motivation: The libraries I prepped on 12/8 are of longer lengths than we want. Therefore, this protocol is not really fragmenting our DNA the way we want it to.
@@ -108,3 +94,72 @@ Sample 32
 Sample 33
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-13-Comparison-d5000-33.png?raw=true" height="400">
+
+
+## Re-Amplification
+
+1. Combine 30 uL PCR Pre-Mix, 12 uL primer, and 18 uL of the original library. Cycle with same conditions above, for 8 cycles.
+
+THIS WORKED!!! WOAH! Almost too good!!! Will maybe do another cleanup to remove some of the larger fragments. So happy!!!!!
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_libraries-ReAmp.png?raw=true" height="500">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_32_library-ReAmp.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-14-LCM-WGBS-Trio-Test_33_library-ReAmp.png?raw=true" height="400">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-14-WGBS-Trio-Test-ReAmp.pdf)
+
+
+## Second Bead cleanup to remove fragments > 1100bp:
+
+For the re-amped libraries (17, 18, 32, 33), there are not big dimers, but there are a lot of fragments > 1100. I will remove them as such:
+
+- Double sided size selection protocol based on Zymo Magbead Select-a-Size clean and concentrate [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_select-a-size_dna_magbead_kit.pdf).
+
+1. Add 32 uL DNA elution buffer (EB) to bring volume to 50 uL
+2. Bind larger fragments (> 1100 bp) to beads to remove from sample:
+   1. **0.48X ratio**: Add 24 uL beads
+      1. total volume = 74 uL
+   2. Mix thoroughly by pipetting until homogenous and incubate for 10 minutes at room temperature
+   3. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+   4. Move 74 uL of supernatant to new tube *KEEP SUPERNATANT*. Discard the beads.
+3. Add second volume of beads to supernatant tube to clean up all the fragments < 1000 bp
+   1. **1.32X ratio** = 1.32 * 50 uL = 66 uL
+   2. Add 66 uL beads to the supernatant that was transferred into the new tube
+   3. Mix thoroughly by pipetting until homogenous and incubate for 10 minutes at room temperature
+   4. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+   5. Carefully remove the supernatant without disturbing the magnetized bead pellet.
+   6. Without removing from the magnetic stand, add 200 μL of **DNA Wash Buffer** to the tube, incubate for at least 30 seconds, and then remove the supernatant completely without disturbing the magnetized bead pellet. _**Repeat this wash step**_ for two washes total.
+   7. Remove the tube from the magnetic stand and centrifuge very briefly. Then return the tube to the magnetic stand, wait for the beads to pellet, and remove any residual **DNA Wash Buffer** with a 10 μL pipette tip.
+   8. Dry on magnetic stand for 2-3 minutes with cap open, do not over-dry beads
+   9. Elute in 50 uL DNA EB. Fully resuspend beads and incubate for 5 minutes at room temperature.
+   10. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
+   11. Transfer the indicated volume of eluate to a new tube. Discard the beads.
+4. Deplete small fragments (< 200 bp) with another volume of beads
+   1.  **0.8X ratio** = 0.8 * 50 uL = 40 uL beads
+   2. Mix thoroughly by pipetting until homogenous and incubate for 10 minutes at room temperature
+   3. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
+   4. Carefully remove the supernatant without disturbing the magnetized bead pellet.
+   5. Without removing from the magnetic stand, add 200 μL of **DNA Wash Buffer** to the tube, incubate for at least 30 seconds, and then remove the supernatant completely without disturbing the magnetized bead pellet. _**Repeat this wash step**_ for two washes total.
+   6. Remove the tube from the magnetic stand and centrifuge very briefly. Then return the tube to the magnetic stand, wait for the beads to pellet, and remove any residual **DNA Wash Buffer** with a 10 μL pipette tip.
+   7. Dry on magnetic stand for 2-3 minutes with cap open, do not over-dry beads
+   8. Elute in **33 uL DNA EB**. Fully resuspend beads and incubate for 5 minutes at room temperature.
+   9. Place the tube back on the magnetic stand for 2 minutes or until the supernatant is clear.
+   10. Transfer 32 uL of eluate to a new tube. Discard the beads.
+
+- 1 uL used for D5000 Tapestation
+- 1 uL used for Qubit
+- 30 uL final volume for Sequencing, move to LoBind tube.
+
+## Results
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-WGBS-Cleaned-Libraries-ReAmps.png?raw=true" height="500">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-17-ReAmp-clean.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-18-ReAmp-clean.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-32-ReAmp-clean.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-33-ReAmp-clean.png?raw=true" height="500">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-16-WGBS-Cleaned-Libraries.pdf)
+
+These are done.
