@@ -117,3 +117,18 @@ BUT! This was successful. Concentration low. But library looking much better:
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-08-LCM-WGBS-Trio-Test_18_sonicated_cleaned.png?raw=true" height="400">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-12-WGBS-Trio-Cleaned.pdf)
+
+## Re-Amplification of Samples 17 & 18
+
+- did not reamplify the sonicated sample
+
+1. Combine 25 uL PCR Pre-Mix, 10 uL primer, and 15 uL of the original library. Cycle with same conditions above, for 8 cycles.
+
+THIS WORKED!!! WOAH! Almost too good!!! Will maybe do another cleanup to remove some of the larger fragments. So happy!!!!!
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-libraries-ReAmps.png?raw=true" height="500">
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-17-ReAmp.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-18-ReAmp.png?raw=true" height="400">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-15-WGBS-Trio-Round3.pdf)

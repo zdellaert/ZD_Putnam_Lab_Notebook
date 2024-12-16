@@ -10,7 +10,7 @@ tags: [DNA, Pocillopora, LCM, Library Prep]
 
 Protocol link [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo-Trio-WGBS-Library-Prep/)
 
-## Samples: Test extraction of LCM Pilot Samples
+## Samples: 12/15/24 Extraction of LCM Pilot Samples
 
 | frag | sample_id      | concentration (ng/uL) | DIN | 
 |---|----|------|-----|
@@ -54,4 +54,4 @@ Run to visualize libraries. Here's an example of what the **library should look 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-24.png?raw=true" height="400">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-25.png?raw=true" height="400">
 
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-14-WGBS-Trio-Test.pdf)
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-15-WGBS-Trio-Round3.pdf)
