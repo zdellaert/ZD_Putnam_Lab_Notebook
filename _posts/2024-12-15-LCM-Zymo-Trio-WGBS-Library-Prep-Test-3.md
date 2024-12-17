@@ -126,9 +126,19 @@ DONE!!! (?) Consulting with Jill if the level of dimer is okay. Still feels like
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-WGBS-Cleaned-Libraries-cleaned.png?raw=true" height="500">
 
+Scaled to sample (accidentally really high contrast):
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-WGBS-Cleaned-Libraries-cleaned-scaled.png?raw=true" height="500">
+
 Example, scaled and not scaled:
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-1-clean-scaled.png?raw=true" height="500">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-1-clean-notscaled.png?raw=true" height="500">
+
+But, to see the progress:
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-1.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-1-first-clean-scaled.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-1-clean-scaled.png?raw=true" height="500">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-16-WGBS-Cleaned-Libraries-2ndclean.pdf) and [here (scaled)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-16-WGBS-Cleaned-Libraries-2ndclean-scaled.pdf)
