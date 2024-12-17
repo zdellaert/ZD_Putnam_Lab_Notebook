@@ -120,5 +120,15 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
    10. Transfer 32 uL of eluate to a new tube. Discard the beads.
 
 - 1 uL used for D5000 Tapestation
-- 1 uL used for Qubit
 - 30 uL final volume for Sequencing, move to LoBind tube.
+
+DONE!!! (?) Consulting with Jill if the level of dimer is okay. Still feels like I should clean again, but I am getting closer to my lower concentration limit and am worried to risk any more loss of material.
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-WGBS-Cleaned-Libraries-cleaned.png?raw=true" height="500">
+
+Example, scaled and not scaled:
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-1-clean-scaled.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-16-LCM-WGBS-Trio-library-1-clean-notscaled.png?raw=true" height="500">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-16-WGBS-Cleaned-Libraries-2ndclean.pdf) and [here (scaled)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-16-WGBS-Cleaned-Libraries-2ndclean-scaled.pdf)
