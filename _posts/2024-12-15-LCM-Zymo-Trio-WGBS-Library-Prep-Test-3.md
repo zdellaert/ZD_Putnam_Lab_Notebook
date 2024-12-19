@@ -12,6 +12,8 @@ Protocol link [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo
 
 ## Samples: 12/15/24 Extraction of LCM Pilot Samples
 
+Extracting LCM samples to use for WGBS. These are from the same slides as the RNA ones, but different section.
+
 | frag | sample_id      | concentration (ng/uL) | DIN | 
 |---|----|------|-----|
 | A | 1  | 4.35 | 3.4 |
@@ -34,6 +36,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 ## Library Prep
 
 - 17 uL (brought up to 20 uL with 3uL Tris) processed using EZ Methylation Gold Kit for Bisulfite Conversion, cleaned according to protocol and eluted in 19 uL DNA elution buffer
+- Did 20 PCR cycles.
 
 ### QC
 
@@ -46,6 +49,8 @@ Run to visualize libraries. Here's an example of what the **library should look 
 ## Results
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-libraries.png?raw=true" height="500">
+
+YAY!!! Libraries! They have more dimer than the re-amped ones. Probably stopping the PCR and cleaning and then re-amping helps a lot with dimers. But that would use a Lot of master mix and primer for all the samples.
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-1.png?raw=true" height="400">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-3.png?raw=true" height="400">
@@ -102,7 +107,7 @@ YAY! these look good but need a final clean-up to remove dimers.
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-16-WGBS-Cleaned-Libraries.pdf)
 
-## Third Bead cleanup to remove Dimers 
+## Third bead cleanup to remove Dimers 
 
 - Right sided size selection protocol based on Zymo Magbead Select-a-Size clean and concentrate [protocol](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/manual_select-a-size_dna_magbead_kit.pdf).
 
@@ -136,7 +141,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 1. Add 19 uL DNA elution buffer (EB) to bring volume to 50 uL
 2. Deplete small fragments (< 200 bp) with another volume of beads
-   1.  **0.8X ratio** = 0.7 * 50 uL = 35 uL beads
+   1.  **0.7X ratio** = 0.7 * 50 uL = 35 uL beads
    2. Mix thoroughly by pipetting until homogenous and incubate for 10 minutes at room temperature
    3. Place the tube on a magnetic stand for 3 minutes, or until the supernatant is clear.
    4. Carefully remove the supernatant without disturbing the magnetized bead pellet.
@@ -155,5 +160,14 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-WGBS-Final-Cleaned.png?raw=true" height="500">
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-WGBS-Final-Cleaned-scaled.png?raw=true" height="500">
+
+**Done. Sent for sequencing (along with the 12/6 and 12/12 libraries) on 12/17/24.**
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-1-final.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-3-final.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-11-final.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-12-final.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-24-final.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-25-final.png?raw=true" height="400">
 
 Full results (these are the first 6 lanes, the other 4 libraries are the 12/6 and 12/12 libraries) can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/Final_ZD_WGBS_Trio-notscaled.pdf) and [here (scaled)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/Final_ZD_WGBS_Trio.pdf)
