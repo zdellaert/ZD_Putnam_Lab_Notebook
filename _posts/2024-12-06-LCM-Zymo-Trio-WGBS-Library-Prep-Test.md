@@ -134,3 +134,5 @@ THIS WORKED!!! WOAH! Almost too good!!! Will maybe do another cleanup to remove 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-18-ReAmp.png?raw=true" height="400">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-15-WGBS-Trio-Round3.pdf)
+
+These libraries were cleaned and processed with the ones from [12/12/24](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo-Trio-WGBS-Library-Prep-Test-2/). See that post for details. 

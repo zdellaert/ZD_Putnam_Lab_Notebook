@@ -162,4 +162,4 @@ For the re-amped libraries (17, 18, 32, 33), there are not big dimers, but there
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-16-WGBS-Cleaned-Libraries.pdf)
 
-These are done.
+These are done. Shipped to sequencing facility along with the 12/15/24 libraries on 12/17/24.
