@@ -10,7 +10,9 @@ tags: [DNA, Pocillopora, LCM, Library Prep]
 
 Protocol link [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo-Trio-WGBS-Library-Prep/)
 
-## Samples: Test extraction of LCM Pilot Samples #17 & 18 (12/6/24)
+## Samples: Extraction of LCM Pilot Samples #17 & 18 (12/6/24)
+
+Same slide as the RNA samples, but different section.
 
 - Eluted DNA in 20 uL Tris-HCl, used 3 uL for Qubit and 1 uL for gDNA tapestation
 - <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-08-LCM-WGBS-Trio-Test_17_gDNA.png?raw=true" height="450">
@@ -135,4 +137,4 @@ THIS WORKED!!! WOAH! Almost too good!!! Will maybe do another cleanup to remove 
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2024-12-15-WGBS-Trio-Round3.pdf)
 
-These libraries were cleaned and processed with the ones from [12/12/24](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo-Trio-WGBS-Library-Prep-Test-2/). See that post for details. 
+These libraries were cleaned and processed with the ones from [12/12/24](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo-Trio-WGBS-Library-Prep-2/). See that post for details. 

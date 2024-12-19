@@ -161,7 +161,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-WGBS-Final-Cleaned-scaled.png?raw=true" height="500">
 
-**Done. Sent for sequencing (along with the 12/6 and 12/12 libraries) on 12/17/24.**
+**Done. Sent for sequencing (along with the [12/6 and 12/12](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo-Trio-WGBS-Library-Prep-2/) libraries) on 12/17/24.**
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-1-final.png?raw=true" height="400">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-17-LCM-WGBS-Trio-library-3-final.png?raw=true" height="400">
