@@ -351,7 +351,7 @@ cat alignment_summary.csv
 
 ```
 Sample,Score_Min,Alignment_Rate
-ACR-140-TP2,L0-1.0,
+ACR-140-TP2,L0-1.0,0.1
 ACR-145-TP2,L0-1.0,0.1
 ACR-150-TP2,L0-1.0,0.1
 ACR-173-TP2,L0-1.0,0.1
@@ -362,9 +362,44 @@ ACR-178-TP2,L0-1.0,0.1
 Bismark report for: ../output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/ACR-140-TP2_R1.fastp-trim.fq.gz and ../output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/ACR-140-TP2_R2.fastp-trim.fq.gz (version: v0.23.1)
 Bismark was run with Bowtie 2 against the bisulfite genome of /scratch3/workspace/zdellaert_uri_edu-deep_dive/deep-dive-expression/D-Apul/data/ with the specified options: -q --score-min L,0,-1.0 -p 8 --reorder --ignore-quals --no-mixed --no-discordant --dovetail --maxins 500
 Option '--non_directional' specified: alignments to all strands were being performed (OT, OB, CTOT, CTOB)
-```
 
-(this one is still running)
+Final Alignment report
+======================
+Sequence pairs analysed in total:	253164476
+Number of paired-end alignments with a unique best hit:	177877
+Mapping efficiency:	0.1%
+Sequence pairs with no alignments under any condition:	252527708
+Sequence pairs did not map uniquely:	458891
+Sequence pairs which were discarded because genomic sequence could not be extracted:	0
+
+Number of sequence pairs with unique best (first) alignment came from the bowtie output:
+CT/GA/CT:	3422	((converted) top strand)
+GA/CT/CT:	83409	(complementary to (converted) top strand)
+GA/CT/GA:	87858	(complementary to (converted) bottom strand)
+CT/GA/GA:	3188	((converted) bottom strand)
+
+Final Cytosine Methylation Report
+=================================
+Total number of C's analysed:	3299631
+
+Total methylated C's in CpG context:	203943
+Total methylated C's in CHG context:	139929
+Total methylated C's in CHH context:	1496178
+Total methylated C's in Unknown context:	20529
+
+Total unmethylated C's in CpG context:	215649
+Total unmethylated C's in CHG context:	231092
+Total unmethylated C's in CHH context:	1012840
+Total unmethylated C's in Unknown context:	34931
+
+C methylated in CpG context:	48.6%
+C methylated in CHG context:	37.7%
+C methylated in CHH context:	59.6%
+C methylated in unknown context (CN or CHN):	37.0%
+
+
+Bismark completed in 0d 19h 59m 42s
+```
 
 ```
 Bismark report for: ../output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/ACR-145-TP2_R1.fastp-trim.fq.gz and ../output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/ACR-145-TP2_R2.fastp-trim.fq.gz (version: v0.23.1)
@@ -536,4 +571,71 @@ C methylated in unknown context (CN or CHN):	40.5%
 
 
 Bismark completed in 0d 9h 48m 44s
+```
+
+1. Deduplicate bam to view alignments in IGB
+
+```
+salloc 
+
+cd ../output/08-Apul-WGBS/bismark
+
+module load parallel/20240822
+module load uri/main
+module load Bismark/0.23.1-foss-2021b
+module load bowtie2/2.5.2
+
+find ACR-178-TP2_pe.bam | \
+xargs -n 1 basename -s .bam | \
+parallel -j 8 deduplicate_bismark \
+--bam \
+--paired \
+{}.bam
+
+bismark_methylation_extractor \
+--bedGraph \
+--counts \
+--comprehensive \
+--merge_non_CpG \
+--multicore 28 \
+--buffer_size 75% \
+*deduplicated.bam
+
+find *deduplicated.bismark.cov.gz | \
+xargs -n 1 basename -s _pe.deduplicated.bismark.cov.gz | \
+parallel -j 10 coverage2cytosine \
+--genome_folder ../../../data/ \
+-o {} \
+--merge_CpG \
+--zero_based \
+{}_pe.deduplicated.bismark.cov.gz
+
+for bamFile in *deduplicated.bam; do
+	prefix=$(basename $bamFile .bam)
+
+	samtools cat ${bamFile} | samtools sort --threads 48 -o ${prefix}.sorted.bam
+done
+
+samtools index *.deduplicated.sorted.bam
+
+#run qualimap:
+
+module load qualimap/2.2.1
+
+mkdir -p qualimap
+
+for bamFile in *deduplicated.sorted.bam; do
+	prefix=$(basename $bamFile .bam)
+
+	qualimap \
+    --java-mem-size=29491M \
+    bamqc \
+     \
+    -bam ${bamFile}  \
+     \
+    -p non-strand-specific \
+    --collect-overlap-pairs \
+    -outdir qualimap/${prefix} \
+    -nt 6
+done
 ```
