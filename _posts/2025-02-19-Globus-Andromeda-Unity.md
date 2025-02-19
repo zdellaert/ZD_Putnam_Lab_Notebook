@@ -14,7 +14,7 @@ Based on https://daniellembecker.github.io/DanielleBecker_Lab_Notebook/Data-Tran
 
 1. Load modules and start setup
 
-```{bash, eval=FALSE}
+```
 interactive
 module load GlobusConnectPersonal/3.2.0
 globusconnectpersonal
@@ -49,7 +49,7 @@ Enter the following and save the file:
 
 1. You first need to activate the endpoint from Andromeda:
 
-```{bash, eval=FALSE}
+```
 interactive
 module load GlobusConnectPersonal/3.2.0
 globusconnectpersonal -start &
