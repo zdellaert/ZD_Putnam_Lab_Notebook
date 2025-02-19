@@ -47,15 +47,17 @@ Enter the following and save the file:
 
 ### Once you're set up, here is how to transfer files:
 
+1. You first need to activate the endpoint from Andromeda:
+
 ```{bash, eval=FALSE}
+interactive
 module load GlobusConnectPersonal/3.2.0
 globusconnectpersonal -start &
 ```
 
-#### On Globus Connect in your browser (https://www.globus.org):
-
-1. Login
-2. Go to the File Manager and in the Collection field on the left, enter the personal endpoint string that was spit out by the globus setup above 
-3. Select acda5457-9c06-4564-8375-260ba428f22a (exact address of Unity) in the collection field on the right
-4. Select the files or folders you want to transfer from Andromeda to Unity and press ‘Start’.
+2. On Globus Connect in your browser (https://www.globus.org):
+   1. Login
+   2. Go to the File Manager and in the Collection field on the left, enter the personal endpoint string that was spit out by the globus setup above 
+   3. Select acda5457-9c06-4564-8375-260ba428f22a (exact address of Unity) in the collection field on the right
+   4. Select the files or folders you want to transfer from Andromeda to Unity and press ‘Start’.
   
