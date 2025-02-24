@@ -52,4 +52,11 @@ This is really interesting. There seems to be better concentration, but more ada
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2025-02-24-LCM-WGBS-Trio-library-9.png?raw=true" height="400">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2025-02-24-LCM-WGBS-Trio-library-15.png?raw=true" height="400">
 
+Compare to sequenced libraries (pre extra cleanup):
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-1.png?raw=true" height="400">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/LCM_Pilot_WGBS/2024-12-15-LCM-WGBS-Trio-library-24.png?raw=true" height="400">
+
+
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-02-22-Trio-LB-test.pdf)
+
