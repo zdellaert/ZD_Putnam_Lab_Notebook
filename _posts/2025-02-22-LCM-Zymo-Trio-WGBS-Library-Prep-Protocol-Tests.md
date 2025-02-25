@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LCM Pilot Zymo Trio WGBS Library Prep Round 3
+title: LCM Pilot Zymo Trio WGBS Library Prep Testing
 date: '2025-02-22'
 categories: Processing
 tags: [DNA, Pocillopora, LCM, Library Prep]
