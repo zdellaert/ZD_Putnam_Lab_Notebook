@@ -82,24 +82,25 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 
 #### DNA Extraction
 
-**I have tested an on-column proteinase K digestion based on the DNase I digestions used in the RNA extraction. This method is not supported by Zymo, but has worked for me to increase yield of DNA while not over-digesting and degrading the RNA. This was inspired by the PAXgene RNA/DNA concurrent extraction protocol [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Simultaneous_DNA_RNA.pdf)**
+**I have tested an on-column proteinase K digestion based on the DNase I digestions used in the RNA extraction. This method is not supported by Zymo, but has worked for me to increase yield of DNA while not over-digesting and degrading the RNA. This was inspired by the PAXgene RNA/DNA concurrent extraction protocol [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Simultaneous_DNA_RNA.pdf)** This can be skipped if desired, and should only be used if it seems to improve DNA yields. 
 
 22. Remove DNA columns from 4 ºC and allow to equilibrate to room temperature for 5-10 minutes
-23. Thaw Proteinase K from -20 ºC 
-24. Wash column with 400 uL wash buffer and spin down, discard flow through
-25. Prepare Proteinase K treatment (15 uL Proteinase K with 30 uL PK Digestion Buffer per sample)
-    1.  Apply 45 uL of the mixture directly to each filter
-    2.  Incubate at room temperature for 30 minutes
-26. Warm RNase/DNase-free Tris-EDTA to 60 ºC on heating block.
-27. Add 400 uL DNA/RNA prep buffer and spin down, discard flow through
-28. Add 700 uL wash buffer and spin down, discard flow through
-29. Add 400 uL wash buffer and spin for 2 minutes at 15,000 rcf
-30. Transfer column to labelled 1.5 mL tube and apply 20 uL warmed Tris-EDTA to filter
-31. Let sit for 3 minutes at room temperature.
-32. Allow filter to saturate by spinning at 100 rcf for 1 minute and then elute by spinning down at 12,000 rcf for 1 minute. 
-33. Confirm all liquid has been eluted from the filter into the tube, and discard the filter column.
-34. Immediately transfer DNA to ice and perform QC (gDNA tapestation using 1 uL DNA) as soon as possible.
-35. Store DNA at -20 ºC as quickly after the extraction as possible and limit freeze-thaw cycles.
+23. ***This step can be skipped if desired, and should only be used if it seems to improve DNA yields.***
+    1.  Thaw Proteinase K from -20 ºC 
+    2.  Wash column with 400 uL wash buffer and spin down, discard flow through
+    3.  Prepare Proteinase K treatment (15 uL Proteinase K with 30 uL PK Digestion Buffer per sample)
+        1.  Apply 45 uL of the mixture directly to each filter
+        2.  Incubate at room temperature for 30 minutes
+24. Warm RNase/DNase-free Tris-EDTA to 60 ºC on heating block.
+25. Add 400 uL DNA/RNA prep buffer and spin down, discard flow through
+26. Add 700 uL wash buffer and spin down, discard flow through
+27. Add 400 uL wash buffer and spin for 2 minutes at 15,000 rcf
+28. Transfer column to labelled 1.5 mL tube and apply 20 uL warmed Tris-EDTA to filter
+29. Let sit for 3 minutes at room temperature.
+30. Allow filter to saturate by spinning at 100 rcf for 1 minute and then elute by spinning down at 12,000 rcf for 1 minute. 
+31. Confirm all liquid has been eluted from the filter into the tube, and discard the filter column.
+32. Immediately transfer DNA to ice and perform QC (gDNA tapestation using 1 uL DNA) as soon as possible.
+33. Store DNA at -20 ºC as quickly after the extraction as possible and limit freeze-thaw cycles.
 
 ### Quality Control (QC)
 

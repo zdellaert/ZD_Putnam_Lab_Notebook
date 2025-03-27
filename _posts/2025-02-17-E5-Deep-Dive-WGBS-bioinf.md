@@ -8,9 +8,11 @@ tags: [DNA, Bioinformatics, WGBS, E5]
 
 ## Deep Dive WGBS Bioinformatics Test
 
+### Setup
+
 Doing this here as to not confuse results in the [deep-dive expression repo](https://github.com/urol-e5/deep-dive-expression.git).
 
-1. Make unity scratch directory and clone github repo
+#### 1. Make unity scratch directory and clone github repo
 
 ```
 ws_allocate -n deep_dive -G pi_hputnam_uri_edu
@@ -19,7 +21,9 @@ git clone https://github.com/urol-e5/deep-dive-expression.git
 cd deep-dive-expression/
 ```
 
-2. Download trimmed WGBS data (ACR)
+#### 2. Download trimmed WGBS data
+
+ACR: 
 
 ```
 cd D-Apul/output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/
@@ -27,14 +31,30 @@ cd D-Apul/output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/
 wget -r -np -nH --cut-dirs=7 -A '*.gz' https://gannet.fish.washington.edu/gitrepos/urol-e5/deep-dive-expression/D-Apul/output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/
 ```
 
-3. Download genome (ACR)
+POR:
+
+```
+cd E-Peve/output/01.00-E-Peve-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs
+
+wget -r -np -nH --cut-dirs=7 -A '*.gz' https://gannet.fish.washington.edu/gitrepos/urol-e5/deep-dive-expression/E-Peve/output/01.00-E-Peve-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/
+```
+
+POC:
+
+```
+cd F-Ptuh/output/01.00-F-Ptuh-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs
+
+wget -r -np -nH --cut-dirs=7 -A '*.gz' https://gannet.fish.washington.edu/gitrepos/urol-e5/deep-dive-expression/F-Ptuh/output/01.00-F-Ptuh-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/   
+```
+
+### 3. Download genome (ACR)
 
 ```
 cd deep-dive-expression/
 wget -r -np -nH --cut-dirs=3 https://gannet.fish.washington.edu/seashell/bu-github/deep-dive-expression/D-Apul/data/Apulcra-genome.fa
 ```
 
-4. Prepare genome for bismark
+#### 4. Prepare genome for bismark (ACR)
 
 ```
 cd deep-dive-expression/
@@ -62,7 +82,79 @@ cd ../data
 bismark_genome_preparation --verbose --parallel 10 ./
 ```
 
-5. Test alignment parameters
+### 3. Download genome (POR)
+
+```
+cd deep-dive-expression/
+wget -r -np -nH --cut-dirs=3 https://gannet.fish.washington.edu/seashell/bu-github/deep-dive-expression/E-Peve/data/Porites_evermanni_v1.fa
+```
+
+#### 4. Prepare genome for bismark (POR)
+
+```
+cd deep-dive-expression/
+cd E-Peve/code
+nano scripts/bismark_genome.sh 
+```
+
+```
+#!/usr/bin/env bash
+#SBATCH --export=NONE
+#SBATCH --nodes=1 --ntasks-per-node=20
+#SBATCH --mem=200GB
+#SBATCH -t 24:00:00
+#SBATCH --mail-type=BEGIN,END,FAIL #email you when job starts, stops and/or fails
+#SBATCH --error=scripts/outs_errs/"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=scripts/outs_errs/"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# load modules needed
+module load uri/main
+module load Bismark/0.23.1-foss-2021b
+module load bowtie2/2.5.2
+
+cd ../data
+
+bismark_genome_preparation --verbose --parallel 10 ./
+```
+
+### 3. Download genome (POC)
+
+```
+cd deep-dive-expression/
+wget -r -np -nH --cut-dirs=3 https://gannet.fish.washington.edu/seashell/bu-github/deep-dive-expression/F-Ptuh/data/Pocillopora_meandrina_HIv1.assembly.fasta
+```
+
+#### 4. Prepare genome for bismark (POC)
+
+```
+cd deep-dive-expression/
+cd F-Ptuh/code
+nano scripts/bismark_genome.sh 
+```
+
+```
+#!/usr/bin/env bash
+#SBATCH --export=NONE
+#SBATCH --nodes=1 --ntasks-per-node=20
+#SBATCH --mem=200GB
+#SBATCH -t 24:00:00
+#SBATCH --mail-type=BEGIN,END,FAIL #email you when job starts, stops and/or fails
+#SBATCH --error=scripts/outs_errs/"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=scripts/outs_errs/"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# load modules needed
+module load uri/main
+module load Bismark/0.23.1-foss-2021b
+module load bowtie2/2.5.2
+
+cd ../data
+
+bismark_genome_preparation --verbose --parallel 10 ./
+```
+
+## 1 - Mapping ACR reads to *Acropora pulchra* genome
+
+#### 5. Test alignment parameters
 
 Testing score min parameters based on https://sr320.github.io/tumbling-oysters/posts/33-bismark-array/
 
@@ -185,7 +277,7 @@ for dir in ${output_dir}/*_score_*; do
 done
 ```
 
-5. Align to genome with best min-score paramters
+#### 6. Align to genome with best min-score paramters
 
 Array job script based on https://sr320.github.io/tumbling-oysters/posts/33-bismark-array/
 
@@ -282,7 +374,7 @@ for file in ${output_dir}/*_report.txt; do
 done
 ```
 
-5. Results
+#### 7. Results
 
 Test alignments of only 10,000 reads with different min-score parameters:
 
@@ -343,7 +435,7 @@ ACR-178-TP2,L0-0.8,mapping efficiency  0.0%
 ACR-178-TP2,L0-1.0,mapping efficiency  0.1%
 ```
 
-Alignment of all reads (ACR) against ACR genome:
+#### 8. Alignment of all reads (ACR) against ACR genome:
 
 ```
 cat alignment_summary.csv
@@ -573,7 +665,7 @@ C methylated in unknown context (CN or CHN):	40.5%
 Bismark completed in 0d 9h 48m 44s
 ```
 
-1. Deduplicate bam to view alignments in IGB
+#### 9. Deduplicate bam to view alignments in IGB
 
 ```
 salloc 
@@ -637,5 +729,469 @@ for bamFile in *deduplicated.sorted.bam; do
     --collect-overlap-pairs \
     -outdir qualimap/${prefix} \
     -nt 6
+done
+```
+
+## 2 - Mapping ACR reads to *Porites evermanni* genome
+
+#### 5. Test alignment parameters
+
+Testing score min parameters based on https://sr320.github.io/tumbling-oysters/posts/33-bismark-array/
+
+```
+cd deep-dive-expression/
+cd D-Apul/code
+nano scripts/bismark_align_paramtest_Peve_genome.sh 
+```
+
+```
+#!/usr/bin/env bash
+#SBATCH --ntasks=1 --cpus-per-task=30 #split one task over multiple CPU
+#SBATCH --array=0-4 #for 5 samples
+#SBATCH --mem=100GB
+#SBATCH -t 00:30:00
+#SBATCH --mail-type=END,FAIL,TIME_LIMIT_80 #email you when job stops and/or fails or is nearing its time limit
+#SBATCH --error=scripts/outs_errs/"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=scripts/outs_errs/"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# load modules needed
+module load uri/main
+module load Bismark/0.23.1-foss-2021b
+module load bowtie2/2.5.2
+
+# Set directories and files
+reads_dir="../output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/"
+genome_folder="../../E-Peve/data/"
+
+output_dir="../output/08-Apul-WGBS/align_paramtest_Peve_genome"
+mkdir -p ${output_dir}
+
+checkpoint_file="${output_dir}/completed_samples.log"
+
+# Create the checkpoint file if it doesn't exist
+touch ${checkpoint_file}
+
+# Get the list of sample files and corresponding sample names
+files=(${reads_dir}*_R1.fastp-trim.fq.gz)
+file="${files[$SLURM_ARRAY_TASK_ID]}"
+sample_name=$(basename "$file" "_R1.fastp-trim.fq.gz")
+
+# Check if the sample has already been processed
+if grep -q "^${sample_name}$" ${checkpoint_file}; then
+    echo "Sample ${sample_name} already processed. Skipping..."
+    exit 0
+fi
+
+# Define log files for stdout and stderr
+stdout_log="${output_dir}/${sample_name}_stdout.log"
+stderr_log="${output_dir}/${sample_name}_stderr.log"
+
+# Define the array of score_min parameters to test
+score_min_params=(
+    "L,0,-0.4"
+    "L,0,-0.6"
+    "L,0,-0.8"
+    "L,0,-1.0"
+    "L,-1,-0.6"
+)
+
+# Loop through each score_min parameter
+for score_min in "${score_min_params[@]}"; do
+    echo "Running Bismark for sample ${sample_name} with score_min ${score_min}"
+    
+    # Create a subdirectory for this parameter
+    param_output_dir="${output_dir}/${sample_name}_score_${score_min//,/}"
+    mkdir -p ${param_output_dir}
+
+    # Run Bismark alignment
+    bismark \
+        -genome ${genome_folder} \
+        -p 8 \
+        -u 10000 \
+        -score_min ${score_min} \
+        --non_directional \
+        -1 ${reads_dir}${sample_name}_R1.fastp-trim.fq.gz \
+        -2 ${reads_dir}${sample_name}_R2.fastp-trim.fq.gz \
+        -o ${param_output_dir} \
+        --basename ${sample_name}_${score_min//,/} \
+        2> "${param_output_dir}/${sample_name}-bismark_summary.txt"
+
+    # Check if the command was successful
+    if [ $? -eq 0 ]; then
+        echo "Sample ${sample_name} with score_min ${score_min} processed successfully."
+    else
+        echo "Sample ${sample_name} with score_min ${score_min} failed. Check ${stderr_log} for details."
+    fi
+done
+
+# Mark the sample as completed in the checkpoint file
+if [ $? -eq 0 ]; then
+    echo ${sample_name} >> ${checkpoint_file}
+    echo "All tests for sample ${sample_name} completed."
+else
+    echo "Sample ${sample_name} encountered errors. Check logs for details."
+fi
+
+# Define directories
+summary_file="${output_dir}/parameter_comparison_summary.csv"
+
+# Initialize summary file
+echo "Sample,Score_Min,Alignment_Rate" > ${summary_file}
+
+# Loop through parameter output directories
+for dir in ${output_dir}/*_score_*; do
+    if [ -d "$dir" ]; then
+        # Extract sample name and score_min parameter from directory name
+        sample_name=$(basename "$dir" | cut -d'_' -f1)
+        score_min=$(basename "$dir" | grep -o "score_.*" | sed 's/score_//; s/_/,/g')
+
+        # Locate the summary file
+        summary_file_path="${dir}/${sample_name}_${score_min}_PE_report.txt"
+
+        # Extract metrics
+        mapping=$(grep "Mapping efficiency:" ${summary_file_path} | awk '{print "mapping efficiency ", $3}')
+        
+        # Append to the summary file
+        echo "${sample_name},${score_min},${mapping}" >> ${summary_file}
+    fi
+done
+```
+
+#### Results:
+
+```
+cat parameter_comparison_summary.csv
+Sample,Score_Min,Alignment_Rate
+ACR-140-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-140-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-140-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-140-TP2,L0-0.8,mapping efficiency  0.1%
+ACR-140-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-145-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-145-TP2,L0-1.0,mapping efficiency  0.0%
+ACR-150-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-150-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-173-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-173-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-178-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-178-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-178-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-178-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-178-TP2,L0-1.0,mapping efficiency  0.0%
+```
+
+## 3 - Mapping ACR reads to *Pocillopora tuahiniensis* genome
+
+#### 5. Test alignment parameters
+
+Testing score min parameters based on https://sr320.github.io/tumbling-oysters/posts/33-bismark-array/
+
+```
+cd deep-dive-expression/
+cd D-Apul/code
+nano scripts/bismark_align_paramtest_Ptuh_genome.sh 
+```
+
+```
+#!/usr/bin/env bash
+#SBATCH --ntasks=1 --cpus-per-task=30 #split one task over multiple CPU
+#SBATCH --array=0-4 #for 5 samples
+#SBATCH --mem=100GB
+#SBATCH -t 00:30:00
+#SBATCH --mail-type=END,FAIL,TIME_LIMIT_80 #email you when job stops and/or fails or is nearing its time limit
+#SBATCH --error=scripts/outs_errs/"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=scripts/outs_errs/"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# load modules needed
+module load uri/main
+module load Bismark/0.23.1-foss-2021b
+module load bowtie2/2.5.2
+
+# Set directories and files
+reads_dir="../output/01.00-D-Apul-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/"
+genome_folder="../../F-Ptuh/data/"
+
+output_dir="../output/08-Apul-WGBS/align_paramtest_Ptuh_genome"
+mkdir -p ${output_dir}
+
+checkpoint_file="${output_dir}/completed_samples.log"
+
+# Create the checkpoint file if it doesn't exist
+touch ${checkpoint_file}
+
+# Get the list of sample files and corresponding sample names
+files=(${reads_dir}*_R1.fastp-trim.fq.gz)
+file="${files[$SLURM_ARRAY_TASK_ID]}"
+sample_name=$(basename "$file" "_R1.fastp-trim.fq.gz")
+
+# Check if the sample has already been processed
+if grep -q "^${sample_name}$" ${checkpoint_file}; then
+    echo "Sample ${sample_name} already processed. Skipping..."
+    exit 0
+fi
+
+# Define log files for stdout and stderr
+stdout_log="${output_dir}/${sample_name}_stdout.log"
+stderr_log="${output_dir}/${sample_name}_stderr.log"
+
+# Define the array of score_min parameters to test
+score_min_params=(
+    "L,0,-0.4"
+    "L,0,-0.6"
+    "L,0,-0.8"
+    "L,0,-1.0"
+    "L,-1,-0.6"
+)
+
+# Loop through each score_min parameter
+for score_min in "${score_min_params[@]}"; do
+    echo "Running Bismark for sample ${sample_name} with score_min ${score_min}"
+    
+    # Create a subdirectory for this parameter
+    param_output_dir="${output_dir}/${sample_name}_score_${score_min//,/}"
+    mkdir -p ${param_output_dir}
+
+    # Run Bismark alignment
+    bismark \
+        -genome ${genome_folder} \
+        -p 8 \
+        -u 10000 \
+        -score_min ${score_min} \
+        --non_directional \
+        -1 ${reads_dir}${sample_name}_R1.fastp-trim.fq.gz \
+        -2 ${reads_dir}${sample_name}_R2.fastp-trim.fq.gz \
+        -o ${param_output_dir} \
+        --basename ${sample_name}_${score_min//,/} \
+        2> "${param_output_dir}/${sample_name}-bismark_summary.txt"
+
+    # Check if the command was successful
+    if [ $? -eq 0 ]; then
+        echo "Sample ${sample_name} with score_min ${score_min} processed successfully."
+    else
+        echo "Sample ${sample_name} with score_min ${score_min} failed. Check ${stderr_log} for details."
+    fi
+done
+
+# Mark the sample as completed in the checkpoint file
+if [ $? -eq 0 ]; then
+    echo ${sample_name} >> ${checkpoint_file}
+    echo "All tests for sample ${sample_name} completed."
+else
+    echo "Sample ${sample_name} encountered errors. Check logs for details."
+fi
+
+# Define directories
+summary_file="${output_dir}/parameter_comparison_summary.csv"
+
+# Initialize summary file
+echo "Sample,Score_Min,Alignment_Rate" > ${summary_file}
+
+# Loop through parameter output directories
+for dir in ${output_dir}/*_score_*; do
+    if [ -d "$dir" ]; then
+        # Extract sample name and score_min parameter from directory name
+        sample_name=$(basename "$dir" | cut -d'_' -f1)
+        score_min=$(basename "$dir" | grep -o "score_.*" | sed 's/score_//; s/_/,/g')
+
+        # Locate the summary file
+        summary_file_path="${dir}/${sample_name}_${score_min}_PE_report.txt"
+
+        # Extract metrics
+        mapping=$(grep "Mapping efficiency:" ${summary_file_path} | awk '{print "mapping efficiency ", $3}')
+        
+        # Append to the summary file
+        echo "${sample_name},${score_min},${mapping}" >> ${summary_file}
+    fi
+done
+```
+
+#### Results:
+
+```
+cat parameter_comparison_summary.csv
+Sample,Score_Min,Alignment_Rate
+ACR-140-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-140-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-140-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-140-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-140-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-140-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-140-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-145-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-140-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-140-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-145-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-145-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-145-TP2,L0-1.0,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-150-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-145-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-145-TP2,L0-1.0,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-150-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-150-TP2,L0-1.0,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-173-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-150-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-150-TP2,L0-1.0,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-173-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-173-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-173-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-178-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-173-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-178-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-178-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-173-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-178-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-178-TP2,L-1-0.6,mapping efficiency  0.0%
+ACR-178-TP2,L0-1.0,mapping efficiency  0.1%
+ACR-178-TP2,L0-0.4,mapping efficiency  0.0%
+ACR-178-TP2,L0-0.6,mapping efficiency  0.0%
+ACR-178-TP2,L0-0.8,mapping efficiency  0.0%
+ACR-178-TP2,L0-1.0,mapping efficiency  0.1%
+```
+
+
+## 4 - Mapping POR reads to *Porites evermanni* genome
+
+#### 5. Test alignment parameters
+
+Testing score min parameters based on https://sr320.github.io/tumbling-oysters/posts/33-bismark-array/
+
+```
+cd deep-dive-expression/
+cd E-Peve/code
+nano scripts/bismark_align_paramtest.sh 
+```
+
+```
+#!/usr/bin/env bash
+#SBATCH --ntasks=1 --cpus-per-task=30 #split one task over multiple CPU
+#SBATCH --array=0-4 #for 5 samples
+#SBATCH --mem=100GB
+#SBATCH -t 00:30:00
+#SBATCH --mail-type=END,FAIL,TIME_LIMIT_80 #email you when job stops and/or fails or is nearing its time limit
+#SBATCH --error=scripts/outs_errs/"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=scripts/outs_errs/"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# load modules needed
+module load uri/main
+module load Bismark/0.23.1-foss-2021b
+module load bowtie2/2.5.2
+
+# Set directories and files
+reads_dir="../output/01.00-E-Peve-WGBS-trimming-fastp-FastQC-MultiQC/trimmed-fastqs/"
+genome_folder="../../E-Peve/data/"
+
+output_dir="../output/08-Apul-WGBS/align_paramtest_Peve_genome"
+mkdir -p ${output_dir}
+
+checkpoint_file="${output_dir}/completed_samples.log"
+
+# Create the checkpoint file if it doesn't exist
+touch ${checkpoint_file}
+
+# Get the list of sample files and corresponding sample names
+files=(${reads_dir}*_R1.fastp-trim.fq.gz)
+file="${files[$SLURM_ARRAY_TASK_ID]}"
+sample_name=$(basename "$file" "_R1.fastp-trim.fq.gz")
+
+# Check if the sample has already been processed
+if grep -q "^${sample_name}$" ${checkpoint_file}; then
+    echo "Sample ${sample_name} already processed. Skipping..."
+    exit 0
+fi
+
+# Define log files for stdout and stderr
+stdout_log="${output_dir}/${sample_name}_stdout.log"
+stderr_log="${output_dir}/${sample_name}_stderr.log"
+
+# Define the array of score_min parameters to test
+score_min_params=(
+    "L,0,-0.4"
+    "L,0,-0.6"
+    "L,0,-0.8"
+    "L,0,-1.0"
+    "L,-1,-0.6"
+)
+
+# Loop through each score_min parameter
+for score_min in "${score_min_params[@]}"; do
+    echo "Running Bismark for sample ${sample_name} with score_min ${score_min}"
+    
+    # Create a subdirectory for this parameter
+    param_output_dir="${output_dir}/${sample_name}_score_${score_min//,/}"
+    mkdir -p ${param_output_dir}
+
+    # Run Bismark alignment
+    bismark \
+        -genome ${genome_folder} \
+        -p 8 \
+        -u 10000 \
+        -score_min ${score_min} \
+        --non_directional \
+        -1 ${reads_dir}${sample_name}_R1.fastp-trim.fq.gz \
+        -2 ${reads_dir}${sample_name}_R2.fastp-trim.fq.gz \
+        -o ${param_output_dir} \
+        --basename ${sample_name}_${score_min//,/} \
+        2> "${param_output_dir}/${sample_name}-bismark_summary.txt"
+
+    # Check if the command was successful
+    if [ $? -eq 0 ]; then
+        echo "Sample ${sample_name} with score_min ${score_min} processed successfully."
+    else
+        echo "Sample ${sample_name} with score_min ${score_min} failed. Check ${stderr_log} for details."
+    fi
+done
+
+# Mark the sample as completed in the checkpoint file
+if [ $? -eq 0 ]; then
+    echo ${sample_name} >> ${checkpoint_file}
+    echo "All tests for sample ${sample_name} completed."
+else
+    echo "Sample ${sample_name} encountered errors. Check logs for details."
+fi
+
+# Define directories
+summary_file="${output_dir}/parameter_comparison_summary.csv"
+
+# Initialize summary file
+echo "Sample,Score_Min,Alignment_Rate" > ${summary_file}
+
+# Loop through parameter output directories
+for dir in ${output_dir}/*_score_*; do
+    if [ -d "$dir" ]; then
+        # Extract sample name and score_min parameter from directory name
+        sample_name=$(basename "$dir" | cut -d'_' -f1)
+        score_min=$(basename "$dir" | grep -o "score_.*" | sed 's/score_//; s/_/,/g')
+
+        # Locate the summary file
+        summary_file_path="${dir}/${sample_name}_${score_min}_PE_report.txt"
+
+        # Extract metrics
+        mapping=$(grep "Mapping efficiency:" ${summary_file_path} | awk '{print "mapping efficiency ", $3}')
+        
+        # Append to the summary file
+        echo "${sample_name},${score_min},${mapping}" >> ${summary_file}
+    fi
 done
 ```

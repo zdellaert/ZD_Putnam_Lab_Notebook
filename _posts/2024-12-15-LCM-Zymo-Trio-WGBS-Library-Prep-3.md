@@ -14,6 +14,8 @@ Protocol link [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Zymo
 
 Extracting LCM samples to use for WGBS. These are from the same slides as the RNA ones, but different section.
 
+Extraction protocol: Followed this exactly (https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Exp-Extractions/) but without the on-column proteinase K digestion, which led to DNA degradation.
+
 | frag | sample_id      | concentration (ng/uL) | DIN | 
 |---|----|------|-----|
 | A | 1  | 4.35 | 3.4 |
