@@ -1195,3 +1195,173 @@ for dir in ${output_dir}/*_score_*; do
     fi
 done
 ```
+
+
+## 5 - Trimming ACR Reads to map to ACR gneome
+
+#### 2. Download raw WGBS data
+
+based on Sam's script: https://github.com/urol-e5/deep-dive-expression/blob/06f8620587e96ecce970b79bd9e501bbd2a6812e/D-Apul/code/00.00-D-Apul-WGBS-reads-FastQC-MultiQC.Rmd
+
+##### Download raw reads
+
+```
+#!/usr/bin/env bash
+#SBATCH --ntasks=1 --cpus-per-task=30 #split one task over multiple CPU
+#SBATCH --mem=300GB
+#SBATCH -t 12:00:00
+#SBATCH --mail-type=END,FAIL,TIME_LIMIT_80 #email you when job stops and/or fails or is nearing its time limit
+#SBATCH --error=scripts/outs_errs/"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=scripts/outs_errs/"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# Set directories and files
+
+deep_dive_expression_dir="/scratch3/workspace/zdellaert_uri_edu-deep_dive/deep-dive-expression"
+output_dir_top="${deep_dive_expression_dir}/D-Apul/output/00.00-D-Apul-WGBS-reads-FastQC-MultiQC"
+raw_fastqc_dir="${output_dir_top}/raw-fastqc"
+raw_reads_dir="${deep_dive_expression_dir}/D-Apul/data/raw-fastqs"
+raw_reads_url="https://owl.fish.washington.edu/nightingales/E5-coral-deep-dive-expression/genohub2216545/"
+
+# Make output directory if it doesn't exist
+mkdir --parents ${raw_reads_dir}
+
+# Create list of only A.pulchra sample names
+sample_list=$(awk -F "," '$6 ~ /^ACR/ {print $1}' ${deep_dive_expression_dir}/M-multi-species/data/e5_deep_dive_WGBS_metadata.csv)
+
+echo ""
+echo "${line}"
+echo ""
+echo "Sample list:"
+echo ""
+echo "${sample_list}"
+echo ""
+echo "${line}"
+echo ""
+
+
+# Use printf to format each item for use in wget
+formatted_list=$(printf "*%s_*," ${sample_list})
+
+# Remove the trailing comma
+formatted_list=${formatted_list%,}
+
+# Output the final wget command
+echo ""
+echo "${line}"
+echo ""
+echo "Formatted wget accept list:"
+echo ""
+echo "wget --accept=\"$formatted_list\""
+echo ""
+echo "${line}"
+echo ""
+
+# Run wget to retrieve FastQs and MD5 files
+# Note: the --no-clobber command will skip re-downloading any files that are already present in the output directory
+wget \
+--directory-prefix ${raw_reads_dir} \
+--recursive \
+--no-check-certificate \
+--continue \
+--cut-dirs 3 \
+--no-host-directories \
+--no-parent \
+--quiet \
+--no-clobber \
+--accept=${formatted_list} ${raw_reads_url}
+
+ls -lh "${raw_reads_dir}"
+```
+
+##### Verify raw read checksums
+
+```{bash verify-raw-read-checksums, engine='bash', eval=TRUE}
+# Load bash variables into memory
+source .bashvars
+
+cd "${raw_reads_dir}"
+
+# Checksums file contains other files, so this just looks for the RNAseq files.
+for file in *.md5
+do
+  md5sum --check "${file}"
+done
+```
+
+#### Trim
+
+```
+cd deep-dive-expression/
+cd D-Apul/code
+nano scripts/trim_wgbs_cutadapt.sh 
+```
+
+```
+#!/usr/bin/env bash
+#SBATCH --export=NONE
+#SBATCH --nodes=1 --ntasks-per-node=20
+#SBATCH --signal=2
+#SBATCH --no-requeue
+#SBATCH --mem=200GB
+#SBATCH -t 48:00:00
+#SBATCH --mail-type=BEGIN,END,FAIL,TIME_LIMIT_80 #email you when job starts, stops and/or fails
+#SBATCH --error=scripts/outs_errs/"%x_error.%j" #if your job fails, the error report will be put in this file
+#SBATCH --output=scripts/outs_errs/"%x_output.%j" #once your job is completed, any final job report comments will be put in this file
+
+# load modules needed
+
+module load uri/main
+module load cutadapt/3.5-GCCcore-11.2.0
+
+# Set directories and files
+reads_dir="../data/raw-fastqs/"
+out_dir="../output/01.00-D-Apul-WGBS-trimming-cutadapt-FastQC-MultiQC/"
+
+mkdir -p ${out_dir}
+
+#make arrays of R1 and R2 reads
+R1_raw=($('ls' ${reads_dir}*R1*.fastq.gz))
+R2_raw=($('ls' ${reads_dir}*R2*.fastq.gz))
+
+R1_name=($(basename -s ".fastq.gz" ${R1_raw[@]}))
+R2_name=($(basename -s ".fastq.gz" ${R2_raw[@]}))
+
+for i in ${!R1_raw[@]}; do
+    cutadapt \
+    -a AGATCGGAAGAGCACACGTCTGAACTCCAGTCA \
+    -A AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT \
+    -o "${out_dir}trimmed_${R1_name[$i]}.fastq.gz" -p "${out_dir}trimmed_${R2_name[$i]}.fastq.gz" \
+    ${R1_raw[$i]} ${R2_raw[$i]} \
+    -q 20,20 --minimum-length 20 --cores=20
+
+    echo "trimming of ${R1_raw[$i]} and ${R2_raw[$i]} complete"
+done
+
+# unload conflicting modules with modules needed below
+module unload cutadapt/3.5-GCCcore-11.2.0
+
+# load modules needed
+module load parallel/20240822
+module load fastqc/0.12.1
+module load uri/main
+module load all/MultiQC/1.12-foss-2021b
+
+#make trimmed_qc output folder
+mkdir -p ${out_dir}/trimmed_qc
+cd ${out_dir}
+
+# Create an array of fastq files to process
+files=($('ls' trimmed*.fastq.gz)) 
+
+# Run fastqc in parallel
+echo "Starting fastqc..." $(date)
+parallel -j 20 "fastqc {} -o trimmed_qc/ && echo 'Processed {}'" ::: "${files[@]}"
+echo "fastQC done." $(date)
+
+cd trimmed_qc/
+
+#Compile MultiQC report from FastQC files
+multiqc *  #Compile MultiQC report from FastQC files 
+
+echo "QC of trimmed data complete." $(date)
+```
