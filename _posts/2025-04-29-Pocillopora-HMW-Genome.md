@@ -57,6 +57,10 @@ We only need to extract from one fragment, and ideally we would have an extra fr
 
 ### Protocol, Using the [**New England Biolabs/Monarch High Molecular Weight DNA Tissue Kit**](https://www.neb.com/en-us/products/t3060-monarch-hmw-dna-extraction-kit-for-tissue#Protocols--Manuals---Usage)
 
+#### Caveat: FAQ: Can the Monarch HMW DNA Extraction Kits be used to process marine samples, including marine invertebrates?
+    "We have not tested the kit on these organisms. Often these organisms contain a lot of mucus/ polysaccharide-based material, which may cause problems during bead binding. If you have an optimized lysis chemistry, you may be able to employ that upstream of our bead workflow using the Monarch HMW DNA Extraction Kit for Tissue (NEB #T3060)."
+
+
 #### Materials
 
 - Monarch® HMW DNA Extraction Kit for Tissue - NEB #T3060S/L
@@ -88,6 +92,7 @@ We only need to extract from one fragment, and ideally we would have an extra fr
 5. Choose your input amount of tissue. This gets complicated with coral due to the skeleton.
    1. "*The sample input range is 2–25 mg for most tissues (2–15 mg of DNA-rich/soft organ tissues (e.g., kidney, liver), 2–20 mg for brain). The upper limit for tissue input amounts is often limited by the viscosity of the lysed sample, which negatively impacts enzyme access, protein removal, precipitation onto the beads, and dissolving/resuspension of the purified DNA. In some samples, the high amounts of fibers or fatty acids can be factors that limit the input amounts. If a lower-than-recommended input amount is used, DNA recovery will be significantly reduced. Standard and low input protocols are provided to ensure the buffer volumes are appropriate and that precipitation onto the beads is efficient. If working with fatty or fibrous tissues (e.g., brain and muscle), and only very small amounts of sample are available (< 5 mg), see guidance in “Using Very Low Input Amounts*”.
 6. Tare pre-chilled ***Monarch Pestle Tube*** on the micro balance and transfer the appropriate amount of frozen tissue powder to tube for weighing. Do not use more tissue than recommended (see “Choosing Input Amounts”). Work quickly to prevent the tube from warming up on the balance.
+7. **Alternatively:** Tare the chilled mortar on the balance and weigh out the exact amount of tissue you want (clip off pieces from the fragment using clippers over dry ice), keeping the rest of the frozen fragment intact.
 
 #### Part 1 - Tissue Lysis
 
@@ -167,3 +172,19 @@ We only need to extract from one fragment, and ideally we would have an extra fr
 *Pipette up and down 5-10 times again before analyzing or using the HMW DNA. Samples processed using low agitation speeds during lysis will require additional time to fully dissolve. See additional guidance in “Homogenization of HMW DNA”. Samples can be stored at 4°C for short term use (weeks), or at -20°C for long term storage. The elution buffer (10 mM Tris, pH 9.0, 0.5 mM EDTA) is formulated for long term storage of gDNA*
 
 Note: at this step should see DNA precipitate at bottom of tube
+
+### QC:
+
+The sample needs to be thoroughly homogenized for accurate readings. It is sometimes best to wait 2-3 with the sample at 4ºC before performing QC.
+
+1. Broad range Qubit DNA
+2. gDNA Tapestation 
+3. Nanodrop
+   1. If purity is not high enough, perform [ethanol precipitation](https://github.com/daniellembecker/DanielleBecker_Lab_Notebook/blob/master/_posts/2023-07-12-HMW-DNA-Acropora%20pulchra-sperm.md)
+   2. PacBio requests a 260/280 ratio between 1.8 and 1.9
+
+#### What is our goal for amount of DNA?
+
+- From the sequencing facility (BYU, through genohub): "Three micrograms of DNA should be provided to enable library construction and Blue-Pippin size selection for large fragment whole genome libraries"
+
+- (Danielle's post said: For PacBio we need 10-20ug of genomic DNA (as quantified by Qubit) in less than 400ul. Quality of the DNA should be over 40kb in size, though we can remove smaller fragments.)
