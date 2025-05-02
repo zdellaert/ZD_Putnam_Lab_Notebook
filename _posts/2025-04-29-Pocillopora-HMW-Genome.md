@@ -103,7 +103,7 @@ We only need to extract from one fragment, and ideally we would have an extra fr
    4. Ensure there is no tissue material remaining on the pestle, then discard the pestle.
       1. *If visible DNA threads or tissue material stick to the pestle, transfer it carefully into the tube by wiping the pestle tip along the tube rim*. 
    5. Using the wide-bore tip, **pipette up and down a few times** to homogenize the tissue lysate and ensure rapid, complete lysis. Discard the pipette tip.
-   6. **Begin incubation **in the thermal mixer (Step 5), and repeat steps a-e with any remaining samples.
+   6. **Begin incubation** in the thermal mixer (Step 5), and repeat steps a-e with any remaining samples.
 4. Incubate samples in a thermal mixer at **56°C for a minimum of 45 minutes with agitation at the desired speed**.
    1. When lysis is complete, samples will **turn from turbid to clear** (or mostly clear, depending on the tissue type). 
    2. The speed of the thermal mixer influences fragment length and lysis; higher agitation speeds reduce DNA size and sample lysis time. For most applications, maximum agitation speed (1400-2000 rpm) is recommended.
@@ -122,7 +122,7 @@ We only need to extract from one fragment, and ideally we would have an extra fr
    1.  A substantial fraction of HMW DNA will be located at the interface between the clear upper phase and the protein phase; highest yields will be achieved by transferring as much of the upper phase as possible. **Using a 200 µl wide-bore pipette tip to transfer the final volume of upper phase is recommended for maximum yield.** *Avoid transferring material from the protein layer*, although a small amount (1–2 µl) will not be detrimental. If a small amount of the protein phase enters the pipette tip, gently push it back into the tube. If a lower protein phase is not visible, leave ~30 µl behind to ensure protein is not carried over. **Typically, the transferred volume will be ~ 800 µl** (Low Input: ~400 µl).
    2.  *If the volume of the sample is < 700 µl (Low Input: < 350 µl), adjust the volume of isopropanol used in Step 2 of Part 2: HMW gDNA Binding and Elution to 0.7 volumes. *
 
-##### Part 2: HMW gDNA Binding AND Elution
+#### Part 2: HMW gDNA Binding AND Elution
 
 1. Using clean forceps, **add 2 DNA Capture Beads** to each sample, which should be contained in a Monarch 2 ml Tube.
 
@@ -149,12 +149,12 @@ We only need to extract from one fragment, and ideally we would have an extra fr
 
 8. Separate the bead retainer from the collection tube, pour the beads into a new, labeled Monarch 2 ml Tube, and **insert the used bead retainer into the labeled 1.5 ml microfuge tube** (_DNA low bind recommended_, not provided) for later use during elution. Discard the used collection tube.
 
-    <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Monarch_HMW_3.png?raw=true"  width="200" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Monarch_HMW_3.png?raw=true"  width="200" />
 
 9.  Immediately add **100 μl Elution Buffer II** onto the glass beads and **incubate for 5 minutes at 56°C in a thermal mixer with agitation at the lowest speed (300 rpm)**. Halfway through the incubation, ensure the beads are not stuck to the bottom of the tube by *tilting the tube almost horizontally and gently shaking*
    - This ensures that the beads can move freely, allowing for optimal release of the DNA from the beads. It also ensures that the lower bead does not stick to the bottom of the tube during the following transfer step.
 
-    <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Monarch_HMW_4.png?raw=true"  width="200" />
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/protocols/Monarch_HMW_4.png?raw=true"  width="200" />
 
 10. Ensure the bead retainer is inserted into the 1.5 ml microfuge tube. **Pour the eluate and the glass beads into the bead retainer and close the cap**. Typically, all the eluate flows into the bead retainer upon pouring. If any volume remains in the 2 ml tube, spin briefly and transfer.
 
@@ -164,6 +164,6 @@ We only need to extract from one fragment, and ideally we would have an extra fr
 
 12.  **Pipette eluate up and down 5–10 times with a wide bore pipette tip and ensure any visible DNA aggregates are dispersed.** Before analysis or downstream use, HMW DNA must be homogeneously dissolved. **After pipetting, incubate at 37°C for 30-60 minutes, overnight at room temperature, or for > 24 hours at 4°C**.
 
-    *Pipette up and down 5-10 times again before analyzing or using the HMW DNA. Samples processed using low agitation speeds during lysis will require additional time to fully dissolve. See additional guidance in “Homogenization of HMW DNA”. Samples can be stored at 4°C for short term use (weeks), or at -20°C for long term storage. The elution buffer (10 mM Tris, pH 9.0, 0.5 mM EDTA) is formulated for long term storage of gDNA*
+*Pipette up and down 5-10 times again before analyzing or using the HMW DNA. Samples processed using low agitation speeds during lysis will require additional time to fully dissolve. See additional guidance in “Homogenization of HMW DNA”. Samples can be stored at 4°C for short term use (weeks), or at -20°C for long term storage. The elution buffer (10 mM Tris, pH 9.0, 0.5 mM EDTA) is formulated for long term storage of gDNA*
 
 Note: at this step should see DNA precipitate at bottom of tube
