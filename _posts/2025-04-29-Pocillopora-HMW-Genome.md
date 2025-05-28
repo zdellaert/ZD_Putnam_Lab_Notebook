@@ -219,9 +219,9 @@ DNA Standards: 189.42 (S1) & 21542.59 (S2)
 
 ## 5/27/25 Genomic Tip Extraction
 
-On 5/27/25, Natalie and I attempted Maggie's Qiagen Genomic Tip HMW extraction protocol, which was successful for P. acuta in the past. [P. acuta link is here](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/pacuta-HMW/) and detailed protocol [here](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/HMW-Tip-Protocol/). However, all of the buffers are very expired.
+On 5/27/25, Natalie and I attempted Maggie's Qiagen Genomic Tip HMW extraction protocol, which was successful for P. acuta in the past. The detailed protocol is [here](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/HMW-Tip-Protocol/) and here are example srteps and results for [P. meandrina](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/pm-HMW-2/) and [P. acuta](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/pacuta-HMW/) . However, all of the buffers are very expired. Because these components are the most sensitive to degradation, I used new Proteinase K and RNAse A from other kits. I used RNAse A from the NEB HMW kit and Proteinase K from a Zymo Quick RNA/DNA extraction kit (same concentration.)
 
-I followed her protocol exactly, except I warmed the Tris EDTA buffer to 55 ºC prior to elution. I can't imagine this hurt, since the tubes go straight into that temperature after elution, but I wanted to note it. After elution, as recommended, I incubated the tubes for 1hr at 55 ºC in the Theremomixer, no shaking, and then transferred to an orbital shaker 200rpm overnight.
+Other than the above mentioned change of the ProK and RNAse A, I followed her protocol exactly, except I warmed the Tris EDTA buffer to 55 ºC prior to elution. I can't imagine this hurt, since the tubes go straight into that temperature after elution, but I wanted to note it. After elution, as recommended, I incubated the tubes for 1hr at 55 ºC in the Theremomixer, no shaking, and then transferred to an orbital shaker 200rpm overnight. Our tissue input was 0.97 g.
 
 ### QC results
 
@@ -242,3 +242,7 @@ DNA Standards: 182.25 (S1) & 20034.97 (S2)
 |             |                    |                    |                       |                       | Total DNA extracted (ug) | 1.8                     |
 
 Result: pretty low compared to Maggie's [results](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/pacuta-HMW/), but also not compltetely a failure! 
+
+## Next steps: Try Genomic Tip again with more tissue? Check tapestation quality of HMW DNA?
+
+- If we do more than just one more extraction, we will need more wide-bore tips. Also, we may need more RNAse A.
