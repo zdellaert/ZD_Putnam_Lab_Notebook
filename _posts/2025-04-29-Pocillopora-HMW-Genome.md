@@ -31,6 +31,14 @@ tags: [DNA, Pocillopora, E5]
 
 We only need to extract from one fragment, and ideally we would have an extra fragment for each timepoint to send to FIU for other analyses. If we can locate one of the green or yellow bag (TP2) fragments, that would be perfect.
 
+## What is our goal for amount of DNA?
+
+- From the sequencing facility (BYU, through genohub): "Three micrograms of DNA should be provided to enable library construction and Blue-Pippin size selection for large fragment whole genome libraries"
+
+- (Danielle's post said: For PacBio we need 10-20ug of genomic DNA (as quantified by Qubit) in less than 400ul. Quality of the DNA should be over 40kb in size, though we can remove smaller fragments.)
+
+
+
 ## Protocol
 
 1. Want to use the NEB High Molecular Weight DNA Extraction, first tested by Danielle in this post:
@@ -183,8 +191,54 @@ The sample needs to be thoroughly homogenized for accurate readings. It is somet
    1. If purity is not high enough, perform [ethanol precipitation](https://github.com/daniellembecker/DanielleBecker_Lab_Notebook/blob/master/_posts/2023-07-12-HMW-DNA-Acropora%20pulchra-sperm.md)
    2. PacBio requests a 260/280 ratio between 1.8 and 1.9
 
-#### What is our goal for amount of DNA?
+## Failed Extraction attempts with NEB Kit
 
-- From the sequencing facility (BYU, through genohub): "Three micrograms of DNA should be provided to enable library construction and Blue-Pippin size selection for large fragment whole genome libraries"
+- I followed the above protocol on 5/8/25 but it was not successful. Notes about steps taken:
+  - I was shooting for a 0.1 g of tissue (minimizing skeleton) input, but wasn't sure what would be best so I tested two input levels
+  - High input tube: 0.0978g
+  - Low input tube: 0.0222g
+  - Both had quite a bit of skelton
+  - During 56 ºC incubation (step 4), I used a speed of 1600 rpm for 45 minutes. After 15 minutes, I spun down the tube and removed the supernatant into a clean tube to minimize skeletal carryover, then proceeded with the rest of the incubation
+- I am not sure if we are getting enough tissue input into the extraction. During the protein separation phase, there was not a clear separation of layers even after 30 minutes of centrifuging. Instead, drops of what looked like oil floated at the top of the aqueous layer and were very difficult to separate.
+- Jill had the exact same result on her attempt on 5/14/25. Her modifications:   
+  - tried scraping tissue from the chunk to minimize skeletal input
+- QC results:
 
-- (Danielle's post said: For PacBio we need 10-20ug of genomic DNA (as quantified by Qubit) in less than 400ul. Quality of the DNA should be over 40kb in size, though we can remove smaller fragments.)
+
+Used Broad Range dsDNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+All samples read twice, standard only read once
+
+DNA Standards: 189.42 (S1) & 21542.59 (S2)
+
+| Tube Number | Top Read 1 (ng/uL) | Top Read 2 (ng/uL) | Bottom Read 1 (ng/uL) | Bottom Read 2 (ng/uL) | Average (ng/uL)          | 
+|-------------|--------------------|--------------------|-----------------------|-----------------------|--------------------------|
+| Zoe, High Input (5/8) | nd   | nd   |  nd    |  nd  |  0   |
+| Zoe, Low Input (5/8)  | nd   | nd   |  nd    |  nd  |  0   |
+| Jill (5/14)           | nd   | nd   |  nd    |  nd  |  0   |
+
+
+## 5/27/25 Genomic Tip Extraction
+
+On 5/27/25, Natalie and I attempted Maggie's Qiagen Genomic Tip HMW extraction protocol, which was successful for P. acuta in the past. [P. acuta link is here](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/pacuta-HMW/) and detailed protocol [here](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/HMW-Tip-Protocol/). However, all of the buffers are very expired.
+
+I followed her protocol exactly, except I warmed the Tris EDTA buffer to 55 ºC prior to elution. I can't imagine this hurt, since the tubes go straight into that temperature after elution, but I wanted to note it. After elution, as recommended, I incubated the tubes for 1hr at 55 ºC in the Theremomixer, no shaking, and then transferred to an orbital shaker 200rpm overnight.
+
+### QC results
+
+- Used Broad Range dsDNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+DNA Standards: 182.25 (S1) & 20034.97 (S2)
+
+| Tube Number | Top Read 1 (ng/uL) | Top Read 2 (ng/uL) | Bottom Read 1 (ng/uL) | Bottom Read 2 (ng/uL) | Average (ng/uL)          | Amount in tube (*46 uL) |
+|-------------|--------------------|--------------------|-----------------------|-----------------------|--------------------------|-------------------------|
+| 1           | 5.67               | 5.84               | 5.95                  | 6.06                  | 5.88                     | 270.48                  |
+| 2           | 6.6                | 6.73               | 6.41                  | 6.46                  | 6.55                     | 301.3                   |
+| 3           | 6.95               | 7.08               | 8.04                  | 8.15                  | 7.555                    | 347.53                  |
+| 4           | 3.95               | 3.95               | 3.8                   | 3.83                  | 3.8825                   | 178.595                 |
+| 5           | 7.11               | 7.19               | 6.78                  | 6.93                  | 7.0025                   | 322.115                 |
+| 6           | 7.44               | 7.43               | 7.46                  | 7.52                  | 7.4625                   | 343.275                 |
+|             |                    |                    |                       |                       | Total DNA extracted (ng) | 1763.295                |
+|             |                    |                    |                       |                       | Total DNA extracted (ug) | 1.8                     |
+
+Result: pretty low compared to Maggie's [results](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/pacuta-HMW/), but also not compltetely a failure! 
