@@ -172,3 +172,9 @@ DNA Standards: 189.27 (S1) & 21484.19 (S2)
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/Screenshot%202025-07-16%20at%2011.48.54.png?raw=true" height="500">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-07-16_Ptuh_HMW.pdf)
+
+### Gel:
+
+Run by [Natalie](https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-07-16-TimeSeries-DNA-RNA-Extractions.md) at 80 volts for 45 minutes
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-16-Timeseries-gel.jpg?raw=true" height="500">
