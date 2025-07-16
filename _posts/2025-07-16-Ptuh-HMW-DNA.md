@@ -178,3 +178,43 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 Run by [Natalie](https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-07-16-TimeSeries-DNA-RNA-Extractions.md) at 80 volts for 45 minutes
 
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-16-Timeseries-gel.jpg?raw=true" height="500">
+
+## Thoughts on the degradation:
+
+### Scenario 1
+
+1. If I'm being an optimist, I can hope that the DNA is all there but I didn't homogenize it fully enough so it's not being pipetted into the tapestation/gel and only the smallest fragments are being quantified and visualized. If we believe this, then this should be solved by trying to [homogenize the DNA further](https://www.neb.com/en-us/tools-and-resources/usage-guidelines/homogenization-of-high-molecular-weight-dna-hmw-dna-samples-after-elution), by pipetting up and down with wide bore tips and other means.
+
+### [Homogenization guide from NEB](https://www.neb.com/en-us/tools-and-resources/usage-guidelines/homogenization-of-high-molecular-weight-dna-hmw-dna-samples-after-elution)
+
+#### For Samples Agitated at Low Speeds (UHMW DNA) 
+
+  *Samples isolated following agitation with low speeds are extremely viscous and require additional effort to relax and homogenize before analysis and use*. When homogenized completely, samples will appear consistent throughout the tube and OD measurements will become more consistent. The following steps are recommended: 
+
+  - After elution, **pipette up and down 5–10 times using a 200 µl wide bore pipette**; ensure any clumps of DNA are dispersed.  
+  - Incubate DNA samples for 30–60 minutes at 37°C. 
+  - Pipette up and down 5–10 times again using the same wide bore pipette tip. 
+  - Repeat 1–2 times each day for at least 2 days. 
+
+If quantitation of UHMW DNA remains challenging following the above steps, needle shearing is recommended prior to spectrophotometric measurement.  
+
+### Scenario 2
+
+2. Maybe more realistically, this could be what all the DNA looks like. This could be due to a variety of factors:
+   1. Thawing of the frozen tissue fragment during transit or other time
+      1. Solution: try a different whirlpak (timepoint) from the same corla
+   2. Too much tissue input for the digestion buffer amount led to degradation during the digestion 
+      1. Solution: use less input
+   3. Heating during elution led to degradation
+      1. In Maggie's workflow, she always elutes the DNA pellet at 55 ºC for one hour, but NEB recommends not exceeding 30 minutes at this temperature.
+      2. Solution: try reducing 55 ºC incubation time; also try doing the incubation in the incubator genie instead of thermomixer, this can be gentler
+
+From [NEB](https://www.neb.com/en-us/tools-and-resources/usage-guidelines/homogenization-of-high-molecular-weight-dna-hmw-dna-samples-after-elution):
+
+- Heat 
+  - Heat will reduce the viscosity of the solution and significantly increase the speed of homogenization of HMW DNA solutions. Below are some additional guidelines when using heat: 
+    - Temperatures > 60°C are generally not recommended as they will lead to DNA denaturation and degradation.  
+    - **Incubation at 56°C, the temperature used for elution, is appropriate only for short incubation times. Do not exceed 30 minutes.**  
+    - Samples can be incubated at 37°C for several hours safely; DNA integrity will not be affected. 
+    - Incubation at room temperature overnight facilitates even homogenization of the DNA. 
+    - Incubation at 4°C for days or weeks also facilitates homogenization and relaxation of HMW DNA. 
