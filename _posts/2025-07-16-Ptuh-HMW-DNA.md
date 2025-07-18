@@ -218,3 +218,14 @@ From [NEB](https://www.neb.com/en-us/tools-and-resources/usage-guidelines/homoge
     - Samples can be incubated at 37°C for several hours safely; DNA integrity will not be affected. 
     - Incubation at room temperature overnight facilitates even homogenization of the DNA. 
     - Incubation at 4°C for days or weeks also facilitates homogenization and relaxation of HMW DNA. 
+
+## July 18, 2025 Try
+
+We are trying again with a fragment from a different timepoint in the hopes that it was better preserved and did not experience the potential thawing that the other timepoint did. 
+
+- We measured 1.5769 g chunk of coral from the "Molec 1" whirlpak sample of POC-222 from the September timepoint (TP3). This coral is from site 2.
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-18-whirlpak.jpeg?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-18-mass.jpeg?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-18-powder-1.jpeg?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-18-powder-2.jpeg?raw=true" height="500">
