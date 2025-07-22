@@ -229,3 +229,49 @@ We are trying again with a fragment from a different timepoint in the hopes that
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-18-mass.jpeg?raw=true" height="500">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-18-powder-1.jpeg?raw=true" height="500">
 <img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-18-powder-2.jpeg?raw=true" height="500">
+
+### Qubit
+
+- Use the broad range DNA assay and [protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Qubit-Assay-Protocol.md)
+- Quantify both the top and bottom of each tube and then use the averages of each tube for the final concentration
+
+DNA Standards: 189.47 (S1) & 25689.24 (S2)
+
+| Tube Number | Top Read 1 (ng/uL) | Top Read 2 (ng/uL) | Bottom Read 1 (ng/uL) | Bottom Read 2 (ng/uL) | Average (ng/uL)          | Amount in tube (*47 uL) |
+|-------------|--------------------|--------------------|-----------------------|-----------------------|--------------------------|-------------------------|
+| 1 | 8.1  | 8.36 | 8.9  | 9.1  | 8.615  | 404.905 |
+| 2 | 11.3 | 11.1 | 9.04 | 9.06 | 10.125 | 475.875 |
+| 3 | 8.86 | 8.88 | 8.84 | 8.86 | 8.86   | 416.42  |
+| 4 | 7.26 | 7.18 | 6.68 | 7.16 | 7.07   | 332.29  |
+| 5 | 6.76 | 6.82 | 6.78 | 6.78 | 6.785  | 318.895 |
+| 6 | 9.84 | 9.74 | 9.78 | 9.78 | 9.785  | 459.895 |
+|             |                    |                    |                       |                       | Total DNA extracted (ng) | 2408.28      |
+|             |                    |                    |                       |                       | **Total DNA extracted (ug)** | **2.408**    |
+
+### Tapestation
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-20_Ptuh_HMW_1.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-20_Ptuh_HMW_2.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-20_Ptuh_HMW_3.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-07-20_Ptuh_HMW_4.png?raw=true" height="500">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-07-20_Ptuh_HMW.pdf)
+
+## Potential gDNA already extracted by KXT:
+
+Master extraction sheet: https://docs.google.com/spreadsheets/d/1A764av1a3VORX6m9aDUEcoY9Bx9l0fvGtV5ycm2J9Wo/edit#gid=0
+
+- for POC-222, all tubes of DNA were sent to Azenta for WGBS
+  - Tubes: 65, 305, 555, 879
+- Potential extractions that had high quantity and were not sent to Azenta:
+  - Tube 321, TP2 POC-238 extracted 20211018
+  - Tube 325, TP2 POC-248 extracted 20211007
+  - **BOTH RUN ON TAPESTATION 7/20 BUT BOTH P. meandrina :/ ** (see above)
+- Potential acutally *P tuaheniensis* ones:
+  - Tube 727, TP4 POC-48 extracted 20211018
+  - Tube 417, TP2 POC-57 extracted *by JA* on 20240816
+  - Tube 643, TP3 POC-48 extracted 20210930
+  - Tube 655, TP3 POC-43 extracted 20210930
+  - Tube 773, TP4 POC-44 extracted 20210907
+  - Tube 179, TP1 POC-68 extracted 20211115
+  - Tube 695, TP3 POC-47 extracted 20211001
