@@ -17,14 +17,14 @@ Today, Natalie and I will test the library prep on three adult samples from my [
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. We will be using **20 ng of total RNA** as input. Here's a breakdown of input RNA volumes for each sample: 
 
 
-| TubeID       | Qubit RNA (ng/uL) | Strip tube # | RNA (uL) | RNAse/DNase-Free water (uL) | Total starting volume (ul) | Primer |
-| ------------ | ----------------- | ------------ | -------- | --------------------------- | --------------------------------- | ------ |
-| POC_R12_C3   | 28.6             | 1            | 0.70     | 4.30                        | 5.0                               | X    |
-| POC_R1_H1    | 24.6              | 2            | 0.81 | 4.19                  | 5.0                               | X    |
-| POC_R3_C3    | 17.7              | 3            | 1.13 | 3.87                  | 5.0                               | X   |
-| POC_R12_C3   | 28.6             | 4            | 0.70 | 4.30                  | 5.0                               | X    |
-| POC_R1_H1    | 24.6             | 5            | 0.81 | 4.19                  | 5.0                               | X   |
-| POC_R3_C3    | 17.7              | 6            | 1.13 | 3.87                  | 5.0                               | X   |
+| TubeID       | Qubit RNA (ng/uL) | Strip tube # | RNA (uL) | RNAse/DNase-Free water (uL) | Total starting volume (ul) | PolyA R1 volume (ul) | Primer |
+| ------------ | ----------------- | ------------ | -------- | --------------------------- | --------------------|------------- | ------ |
+| POC_R12_C3   | 28.6             | 1            | 0.70     | 4.30                        | 5.0        | 5.0            | X    |
+| POC_R1_H1    | 24.6              | 2            | 0.81 | 4.19                  | 5.0           | 5.0        | X    |
+| POC_R3_C3    | 17.7              | 3            | 1.13 | 3.87                  | 5.0         | 5.0              | X   |
+| POC_R12_C3   | 28.6             | 4            | 0.70 | 4.30                  | 5.0           | 3.0              | X    |
+| POC_R1_H1    | 24.6             | 5            | 0.81 | 4.19                  | 5.0           | 3.0               | X   |
+| POC_R3_C3    | 17.7              | 6            | 1.13 | 3.87                  | 5.0        | 3.0                  | X   |
 
 Here's the SwitchFree library prep workflow: 
 
@@ -71,7 +71,8 @@ Thermocycler settings:
 
 - Thaw PolyA R1 Reagent and R2 Reagent on ice 
 - Prepare samples to correct volume in strip tubes 
-- Add 5 uL of PolyA R1 Reagent to each sample 
+- Add 5 uL of PolyA R1 Reagent to each sample
+  - **AS A TEST: FOR HALF OF SAMPLES, ADD 3 uL PolyA R1 and 2 uL RNAse/DNAse-free water** 
 - Mix by pipetting and centrifuge briefly 
 - Run Steps 1-2 in thermocycler 
 	- SKIP this step if RNA is degraded/low quality 
