@@ -193,3 +193,33 @@ THIS IS THE FINAL 3' mRNA-seq LIBRARY. STORE AT -20°C.
 Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md) to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
 
 ![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/switchfree_lib_prep_library_example.png)
+
+- Used Broad range DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+DNA Standards: 182.07 (S1) & 23026.07 (S2)
+
+| TubeID       | PolyA R1 volume (ul) | Primer | Library_QBIT_1 | Library_QBIT_2 | Library_QBIT_AVG |
+| ------------ |--------------------- | ------ |------------|------------|--------------|
+| POC_R12_C3   |  5.0                  | 1      | 4.14   |  4.10     |  4.12       |
+| POC_R1_H1    |  5.0                 | 2      | 3.22   |  3.16    |   3.19       |
+| POC_R3_C3    | 5.0                   | 3      | 3.94   |  4.00     |   3.96      |
+| POC_R12_C3   |  3.0                 | 8      | 6.00  |  6.00    |   6.00      |
+| POC_R1_H1    | 3.0                  | 7      | 3.62  |  3.60     |   3.61      |
+| POC_R3_C3    |  3.0                 | 6      | 4.96 | 5.02    |   4.98     |
+
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.10.png?raw=true">
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.20.png?raw=true">
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.30.png?raw=true">
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.35.png?raw=true">
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.40.png?raw=true">
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.44.png?raw=true">
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.50.png?raw=true">
+<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.56.png?raw=true">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-13.pdf) and [here (not scaled by sample)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-13-scaled.pdf). 
+
+
+### Thoughts
+
+- Did 21 cycles when I meant to do 19 - could be the cause of the dimers. However, concentration is lower than ideal. I wonder if increasing or **decreasing** the RNA input amount could help...
