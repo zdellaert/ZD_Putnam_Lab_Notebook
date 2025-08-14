@@ -232,7 +232,7 @@ First, library concentrations were converted from ng/μL to nM using the [equati
 
 (concentration in ng/μL)/(660g/mol * average library size in bp) * 10^6 = concentration in nM
 
-img width="600" alt="Molarity_formula" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/Molarity.jpeg?raw=true">
+<img width="600" alt="Molarity_formula" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/Molarity.jpeg?raw=true">
 
 | Library_Tube | Library_QBIT_1 | Library_QBIT_2 | Primer | TubeID     | PolyA R1 volume (ul) | Qubit_Conc | TS_Conc | TS_Peak_Size | Molarity_nM_Qubit | Molarity_nM_TS_Calculated | Molarity_nM_TS_Peak |
 |--------------|----------------|----------------|--------|------------|----------------------|------------|---------|--------------|-------------------|---------------------------|---------------------|
