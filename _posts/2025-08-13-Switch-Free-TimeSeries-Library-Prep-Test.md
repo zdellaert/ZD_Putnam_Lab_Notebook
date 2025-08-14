@@ -226,7 +226,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 - Did 21 cycles when I meant to do 19 - could be the cause of the dimers. However, concentration is lower than ideal. I wonder if increasing or **decreasing** the RNA input amount could help...
 
-### Convert library concentration from ng/μL to nM 
+#### Do we have enough to sequence? Let's Convert library concentration from ng/μL to nM 
 
 First, library concentrations were converted from ng/μL to nM using the [equation](https://knowledge.illumina.com/library-preparation/dna-library-prep/library-preparation-dna-library-prep-reference_material-list/000001240):
 
@@ -243,7 +243,7 @@ First, library concentrations were converted from ng/μL to nM using the [equati
 | 5            | 3.62           | 3.6            | 7      | POC_R1_H1  | 3                    | 3.61       | 4.32    | 407          | 14.36             | 17.18                     | 16.30               |
 | 6            | 4.96           | 5.02           | 6      | POC_R3_C3  | 3                    | 4.98       | 5.23    | 409          | 19.80             | 20.80                     | 19.20               |
 
-### Normalize
+### If we are okay with the dimers, we would now be able to normalize and pool for sequencing
 
 - Normalize library: Dilute to 4nM in a volume of 6-10μL with molecular grade water using the calculation C1V1=C2V2.
 - Combined into pool (n=XX libraries per pool) for sequencing
@@ -257,3 +257,31 @@ First, library concentrations were converted from ng/μL to nM using the [equati
 |      4       | 1.68               | 8.32           |
 |      5       | 2.79               | 7.21           |
 |      6       | 2.02               | 7.98           |
+
+I probably could normalize the concentration of all the libraries and then do a pooled cleanup, or clean them all up again and then requantify and then normalize and pool.
+
+### Cleanup to get rid of dimers: Appendix C of protocol
+
+"The kit is designed to minimize the formation of adapter dimers. If significant dimers show up at ~ 180 bp on the size distribution profile, a bead clean-up is recommended to remove the dimers for better sequencing quality. To remove the dimers, use DNase/RNase-Free Water to raise the library volume to 100 µL. Then follow the clean-up protocol in Appendix A, page 10 using 85 µL of the Select-a-Size MagBeads and elute with 15 – 20 µL of DNA Elution Buffer."
+
+#### Protocol: 0.85X cleanup 
+
+- Add 87 uL of DNase/RNase free water to each thawed library (100 - 13 uL = 87 uL)
+- Add 85 uL of Select-a-Size MagBeads to each sample 
+- Pipette until homogenous 
+- Incubate for 5 minutes at room temperature 
+- Place samples on magnetic stand for 5 minutes or until beads have separated from solution 
+- Aspirate slowly and discard supernatent 
+- While the sample is still on the magnetic stand, add 200 uL of DNA Wash Buffer without disturbing the pellet 
+- Aspirate slowly and discard supernatent 
+- Repeat this wash step again 
+- Keep the caps open to air-dry bead for 1 minute 
+- Aspirate any residual wash buffer
+- Continue to air dry pellet until it appears matte without cracking (see picture above)
+- Remove sample from magnetic stand 
+- Add 20 uL of DNA Elution Buffer to each sample 
+- Pipette to mix until homogenous
+- Put samples on magnetic stand for 1-2 minutes or until elute is clear
+- Move elute to new PCR tubes 
+
+THIS IS THE FINAL 3' mRNA-seq LIBRARY. STORE AT -20°C. 
