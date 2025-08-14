@@ -208,14 +208,16 @@ DNA Standards: 182.07 (S1) & 23026.07 (S2)
 | POC_R1_H1    | 3.0                  | 7      | 3.62  |  3.60     |   3.61      |
 | POC_R3_C3    |  3.0                 | 6      | 4.96 | 5.02    |   4.98     |
 
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.10.png?raw=true">
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.20.png?raw=true">
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.30.png?raw=true">
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.35.png?raw=true">
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.40.png?raw=true">
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.44.png?raw=true">
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.50.png?raw=true">
-<img width="600" alt="2024-09-20-RNA-lib" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.56.png?raw=true">
+<img width="400" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.10.png?raw=true">
+
+<img width="400" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.20.png?raw=true">
+
+| TubeID       | 5 ul PolyA reagent | 3 ul PolyA | 
+| ------------| ------------ |--------- | 
+| POC_R12_C3 | <img width="600" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.30.png?raw=true"> | <img width="600" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.44.png?raw=true">| 
+| POC_R1_H1  | <img width="600" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.35.png?raw=true"> | <img width="600" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.50.png?raw=true"> | 
+| POC_R3_C3 | <img width="600" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.40.png?raw=true"> | <img width="600" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.56.png?raw=true"> | 
+
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-13.pdf) and [here (not scaled by sample)](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-13-scaled.pdf). 
 
