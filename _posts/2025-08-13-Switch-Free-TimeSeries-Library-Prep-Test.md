@@ -225,3 +225,35 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 ### Thoughts
 
 - Did 21 cycles when I meant to do 19 - could be the cause of the dimers. However, concentration is lower than ideal. I wonder if increasing or **decreasing** the RNA input amount could help...
+
+### Convert library concentration from ng/μL to nM 
+
+First, library concentrations were converted from ng/μL to nM using the [equation](https://knowledge.illumina.com/library-preparation/dna-library-prep/library-preparation-dna-library-prep-reference_material-list/000001240):
+
+(concentration in ng/μL)/(660g/mol * average library size in bp) * 10^6 = concentration in nM
+
+img width="600" alt="Molarity_formula" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/Molarity.jpeg?raw=true">
+
+| Library_Tube | Library_QBIT_1 | Library_QBIT_2 | Primer | TubeID     | PolyA R1 volume (ul) | Qubit_Conc | TS_Conc | TS_Peak_Size | Molarity_nM_Qubit | Molarity_nM_TS_Calculated | Molarity_nM_TS_Peak |
+|--------------|----------------|----------------|--------|------------|----------------------|------------|---------|--------------|-------------------|---------------------------|---------------------|
+| 1            | 4.14           | 4.1            | 1      | POC_R12_C3 | 5                    | 4.12       | 4.63    | 381          | 16.38             | 18.41                     | 17.50               |
+| 2            | 3.22           | 3.16           | 2      | POC_R1_H1  | 5                    | 3.19       | 4.7     | 406          | 12.69             | 18.69                     | 17.10               |
+| 3            | 3.94           | 4              | 3      | POC_R3_C3  | 5                    | 3.96       | 4.72    | 408          | 15.75             | 18.77                     | 16.90               |
+| 4            | 6              | 6              | 8      | POC_R12_C3 | 3                    | 6          | 6.31    | 399          | 23.86             | 25.09                     | 24.30               |
+| 5            | 3.62           | 3.6            | 7      | POC_R1_H1  | 3                    | 3.61       | 4.32    | 407          | 14.36             | 17.18                     | 16.30               |
+| 6            | 4.96           | 5.02           | 6      | POC_R3_C3  | 3                    | 4.98       | 5.23    | 409          | 19.80             | 20.80                     | 19.20               |
+
+### Normalize
+
+- Normalize library: Dilute to 4nM in a volume of 6-10μL with molecular grade water using the calculation C1V1=C2V2.
+- Combined into pool (n=XX libraries per pool) for sequencing
+- Quantified with Qubit dsDNA HS Assay Kit (Invitrogen #Q33231) and tapestation analysis with the D5000 ScreenTape
+
+| Library_Tube | Amount_Library_4nM | Amount_H20_4nM |
+|--------------|--------------------|----------------|
+|      1       | 2.44               | 7.56           |
+|      2       | 3.15               | 6.85           |
+|      3       | 2.54               | 7.46           |
+|      4       | 1.68               | 8.32           |
+|      5       | 2.79               | 7.21           |
+|      6       | 2.02               | 7.98           |
