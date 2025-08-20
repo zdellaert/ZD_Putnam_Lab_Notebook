@@ -285,3 +285,34 @@ I probably could normalize the concentration of all the libraries and then do a 
 - Move elute to new PCR tubes 
 
 THIS IS THE FINAL 3' mRNA-seq LIBRARY. STORE AT -20°C. 
+
+#### QC of dimer-cleaned libraries
+
+Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md) to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
+
+![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/switchfree_lib_prep_library_example.png)
+
+- Used Broad range (or **high sensitivity**) DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
+- All samples read twice, standard only read once
+
+BR DNA Standards: 185.08 (S1) & 23129.30 (S2)
+HS DNA Standards (results in **bold**): 49.32 (S1) & 23034.76 (S2)
+
+| TubeID       | PolyA R1 volume (ul)  | Tube # | Library_QBIT_1 | Library_QBIT_2 | Library_QBIT_AVG |
+| ------------ |-----------------------| ------ |------------|------------|--------------|
+| POC_R12_C3   |  5.0                  | 1      | 2.28       |  2.24      |   2.26      |
+| POC_R1_H1    |  5.0                  | 2      | **1.26**   |  **1.24**  |   **1.25**   |
+| POC_R3_C3    |  5.0                  | 3      | **1.38**   |  **1.37**  |   **1.38**   |
+| POC_R3_C3    |  3.0                  | 6      |  2.62      |    2.56    |   2.59    |
+
+<img width="400" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/Cleaned_2025-08-19.png?raw=true">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-18-Switchfree-cleaned.pdf).
+
+## Final pool, sent on 8/19/25 to Oklahoma
+
+<img width="400" alt="POOL_2025-08-18" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/POOL_2025-08-18.png?raw=true">
+
+<img width="400" alt="POOL_2025-08-18" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/POOL_trace_2025-08-18.png?raw=true">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-18-Switchfree-POOL.pdf).

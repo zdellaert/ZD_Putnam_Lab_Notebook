@@ -275,3 +275,23 @@ Master extraction sheet: https://docs.google.com/spreadsheets/d/1A764av1a3VORX6m
   - Tube 773, TP4 POC-44 extracted 20210907
   - Tube 179, TP1 POC-68 extracted 20211115
   - Tube 695, TP3 POC-47 extracted 20211001
+
+## August 19 Attempt
+
+We are trying again with a fragment from the September timepoint, but with newly ordered Genomic DNA buffers to see if there is a chance the 5-year old buffers could be causing an issue. If this extraction yields degraded DNA, we will need a different approach or new samples.
+
+- We measured 2.2229 g chunk of coral from the "Molec 1" whirlpak sample of POC-222 from the September timepoint (TP3). This coral is from site 2.
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-08-19_Ptuh_HMW_1.JPEG?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-08-19_Ptuh_HMW_2.JPEG?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-08-19_Ptuh_HMW_2.JPEG?raw=true" height="500">
+
+### Qubit and TS will be done on 8/21.
+
+- Use the broad range DNA assay and [protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Qubit-Assay-Protocol.md)
+- Quantify both the top and bottom of each tube and then use the averages of each tube for the final concentration
+
+DNA Standards: XXXX (S1) & XXXX (S2)
+
+| Tube Number | Top Read 1 (ng/uL) | Top Read 2 (ng/uL) | Bottom Read 1 (ng/uL) | Bottom Read 2 (ng/uL) | Average (ng/uL)          | Amount in tube (*47 uL) |
+|-------------|--------------------|--------------------|-----------------------|-----------------------|--------------------------|-------------------------|
