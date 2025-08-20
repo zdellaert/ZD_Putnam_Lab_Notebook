@@ -190,10 +190,6 @@ THIS IS THE FINAL 3' mRNA-seq LIBRARY. STORE AT -20°C.
 
 #### QC
 
-Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md) to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
-
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/switchfree_lib_prep_library_example.png)
-
 - Used Broad range DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
 
@@ -207,6 +203,14 @@ DNA Standards: 182.07 (S1) & 23026.07 (S2)
 | POC_R12_C3   |  3.0                 | 8      | 6.00  |  6.00    |   6.00      |
 | POC_R1_H1    | 3.0                  | 7      | 3.62  |  3.60     |   3.61      |
 | POC_R3_C3    |  3.0                 | 6      | 4.96 | 5.02    |   4.98     |
+
+##### Tapestation
+
+Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md) to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
+
+**EXAMPLE:** 
+
+<img width="400" alt="2025-08-13-SwitchFree" src="https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/switchfree_lib_prep_library_example.png">
 
 <img width="400" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation//SwitchFree/Screenshot 2025-08-14 at 07.10.10.png?raw=true">
 
@@ -288,9 +292,7 @@ THIS IS THE FINAL 3' mRNA-seq LIBRARY. STORE AT -20°C.
 
 #### QC of dimer-cleaned libraries
 
-Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md) to visualize libraries. Here's an example of what the library should look like on a Tapestation: 
-
-![](https://raw.githubusercontent.com/JillAshey/JillAshey_Putnam_Lab_Notebook/master/images/switchfree_lib_prep_library_example.png)
+Run [DNA Tapestation](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/_posts/2019-07-30-DNA-Tapestation.md) to visualize libraries. 
 
 - Used Broad range (or **high sensitivity**) DNA Qubit [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/)
 - All samples read twice, standard only read once
@@ -305,14 +307,46 @@ HS DNA Standards (results in **bold**): 49.32 (S1) & 23034.76 (S2)
 | POC_R3_C3    |  5.0                  | 3      | **1.38**   |  **1.37**  |   **1.38**   |
 | POC_R3_C3    |  3.0                  | 6      |  2.62      |    2.56    |   2.59    |
 
-<img width="400" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/Cleaned_2025-08-19.png?raw=true">
+<img width="400" alt="2025-08-13-SwitchFree" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/Cleaned_2025-08-18.png?raw=true">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-18-Switchfree-cleaned.pdf).
 
+### Next Step: Equilize all libraries to 4nM concentration and pool
+
+| PostClean_Qubit_Conc | PostClean_TS_Conc | PostClean_TS_Peak_Size | PostClean_Molarity_nM_Qubit | PostClean_Molarity_nM_TS_Calculated | PostClean_Molarity_nM_TS_Peak | PostClean_Amount_Library_4nM | PostClean_Amount_H20_4nM |
+|----------------------|-------------------|------------------------|-----------------------------|-------------------------------------|-------------------------------|------------------------------|--------------------------|
+| 2.26                 | 2.29              | 427                    | 8.02                        | 8.13                                | 8.10                          | 4.99                         | 5.01                     |
+| 1.25                 | 1.52              | 441                    | 4.29                        | 5.22                                | 5.31                          | 9.31                         | 0.69                     |
+| 1.38                 | 1.93              | 454                    | 4.61                        | 6.44                                | 6.23                          | 8.69                         | 1.31                     |
+| 6                    | 6.31              | 399                    | 22.78                       | 23.96                               | 24.30                         | 1.76                         | 8.24                     |
+| 3.61                 | 4.32              | 407                    | 13.44                       | 16.08                               | 16.30                         | 2.98                         | 7.02                     |
+| 2.59                 | 2.58              | 471                    | 8.33                        | 8.30                                | 8.41                          | 4.80                         | 5.20                     |
+
+- For each library, added calcucated amount of DNA elution buffer ("PostClean_Amount_H20_4nM") and the library ("PostClean_Amount_Library_4nM") to a new PCR tube and mixed well for a total of 10 uL volume for each normalized library.
+- Then combined all of these tubes into one LoBind 1.5 mL tube and QC'd. Then froze overnight for shipping next day.
+
 ## Final pool, sent on 8/19/25 to Oklahoma
 
-<img width="400" alt="POOL_2025-08-18" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/POOL_2025-08-18.png?raw=true">
+| Pool_Qubit_Conc | Pool_TS_Conc | Pool_TS_Peak_Size | Pool_Molarity_nM_Qubit | Pool_Molarity_nM_Tapestation |
+|-----------------|--------------|-------------------|------------------------|--------|
+| 1.02            | 1.2          | 440               | 3.51                   | 4.19 |
 
-<img width="400" alt="POOL_2025-08-18" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/POOL_trace_2025-08-18.png?raw=true">
+<img width="200" alt="POOL_2025-08-18" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/POOL_2025-08-18.png?raw=true">
+
+<img width="800" alt="POOL_2025-08-18" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/SwitchFree/POOL_trace_2025-08-18.png?raw=true">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-18-Switchfree-POOL.pdf).
+
+### Sequencing plan:
+
+Next-Generation Sequencing
+---------------------------------------
+- Instrument: Illumina NovaSeq X Plus - 25B - PE 150 Cycle
+- Read length: 2 x 150bp (Paired End)
+- Pricing unit: per lane
+- Number of samples: 1 pool (6 libraries)
+- Guaranteed total number of pass filter PE reads/sample: 60M (30M in each direction)
+- Deliverables: FastQ files uploaded to Genohub project bucket
+
+up to 99 Mreads for the cost of $3.87 per Mread.
+Your quote will be adjusted to account for the pricing as per Mread rather than per lane.
