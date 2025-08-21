@@ -291,7 +291,23 @@ We are trying again with a fragment from the September timepoint, but with newly
 - Use the broad range DNA assay and [protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Qubit-Assay-Protocol.md)
 - Quantify both the top and bottom of each tube and then use the averages of each tube for the final concentration
 
-DNA Standards: XXXX (S1) & XXXX (S2)
+DNA Standards: 179.62 (S1) & 22828.54 (S2)
 
 | Tube Number | Top Read 1 (ng/uL) | Top Read 2 (ng/uL) | Bottom Read 1 (ng/uL) | Bottom Read 2 (ng/uL) | Average (ng/uL)          | Amount in tube (*47 uL) |
 |-------------|--------------------|--------------------|-----------------------|-----------------------|--------------------------|-------------------------|
+| 1 | 6.38 | 6.42 | 9.06 | 9.06 | 7.73   | 363.31  |
+| 2 | 7.62 | 7.6  | 7.74 | 7.8  | 7.69   | 361.43  |
+| 3 | 10.2 | 10.2 | 9.8  | 9.82 | 10.005 | 470.235 |
+| 4 | 7.02 | 7    | 6.98 | 7.02 | 7.005  | 329.235 |
+| 5 | 7.3  | 7.32 | 7.44 | 7.44 | 7.375  | 346.625 |
+| 6 | 5.34 | 5.38 | 6.1  | 6.26 | 5.77   | 271.19  |
+|             |                    |                    |                       |                       | Total DNA extracted (ng) | 2142.025      |
+|             |                    |                    |                       |                       | **Total DNA extracted (ug)** | **2.142**    |
+
+
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-08-21_Ptuh_HMW_TS_1.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-08-21_Ptuh_HMW_TS_2.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-08-21_Ptuh_HMW_TS_3.png?raw=true" height="500">
+<img src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/HMW_Ptuh/2025-08-21_Ptuh_HMW_TS_4.png?raw=true" height="500">
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2025-08-21-Ptuh-HMW.pdf)
