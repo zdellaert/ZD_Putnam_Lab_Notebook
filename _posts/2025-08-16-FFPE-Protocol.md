@@ -85,20 +85,15 @@ tags: [Pocillopora, Porites, Montipora]
    2.  Move tissue to histology cassette to gently transfer between solutions or move one piece of tissue at a time with tissue spatuals
        1.  Label with pencil or alcohol-resistant marker
        2.  Porites and montipora tissue don't do too well in the casettes - move with spatulas
-   3.  Move tissue (in labelled cassetes in one container or loose in individual containers) to **50% ethanol** solution
-       1.  Place at 1 hour at 4ºC
-   4.  Move to 70% ethanol 
-       1.  1 hour at 4ºC
-   5.  Move to 80% ethanol 
-       1.  1 hour at 4ºC
-   6.  Move to 95% ethanol 
-       1.  30 minutes at 4ºC
-   7.  Move to **fresh** 95% ethanol 
-       1.  30 minutes at 4ºC
-   8.  Move to 100% ethanol
+   3.  Incubate in **50% ethanol** solution, 1 hour at 4ºC
+   4.  Incubate in **70% ethanol** solution, 1 hour at 4ºC
+       1. Can put into sealed containers (5mL tubes) at 4 ºC to pause here overnight
+   5.  Incubate in **80% ethanol** solution, 1 hour at 4ºC
+   6.  Incubate in **95% ethanol** solution, 30 minutes at 4ºC
+   7.  Move to **fresh** 95% ethanol, incubate 30 minutes at 4ºC
+   8.  Move to **100% ethanol**
        1.  30 minutes at 4ºC
        2.  Replace with fresh 100% ethanol twice for a total of 3 30 minute incubations in 100% ethanol (1.5 hour total)
-       3.  Can put into sealed containers (5mL tubes) at 4 ºC to pause here overnight
 10. Clearing (**DO IN FUME HOOD**)
     1.  Xylenes degrade plastic -- only store in glass containers (**Also xylene waste**)
     2.  Incubate in xylene in glass coplin jar or glass petri dish for 20 minutes, **with gentle agitation**
@@ -113,3 +108,8 @@ tags: [Pocillopora, Porites, Montipora]
         3.  Replace with fresh melted paraffin twce for a total of 3 30 minute infiltrations with paraffin (90 mins total)
 12. Embedding in paraffin
     1.  
+
+Protocol resourses/references:
+
+1. http://bridgeslab.sph.umich.edu/protocols/index.php/Paraffin_Embedding_of_Tissue_Samples
+2. https://www.leicabiosystems.com/us/knowledge-pathway/an-introduction-to-specimen-processing/
