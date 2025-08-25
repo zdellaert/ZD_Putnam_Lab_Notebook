@@ -113,9 +113,9 @@ tags: [Pocillopora, Porites, Montipora]
 ---
 
 ### 7. PBS rinse
-   1. Replace EDTA in plate with PBS **gently without disturbing tissue**
-   2. Gently shake for 5-15 minutes at 4ºC
-   3. Repeat 2x more for 3 total rinses
+1. Replace EDTA in plate with PBS **gently without disturbing tissue**
+2. Gently shake for 5-15 minutes at 4ºC
+3. Repeat 2x more for 3 total rinses
 
 ### 8. Ethanol dehydration (can be done in 6-well plate or in beakers)
  1.  Prepare solutions in DNAse/RNAse-free Water (not PBS) and store at 4ºC
@@ -123,7 +123,10 @@ tags: [Pocillopora, Porites, Montipora]
      2.  70% ethanol: 35 mL 100% ethanol, 15 mL water
      3.  80% ethanol: 40 mL 100% ethanol, 10 mL water
      4.  95% ethanol: 47.5 mL 100% ethanol, 2.5 mL water
- 2.  Transfer tissue using spatulas or histology cassettes (label with pencil/alcohol-resistant ink) through the following solutions (or replace solution in 6-well plate):
+ 2. Move tissue to histology cassettes to move through beakers, label with pencil/alcohol-resistant ink
+    1. Alt: keep tissue in 6-well plate and replace the solution in the wells.
+    2. Alt: move tissue wihthout cassette using tissue spatula
+ 3. Transfer tissue through the following solutions:
      1.  **50% ethanol**, 1 hr (4ºC)
      2.  **70% ethanol**, 1 hr (4ºC)
          1.  Can pause here overnight in 5mL tube at 4 ºC
@@ -134,7 +137,7 @@ tags: [Pocillopora, Porites, Montipora]
          1.  Replace twice for 1.5 hour total
    
 ### 9. Clearing
-1.  All steps in fume hood. Xylenes degrade plastic* -- only store in glass containers 
+1.  *All steps in fume hood. Xylenes degrade plastic* -- only store in glass containers 
     1.  (**Also for xylene waste**)
 2.  Incubate in **covered container** in xylene, 20 min X 3
     1. Replace xylenes twice for 1 hour total
