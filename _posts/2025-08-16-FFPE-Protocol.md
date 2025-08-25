@@ -113,32 +113,25 @@ tags: [Pocillopora, Porites, Montipora]
         1. Replace xylenes twice for 1 hour total
            1. other protocols: 1 hour, then 2 30 mins
         2. Perform incubation in glass coplin jar, beaker, or glass petri dish 
-10. **Infiltration with paraffin**
-    1.  Melt paraplast wax to 50-54 ºC (or melting point of specific paraffin bought) and allow to cool
-    2.  Incubate tissue in melted wax (glass petri dishes or beaker)
-        1.  **30 minutes x 3** incubations with fresh paraffin (90 mins total)
-    3.  Keep temperature constant so wax stays liquid without degrading tissue
-11. **Embedding in paraffin** (based almost entirely on the Squid Book, 2023 MBL Symbiosis Course, written by Derrick Kamp from Spencer Nyholm lab:)
+10. **Infiltration with and Embedding in paraffin** (based almost entirely on the Squid Book, 2023 MBL Symbiosis Course, written by Derrick Kamp from Spencer Nyholm lab:)
     1.  Oven and material set up:
         1. Line bottom of oven with aluminum foil to catch any drips of wax 
         2.  Place forceps, molds, and all tools used during embedding on an aluminim foil-lined tray in oven so they do not harden wax upon contact
         3.  Fill four autoclaved 250 mL beakers with paraffin wax and place on tray
             1.  (Paraffin I, II, III, and IV)
-        4.  Fill one autoclaved 250 mL beaker with *50:50 xylene and paraffin wax*
-            1.  *might skip this step - don't like xylene not in hood*
-        5.  **Turn on oven (to  54 ºC) well ahead of time** (at start of dehydration) to allow wax to melt
-        6.  Put a foil-covered metal plate (or something?) at -20 ºC to be a solidifying plate
-        7.  If tissue is not already in a cassette, label a tissue casettes for each sample 
+        4.  **Turn on oven (to  54 ºC) well ahead of time** (at start of dehydration) to allow wax to melt
+        5.  Put a foil-covered metal plate (or something?) at -20 ºC to be a solidifying plate
+        6.  If tissue is not already in a cassette, label a tissue casettes for each sample 
     2. Pour some of paraffin IV into embedding mold in the oven
-    3. *Submerge tissue in 50:50 for 1 hr*
-    4. Submerge tissue in paraffin I for 1.5 hr 
-    5. Submerge tissue in paraffin II for 1 hr 
-    6. Submerge tissue in paraffin III for 1 hr
+    3. **Monitor and keep temperature constant so wax stays liquid without degrading tissue**
+    4. Submerge tissue in paraffin I for 1.5 hr (or 30 min)
+    5. Submerge tissue in paraffin II for 1 hr (or 30 min)
+    6. Submerge tissue in paraffin III for 1 hr (or 30 min)
     7. Using pre-heated forceps, move sample to paraffin mold. Orient tissue to desired position 
        1. This step is time sensitive, as wax will start to cool and get sticky quickly
     8. Remove lid from tissue cassette, place cassette open side up on top of tissue for labelling
     9.  Fill mold with paraffin IV 
-    10. Place tissue mold on solidifying plate on ice amd then move to 4 ºC when fully hardened
+    10. Place tissue mold on solidifying plate on ice amd then pop out of mold and move to 4 ºC when fully hardened
     11. Solid blocks should be stored at 4ºC and shipped to facility for processing ASAP to maintain RNA integrity
 
 Protocol resourses/references:
@@ -146,3 +139,41 @@ Protocol resourses/references:
 1. http://bridgeslab.sph.umich.edu/protocols/index.php/Paraffin_Embedding_of_Tissue_Samples
 2. https://www.leicabiosystems.com/us/knowledge-pathway/an-introduction-to-specimen-processing/
 
+
+
+| Day        | Date      | Step            | Solution    | Temperature      | Duration | Start Time | End Time | Status |
+|------------|-----------|-----------------|-------------|------------------|----------|------------|----------|--------|
+| Prep Day 0 | Sat, 8/16 | Rehydration     | 50% ethanol | 4 ºC (Cold room) | 5        | 9:00       | 9:05     | Done   |
+| Prep Day 0 | Sat, 8/16 | Rehydration     | 30% ethanol | 4 ºC (Cold room) | 5        | 9:10       | 9:15     | Done   |
+| Prep Day 0 | Sat, 8/16 | Rehydration     | 10% ethanol | 4 ºC (Cold room) | 5        | 9:20       | 9:25     | Done   |
+| Prep Day 0 | Sat, 8/16 | Rehydration     | PBS         | 4 ºC (Cold room) | 5        | 9:30       | 9:35     | Done   |
+| Prep Day 0 | Sat, 8/16 | Rehydration     | PBS         | 4 ºC (Cold room) | 5        | 9:40       | 9:45     | Done   |
+| Prep Day 0 | Sat, 8/16 | Rehydration     | PBS         | 4 ºC (Cold room) | 5        | 9:50       | 9:55     | Done   |
+| Prep Day 0 | Sat, 8/16 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
+| Prep Day 1 | Sun, 8/17 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
+| Prep Day 2 | Mon, 8/18 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
+| Prep Day 3 | Tue, 8/19 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
+| Prep Day 4 | Wed, 8/20 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
+| Prep Day 5 | Thu, 8/21 | Rinse           | PBS         | 4 ºC (Cold room) | 15       | 10:00      | 10:15    | Done   |
+| Prep Day 5 | Thu, 8/21 | Rinse           | PBS         | 4 ºC (Cold room) | 15       | 10:20      | 10:35    | Done   |
+| Prep Day 5 | Thu, 8/21 | Rinse           | PBS         | 4 ºC (Cold room) | 15       | 10:40      | 10:55    | Done   |
+| Prep Day 5 | Thu, 8/21 | Dehydration     | 50% ethanol | 4 ºC (Cold room) | 60       | 11:00      | 12:00    | Done   |
+| Prep Day 5 | Thu, 8/21 | Dehydration     | 70% ethanol | 4 ºC (Cold room) | 60       | 12:05      | 13:05    | Done   |
+
+
+| Day       |           | Step         | Solution     | Temperature        | Duration | Start Time | End Time | Status |
+|-----------|-----------|--------------|--------------|--------------------|----------|------------|----------|--------|
+| Embedding | Tue, 8/26 | Dehydration  | 80% ethanol  | 4 ºC (Cold room)   | 60       | 9:00       | 10:00    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 10:05      | 10:35    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 10:40      | 11:10    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 11:15      | 11:45    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 11:50      | 12:20    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 12:25      | 12:55    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 13:00      | 13:20    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 13:25      | 13:45    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 13:50      | 14:10    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 30       | 14:15      | 14:45    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 30       | 14:50      | 15:20    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 30       | 15:25      | 15:55    |        |
+| Embedding | Tue, 8/26 | Embedding    | Paraffin     | 54ºC (Drying Oven) | 15       | 16:00      | 16:15    |        |
+| Embedding | Tue, 8/26 | Embedding    | Paraffin     | On ice             | 15       | 16:20      | 16:35    |        |
