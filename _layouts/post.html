@@ -24,3 +24,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
   });
 });
 </script>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('img:not([loading])').forEach(img => {
+    img.setAttribute('loading', 'lazy');
+  });
+});
+</script>
