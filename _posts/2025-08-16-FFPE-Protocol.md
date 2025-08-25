@@ -25,7 +25,7 @@ tags: [Pocillopora, Porites, Montipora]
 2. 5ml Centrifuge Tubes
 3. 5mL Serilogical pipettes or p5000 pipette tips
 4. [6-Well Plates](https://www.amazon.com/Culture-Plate-Well-Bottom-Individual/dp/B09RX227TB?th=1)
-5. Tissue spatulas: [LevGo® 17251 STERILE Standard smartSpatula® Disposable Multipurpose Laboratory Spatula](https://www.amazon.com/smartSpatula-Disposable-Polypropylene-Laboratory-Spatula/dp/B004437WZA?th=1)
+5. Tissue spatulas: [LevGo® 17251 STERILE Spatula](https://www.amazon.com/smartSpatula-Disposable-Polypropylene-Laboratory-Spatula/dp/B004437WZA?th=1)
 6. [Coplin Staining Jar](https://www.tedpella.com/glassware_html/glassw1.aspx#anchor21067)
 7.  [Glass Petri Dishes](https://www.sigmaaldrich.com/US/en/product/aldrich/br455743)
 8. Histology casettes: [System III Biopsy Cassette](https://www.tedpella.com/Embedding_html/Cellpath_Tissue_Processing_Cassettes.aspx#22108)
@@ -100,7 +100,7 @@ tags: [Pocillopora, Porites, Montipora]
     3.  **50% ethanol**, 1 hour at 4ºC
     1.  **70% ethanol**, 1 hour at 4ºC
         1.  Can put into sealed containers (5mL tubes) at 4 ºC to pause here overnight
-    2.  **80% ethanol**, 1 hour at 4ºC
+    2.  **80% ethanol**, 30 minutes at 4ºC
     3.  **95% ethanol**, 30 minutes at 4ºC
     4.  **fresh 95% ethanol**, 30 minutes at 4ºC
     5.  **100% ethanol**, 30 minutes at 4ºC
@@ -162,19 +162,26 @@ Protocol resourses/references:
 | Prep Day 5 | Thu, 8/21 | Dehydration     | 70% ethanol | 4 ºC (Cold room) | 60       | 12:05      | 13:05    | Done   |
 
 
+https://docs.google.com/spreadsheets/d/1SJMfpZj-5SD8RbZVLp7VZ-n5NsYAllHIbdNL9VNWNZM/edit?usp=sharing
+
+To autoclave:
+- 7 beakers for xylene and paraffin
+- embedding molds
+- forceps
+
 | Day       |           | Step         | Solution     | Temperature        | Duration | Start Time | End Time | Status |
 |-----------|-----------|--------------|--------------|--------------------|----------|------------|----------|--------|
-| Embedding | Tue, 8/26 | Dehydration  | 80% ethanol  | 4 ºC (Cold room)   | 60       | 8:00       | 9:00     |        |
-| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 9:05       | 9:35     |        |
-| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 9:40       | 10:10    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 10:15      | 10:45    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 10:50      | 11:20    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 11:25      | 11:55    |        |
-| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 12:00      | 12:20    |        |
-| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 12:25      | 12:45    |        |
-| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 12:50      | 13:10    |        |
-| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 13:15      | 14:00    |        |
-| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 14:05      | 14:50    |        |
-| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 14:55      | 15:40    |        |
-| Embedding | Tue, 8/26 | Embedding    | Paraffin     | 54ºC (Drying Oven) | 15       | 15:45      | 16:00    |        |
-| Embedding | Tue, 8/26 | Embedding    | Paraffin     | On ice             | 15       | 16:05      | 16:20    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 80% ethanol  | 4 ºC (Cold room)   | 30       | 8:00       | 8:30     |        |
+| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 8:35       | 9:05     |        |
+| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 9:10       | 9:40     |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 9:45       | 10:15    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 10:20      | 10:50    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 10:55      | 11:25    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 11:30      | 11:50    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 11:55      | 12:15    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 12:20      | 12:40    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 12:45      | 13:30    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 13:35      | 14:20    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 14:25      | 15:10    |        |
+| Embedding | Tue, 8/26 | Embedding    | Paraffin     | 54ºC (Drying Oven) | 15       | 15:15      | 15:30    |        |
+| Embedding | Tue, 8/26 | Embedding    | Paraffin     | On ice             | 15       | 15:35      | 15:50    |        |
