@@ -6,10 +6,32 @@ categories: Protocols, Processing
 tags: [Pocillopora, Porites, Montipora]
 ---
 
+# Formalin-Fixed Paraffin Embedded Tissue Processing Protocol
+
+- [Materials](#materials)
+  - [Reagents and solutions](#reagents-and-solutions)
+  - [Glassware and Consumables](#glassware-and-consumables)
+  - [Equipment](#equipment)
+- [Procedure](#procedure)
+  - [1. Prepare 4% formalin in seawater](#1-prepare-4-formalin-in-seawater)
+  - [2. Fixation](#2-fixation)
+  - [3. Post-fixation wash (replace fixative with 70% ethanol)](#3-post-fixation-wash-replace-fixative-with-70-ethanol)
+  - [4. Prepare PBS and ethanol solutions to store at 4ºC](#4-prepare-pbs-and-ethanol-solutions-to-store-at-4ºc)
+  - [5. Rehydrate tissue](#5-rehydrate-tissue)
+  - [6. Decalcification](#6-decalcification)
+  - [7. PBS rinse](#7-pbs-rinse)
+  - [8. Ethanol dehydration (can be done in 6-well plate or in beakers)](#8-ethanol-dehydration-can-be-done-in-6-well-plate-or-in-beakers)
+  - [9. Clearing](#9-clearing)
+  - [10. Infiltration with and Embedding in paraffin](#10-infiltration-with-and-embedding-in-paraffin)
+    - [Set up oven (54 ºC):](#set-up-oven-54-ºc)
+    - [Infiltration:](#infiltration)
+    - [Embedding:](#embedding)
+  - [Protocol resourses/references:](#protocol-resoursesreferences)
+  - [Table for test run](#table-for-test-run)
+
 ## Materials
 
 ### Reagents and solutions
-
 1. Filtered (0.2 µm), UV-sterilized seawater or sewater-like buffer (mPBS)
 2. [37% Formaldehyde Solution, ACS/Histology grade](https://www.capitolscientific.com/Macron-5016-02-500mL-Formaldehyde-Solution-AR-ACS-Reagent-Grade?srsltid=AfmBOopusoC0VjtjN2xU7WTYqXj-NHUz3JRdVlIcSOAsIR0BrYQ99sdc) (Macron Chemicals Cat. # MK-5016-02)
 1. Ethanol (100%, molecular biology grade)
@@ -20,7 +42,6 @@ tags: [Pocillopora, Porites, Montipora]
 6.  Parrafin wax: [Paraplast X-TRA®](https://www.sigmaaldrich.com/US/en/product/sigma/p3808?srsltid=AfmBOoruBSZPEY0aUBNbYfNoGWAQdFkhj8L7hY0B6xCUlZK1dRsjRUeO)
 
 ### Glassware and Consumables
-
 1. Glass bottles
 2. 5ml Centrifuge Tubes
 3. 5mL Serilogical pipettes or p5000 pipette tips
@@ -32,115 +53,129 @@ tags: [Pocillopora, Porites, Montipora]
 9.  Base molds: [Stainless Steel Base Mold, 24 x 24 x 5mm](https://www.tedpella.com/Embedding_html/Peel-A-Way_Disposable_Histology_Molds.aspx#27276-1)
 
 ### Equipment
-
 1. Shaker/rotating plate in cold room or 4 ºC fridge
 2. Fume hood
-3. Hot plate for paraffin embedding
+3. Drying oven for paraffin embedding
 4. Flammable-safe refrigerator
 
 ## Procedure
 
-1. **Prepare 4% formalin** in seawater
-   1. Collect seawater in clean container
-   2. Filter seawater (in my case taken from the Putnam lab wetlab Blue Tanks) with a 0.2 uM filter into an autoclaved glass bottle
-      1. I use a 30 mL syringe with an attached filter
-   3. Close bottle tightly and UV sterilize for 30 minutes
-   4. Prepare solution: Add 32.4 mL of formaldehyde to 267.6 mL of UV-sterilezed FSW (filtered seawater)
-      1. *Prepare in fume hood with proper PPE*
-   5. Fill 5mL tubes with fixative and keep at 4ºC in the dark until use
-2. **Fixation**
+### 1. Prepare 4% formalin in seawater
+1. Filter seawater (in my case taken from the Putnam lab wetlab Blue Tanks) with a 0.2 uM filter into an autoclaved glass bottle
+   1. I use a 30 mL syringe with an attached filter
+   2. FSW hereforth means UV-sterilized filtered seawater
+2. Close bottle tightly and UV sterilize for 30 minutes
+3. *In fume hood with PPE*: Add 32.4 mL of formaldehyde to 267.6 mL FSW
+4. Aliquot into 5mL tubes and store at 4ºC
+
+### 2. Fixation
    1. *Wear PPE (lab coat, gloves, eye covering)*
-   2. Clip live coral directly into 5mL tube containing 4 mL of formalin
-   3. Fix for for 24 hours at 4 ºC, gently shaking in cold room
-3. **Post-fixation wash** (replace fixative with 70% ethanol)
-   1. *In fume hood with proper PPE*
-   2. Prepare 70% ethanol solution (with RNAse/DNAse free water) and keep at 4 ºC
-   3. Prepare waste containers:
-      1. Waste Bottle: 4% Formaldehyde in Seawater & 70% Ethanol
-      2. Waste Bag: 4% Formaldehyde in Seawater- & 70% Ethanol-contaminated solids
-   4. Remove fixative into formalin waste
-   5. Replace with 4 mL of cold (4ºC) 70% ethanol (made with RNAse/DNAse-free water). Close tube.
-   6. Invert tube 3X and then discard the ethanol into same waste bottle.
-   7. Replace with fresh ethanol. 
-   8. Move tubes to 4ºC Flammable Fridge.
-      1. Make sure box is labelled as containing tissue in 70% ethanol (flammable!)
-4. Prepare PBS and ethanol solutions to **store at 4ºC**
-   1. Prepare **DNAse/RNAse-free PBS** 
-      1. Add 10 1X PBS tablets (each makes 100mL) to 1 L of RNAse/DNAse-free molecular-grade water
-   2. Prepare ethanol in PBS
-      1. 50% ethanol: 25 mL 100% ethanol, 25 mL PBS
-      2. 30% ethanol: 15 mL 100% ethanol, 35 mL PBS
-      3. 10% ethanol: 5 mL 100% ethanol, 45 mL PBS
-   3. Chill 50 mL aliquot of EDTA at 4ºC per six-well plate at a time
-      1. Main bottle is supposed to stay at room temperature to avoid precipitation
-5. **Rehydrate tissue**
-   1. Goal: to remove excess ethanol before decalcification (EDTA and ethanol form a precipitate)
-   2. Replace 70% ethanol with **50% ethanol** (Gently shake for 5 minutes at 4ºC)
-   1. Replace 50% ethanol with **30% ethanol** (shake 5 minutes, 4 ºC)
-   2. Replace 30% ethanol with **10% ethanol** (shake 5 minutes, 4 ºC)
-   3. Replace 10% ethanol with RNAse/DNAse-free **PBS** (shake 5 minutes, 4 ºC)
-   4. Replace with fresh **PBS** (shake 5 minutes, 4 ºC)
-   5. Transfer tissue to 6-well plate filled with **PBS** (shake 5 minutes, 4 ºC)
-6. **Decalcification**
-   1. Replace PBS with **cold 0.5 M EDTA (pH 8.0)**
-   2. Seal plate with parafilm and place on an absorbent pad
-   3. Keep tissue in EDTA at 4ºC, gently shaking on rotating plate overnight for 72 hours - 1 week depending on sample
-   4. **Replace EDTA daily or every 2 days until skeleton is dissolved.**
-7. **PBS rinse**
+   2. Clip live coral directly into 4 mL of formalin (5 mL tube)
+   3. Fix **24hr at 4 ºC**, gently shaking
+
+### 3. Post-fixation wash (replace fixative with 70% ethanol)
+1. *Fume hood with proper PPE*
+2. Prepare **70% ethanol solution (with RNAse/DNAse free water)** and keep at 4 ºC
+3. Prepare and label waste containers: 1 bottle and one bag for contaminated solids
+4. Remove fixative into formalin waste
+5. Replace with 4 mL of cold (4ºC) 70% ethanol. Close tube.
+6. Invert tube 3X and then discard the ethanol into same waste bottle.
+7. Replace with fresh ethanol and store tubes in 4ºC Flammable Fridge.
+   1. Label box as containing tissue in 70% ethanol (flammable!)
+
+---
+
+### 4. Prepare PBS and ethanol solutions to store at 4ºC
+1. **PBS (DNAse/RNAse-free)**: 10 1X PBS tablets to 1 L of RNAse/DNAse-free molecular-grade water
+2. **Ethanol in PBS**
+   1. 50% ethanol: 25 mL 100% ethanol, 25 mL PBS
+   2. 30% ethanol: 15 mL 100% ethanol, 35 mL PBS
+   3. 10% ethanol: 5 mL 100% ethanol, 45 mL PBS
+3. **Chill EDTA** - put a 50 mL aliquot at 4ºC per six-well plate at a time
+   1. Main bottle is supposed to stay at room temperature to avoid precipitation
+
+### 5. Rehydrate tissue
+ - Goal: to remove excess ethanol before decalcification (EDTA and ethanol form a precipitate)
+
+1. Sequentially replace solutions at 4 ºC with gentle shaking:  
+   1. 70% ethanol -> **50% ethanol** (5 min)
+   2. 50% ethanol -> **30% ethanol** (5 min)
+   3. 30% ethanol -> **10% ethanol** (5 min)
+   4. 10% ethanol -> RNAse/DNAse-free **PBS** (5 min)
+   5. PBS -> fresh **PBS** (5 min)
+2. Transfer tissue to **PBS in 6-well plate** (5 min)
+
+### 6. Decalcification
+1. Replace PBS with **cold 0.5 M EDTA (pH 8.0)**
+2. Seal plate with parafilm, shake gently at 4 ºC overnight-5 days (depending on sample)
+3. **Replace EDTA daily or every 48hr** until skeleton is dissolved.
+
+---
+
+### 7. PBS rinse
    1. Replace EDTA in plate with PBS **gently without disturbing tissue**
    2. Gently shake for 5-15 minutes at 4ºC
-   3. Repeat 2x more for 3 total rinses in PBS
-8.  **Ethanol dehydration** (can be done in 6-well plate or in beakers)
-    1.  Prepare solutions in DNAse/RNAse-free Water (not PBS) and store at 4ºC
-        1.  50% ethanol: 25 mL 100% ethanol, 25 mL water
-        2.  70% ethanol: 35 mL 100% ethanol, 15 mL water
-        3.  80% ethanol: 40 mL 100% ethanol, 10 mL water
-        4.  95% ethanol: 47.5 mL 100% ethanol, 2.5 mL water
-    2.  Transfer tissue using spatulas or histology cassettes (label with pencil/alcohol-resistant ink) through the following solutions:
-    3.  **50% ethanol**, 1 hour at 4ºC
-    1.  **70% ethanol**, 1 hour at 4ºC
-        1.  Can put into sealed containers (5mL tubes) at 4 ºC to pause here overnight
-    2.  **80% ethanol**, 30 minutes at 4ºC
-    3.  **95% ethanol**, 30 minutes at 4ºC
-    4.  **fresh 95% ethanol**, 30 minutes at 4ºC
-    5.  **100% ethanol**, 30 minutes at 4ºC
-        1.  Repeat twice for 1.5 hour total in 100% ethanol
-9.  **Clearing**
-    1.  Notes: 
-        1.  Perform all steps in fume hood.
-        2.  *Xylenes degrade plastic* -- only store in glass containers (**Also for xylene waste**)
-    2.  Incubate in **covered container** in xylene for 20 minutes, **with gentle agitation**
-        1. Replace xylenes twice for 1 hour total
-           1. other protocols: 1 hour, then 2 30 mins
-        2. Perform incubation in glass coplin jar, beaker, or glass petri dish 
-10. **Infiltration with and Embedding in paraffin** (based almost entirely on the Squid Book, 2023 MBL Symbiosis Course, written by Derrick Kamp from Spencer Nyholm lab:)
-    1.  Oven and material set up:
-        1. Line bottom of oven with aluminum foil to catch any drips of wax 
-        2.  Place forceps, molds, and all tools used during embedding on an aluminim foil-lined tray in oven so they do not harden wax upon contact
-        3.  Fill four autoclaved 250 mL beakers halfway with paraffin wax and place on tray
-            1.  (Paraffin I, II, III, and IV)
-        4.  **Turn on oven (to  54 ºC) well ahead of time** (at start of dehydration) to allow wax to melt
-        5.  Put a foil-covered metal plate (or something?) at -20 ºC to be a solidifying plate
-        6.  If tissue is not already in a cassette, label a tissue casettes for each sample
-    2. **Monitor and keep temperature constant so wax stays liquid without degrading tissue**
-    3. Submerge tissue in paraffin I for 45 min
-    4. Submerge tissue in paraffin II for 45 min
-    5. Submerge tissue in paraffin III for 45 min
-    6. Pour some of paraffin IV into embedding mold in the oven
-    7. Using pre-heated forceps, move sample to paraffin mold. Orient tissue to desired position 
-       1. This step is time sensitive, as wax will start to cool and get sticky quickly
-    8. Remove lid from tissue cassette, place cassette open side up on top of tissue for labelling
-    9.  Fill mold with paraffin IV 
-    10. Place tissue mold on solidifying plate on ice amd then pop out of mold and move to 4 ºC when fully hardened
-    11. Solid blocks should be stored at 4ºC and shipped to facility for processing ASAP to maintain RNA integrity
+   3. Repeat 2x more for 3 total rinses
 
-Protocol resourses/references:
+### 8. Ethanol dehydration (can be done in 6-well plate or in beakers)
+ 1.  Prepare solutions in DNAse/RNAse-free Water (not PBS) and store at 4ºC
+     1.  50% ethanol: 25 mL 100% ethanol, 25 mL water
+     2.  70% ethanol: 35 mL 100% ethanol, 15 mL water
+     3.  80% ethanol: 40 mL 100% ethanol, 10 mL water
+     4.  95% ethanol: 47.5 mL 100% ethanol, 2.5 mL water
+ 2.  Transfer tissue using spatulas or histology cassettes (label with pencil/alcohol-resistant ink) through the following solutions (or replace solution in 6-well plate):
+     1.  **50% ethanol**, 1 hr (4ºC)
+     2.  **70% ethanol**, 1 hr (4ºC)
+         1.  Can pause here overnight in 5mL tube at 4 ºC
+     3.  **80% ethanol**, 30 min (4 ºC)
+     4.  **95% ethanol**, 30 min (4 ºC)
+     5.  **fresh 95% ethanol**, 30 min (4 ºC)
+     6.  **100% ethanol**, 30 min (4 ºC) x 3
+         1.  Replace twice for 1.5 hour total
+   
+### 9. Clearing
+1.  All steps in fume hood. Xylenes degrade plastic* -- only store in glass containers 
+    1.  (**Also for xylene waste**)
+2.  Incubate in **covered container** in xylene, 20 min X 3
+    1. Replace xylenes twice for 1 hour total
+    2. Use glass coplin jar, beaker, or glass petri dish 
+
+### 10. Infiltration with and Embedding in paraffin
+
+(Below is based almost entirely on the Squid Book, 2023 MBL Symbiosis Course, written by Derrick Kamp from Spencer Nyholm lab:)
+
+#### Set up oven (54 ºC):
+1. Line bottom of oven with aluminum foil to catch any drips of wax 
+2.  Place forceps, molds, and all tools used during embedding on an aluminim foil-lined tray in oven so they do not harden wax upon contact
+3.  Fill four autoclaved 250 mL beakers halfway with paraffin wax and place on tray
+  1.  (Paraffin I, II, III, and IV)
+4.  **Turn on oven (to  54 ºC) well ahead of time** (at start of dehydration) to allow wax to melt
+5.  Put a foil-covered metal plate (or something?) at -20 ºC to be a solidifying plate
+6.  If tissue is not already in a cassette, label a tissue casettes for each sample
+
+#### Infiltration:
+1. **Monitor and keep temperature constant so wax stays liquid without degrading tissue**
+2. Submerge tissue in paraffin I for 45 min
+3. Submerge tissue in paraffin II for 45 min
+4. Submerge tissue in paraffin III for 45 min
+
+#### Embedding:
+1. Pour a small amount of paraffin IV into embedding mold in the oven
+2. Using pre-heated forceps, move sample to paraffin mold
+   1. Orient tissue to desired position 
+   2. This step is time sensitive, as wax will start to cool and get sticky quickly
+3. Remove lid from tissue cassette, place cassette open side up on top of tissue for labelling
+4.  Fill mold with paraffin IV 
+5.  Place tissue mold on solidifying plate on ice amd then pop out of mold and move to 4 ºC when fully hardened
+6.  Solid blocks should be stored at 4ºC and shipped to facility for processing ASAP to maintain RNA integrity
+
+### Protocol resourses/references:
 
 1. http://bridgeslab.sph.umich.edu/protocols/index.php/Paraffin_Embedding_of_Tissue_Samples
 2. https://www.leicabiosystems.com/us/knowledge-pathway/an-introduction-to-specimen-processing/
 3. https://kb.10xgenomics.com/hc/en-us/articles/30139708328333-What-best-practices-should-be-considered-when-preparing-FFPE-samples-for-the-Visium-HD-Spatial-Gene-Expression-assay
 
-
+### Table for test run
 
 | Day        | Date      | Step            | Solution    | Temperature      | Duration | Start Time | End Time | Status |
 |------------|-----------|-----------------|-------------|------------------|----------|------------|----------|--------|
