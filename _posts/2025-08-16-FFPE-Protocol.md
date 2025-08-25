@@ -96,32 +96,53 @@ tags: [Pocillopora, Porites, Montipora]
         2.  70% ethanol: 35 mL 100% ethanol, 15 mL water
         3.  80% ethanol: 40 mL 100% ethanol, 10 mL water
         4.  95% ethanol: 47.5 mL 100% ethanol, 2.5 mL water
-    2.  Transfer tissue using spatulas or histology cassettes (label with pencil/alcohol-resistant ink).
+    2.  Transfer tissue using spatulas or histology cassettes (label with pencil/alcohol-resistant ink) through the following solutions:
     3.  **50% ethanol**, 1 hour at 4ºC
     1.  **70% ethanol**, 1 hour at 4ºC
         1.  Can put into sealed containers (5mL tubes) at 4 ºC to pause here overnight
     2.  **80% ethanol**, 1 hour at 4ºC
     3.  **95% ethanol**, 30 minutes at 4ºC
-    4.  Move to **fresh 95% ethanol**, 30 minutes at 4ºC
-    5.  Move to **100% ethanol**, 30 minutes at 4ºC
+    4.  **fresh 95% ethanol**, 30 minutes at 4ºC
+    5.  **100% ethanol**, 30 minutes at 4ºC
         1.  Repeat twice for 1.5 hour total in 100% ethanol
 9.  **Clearing**
     1.  Notes: 
         1.  Perform all steps in fume hood.
         2.  *Xylenes degrade plastic* -- only store in glass containers (**Also for xylene waste**)
-    2.  Incubate in xylene for 20 minutes, **with gentle agitation**
+    2.  Incubate in **covered container** in xylene for 20 minutes, **with gentle agitation**
         1. Replace xylenes twice for 1 hour total
-        2. Perform incubation in glass coplin jar or glass petri dish 
+           1. other protocols: 1 hour, then 2 30 mins
+        2. Perform incubation in glass coplin jar, beaker, or glass petri dish 
 10. **Infiltration with paraffin**
     1.  Melt paraplast wax to 50-54 ºC (or melting point of specific paraffin bought) and allow to cool
     2.  Incubate tissue in melted wax (glass petri dishes or beaker)
         1.  **30 minutes x 3** incubations with fresh paraffin (90 mins total)
     3.  Keep temperature constant so wax stays liquid without degrading tissue
-11. Embedding in paraffin
-    1.  step 1
-    2.  step 2
+11. **Embedding in paraffin** (based almost entirely on the Squid Book, 2023 MBL Symbiosis Course, written by Derrick Kamp from Spencer Nyholm lab:)
+    1.  Oven and material set up:
+        1. Line bottom of oven with aluminum foil to catch any drips of wax 
+        2.  Place forceps, molds, and all tools used during embedding on an aluminim foil-lined tray in oven so they do not harden wax upon contact
+        3.  Fill four autoclaved 250 mL beakers with paraffin wax and place on tray
+            1.  (Paraffin I, II, III, and IV)
+        4.  Fill one autoclaved 250 mL beaker with *50:50 xylene and paraffin wax*
+            1.  *might skip this step - don't like xylene not in hood*
+        5.  **Turn on oven (to  54 ºC) well ahead of time** (at start of dehydration) to allow wax to melt
+        6.  Put a foil-covered metal plate (or something?) at -20 ºC to be a solidifying plate
+        7.  If tissue is not already in a cassette, label a tissue casettes for each sample 
+    2. Pour some of paraffin IV into embedding mold in the oven
+    3. *Submerge tissue in 50:50 for 1 hr*
+    4. Submerge tissue in paraffin I for 1.5 hr 
+    5. Submerge tissue in paraffin II for 1 hr 
+    6. Submerge tissue in paraffin III for 1 hr
+    7. Using pre-heated forceps, move sample to paraffin mold. Orient tissue to desired position 
+       1. This step is time sensitive, as wax will start to cool and get sticky quickly
+    8. Remove lid from tissue cassette, place cassette open side up on top of tissue for labelling
+    9.  Fill mold with paraffin IV 
+    10. Place tissue mold on solidifying plate on ice amd then move to 4 ºC when fully hardened
+    11. Solid blocks should be stored at 4ºC and shipped to facility for processing ASAP to maintain RNA integrity
 
 Protocol resourses/references:
 
 1. http://bridgeslab.sph.umich.edu/protocols/index.php/Paraffin_Embedding_of_Tissue_Samples
 2. https://www.leicabiosystems.com/us/knowledge-pathway/an-introduction-to-specimen-processing/
+
