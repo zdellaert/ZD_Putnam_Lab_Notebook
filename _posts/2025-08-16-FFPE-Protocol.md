@@ -117,16 +117,16 @@ tags: [Pocillopora, Porites, Montipora]
     1.  Oven and material set up:
         1. Line bottom of oven with aluminum foil to catch any drips of wax 
         2.  Place forceps, molds, and all tools used during embedding on an aluminim foil-lined tray in oven so they do not harden wax upon contact
-        3.  Fill four autoclaved 250 mL beakers with paraffin wax and place on tray
+        3.  Fill four autoclaved 250 mL beakers halfway with paraffin wax and place on tray
             1.  (Paraffin I, II, III, and IV)
         4.  **Turn on oven (to  54 ºC) well ahead of time** (at start of dehydration) to allow wax to melt
         5.  Put a foil-covered metal plate (or something?) at -20 ºC to be a solidifying plate
-        6.  If tissue is not already in a cassette, label a tissue casettes for each sample 
-    2. Pour some of paraffin IV into embedding mold in the oven
-    3. **Monitor and keep temperature constant so wax stays liquid without degrading tissue**
-    4. Submerge tissue in paraffin I for 1.5 hr (or 30 min)
-    5. Submerge tissue in paraffin II for 1 hr (or 30 min)
-    6. Submerge tissue in paraffin III for 1 hr (or 30 min)
+        6.  If tissue is not already in a cassette, label a tissue casettes for each sample
+    2. **Monitor and keep temperature constant so wax stays liquid without degrading tissue**
+    3. Submerge tissue in paraffin I for 45 min
+    4. Submerge tissue in paraffin II for 45 min
+    5. Submerge tissue in paraffin III for 45 min
+    6. Pour some of paraffin IV into embedding mold in the oven
     7. Using pre-heated forceps, move sample to paraffin mold. Orient tissue to desired position 
        1. This step is time sensitive, as wax will start to cool and get sticky quickly
     8. Remove lid from tissue cassette, place cassette open side up on top of tissue for labelling
@@ -138,6 +138,7 @@ Protocol resourses/references:
 
 1. http://bridgeslab.sph.umich.edu/protocols/index.php/Paraffin_Embedding_of_Tissue_Samples
 2. https://www.leicabiosystems.com/us/knowledge-pathway/an-introduction-to-specimen-processing/
+3. https://kb.10xgenomics.com/hc/en-us/articles/30139708328333-What-best-practices-should-be-considered-when-preparing-FFPE-samples-for-the-Visium-HD-Spatial-Gene-Expression-assay
 
 
 
@@ -163,17 +164,17 @@ Protocol resourses/references:
 
 | Day       |           | Step         | Solution     | Temperature        | Duration | Start Time | End Time | Status |
 |-----------|-----------|--------------|--------------|--------------------|----------|------------|----------|--------|
-| Embedding | Tue, 8/26 | Dehydration  | 80% ethanol  | 4 ºC (Cold room)   | 60       | 9:00       | 10:00    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 10:05      | 10:35    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 10:40      | 11:10    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 11:15      | 11:45    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 11:50      | 12:20    |        |
-| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 12:25      | 12:55    |        |
-| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 13:00      | 13:20    |        |
-| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 13:25      | 13:45    |        |
-| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 13:50      | 14:10    |        |
-| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 30       | 14:15      | 14:45    |        |
-| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 30       | 14:50      | 15:20    |        |
-| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 30       | 15:25      | 15:55    |        |
-| Embedding | Tue, 8/26 | Embedding    | Paraffin     | 54ºC (Drying Oven) | 15       | 16:00      | 16:15    |        |
-| Embedding | Tue, 8/26 | Embedding    | Paraffin     | On ice             | 15       | 16:20      | 16:35    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 80% ethanol  | 4 ºC (Cold room)   | 60       | 8:00       | 9:00     |        |
+| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 9:05       | 9:35     |        |
+| Embedding | Tue, 8/26 | Dehydration  | 95% ethanol  | 4 ºC (Cold room)   | 30       | 9:40       | 10:10    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 10:15      | 10:45    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 10:50      | 11:20    |        |
+| Embedding | Tue, 8/26 | Dehydration  | 100% ethanol | 4 ºC (Cold room)   | 30       | 11:25      | 11:55    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 12:00      | 12:20    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 12:25      | 12:45    |        |
+| Embedding | Tue, 8/26 | Clearing     | Xylenes      | RT (Fume Hood)     | 20       | 12:50      | 13:10    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 13:15      | 14:00    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 14:05      | 14:50    |        |
+| Embedding | Tue, 8/26 | Infiltration | Paraffin     | 54ºC (Drying Oven) | 45       | 14:55      | 15:40    |        |
+| Embedding | Tue, 8/26 | Embedding    | Paraffin     | 54ºC (Drying Oven) | 15       | 15:45      | 16:00    |        |
+| Embedding | Tue, 8/26 | Embedding    | Paraffin     | On ice             | 15       | 16:05      | 16:20    |        |
