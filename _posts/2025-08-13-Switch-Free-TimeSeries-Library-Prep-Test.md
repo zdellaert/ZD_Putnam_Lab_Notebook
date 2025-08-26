@@ -17,14 +17,14 @@ Today, Natalie and I will test the library prep on three adult samples from my [
 The kit needs a minimum of 10 ng of total RNA or a maximum of 500 ng of total RNA. We will be using **20 ng of total RNA** as input. Here's a breakdown of input RNA volumes for each sample: 
 
 
-| TubeID       | Qubit RNA (ng/uL) | Strip tube # | RNA (uL) | RNAse/DNase-Free water (uL) | Total starting volume (ul) | PolyA R1 volume (ul) | Primer |
-| ------------ | ----------------- | ------------ | -------- | --------------------------- | --------------------|------------- | ------ |
-| POC_R12_C3   | 28.6             | 1            | 0.70     | 4.30                        | 5.0        | 5.0            | X    |
-| POC_R1_H1    | 24.6              | 2            | 0.81 | 4.19                  | 5.0           | 5.0        | X    |
-| POC_R3_C3    | 17.7              | 3            | 1.13 | 3.87                  | 5.0         | 5.0              | X   |
-| POC_R12_C3   | 28.6             | 4            | 0.70 | 4.30                  | 5.0           | 3.0              | X    |
-| POC_R1_H1    | 24.6             | 5            | 0.81 | 4.19                  | 5.0           | 3.0               | X   |
-| POC_R3_C3    | 17.7              | 6            | 1.13 | 3.87                  | 5.0        | 3.0                  | X   |
+| TubeID       | Qubit RNA (ng/uL) | Strip tube # | RNA (uL) | RNAse/DNase-Free water (uL) | Total starting volume (ul) | PolyA R1 volume (ul) |
+| ------------ | ----------------- | ------------ | -------- | --------------------------- | --------------------|------------- |
+| POC_R12_C3   | 28.6             | 1            | 0.70     | 4.30                        | 5.0        | 5.0            |
+| POC_R1_H1    | 24.6              | 2            | 0.81 | 4.19                  | 5.0           | 5.0        |
+| POC_R3_C3    | 17.7              | 3            | 1.13 | 3.87                  | 5.0         | 5.0              |
+| POC_R12_C3   | 28.6             | 4            | 0.70 | 4.30                  | 5.0           | 3.0              |
+| POC_R1_H1    | 24.6             | 5            | 0.81 | 4.19                  | 5.0           | 3.0               |
+| POC_R3_C3    | 17.7              | 6            | 1.13 | 3.87                  | 5.0        | 3.0                  |
 
 Here's the SwitchFree library prep workflow: 
 
@@ -195,14 +195,14 @@ THIS IS THE FINAL 3' mRNA-seq LIBRARY. STORE AT -20°C.
 
 DNA Standards: 182.07 (S1) & 23026.07 (S2)
 
-| TubeID       | PolyA R1 volume (ul) | Primer | Library_QBIT_1 | Library_QBIT_2 | Library_QBIT_AVG |
+| TubeID       | PolyA R1 volume (ul) | UDI | Library_QBIT_1 | Library_QBIT_2 | Library_QBIT_AVG |
 | ------------ |--------------------- | ------ |------------|------------|--------------|
-| POC_R12_C3   |  5.0                  | 1      | 4.14   |  4.10     |  4.12       |
-| POC_R1_H1    |  5.0                 | 2      | 3.22   |  3.16    |   3.19       |
-| POC_R3_C3    | 5.0                   | 3      | 3.94   |  4.00     |   3.96      |
-| POC_R12_C3   |  3.0                 | 8      | 6.00  |  6.00    |   6.00      |
-| POC_R1_H1    | 3.0                  | 7      | 3.62  |  3.60     |   3.61      |
-| POC_R3_C3    |  3.0                 | 6      | 4.96 | 5.02    |   4.98     |
+| POC_R12_C3   |  5.0                  | UDI01      | 4.14   |  4.10     |  4.12       |
+| POC_R1_H1    |  5.0                 | UDI02      | 3.22   |  3.16    |   3.19       |
+| POC_R3_C3    | 5.0                   | UDI03      | 3.94   |  4.00     |   3.96      |
+| POC_R12_C3   |  3.0                 | UDI08      | 6.00  |  6.00    |   6.00      |
+| POC_R1_H1    | 3.0                  | UDI07      | 3.62  |  3.60     |   3.61      |
+| POC_R3_C3    |  3.0                 | UDI06      | 4.96 | 5.02    |   4.98     |
 
 ##### Tapestation
 
@@ -238,14 +238,14 @@ First, library concentrations were converted from ng/μL to nM using the [equati
 
 <img width="600" alt="Molarity_formula" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/Molarity.jpeg?raw=true">
 
-| Library_Tube | Library_QBIT_1 | Library_QBIT_2 | Primer | TubeID     | PolyA R1 volume (ul) | Qubit_Conc | TS_Conc | TS_Peak_Size | Molarity_nM_Qubit | Molarity_nM_TS_Calculated | Molarity_nM_TS_Peak |
+| Library_Tube | Library_QBIT_1 | Library_QBIT_2 | UDI  | TubeID     | PolyA R1 volume (ul) | Qubit_Conc | TS_Conc | TS_Peak_Size | Molarity_nM_Qubit | Molarity_nM_TS_Calculated | Molarity_nM_TS_Peak |
 |--------------|----------------|----------------|--------|------------|----------------------|------------|---------|--------------|-------------------|---------------------------|---------------------|
-| 1            | 4.14           | 4.1            | 1      | POC_R12_C3 | 5                    | 4.12       | 4.63    | 381          | 16.38             | 18.41                     | 17.50               |
-| 2            | 3.22           | 3.16           | 2      | POC_R1_H1  | 5                    | 3.19       | 4.7     | 406          | 12.69             | 18.69                     | 17.10               |
-| 3            | 3.94           | 4              | 3      | POC_R3_C3  | 5                    | 3.96       | 4.72    | 408          | 15.75             | 18.77                     | 16.90               |
-| 4            | 6              | 6              | 8      | POC_R12_C3 | 3                    | 6          | 6.31    | 399          | 23.86             | 25.09                     | 24.30               |
-| 5            | 3.62           | 3.6            | 7      | POC_R1_H1  | 3                    | 3.61       | 4.32    | 407          | 14.36             | 17.18                     | 16.30               |
-| 6            | 4.96           | 5.02           | 6      | POC_R3_C3  | 3                    | 4.98       | 5.23    | 409          | 19.80             | 20.80                     | 19.20               |
+| 1            | 4.14           | 4.1            | UDI01      | POC_R12_C3 | 5                    | 4.12       | 4.63    | 381          | 16.38             | 18.41                     | 17.50               |
+| 2            | 3.22           | 3.16           | UDI02      | POC_R1_H1  | 5                    | 3.19       | 4.7     | 406          | 12.69             | 18.69                     | 17.10               |
+| 3            | 3.94           | 4              | UDI03      | POC_R3_C3  | 5                    | 3.96       | 4.72    | 408          | 15.75             | 18.77                     | 16.90               |
+| 4            | 6              | 6              | UDI08      | POC_R12_C3 | 3                    | 6          | 6.31    | 399          | 23.86             | 25.09                     | 24.30               |
+| 5            | 3.62           | 3.6            | UDI07      | POC_R1_H1  | 3                    | 3.61       | 4.32    | 407          | 14.36             | 17.18                     | 16.30               |
+| 6            | 4.96           | 5.02           | UDI06      | POC_R3_C3  | 3                    | 4.98       | 5.23    | 409          | 19.80             | 20.80                     | 19.20               |
 
 ### If we are okay with the dimers, we would now be able to normalize and pool for sequencing
 
