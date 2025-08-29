@@ -62,4 +62,4 @@ HS RNA Standards: 49.50 (S1) and 1038.22 (S2)
 
 Ran at 60 volts for 60 minutes
 
-![gel image](../images/gels/2025-08-29-gel.JPG)
+<img width="600" alt="Gel Image" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2025-08-29-gel.JPG?raw=true">
