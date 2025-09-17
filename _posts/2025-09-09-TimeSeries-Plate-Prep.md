@@ -157,6 +157,6 @@ All Pocillopora acuta, Porites compressa, and Montipora capitata -- 126 samples 
 
 Prepped plates were covered with foil and placed in -80 until shipping:
 
-![TimeSeries_RNA_PlatePrep1.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/TimeSeries_RNA_PLATE2.jpeg?raw=true)
+![TimeSeries_RNA_PlatePrep1.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/TimeSeries_RNA_PLATE2.jpg?raw=true)
 
-![TimeSeries_RNA_PlatePrep2.png](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/TimeSeries_RNA_PLATE1.jpeg?raw=true)
+![TimeSeries_RNA_PlatePrep2.jpg](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/TimeSeries_RNA_PLATE1.jpg?raw=true)
