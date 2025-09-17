@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2025-09-09 Time Series RNA Re-extractions
-date: '2025-09-09'
+date: '2025-09-08 09:00:00'
 categories: Processing
 tags: [DNA, RNA]
 ---
@@ -51,7 +51,9 @@ HS RNA Standards: 44.68 (S1) and 939.13 (S2)
 | colony_id | Species                    | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|----------------------------|------------|------------|--------------|
 | 0 H1     | *Montipora capitata*       |  3.19 | 3.16 | 3.18   |
-| 24 H3    | *Montipora capitata*       |  9.19 |  9.24  | 21.5 |
+| 24 H3    | *Montipora capitata*       |  9.19 |  9.24  | 9.22 | 
+
+This 24 H3 extraction was used for sequencing.
 
 - RNA samples in -80 freezer
 
