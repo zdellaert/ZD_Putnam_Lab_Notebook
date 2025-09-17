@@ -130,9 +130,10 @@ Old Protocol with pictures [here](https://zdellaert.github.io/ZD_Putnam_Lab_Note
 | Prep Day 3 | Sat, 9/13 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
 | Prep Day 4 | Sun, 9/14 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
 | Prep Day 4 | Mon, 9/15 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
-| Prep Day 5 | Tue, 9/16 | Rinse           | PBS         | 4 ºC (Cold room) | 5        | 09:00      | 09:05    |        |
-| Prep Day 5 | Tue, 9/16 | Rinse           | PBS         | 4 ºC (Cold room) | 5        | 09:05      | 09:10    |        |
-| Prep Day 5 | Tue, 9/16 | Rinse           | PBS         | 4 ºC (Cold room) | 5        | 09:10      | 09:15    |        |
-| Prep Day 5 | Tue, 9/16 | Cryoprotection  | 10% sucrose | 4 ºC (Cold room) | 10       | 09:00      | 09:15    |        |
-| Prep Day 5 | Tue, 9/16 | Cryoprotection  | 30% sucrose | 4 ºC (Cold room) | overnight | 09:15      |          |        |
-| Embedding  | Wed, 9/17 | Embedding       | OCT         | On dry ice       |          |            |          |        |
+| Prep Day 5 | Wed, 9/17 | Decalcification | EDTA        | 4 ºC (Cold room) | 24hr     | 10:00      | 10:00    | Done   |
+| Prep Day 6 | Wed, 9/17 | Rinse           | PBS         | 4 ºC (Cold room) | 5        | 11:30      | 11:35    | Done   |
+| Prep Day 6 | Wed, 9/17 | Rinse           | PBS         | 4 ºC (Cold room) | 5        | 11:35      | 11:40    | Done   |
+| Prep Day 6 | Wed, 9/17 | Rinse           | PBS         | 4 ºC (Cold room) | 5        | 11:40      | 11:45    |  Done  |
+| Prep Day 6 | Wed, 9/17 | Cryoprotection  | 15% sucrose | 4 ºC (Cold room) | 10       | 11:45      | 12:45    |  Done  |
+| Prep Day 6 | Wed, 9/17 | Cryoprotection | 30% sucrose | 4 ºC (Cold room) | overnight | 09:15     |          |        |
+| Embedding  | Thu, 9/18 | Embedding       | OCT         | On dry ice       |           |            |          |        |

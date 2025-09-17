@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 2025-08-29 Time Series RNA Re-extractions
-date: '2025-08-29'
+title: 2025-09-05 Time Series RNA Re-extractions
+date: '2025-09-05'
 categories: Processing
 tags: [DNA, RNA]
 ---
 
-## RNA Re-extractions for Time Series Project, August 29, 2025
+## RNA Re-extractions for Time Series Project, September 5, 2025
 
 ### Continuation of Natalie's amazing work extracting these samples, latest post [here](https://github.com/nchampney/NEC_Putnam_Lab_Notebook/blob/master/_posts/2025-08-14-TimeSeries-RNA-Re-Extractions.md)
 
 ### [Protocol Link](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/2022-10-03-Protocols_Zymo_Quick_DNA_RNA_Miniprep_Plus.md)
 
-### Re-extraction of 5 *Montipora capitata* samples from the Time Series experiment done in June and July of 2025. These samples did not yield enough RNA to be measured by HS RNA Qubit so re-extraction was needed. 
+### Re-extraction of 16 *Montipora capitata* samples from the Time Series experiment done in June and July of 2025. These samples had less than 500 ng of total RNA and will be re-extracted with modified protocol to increase yield for sequencing.
 
 ### I made several adjustments to the protocol to try to maximize yield and minimize mucus carryover.
 
 ### Samples
 
-The sample IDs are MON 1 H1, MON 3 H1, MON 24 H1, MON 24 C2, and MON 120 C2.
+The sample IDs are MON: RO_H1, R1_C3, R3_C3, R3_H1, R3_H3, R24_H2, R72_C1, R12O_C1, R1_H1, R3_C1, R12_H1, R12_C3, R24_H3, R24_C3, R120_C3, R120_H2
 
 ## Notes
 
@@ -46,20 +46,38 @@ The sample IDs are MON 1 H1, MON 3 H1, MON 24 H1, MON 24 C2, and MON 120 C2.
 - Used Broad range dsDNA and RNA Qubit Protocol [HERE](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) 
 - All samples read twice, standard only read once
 
-HS RNA Standards: 49.50 (S1) and 1038.22 (S2)
+Morning samples (8):
+
+HS RNA Standards: 46.70 (S1) and 987.23 (S2)
 
 | colony_id | Species                    | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
 |-----------|----------------------------|------------|------------|--------------|
-| 1 H1     | *Montipora capitata*       |    3.76  |  3.83 |   3.795     |
-| 3 H1     | *Montipora capitata*       |  3. 38 |  3.4   | 3.39  |
-| 24 H1    | *Montipora capitata*       |   14.8  | 14.8 | 14.8       |
-| 24 C2    | *Montipora capitata*       |   10.1    | 10.7    | 10.4   |
-| 120 C2    | *Montipora capitata*       |   12.9    | 12.9     |   12.9      |
+| 0 H1     | *Montipora capitata*       |  6.78 | 6.81 |   6.8    |
+| 1 C3     | *Montipora capitata*       |  15.7 |  15.5   | 15.6 |
+| 3 C3    | *Montipora capitata*       |   14.4 | 14.2 | 14.3      |
+| 3 H1    | *Montipora capitata*       |   8    | 7.7    | 7.85   |
+| 3 H3    | *Montipora capitata*       |  27.1  |  26.7    |   26.9      |
+| 24 H2    | *Montipora capitata*       |  13.2 | 13.4 | 13.3      |
+| 72 C1    | *Montipora capitata*       |  24.5   | 24.1   | 24.3  |
+| 120 C1    | *Montipora capitata*       |  36.9  | 36.2    |  36.55    |
+
+Afternoon samples (8):
+
+HS RNA Standards: 46.38 (S1) and 996.14 (S2)
+
+| colony_id | Species                    | RNA_QBIT_1 | RNA_QBIT_2 | RNA_QBIT_AVG |
+|-----------|----------------------------|------------|------------|--------------|
+| 1 H1     | *Montipora capitata*       |  4.09  | 4.09 |   4.09    |
+| 3 C1     | *Montipora capitata*       | 12.0 | 12.0    | 12.0  |
+| 12 H1    | *Montipora capitata*       |  14.3| 14.3| 14.3    |
+| 12 C3    | *Montipora capitata*       |  33.1  |  33.1   |  33.1  |
+| 24 H3    | *Montipora capitata*       |  7.54 | 7.59    |  7.57     |
+| 24 C3    | *Montipora capitata*       |  13.6 | 13.6  | 13.6      |
+| 120 C3   | *Montipora capitata*       | 13.1   |13.1 | 13.1 | 
+| 120 H2   | *Montipora capitata*       | 37.5 | 38   |  35.75    |
 
 - RNA samples in -80 freezer
 
 ## DNA and RNA Quality Check gel
 
-Ran at 60 volts for 60 minutes
-
-<img width="600" alt="Gel Image" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/gels/2025-08-29-gel.JPG?raw=true">
+Did not run gel.
