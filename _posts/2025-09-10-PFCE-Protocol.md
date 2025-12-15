@@ -28,8 +28,8 @@ tags: [Pocillopora, Porites, Montipora]
 ## Materials
 
 ### Reagents and solutions
-1. PAXgene tissue fixative
-2. PAXgene tissue stabilizer
+1. [PAXgene tissue fixative](https://www.preanalytix.com/products/tissue/fixation-stabilization/paxgene-tissue-fix-container/US)
+2. [PAXgene tissue stabilizer](https://www.preanalytix.com/products/tissue/fixation-stabilization/paxgene-tissue-stabilizer-concentrate/US?cHash=a61faea0a90fa41bd88589ff6c62251f)
 3. Ethanol (100%, molecular biology grade)
 4. [Molecular-grade water (RNase/DNase-free)](https://geneseesci.com/shop-online/product-details/25-968/quality-biological-inc-351-029-131-molecular-biology-water-1000ml-1-bottle-unit)
 5. [PBS Tablets](https://www.rpicorp.com/products/buffers/biological-buffers-p/pbs-100-ml-tablets-a.html?ga_list_name=Category%20%28Grid%20View%29)
@@ -40,7 +40,6 @@ tags: [Pocillopora, Porites, Montipora]
 2. 5mL Serilogical pipettes or p5000 pipette tips
 3. [6-Well Plates](https://www.amazon.com/Culture-Plate-Well-Bottom-Individual/dp/B09RX227TB?th=1)
 4. Tissue spatulas: [LevGo® 17251 STERILE Spatula](https://www.amazon.com/smartSpatula-Disposable-Polypropylene-Laboratory-Spatula/dp/B004437WZA?th=1)
-5. 
 
 ### Equipment
 1. Shaker/rotating plate in cold room or 4 ºC fridge
