@@ -90,7 +90,7 @@ Old Protocol with pictures [here](https://zdellaert.github.io/ZD_Putnam_Lab_Note
 ### 6. Prepare sucrose solutions
 1. **15% sucrose**: Add 7.5 g sucrose to 50 mL DNAse/RNAse-free PBS in a 50mL falcon tube.
    - Aliquot into 15 mL falcon tubes for each sample. Store at 4 ºC.
-2. **15% sucrose**: Add 15 g sucrose to 50 mL DNAse/RNAse-free PBS.
+2. **30% sucrose**: Add 15 g sucrose to 50 mL DNAse/RNAse-free PBS.
    - Aliquot into 15 mL falcon tubes for each sample. Store at 4 ºC.
 
 ### 7. PBS rinse
