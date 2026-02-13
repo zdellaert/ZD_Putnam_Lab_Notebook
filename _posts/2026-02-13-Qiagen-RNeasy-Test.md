@@ -62,8 +62,6 @@ Procedure:
 
 ### RNA Quality Check: Tapestation
 
-Have not been runnning RNA Qubit's because I never detect anything from these super low concentrations.
-
 ![2024-09-13-rna](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-13.png?raw=true)
 
 | sample_id      | concentration             | RIN |
