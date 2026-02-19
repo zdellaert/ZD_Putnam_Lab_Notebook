@@ -32,12 +32,12 @@ Procedure:
       4. Proceed to step 4
          1. potential use of **qiashredder** here or other method such as bead-beating to **homogenize** completely
    3. **For [PAXgene-fixed tissues in PAXgene stabilizer](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/Paxgene_Tissue_RNA_miRNA_Kit.pdf):**
-      1. Place tissue in 250 µl Buffer RLT with BME added (250 + 1.5 uL)
+      1. Place tissue in 500 µl Buffer RLT with BME added (500 + 5 uL)
       2. Disrupt the tissue and homogenize the lysate in Buffer RLT
          1. I am going to try normal bead-beating like we do for the DNA/RNA shield samples
          2. Alternatives: tissue lyser, rotor-star homogenizer
-      3. Add 480 µl RNase-free water to cell lysate suspension. Then add 20 µl Proteinase K and mix by vortexing for 5 s.
-         1. Final vol = 750
+      3. Add 960 µl RNase-free water to cell lysate suspension. Then add 40 µl Proteinase K and mix by vortexing for 5 s.
+         1. Final vol = 1500
       4. Incubate at 45 ºC for 15 min at 1400 rpm
       4. Proceed to step 4
 4. **Centrifuge the lysate for 3 min at full speed**.
@@ -62,15 +62,15 @@ Procedure:
 
 ### RNA Quality Check: Tapestation
 
-![2024-09-13-rna](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-13.png?raw=true)
+![2024-09-13-rna](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-13-CorrectedPeaks.png?raw=true)
 
 | sample_id      | concentration             | RIN |
 |----------------|---------------------------|-----|
 | POC - PAXgene Fixed, Decalcified, Cryoembedded   |  275 ng/uL         | 3.6 |
 | POR - PAXgene Fixed, Decalcified, Cryoembedded   |  208 ng/uL         | 3.9 |
-| POC - PAXgene Fixed, Not Decalcified             |  362 ng/uL         | 6.5 |
+| POC - PAXgene Fixed, Not Decalcified             |  362 ng/uL         | 8.0 (was originally 6.5 but computer mis-ID's 18S peak) |
 | POR - PAXgene Fixed, Not Decalcified             |  112 ng/uL         | 8.3 |
 | POC - Fresh tissue                               |  120 ng/uL         | 9.5 |
 | POR - Fresh tissue                               |  86.7 ng/uL        | 9.6 |
 
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-13.pdf)
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-13-CorrectedPeaks.pdf)
