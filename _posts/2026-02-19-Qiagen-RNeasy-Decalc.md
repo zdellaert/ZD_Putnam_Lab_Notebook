@@ -95,7 +95,11 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 ## 2/22/26: First 24 and 48 hours of decalcification results, re-extraction of POR + MON
 
-- Because of the big pellets formed, I thought maybe the filter clogging could be fixed by re-extracting from those tubes with more RLT added to dilute the lysate.
+- Because of the big pellets formed, I thought maybe the filter clogging could be fixed by re-extracting from those tubes with more RLT added to dilute the lysate. Re-extracting  POR_2, POR_3, MON_2, and MON_3
+  - Added another 500 uL RLT (w/ 1% BME) to the tubes as they thawed + pipetted to mix
+  - Bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
+  - Moved 450 uL to a new tube and centrifuged for 3 mins to pellet debris, then repeated this with 400 of the supernatant from that spin to try to minimize any debris carry-over into columns.
+  - Same protocol followed as above, but without the proK digestion
 
 - As seen below, RINs improved slightly but not substantially, and large gDNA-appearing peaks still occur. I might try one more time with a gentle ProK digestion
   - **This is not great news. Even with just 24 hours of decalc, when none of the corals are decalcified, we get substantial decrease in RIN below what we are aiming for.**
@@ -111,3 +115,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-22.pdf)
 
+## Total count of extractions used from this kit (50 preps):
+
+- 6+6+8+4 = 24
+- If I re-extract the 4 POR+MON again with Proteinase K and then extract the final 8 tubes, I will have used 36/50 preps from the kit without yet using any of the preps for QC-ing tissue sections. Need to think strategically about which samples to do.
