@@ -53,7 +53,7 @@ Procedure:
 
 Exact protocol written above.
 
-![2026-02-19](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-19.png?raw=true)
+<img width="400" alt="2026-02-19" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-19.png?raw=true">
 
 | sample_id      | concentration             | RIN |
 |----------------|---------------------------|-----|
@@ -78,7 +78,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
     - Added another 50 uL on top instead of re-eluting with same 50uL, final volume was closer to 75 uL
   - **This is not great news. Even with just 24 hours of decalc, when none of the corals are decalcified, we get substantial decrease in RIN below what we are aiming for.**
 
-![2026-02-21](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-21.png?raw=true)
+<img width="500" alt="2026-02-21" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-21.png?raw=true">
 
 | sample_id      | concentration             | RIN |
 |----------------|---------------------------|-----|
@@ -104,7 +104,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 - As seen below, RINs improved slightly but not substantially, and large gDNA-appearing peaks still occur. I might try one more time with a gentle ProK digestion
   - **This is not great news. Even with just 24 hours of decalc, when none of the corals are decalcified, we get substantial decrease in RIN below what we are aiming for.**
 
-![2026-02-22](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-22.png?raw=true)
+<img width="300" alt="2026-02-22" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-22.png?raw=true">
 
 | sample_id      | concentration             | RIN |
 |----------------|---------------------------|-----|
