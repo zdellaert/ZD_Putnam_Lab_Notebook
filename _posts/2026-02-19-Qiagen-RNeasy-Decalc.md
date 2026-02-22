@@ -49,9 +49,11 @@ Procedure:
 13. Add **50 µl RNAse-free** water directly to the spin column membrane. Close the lid gently, and centrifuge for **1 min at 12,000 rcf** to elute the RNA.
 14. If higher concentration is desired, re-apply this eluate to the filter membrane and repeat the centrifuge step.
 
-### RNA Quality Check: Tapestation
+## 2/19/26: Pre-decalc samples, testing ProK digestion vs. no digestion
 
-![2024-09-13-rna](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-19.png?raw=true)
+Exact protocol written above.
+
+![2026-02-19](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-19.png?raw=true)
 
 | sample_id      | concentration             | RIN |
 |----------------|---------------------------|-----|
@@ -63,3 +65,49 @@ Procedure:
 | MON_1_ProK     |  168 ng/uL         | 5.8 |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-19.pdf)
+
+## 2/21/26: First 24 and 48 hours of decalcification results
+
+- Tissue sampled throughout experiment was collected in 500 uL RLT (w/ 1% BME) in a 2mL tube with beads and bead-beat for 2 mins before being frozen at -80ºC
+- Tubes were thawed at room temperature and bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
+- Same protocol followed as above, but without the proK digestion
+- **Notes**
+  - For POR and MON, these tubes had a lot of tissue and were pretty cloudy/dark in the lysate.
+  - Formed big pellets during the 3 min spin suggesting that maybe there was too much tissue input
+  - During elution, the POR columns clogged, potential mucus carry-over.
+    - Added another 50 uL on top instead of re-eluting with same 50uL, final volume was closer to 75 uL
+  - **This is not great news. Even with just 24 hours of decalc, when none of the corals are decalcified, we get substantial decrease in RIN below what we are aiming for.**
+
+![2026-02-21](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-21.png?raw=true)
+
+| sample_id      | concentration             | RIN |
+|----------------|---------------------------|-----|
+| POC_2 (EDTA 6hr)  |  148 ng/uL         | 7.1 |
+| POC_3 (EDTA 24hr) |  160 ng/uL         | 7.4 |
+| POC_4 (EDTA 24hr+2 hrs sucrose)  |  88.9 ng/uL         | **4.6** |
+| POC_5 (EDTA 48hr)  |  82.4 ng/uL         | 7.5 |
+| MON_2 (EDTA 24hr)  |  155 ng/uL         | 6.0 |
+| MON_3 (EDTA 48hr) |  194 ng/uL         | 5.4 |
+| POR_2 (EDTA 24hr) |  52.4 ng/uL         | 6.5 |
+| POR_3 (EDTA 48hr) |  35.6 ng/uL         | 6.2 |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-21.pdf)
+
+## 2/22/26: First 24 and 48 hours of decalcification results, re-extraction of POR + MON
+
+- Because of the big pellets formed, I thought maybe the filter clogging could be fixed by re-extracting from those tubes with more RLT added to dilute the lysate.
+
+- As seen below, RINs improved slightly but not substantially, and large gDNA-appearing peaks still occur. I might try one more time with a gentle ProK digestion
+  - **This is not great news. Even with just 24 hours of decalc, when none of the corals are decalcified, we get substantial decrease in RIN below what we are aiming for.**
+
+![2026-02-22](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-22.png?raw=true)
+
+| sample_id      | concentration             | RIN |
+|----------------|---------------------------|-----|
+| POR_2          |  70.7 ng/uL         | 6.2 |
+| POR_3          |  89.3 ng/uL         | 6.3 |
+| MON_2          |  137 ng/uL         | 6.1 |
+| MON_3          |  142 ng/uL         | 5.6 |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-22.pdf)
+

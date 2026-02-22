@@ -62,7 +62,7 @@ Procedure:
 
 ### RNA Quality Check: Tapestation
 
-![2024-09-13-rna](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-13-CorrectedPeaks.png?raw=true)
+![2026-02-13](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-13-CorrectedPeaks.png?raw=true)
 
 | sample_id      | concentration             | RIN |
 |----------------|---------------------------|-----|
