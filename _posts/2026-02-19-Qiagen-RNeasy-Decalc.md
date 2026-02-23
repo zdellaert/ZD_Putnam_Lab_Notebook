@@ -8,6 +8,10 @@ tags: [Pocillopora, Porites, RNA, Protocol]
 
 ## Extracting RNA from PAXgene fixed tissue at various stages of decalcification
 
+### Timeline
+
+<img width="1000" alt="timeline" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/timeline.png?raw=true">
+
 ### Protocol: Qiagen RNeasy Kit
 
 Continued testing from first test of this kit for RNA QC [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qiagen-RNeasy-Test/)
@@ -108,10 +112,10 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 | sample_id      | concentration             | RIN |
 |----------------|---------------------------|-----|
-| POR_2          |  70.7 ng/uL         | 6.2 |
-| POR_3          |  89.3 ng/uL         | 6.3 |
-| MON_2          |  137 ng/uL         | 6.1 |
-| MON_3          |  142 ng/uL         | 5.6 |
+| POR_2 (EDTA 24hr) |  70.7 ng/uL         | 6.2 |
+| POR_3 (EDTA 48hr) |  89.3 ng/uL         | 6.3 |
+| MON_2 (EDTA 24hr) |  137 ng/uL         | 6.1 |
+| MON_3 (EDTA 48hr) |  142 ng/uL         | 5.6 |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-22.pdf)
 
@@ -119,3 +123,26 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 - 6+6+8+4 = 24
 - If I re-extract the 4 POR+MON again with Proteinase K and then extract the final 8 tubes, I will have used 36/50 preps from the kit without yet using any of the preps for QC-ing tissue sections. Need to think strategically about which samples to do.
+
+## Embedded blocks:
+
+| Block_Label | Block_Description |
+|-------------|-------------------|
+| POC_3       | EDTA-24hr-Sucrose |
+| POC_5       | EDTA-48hr-Sucrose |
+| POC_6       | EDTA-72hr-noSuc   |
+| POC_7       | EDTA-72hr-Sucrose |
+
+| Block_Label | Block_Description |
+|-------------|-------------------|
+| MON_3       | EDTA-48hr-Sucrose |
+| MON_4       | EDTA-72hr-noSuc   |
+| MON_5       | EDTA-72hr-Sucrose-short |
+| MON_6       | EDTA-72hr-Sucrose-long  |
+
+| Block_Label | Block_Description |
+|-------------|-------------------|
+| POR_3       | EDTA-48hr-Sucrose |
+| POR_4       | EDTA-72hr-noSuc   |
+| POR_5       | EDTA-72hr-Sucrose-short |
+| POR_6       | EDTA-72hr-Sucrose-long  |
