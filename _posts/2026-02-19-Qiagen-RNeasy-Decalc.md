@@ -124,25 +124,37 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 - 6+6+8+4 = 24
 - If I re-extract the 4 POR+MON again with Proteinase K and then extract the final 8 tubes, I will have used 36/50 preps from the kit without yet using any of the preps for QC-ing tissue sections. Need to think strategically about which samples to do.
 
-## Embedded blocks:
+## 2/22/26: All final blocks embedded, details in google sheet and notebook
 
-| Block_Label | Block_Description |
-|-------------|-------------------|
-| POC_3       | EDTA-24hr-Sucrose |
-| POC_5       | EDTA-48hr-Sucrose |
-| POC_6       | EDTA-72hr-noSuc   |
-| POC_7       | EDTA-72hr-Sucrose |
+- This was more rushed than I'd like due to the blizzard on 2/23, several of the POR and MON were not fully decalcified. But it will still give us RNA quality info.
 
-| Block_Label | Block_Description |
-|-------------|-------------------|
-| MON_3       | EDTA-48hr-Sucrose |
-| MON_4       | EDTA-72hr-noSuc   |
-| MON_5       | EDTA-72hr-Sucrose-short |
-| MON_6       | EDTA-72hr-Sucrose-long  |
+https://docs.google.com/spreadsheets/d/1y8tZUTPmXJmq1QOfvcBU3mhVc6VYH7Xe-fA4zXSnTZ4/edit?usp=sharing
 
-| Block_Label | Block_Description |
-|-------------|-------------------|
-| POR_3       | EDTA-48hr-Sucrose |
-| POR_4       | EDTA-72hr-noSuc   |
-| POR_5       | EDTA-72hr-Sucrose-short |
-| POR_6       | EDTA-72hr-Sucrose-long  |
+## Embedded blocks were sectioned 2/26/26 and 2/27/26:
+
+| Block_Label | Block_Description | Section_Date | Section_Notes                             | Block_Status | Slide_1_Status       | Slide_2_Status       | Slide_3_Status |
+|-------------|-------------------|--------------|-------------------------------------------|--------------|----------------------|----------------------|----------------|
+| POC_4       | EDTA-24hr-Sucrose  | 2/26/26      | Was surpisingly good                      | In -80       | H&amp;E Stained 2/26 | H&amp;E Stained 2/26 | Check -80      |
+| POC_5       | EDTA-48hr-Sucrose | 2/26/26      |                                           | In -80       | H&amp;E Stained 2/26 | H&amp;E Stained 2/26 | Check -80      |
+| POC_6       | EDTA-72hr-noSuc   | 2/26/26      | Was surpisingly good                      | In -80       | Check -80            | Check -80            | Check -80      |
+| POC_7       | EDTA-72hr-Sucrose  | 2/26/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
+
+| Block_Label | Block_Description | Section_Date | Section_Notes                             | Block_Status | Slide_1_Status       | Slide_2_Status       | Slide_3_Status |
+|-------------|-------------------|--------------|-------------------------------------------|--------------|----------------------|----------------------|----------------|
+| MON_3       | EDTA-48hr-Sucrose  | 2/27/26      | Too much skeleton, really hard to section | In -80       | Check -80            |                      |                |
+| MON_4       | EDTA-72hr-noSuc   | 2/27/26      | Of all the MON, maybe the best?           | In -80       | Check -80            |                      |                |
+| MON_5       | EDTA-72hr-Sucrose-short  | 2/26/26      | Too much skeleton, really hard to section | In -80       | Check -80            | Check -80            | Check -80      |
+| MON_6       | EDTA-72hr-Sucrose-long  | 2/26/26      | Too much skeleton, really hard to section | In -80       | Check -80            | Check -80            | Check -80      |
+
+| Block_Label | Block_Description | Section_Date | Section_Notes                             | Block_Status | Slide_1_Status       | Slide_2_Status       | Slide_3_Status |
+|-------------|-------------------|--------------|-------------------------------------------|--------------|----------------------|----------------------|----------------|
+| POR_3       | EDTA-48hr-Sucrose  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
+| POR_4       | EDTA-72hr-noSuc   | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
+| POR_5       | EDTA-72hr-Sucrose-short  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
+| POR_6       | EDTA-72hr-Sucrose-long  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
+
+## Next Steps Week of 3/1/26:
+
+- Stain slides sectioned 2/26 and 2/27 and assess tissue quality
+- Finish extracting tissue samples and cryostat scrolls from selected samples
+  - If I re-extract the 4 POR+MON again with Proteinase K and then extract the final 8 tubes, I will have used 36/50 preps from the kit without yet using any of the preps for QC-ing tissue sections. Need to think strategically about which samples to do.
