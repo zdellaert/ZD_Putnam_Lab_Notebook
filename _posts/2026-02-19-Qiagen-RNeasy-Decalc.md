@@ -6,6 +6,19 @@ categories: Processing, Protocols
 tags: [Pocillopora, Porites, RNA, Protocol]
 ---
 
+- [Extracting RNA from PAXgene fixed tissue at various stages of decalcification](#extracting-rna-from-paxgene-fixed-tissue-at-various-stages-of-decalcification)
+  - [Timeline](#timeline)
+  - [Protocol: Qiagen RNeasy Kit](#protocol-qiagen-rneasy-kit)
+  - [2/19/26: Pre-decalc samples, testing ProK digestion vs. no digestion](#21926-pre-decalc-samples-testing-prok-digestion-vs-no-digestion)
+  - [2/21/26: First 24 and 48 hours of decalcification results](#22126-first-24-and-48-hours-of-decalcification-results)
+  - [2/22/26: First 24 and 48 hours of decalcification results, re-extraction of POR + MON](#22226-first-24-and-48-hours-of-decalcification-results-re-extraction-of-por--mon)
+    - [Total count of extractions used from this kit (50 preps):](#total-count-of-extractions-used-from-this-kit-50-preps)
+  - [3/2/26: 72 hours decalcification extraction](#3226-72-hours-decalcification-extraction)
+- [2/22/26: All final blocks embedded, details in google sheet and notebook](#22226-all-final-blocks-embedded-details-in-google-sheet-and-notebook)
+- [Embedded blocks were sectioned 2/26/26 and 2/27/26:](#embedded-blocks-were-sectioned-22626-and-22726)
+- [3/3/26: Tissue scrolls extraction](#3326-tissue-scrolls-extraction)
+- [**YAY!** We have tissue scrolls with RINs at 6.9 for POC and \> 7 for POR. The non-sucrose slides still don't look like the morphology we want, but this is major progress.](#yay-we-have-tissue-scrolls-with-rins-at-69-for-poc-and--7-for-por-the-non-sucrose-slides-still-dont-look-like-the-morphology-we-want-but-this-is-major-progress)
+
 ## Extracting RNA from PAXgene fixed tissue at various stages of decalcification
 
 ### Timeline
@@ -53,7 +66,7 @@ Procedure:
 13. Add **50 µl RNAse-free** water directly to the spin column membrane. Close the lid gently, and centrifuge for **1 min at 12,000 rcf** to elute the RNA.
 14. If higher concentration is desired, re-apply this eluate to the filter membrane and repeat the centrifuge step.
 
-## 2/19/26: Pre-decalc samples, testing ProK digestion vs. no digestion
+### 2/19/26: Pre-decalc samples, testing ProK digestion vs. no digestion
 
 Exact protocol written above.
 
@@ -70,7 +83,7 @@ Exact protocol written above.
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-19.pdf)
 
-## 2/21/26: First 24 and 48 hours of decalcification results
+### 2/21/26: First 24 and 48 hours of decalcification results
 
 - Tissue sampled throughout experiment was collected in 500 uL RLT (w/ 1% BME) in a 2mL tube with beads and bead-beat for 2 mins before being frozen at -80ºC
 - Tubes were thawed at room temperature and bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
@@ -97,7 +110,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-21.pdf)
 
-## 2/22/26: First 24 and 48 hours of decalcification results, re-extraction of POR + MON
+### 2/22/26: First 24 and 48 hours of decalcification results, re-extraction of POR + MON
 
 - Because of the big pellets formed, I thought maybe the filter clogging could be fixed by re-extracting from those tubes with more RLT added to dilute the lysate. Re-extracting  POR_2, POR_3, MON_2, and MON_3
   - Added another 500 uL RLT (w/ 1% BME) to the tubes as they thawed + pipetted to mix
@@ -119,10 +132,29 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-02-22.pdf)
 
-## Total count of extractions used from this kit (50 preps):
+#### Total count of extractions used from this kit (50 preps):
 
 - 6+6+8+4 = 24
 - If I re-extract the 4 POR+MON again with Proteinase K and then extract the final 8 tubes, I will have used 36/50 preps from the kit without yet using any of the preps for QC-ing tissue sections. Need to think strategically about which samples to do.
+
+### 3/2/26: 72 hours decalcification extraction
+
+- Tissue sampled throughout experiment was collected in 500 uL RLT (w/ 1% BME) in a 2mL tube with beads and bead-beat for 2 mins before being frozen at -80ºC
+- Tubes were thawed at room temperature and bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
+- Same protocol followed as above, but without the proK digestion
+
+<img width="500" alt="2026-02-21" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.png?raw=true">
+
+| sample_id      | concentration             | RIN |
+|----------------|---------------------------|-----|
+| POC_6 (EDTA 72hr, no sucrose)  |  131 ng/uL         | 7.3 |
+| POC_7 (EDTA 72hr, **Sucrose 3hr**) |  101 ng/uL         | 5.0 |
+| MON_4 (EDTA 72hr, no sucrose)  |  212 ng/uL         | 5.4 |
+| MON_5 (EDTA 72hr, **Sucrose 3hr**) |  143 ng/uL         | 5.0 |
+| POR_4 (EDTA 72hr, no sucrose)  |  71.1 ng/uL         | 7.1 |
+| POR_5 (EDTA 72hr, **Sucrose 3hr**) |  65.9 ng/uL         | 7.5 |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.pdf)
 
 ## 2/22/26: All final blocks embedded, details in google sheet and notebook
 
@@ -152,25 +184,6 @@ https://docs.google.com/spreadsheets/d/1y8tZUTPmXJmq1QOfvcBU3mhVc6VYH7Xe-fA4zXSn
 | POR_4       | EDTA-72hr-noSuc   | 2/27/26      |                                                                            | In -80       | In -80                     | H&E Stained 3/2  |        N/A          |
 | POR_5       | EDTA-72hr-Suc180  | 2/27/26      | Tore a lot, but I think it was because I put too much tissue in the block  | In -80       | H&E Stained 3/2        |        N/A           |        N/A          |
 | POR_6       | EDTA-72hr-Suc300  | 2/27/26      |                                                                            | In -80       | In -80                     | H&E Stained 3/2  | H&E Stained 3/2 |
-
-## 3/2/26: 72 hours decalcification extraction
-
-- Tissue sampled throughout experiment was collected in 500 uL RLT (w/ 1% BME) in a 2mL tube with beads and bead-beat for 2 mins before being frozen at -80ºC
-- Tubes were thawed at room temperature and bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
-- Same protocol followed as above, but without the proK digestion
-
-<img width="500" alt="2026-02-21" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.png?raw=true">
-
-| sample_id      | concentration             | RIN |
-|----------------|---------------------------|-----|
-| POC_6 (EDTA 72hr, no sucrose)  |  131 ng/uL         | 7.3 |
-| POC_7 (EDTA 72hr, **Sucrose 3hr**) |  101 ng/uL         | 5.0 |
-| MON_4 (EDTA 72hr, no sucrose)  |  212 ng/uL         | 5.4 |
-| MON_5 (EDTA 72hr, **Sucrose 3hr**) |  143 ng/uL         | 5.0 |
-| POR_4 (EDTA 72hr, no sucrose)  |  71.1 ng/uL         | 7.1 |
-| POR_5 (EDTA 72hr, **Sucrose 3hr**) |  65.9 ng/uL         | 7.5 |
-
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.pdf)
 
 ## 3/3/26: Tissue scrolls extraction 
 
