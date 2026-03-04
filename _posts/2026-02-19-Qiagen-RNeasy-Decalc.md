@@ -134,43 +134,24 @@ https://docs.google.com/spreadsheets/d/1y8tZUTPmXJmq1QOfvcBU3mhVc6VYH7Xe-fA4zXSn
 
 | Block_Label | Block_Description | Section_Date | Section_Notes                             | Block_Status | Slide_1_Status       | Slide_2_Status       | Slide_3_Status |
 |-------------|-------------------|--------------|-------------------------------------------|--------------|----------------------|----------------------|----------------|
-| POC_4       | EDTA-24hr-Sucrose  | 2/26/26      | Was surpisingly good                      | In -80       | H&amp;E Stained 2/26 | H&amp;E Stained 2/26 | Check -80      |
-| POC_5       | EDTA-48hr-Sucrose | 2/26/26      |                                           | In -80       | H&amp;E Stained 2/26 | H&amp;E Stained 2/26 | Check -80      |
-| POC_6       | EDTA-72hr-noSuc   | 2/26/26      | Was surpisingly good                      | In -80       | Check -80            | Check -80            | Check -80      |
-| POC_7       | EDTA-72hr-Sucrose  | 2/26/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
+| POC_4       | EDTA-24hr-Suc120  | 2/26/26      | Was surpisingly good                                                       | In -80       | H&E Stained 2/26       | H&E Stained 2/26 |            N/A       |
+| POC_5       | EDTA-48hr-Suc-210 | 2/26/26      |                                                                            | In -80       | H&E Stained 2/26       | H&E Stained 2/26 |        N/A          |
+| POC_6       | EDTA-72hr-noSuc   | 2/26/26      | Was surpisingly good                                                       | In -80       | H&E Stained 3/2        | H&E Stained 3/2  | In -80              |
+| POC_7       | EDTA-72hr-Suc150  | 2/26/26      |                                                                            | In -80       | H&E Stained 3/2        |        N/A           |        N/A          |
 
 | Block_Label | Block_Description | Section_Date | Section_Notes                             | Block_Status | Slide_1_Status       | Slide_2_Status       | Slide_3_Status |
 |-------------|-------------------|--------------|-------------------------------------------|--------------|----------------------|----------------------|----------------|
-| MON_3       | EDTA-48hr-Sucrose  | 2/27/26      | Too much skeleton, really hard to section | In -80       | Check -80            |                      |                |
-| MON_4       | EDTA-72hr-noSuc   | 2/27/26      | Of all the MON, maybe the best?           | In -80       | Check -80            |                      |                |
-| MON_5       | EDTA-72hr-Sucrose-short  | 2/26/26      | Too much skeleton, really hard to section | In -80       | Check -80            | Check -80            | Check -80      |
-| MON_6       | EDTA-72hr-Sucrose-long  | 2/26/26      | Too much skeleton, really hard to section | In -80       | Check -80            | Check -80            | Check -80      |
+| MON_3       | EDTA-48hr-Suc180  | 2/27/26      | Too much skeleton, really hard to section                                  | In -80       | H&E Stained 3/2        |        N/A           |        N/A          |
+| MON_4       | EDTA-72hr-noSuc   | 2/27/26      | Of all the MON, maybe the best?                                            | In -80       | H&E Stained 3/2        |        N/A           |        N/A          |
+| MON_5       | EDTA-72hr-Suc180  | 2/26/26      | Too much skeleton, really hard to section                                  | In -80       | Threw away, was really bad |        N/A           |        N/A          |
+| MON_6       | EDTA-72hr-Suc300  | 2/26/26      | Too much skeleton, really hard to section                                  | In -80       | H&E Stained 3/2        |        N/A           |        N/A          |
 
 | Block_Label | Block_Description | Section_Date | Section_Notes                             | Block_Status | Slide_1_Status       | Slide_2_Status       | Slide_3_Status |
 |-------------|-------------------|--------------|-------------------------------------------|--------------|----------------------|----------------------|----------------|
-| POR_3       | EDTA-48hr-Sucrose  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
-| POR_4       | EDTA-72hr-noSuc   | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
-| POR_5       | EDTA-72hr-Sucrose-short  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
-| POR_6       | EDTA-72hr-Sucrose-long  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
-
-## 3/2/26: 72 hours decalcification extraction
-
-- Tissue sampled throughout experiment was collected in 500 uL RLT (w/ 1% BME) in a 2mL tube with beads and bead-beat for 2 mins before being frozen at -80ºC
-- Tubes were thawed at room temperature and bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
-- Same protocol followed as above, but without the proK digestion
-
-<img width="500" alt="2026-02-21" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.png?raw=true">
-
-| sample_id      | concentration             | RIN |
-|----------------|---------------------------|-----|
-| POC_6 (EDTA 72hr, no sucrose)  |  131 ng/uL         | 7.3 |
-| POC_7 (EDTA 72hr, **Sucrose**) |  101 ng/uL         | 5.0 |
-| MON_4 (EDTA 72hr, no sucrose)  |  212 ng/uL         | 5.4 |
-| MON_5 (EDTA 72hr, **Sucrose**) |  143 ng/uL         | 5.0 |
-| POR_4 (EDTA 72hr, no sucrose)  |  71.1 ng/uL         | 7.1 |
-| POR_5 (EDTA 72hr, **Sucrose**) |  65.9 ng/uL         | 7.5 |
-
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.pdf)
+| POR_3       | EDTA-48hr-Suc150  | 2/27/26      | Some skeleton tearing                                                      | In -80       | H&E Stained 3/2        | In -80               |        N/A          |
+| POR_4       | EDTA-72hr-noSuc   | 2/27/26      |                                                                            | In -80       | In -80                     | H&E Stained 3/2  |        N/A          |
+| POR_5       | EDTA-72hr-Suc180  | 2/27/26      | Tore a lot, but I think it was because I put too much tissue in the block  | In -80       | H&E Stained 3/2        |        N/A           |        N/A          |
+| POR_6       | EDTA-72hr-Suc300  | 2/27/26      |                                                                            | In -80       | In -80                     | H&E Stained 3/2  | H&E Stained 3/2 |
 
 ## 3/2/26: 72 hours decalcification extraction
 
@@ -191,7 +172,7 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.pdf)
 
-## 3/2/26: Tissue scrolls extraction 
+## 3/3/26: Tissue scrolls extraction 
 
 - 3-5 Tissue scrolls (30 um thick) were collected from the OCT-embedded blocks of the corals described above that went through various combinations of decalcification + sucrose times. The ones that produced the *most* viable tissue/section quality were extracted below, but I also have scrolls in the freezer from blocks that sectioned pooly due to incomplete decalcification.
 - Scrolls were collected in 1.5 mL tubes cooled to cryostat temperature and immediately placed on dry ice before transport to -80 ºC
@@ -217,3 +198,5 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 | Scroll - POR_6 (EDTA 72hr, **Sucrose 5hr**) |  9.16 ng/uL         | conc. too low, rerun with HS |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-03.pdf)
+
+## **YAY!** We have tissue scrolls with RINs at 6.9 for POC and > 7 for POR. The non-sucrose slides still don't look like the morphology we want, but this is major progress.
