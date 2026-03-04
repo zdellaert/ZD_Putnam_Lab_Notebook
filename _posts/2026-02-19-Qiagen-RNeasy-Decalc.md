@@ -153,8 +153,67 @@ https://docs.google.com/spreadsheets/d/1y8tZUTPmXJmq1QOfvcBU3mhVc6VYH7Xe-fA4zXSn
 | POR_5       | EDTA-72hr-Sucrose-short  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
 | POR_6       | EDTA-72hr-Sucrose-long  | 2/27/26      |                                           | In -80       | Check -80            | Check -80            | Check -80      |
 
-## Next Steps Week of 3/1/26:
+## 3/2/26: 72 hours decalcification extraction
 
-- Stain slides sectioned 2/26 and 2/27 and assess tissue quality
-- Finish extracting tissue samples and cryostat scrolls from selected samples
-  - If I re-extract the 4 POR+MON again with Proteinase K and then extract the final 8 tubes, I will have used 36/50 preps from the kit without yet using any of the preps for QC-ing tissue sections. Need to think strategically about which samples to do.
+- Tissue sampled throughout experiment was collected in 500 uL RLT (w/ 1% BME) in a 2mL tube with beads and bead-beat for 2 mins before being frozen at -80ºC
+- Tubes were thawed at room temperature and bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
+- Same protocol followed as above, but without the proK digestion
+
+<img width="500" alt="2026-02-21" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.png?raw=true">
+
+| sample_id      | concentration             | RIN |
+|----------------|---------------------------|-----|
+| POC_6 (EDTA 72hr, no sucrose)  |  131 ng/uL         | 7.3 |
+| POC_7 (EDTA 72hr, **Sucrose**) |  101 ng/uL         | 5.0 |
+| MON_4 (EDTA 72hr, no sucrose)  |  212 ng/uL         | 5.4 |
+| MON_5 (EDTA 72hr, **Sucrose**) |  143 ng/uL         | 5.0 |
+| POR_4 (EDTA 72hr, no sucrose)  |  71.1 ng/uL         | 7.1 |
+| POR_5 (EDTA 72hr, **Sucrose**) |  65.9 ng/uL         | 7.5 |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.pdf)
+
+## 3/2/26: 72 hours decalcification extraction
+
+- Tissue sampled throughout experiment was collected in 500 uL RLT (w/ 1% BME) in a 2mL tube with beads and bead-beat for 2 mins before being frozen at -80ºC
+- Tubes were thawed at room temperature and bead-beat ~1 minute to ensure homogenous thawing and to clear any precipitate
+- Same protocol followed as above, but without the proK digestion
+
+<img width="500" alt="2026-02-21" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.png?raw=true">
+
+| sample_id      | concentration             | RIN |
+|----------------|---------------------------|-----|
+| POC_6 (EDTA 72hr, no sucrose)  |  131 ng/uL         | 7.3 |
+| POC_7 (EDTA 72hr, **Sucrose 3hr**) |  101 ng/uL         | 5.0 |
+| MON_4 (EDTA 72hr, no sucrose)  |  212 ng/uL         | 5.4 |
+| MON_5 (EDTA 72hr, **Sucrose 3hr**) |  143 ng/uL         | 5.0 |
+| POR_4 (EDTA 72hr, no sucrose)  |  71.1 ng/uL         | 7.1 |
+| POR_5 (EDTA 72hr, **Sucrose 3hr**) |  65.9 ng/uL         | 7.5 |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-02.pdf)
+
+## 3/2/26: Tissue scrolls extraction 
+
+- 3-5 Tissue scrolls (30 um thick) were collected from the OCT-embedded blocks of the corals described above that went through various combinations of decalcification + sucrose times. The ones that produced the *most* viable tissue/section quality were extracted below, but I also have scrolls in the freezer from blocks that sectioned pooly due to incomplete decalcification.
+- Scrolls were collected in 1.5 mL tubes cooled to cryostat temperature and immediately placed on dry ice before transport to -80 ºC
+- Extraction protocol was modified from the standard RNeasy protocol for paxgene-fixed tissue sections in OCT
+  - Modifications based on the protocol of the [Qiagen PAXgene Tissue RNA/miRNA Kit](https://www.qiagen.com/us/products/discovery-and-translational-research/dna-rna-purification/rna-purification/mirna/paxgene-tissue-rna-mirna-kit?catno=766134) ([handbook](https://www.qiagen.com/us/resources/resourcedetail?id=dfb265d3-a517-455c-92c5-b575aefded0f&lang=en) and [cryo-embedding specific modifications]([file:///Users/zoedellaert/Downloads/PX18%20Purification%20of%20total%20RNA%20from%20sections%20of%20PAXgene%20Tissue%20fixed%20cryo-embedded%20PFCE%20tissue.pdf](https://www.qiagen.com/us/resources/resourcedetail?id=b25bb5ef-dd86-4cb8-a0f3-ab54b1bf5d35&lang=en))) 
+  - Tubes were taken out of freezer on ice and 150 uL RLT (w/ 1% BME) was added and the scrolls were dissolved and mixed with a wide-bore tip
+  - Then, 290 μl RNase-free water and 10 μl Proteinase K were added and briefly mixed by vortex
+  - Incubate the tissue on a shaker–incubator for 15 min at 56°C and 1400 rpm
+  - Centrifuge for 3 min at maximum speed (but do not exceed 20,000 x g).
+  - Carefully transfer the supernatant to a new 1.5 ml microcentrifuge tube without disturbing the pellet. 
+  - Add equal volume of 70% ethanol and continue with RNeasy protocol as written.
+
+<img width="500" alt="2026-03-03" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-03_allscrolls.png?raw=true">
+
+| sample_id      | concentration             | RIN |
+|----------------|---------------------------|-----|
+| Scroll - POC_6 (EDTA 72hr, no sucrose)  |  16.2 ng/uL         | 6.9 |
+| Scroll - POC_7 (EDTA 72hr, **Sucrose**) |  16.4 ng/uL         | 4.5 |
+| Scroll - MON_4 (EDTA 72hr, no sucrose)  |  40.2 ng/uL         | 4.8 |
+| Scroll - MON_6 (EDTA 72hr, **Sucrose 5hr**) |  38.8 ng/uL         | 4.1 |
+| Scroll - POR_4 (EDTA 72hr, no sucrose)  |  11.8 ng/uL         | 7.7 |
+| Scroll - POR_5 (EDTA 72hr, **Sucrose 3hr**) |  15.1 ng/uL         | 7.5 |
+| Scroll - POR_6 (EDTA 72hr, **Sucrose 5hr**) |  9.16 ng/uL         | conc. too low, rerun with HS |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-03-03.pdf)
