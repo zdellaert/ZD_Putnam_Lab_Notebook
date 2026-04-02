@@ -117,6 +117,3 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 | Scroll - MON_2 (EDTA 48hr, **Sucrose** w/ extra 30% Sucrose:OCT incubation) |  8.22 ng/uL         | 4.9 | <img width="500" alt="MON_2_1_10x_Section4" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/scroll_sections/MON_2_1_10x_Section4.png"> | <img width="500" alt="MON_2_1_4x_slideScan" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/scroll_sections/MON_2_1_4x_slideScan.png"> | really jumbled tissue, hard to tell what is what |
 | Scroll - MON_3 (EDTA 48hr, **Sucrose** w/o extra 30% Sucrose:OCT incubation) |  7.77 ng/uL         | 4.8 | <img width="500" alt="MON_3_1_10x_section2" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/scroll_sections/MON_3_1_10x_section2.png"> | <img width="500" alt="MON_3_1_4x" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/scroll_sections/MON_3_1_4x.png"> | still not stellar, but maybe the best MON sections we've ever gotten |
 
-
-
-https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/scroll_sections/POC_3_2_4x_slideScan_small.png
