@@ -6,7 +6,7 @@ categories: Protocols
 tags: [DNA, Pocillopora, Porites, LCM, Library Prep]
 ---
 
-## Testing NEBNext Low Input RNA Library Prep
+## Testing Pico Methyl-Seq Library Prep
 
 Product: [Zymo Pico Methyl Seq Library Prep](https://www.zymoresearch.com/products/pico-methyl-seq-library-prep-kit)
 
