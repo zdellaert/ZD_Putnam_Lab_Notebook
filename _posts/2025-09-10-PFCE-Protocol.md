@@ -168,8 +168,6 @@ Old embedding Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook
 
 ### 10. Sectioning
 
-[Section](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) , prototocl refined [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2024-07-18-LCM-Test-4.md) and finalized [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Exp-Sample-Prep/)
-
 #### Tissue + other supplies prep
 
 1. 30 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container.
