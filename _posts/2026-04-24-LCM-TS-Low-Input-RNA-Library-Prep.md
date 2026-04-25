@@ -58,136 +58,7 @@ Protocol: [Link here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/m
 
 #### And then primers and adaptors
 
-See next section.
-
-### Research about adaptors and if we can use custom ones or not
-
-#### Breakdown of info below:
-
-Overall cost summary: 
-
-- Option A – NEB adaptor + existing UDIs + buy USER:
-  - Extra cost: $267
-  - Pros: Kit‑recommended adaptor chemistry, no need to order UDIs, but protocol stays very close to recommendations
-- Option B – Puritz adapters + existing UDIs (no USER):
-  - Extra cost: $0
-  - Pros: Cheapest
-  - Cons: requires protocol testing and maybe test sequencing.
-- Option C – NEB 96 UDI kit (includes USER) + NEB adaptor:
-  - Extra cost: $606
-  - Pros: Fully “by the book” NEB solution; new standardized UDI set.
-
-#### Options A/B: Can we use our WGBS custom indeces (UDIs) with this kit?
-
-Yes.
-
-- The index primers we have in lab are listed [here](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/DNA_RNA-protocols/Indexes_and_Barcodes/UDI_Index_Primer_Pairs_for_Pico_WGBS.csv) (and I downloaded a version 9/15/2024 [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/resources/UDI_Index_Primer_Pairs_for_Pico_WGBS.csv))
-  - these were designed for WGBS with the Zymo Pico Kit
-  - Each of the 60 pairs has a unique i7 and unique i5 sequence, for example:
-  
-| UDIndexName | i7_      | i7Bases (Sample Sheet) | i5Bases (sample sheet) | i7_   | i7_UDI Sequence | i5        | i5_UDI      |
-|-------------|----------|------------------------|------------------------|-------|-----------------|-----------|-------------|
-| UDI0001    | AACCGCGG | CCGCGGTT | AGCGCTAG  | i7_UDI0001 | CAAGCAGAAGACGGCATACGAGATAACCGCGGGTGACTGGAGTTCAGACGTGT | i5UDI0001 | AATGATACGGCGACCACCGAGATCTACACAGCGCTAGACACTCTTTCCCTACACGAC |
-| UDI0002    | GGTTATAA | TTATAACC | GATATCGA  | i7_UDI0002 | CAAGCAGAAGACGGCATACGAGATGGTTATAAGTGACTGGAGTTCAGACGTGT | i5UDI0002 | AATGATACGGCGACCACCGAGATCTACACGATATCGAACACTCTTTCCCTACACGAC |
-
-  - the i7_UDI Sequence contains:
-    - CAAGCAGAAGACGGCATACGAGAT
-      - Illumina P7 adaptor: 5'- CAAGCAGAAGACGGCATACGAGA**T** -3'
-        - **T overhang**
-    - unique i7_ sequence (UDI0001: AACCGCGG, UDI0002: GGTTATAA)
-    - GTGACTGGAGTTCAGACGTGT
-      - Reverse completment: ACACGTCTGAACTCCAGTCA
-  - the i5_UDI Sequence contains:
-    - AATGATACGGCGACCACCGAGATCTACAC
-      - Illumina P5 adaptor: 5'- AATGATACGGCGACCACCGAGATCTACAC -3'
-    - unique i5_ sequence (UDI0001: AGCGCTAG, UDI0002: GATATCGA)
-    - ACACTCTTTCCCTACACGAC
-      - reverse complement: GTCGTGTAGGGAAAGAGTGT
-
-[Helpful resource here](https://teichlab.github.io/scg_lib_structs/methods_html/Illumina.html)
-
-These index primers are compatible with our library prep kit, but we need to order/find adaptors that will work with these primers.
-
-#### Option A: Maybe I have enough NEBNext adaptor already in lab, order more USER enzyme
-
-I had a kit of single index oligos from NEB - used for the LCM pilot.
-
-Contents:
-- E7337A NEBNext Adaptor for Illumina 0.24 ml = 240 uL
-- E7338A USER Enzyme 0.072 ml
-
-What did I use:
-- 2.5 uL * 10 = 25 uL of diluted adaptor
-  - 1 uL of undiluted adaptor 
-  - 240 uL - 239 uL = 238 uL left
-    - so I should have more than enough, would need ~5 uL of undiluted adaptor
-- 3 uL * 10 = 30 uL USER Enzyme
-  - 72 uL - 30 uL = 42 uL
-    - That is enough USER enzyme for 14 samples
-    - I need 102 uL more (102 units)
-
-- ordering information for USER enzyme
-  - 1,000 units/ml	50 units	$89.00 * 3 = $267 for 150 units
-  - 1,000 units/ml	250 units	$362.00
-
-#### Option B: Puritz Lab adaptors - could we use these?
-
-| Sequence Name | Sequence                                       | INLINE BARCODE | ENZYME COMPATABILITY | BarcodeIndex_2500 | BarcodeIndex_4000 | Library Prep            | Notes | Type    |
-|---------------|------------------------------------------------|----------------|----------------------|-------------------|-------------------|-------------------------|-------|---------|
-| Y-inline-1a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTATCACG*T       | ATCACG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-2a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTCGATGT*T       | CGATGT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-3a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTTTAGGC*T       | TTAGGC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-4a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTTGGCCA*T       | TGGCCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-5a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTACAGTG*T       | ACAGTG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-6a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTGCCAAT*T       | GCCAAT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-7a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTCAGATC*T       | CAGATC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-9a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTGATCAG*T       | GATCAG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-10a  | CACTCTTTCCCTACACGACGCTCTTCCGATCTTAGCTT*T       | TAGCTT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-11a  | CACTCTTTCCCTACACGACGCTCTTCCGATCTGGCTAC*T       | GGCTAC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-12a  | CACTCTTTCCCTACACGACGCTCTTCCGATCTCTTGCA*T       | CTTGCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-1b   | /5Phos/C*GTGATAGATCGGAAGAGCACACGTCTGAACTCCAGTC | ATCACG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-2b   | /5Phos/A*CATCGAGATCGGAAGAGCACACGTCTGAACTCCAGTC | CGATGT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-3b   | /5Phos/G*CCTAAAGATCGGAAGAGCACACGTCTGAACTCCAGTC | TTAGGC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-4b   | /5Phos/T*GGCCAAGATCGGAAGAGCACACGTCTGAACTCCAGTC | TGGCCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-5b   | /5Phos/C*ACTGTAGATCGGAAGAGCACACGTCTGAACTCCAGTC | ACAGTG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-6b   | /5Phos/A*TTGGCAGATCGGAAGAGCACACGTCTGAACTCCAGTC | GCCAAT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-7b   | /5Phos/G*ATCTGAGATCGGAAGAGCACACGTCTGAACTCCAGTC | CAGATC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-8b   | /5Phos/T*CAAGTAGATCGGAAGAGCACACGTCTGAACTCCAGTC | ACTTGA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-9b   | /5Phos/C*TGATCAGATCGGAAGAGCACACGTCTGAACTCCAGTC | GATCAG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-10b  | /5Phos/A*AGCTAAGATCGGAAGAGCACACGTCTGAACTCCAGTC | TAGCTT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-11b  | /5Phos/G*TAGCCAGATCGGAAGAGCACACGTCTGAACTCCAGTC | GGCTAC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-| Y-inline-12b  | /5Phos/T*GCAAGAGATCGGAAGAGCACACGTCTGAACTCCAGTC | CTTGCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
-
-#### What do I need to know about these?
-
-1. Can I use them? (Jon)
-2. Are they annealed or signle stranded?
-3. What concentration are they in right now
-
-
-##### Protocol modification for Puritz Lab adaptors
-
-There are no exact instructions on how to modify the protocol with use of custom adapters/primers, but this is how the general NEBNext Ultra II FS DNA library prep protocol (which this kit post-cDNA is based on) is modified for the NEB UMI Adaptors for Illumina (instead of the universal NEBNext Adaptor): [Original Protocol](https://www.neb.com/en-us/-/media/nebus/files/manuals/manuale6177-e7805.pdf?rev=cfd70057c01446f7bbdeea0efc8d70d9&hash=633520E477BEFF793DD3D25971E69207) --> [Modified protocol](https://www.neb.com/en-us/-/media/nebus/files/manuals/manuale6177_e7805-w-umi-adaptors-dna.pdf?rev=3a5b771761b849fa815e17d4fcf53b0a&hash=09513A246A7D406D74DC6C90EC3B3807)
-
-However, I should note that the adaptors I would use do not have UMIs so I think I would still need to use the 10 uL total of the i5/i7 WGBS primers.
-
-1. 2.5 uL of the NEBNext UMI Adaptors for Illumina is used instead of 2.5 uL of the NEBNext Adaptor
-   1. For cDNA input < 5ng, Adaptors are diluted as follows:
-      1. NEBNext Adaptor (normal protocol, exactly like the Low Input RNA kit)
-         1. 25-Fold (1:25) --> 0.6 µM
-      2. NEBNext UMI Adaptor (special protocol)
-         1. 1 ng to < 5 ng:
-            1. 50-Fold (1:50) 0.4 µM
-         2. < 1 ng:
-            1. 100-Fold (1:100) 0.2 µM
-2. Safe stopping point after the 15 minute incubation instead of adding the USER enzyme continued by another incubation.
-3. In the bead cleanup, a ratio of 0.6X of beads is used instead of 0.8X. And then, the elution is 20 uL instead of 15 uL.
-4. In PCR enrichment, the 5uL of the NEBNext primer mix is used instead of 10 uL sample-specific i5/i7 index primers. 
-5. The primer-dimer and adaptor-dimer peaks will be at different expected bps depending on which adaptor/primer set was used
-
-#### Option C: Just order the NEB Oligo 
-
-NEBNext® Multiplex Oligos for Illumina® (96 Unique Dual Index Primer Pairs)	606.00	96	preps
+See section at very bottom for research, we are just going to order the NEB oligos again.
 
 ## Protocol for Low Input RNA: cDNA Synthesis, Amplification and Library Generation
 
@@ -648,3 +519,132 @@ Read 2 AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
 |----------|----------------------|-------------------------------|
 | NEBNext Index 1 Primer for Illumina (10 µM) | 5´- CAAGCAGAAGACGGCATACGAGATCGTGATGTGACTGGAGTTCAGACGTGTGCTCTTCCGA TC-s-T-3´  | ATCACG |
 | NEBNext Index 2 Primer for Illumina (10 µM) | 5´- CAAGCAGAAGACGGCATACGAGATACATCGGTGACTGGAGTTCAGACGTGTGCTCTTCCGA TC-s-T-3´  | CGATGT |
+
+### Research about adaptors and if we can use custom ones or not
+
+#### Breakdown of info below:
+
+Overall cost summary: 
+
+- Option A – NEB adaptor + existing UDIs + buy USER:
+  - Extra cost: $267
+  - Pros: Kit‑recommended adaptor chemistry, no need to order UDIs, but protocol stays very close to recommendations
+- Option B – Puritz adapters + existing UDIs (no USER):
+  - Extra cost: $0
+  - Pros: Cheapest
+  - Cons: requires protocol testing and maybe test sequencing.
+- Option C – NEB 96 UDI kit (includes USER) + NEB adaptor:
+  - Extra cost: $606
+  - Pros: Fully “by the book” NEB solution; new standardized UDI set.
+
+#### Options A/B: Can we use our WGBS custom indeces (UDIs) with this kit?
+
+Yes.
+
+- The index primers we have in lab are listed [here](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/DNA_RNA-protocols/Indexes_and_Barcodes/UDI_Index_Primer_Pairs_for_Pico_WGBS.csv) (and I downloaded a version 9/15/2024 [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/resources/UDI_Index_Primer_Pairs_for_Pico_WGBS.csv))
+  - these were designed for WGBS with the Zymo Pico Kit
+  - Each of the 60 pairs has a unique i7 and unique i5 sequence, for example:
+  
+| UDIndexName | i7_      | i7Bases (Sample Sheet) | i5Bases (sample sheet) | i7_   | i7_UDI Sequence | i5        | i5_UDI      |
+|-------------|----------|------------------------|------------------------|-------|-----------------|-----------|-------------|
+| UDI0001    | AACCGCGG | CCGCGGTT | AGCGCTAG  | i7_UDI0001 | CAAGCAGAAGACGGCATACGAGATAACCGCGGGTGACTGGAGTTCAGACGTGT | i5UDI0001 | AATGATACGGCGACCACCGAGATCTACACAGCGCTAGACACTCTTTCCCTACACGAC |
+| UDI0002    | GGTTATAA | TTATAACC | GATATCGA  | i7_UDI0002 | CAAGCAGAAGACGGCATACGAGATGGTTATAAGTGACTGGAGTTCAGACGTGT | i5UDI0002 | AATGATACGGCGACCACCGAGATCTACACGATATCGAACACTCTTTCCCTACACGAC |
+
+  - the i7_UDI Sequence contains:
+    - CAAGCAGAAGACGGCATACGAGAT
+      - Illumina P7 adaptor: 5'- CAAGCAGAAGACGGCATACGAGA**T** -3'
+        - **T overhang**
+    - unique i7_ sequence (UDI0001: AACCGCGG, UDI0002: GGTTATAA)
+    - GTGACTGGAGTTCAGACGTGT
+      - Reverse completment: ACACGTCTGAACTCCAGTCA
+  - the i5_UDI Sequence contains:
+    - AATGATACGGCGACCACCGAGATCTACAC
+      - Illumina P5 adaptor: 5'- AATGATACGGCGACCACCGAGATCTACAC -3'
+    - unique i5_ sequence (UDI0001: AGCGCTAG, UDI0002: GATATCGA)
+    - ACACTCTTTCCCTACACGAC
+      - reverse complement: GTCGTGTAGGGAAAGAGTGT
+
+[Helpful resource here](https://teichlab.github.io/scg_lib_structs/methods_html/Illumina.html)
+
+These index primers are compatible with our library prep kit, but we need to order/find adaptors that will work with these primers.
+
+#### Option A: Maybe I have enough NEBNext adaptor already in lab, order more USER enzyme
+
+I had a kit of single index oligos from NEB - used for the LCM pilot.
+
+Contents:
+- E7337A NEBNext Adaptor for Illumina 0.24 ml = 240 uL
+- E7338A USER Enzyme 0.072 ml
+
+What did I use:
+- 2.5 uL * 10 = 25 uL of diluted adaptor
+  - 1 uL of undiluted adaptor 
+  - 240 uL - 239 uL = 238 uL left
+    - so I should have more than enough, would need ~5 uL of undiluted adaptor
+- 3 uL * 10 = 30 uL USER Enzyme
+  - 72 uL - 30 uL = 42 uL
+    - That is enough USER enzyme for 14 samples
+    - I need 102 uL more (102 units)
+
+- ordering information for USER enzyme
+  - 1,000 units/ml	50 units	$89.00 * 3 = $267 for 150 units
+  - 1,000 units/ml	250 units	$362.00
+
+#### Option B: Puritz Lab adaptors - could we use these?
+
+| Sequence Name | Sequence                                       | INLINE BARCODE | ENZYME COMPATABILITY | BarcodeIndex_2500 | BarcodeIndex_4000 | Library Prep            | Notes | Type    |
+|---------------|------------------------------------------------|----------------|----------------------|-------------------|-------------------|-------------------------|-------|---------|
+| Y-inline-1a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTATCACG*T       | ATCACG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-2a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTCGATGT*T       | CGATGT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-3a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTTTAGGC*T       | TTAGGC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-4a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTTGGCCA*T       | TGGCCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-5a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTACAGTG*T       | ACAGTG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-6a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTGCCAAT*T       | GCCAAT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-7a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTCAGATC*T       | CAGATC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-9a   | CACTCTTTCCCTACACGACGCTCTTCCGATCTGATCAG*T       | GATCAG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-10a  | CACTCTTTCCCTACACGACGCTCTTCCGATCTTAGCTT*T       | TAGCTT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-11a  | CACTCTTTCCCTACACGACGCTCTTCCGATCTGGCTAC*T       | GGCTAC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-12a  | CACTCTTTCCCTACACGACGCTCTTCCGATCTCTTGCA*T       | CTTGCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-1b   | /5Phos/C*GTGATAGATCGGAAGAGCACACGTCTGAACTCCAGTC | ATCACG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-2b   | /5Phos/A*CATCGAGATCGGAAGAGCACACGTCTGAACTCCAGTC | CGATGT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-3b   | /5Phos/G*CCTAAAGATCGGAAGAGCACACGTCTGAACTCCAGTC | TTAGGC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-4b   | /5Phos/T*GGCCAAGATCGGAAGAGCACACGTCTGAACTCCAGTC | TGGCCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-5b   | /5Phos/C*ACTGTAGATCGGAAGAGCACACGTCTGAACTCCAGTC | ACAGTG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-6b   | /5Phos/A*TTGGCAGATCGGAAGAGCACACGTCTGAACTCCAGTC | GCCAAT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-7b   | /5Phos/G*ATCTGAGATCGGAAGAGCACACGTCTGAACTCCAGTC | CAGATC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-8b   | /5Phos/T*CAAGTAGATCGGAAGAGCACACGTCTGAACTCCAGTC | ACTTGA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-9b   | /5Phos/C*TGATCAGATCGGAAGAGCACACGTCTGAACTCCAGTC | GATCAG         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-10b  | /5Phos/A*AGCTAAGATCGGAAGAGCACACGTCTGAACTCCAGTC | TAGCTT         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-11b  | /5Phos/G*TAGCCAGATCGGAAGAGCACACGTCTGAACTCCAGTC | GGCTAC         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+| Y-inline-12b  | /5Phos/T*GCAAGAGATCGGAAGAGCACACGTCTGAACTCCAGTC | CTTGCA         | NA                   |                   |                   | EecSeq, Genomic, RNAseq |       | Adapter |
+
+#### What do I need to know about these?
+
+1. Can I use them? (Jon)
+2. Are they annealed or signle stranded?
+3. What concentration are they in right now
+
+
+##### Protocol modification for Puritz Lab adaptors
+
+There are no exact instructions on how to modify the protocol with use of custom adapters/primers, but this is how the general NEBNext Ultra II FS DNA library prep protocol (which this kit post-cDNA is based on) is modified for the NEB UMI Adaptors for Illumina (instead of the universal NEBNext Adaptor): [Original Protocol](https://www.neb.com/en-us/-/media/nebus/files/manuals/manuale6177-e7805.pdf?rev=cfd70057c01446f7bbdeea0efc8d70d9&hash=633520E477BEFF793DD3D25971E69207) --> [Modified protocol](https://www.neb.com/en-us/-/media/nebus/files/manuals/manuale6177_e7805-w-umi-adaptors-dna.pdf?rev=3a5b771761b849fa815e17d4fcf53b0a&hash=09513A246A7D406D74DC6C90EC3B3807)
+
+However, I should note that the adaptors I would use do not have UMIs so I think I would still need to use the 10 uL total of the i5/i7 WGBS primers.
+
+1. 2.5 uL of the NEBNext UMI Adaptors for Illumina is used instead of 2.5 uL of the NEBNext Adaptor
+   1. For cDNA input < 5ng, Adaptors are diluted as follows:
+      1. NEBNext Adaptor (normal protocol, exactly like the Low Input RNA kit)
+         1. 25-Fold (1:25) --> 0.6 µM
+      2. NEBNext UMI Adaptor (special protocol)
+         1. 1 ng to < 5 ng:
+            1. 50-Fold (1:50) 0.4 µM
+         2. < 1 ng:
+            1. 100-Fold (1:100) 0.2 µM
+2. Safe stopping point after the 15 minute incubation instead of adding the USER enzyme continued by another incubation.
+3. In the bead cleanup, a ratio of 0.6X of beads is used instead of 0.8X. And then, the elution is 20 uL instead of 15 uL.
+4. In PCR enrichment, the 5uL of the NEBNext primer mix is used instead of 10 uL sample-specific i5/i7 index primers. 
+5. The primer-dimer and adaptor-dimer peaks will be at different expected bps depending on which adaptor/primer set was used
+
+#### Option C: Just order the NEB Oligo 
+
+NEBNext® Multiplex Oligos for Illumina® (96 Unique Dual Index Primer Pairs)	606.00	96	preps

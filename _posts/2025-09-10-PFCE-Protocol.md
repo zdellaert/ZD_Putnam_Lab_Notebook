@@ -23,10 +23,16 @@ tags: [Pocillopora, Porites, Montipora]
   - [7. PBS rinse](#7-pbs-rinse)
   - [8. Cryoprotection](#8-cryoprotection)
   - [9. Embedding](#9-embedding)
-  - [10. Sectioning and LCM, details to come](#10-sectioning-and-lcm-details-to-come)
+  - [10. Sectioning](#10-sectioning)
+    - [Tissue + other supplies prep](#tissue--other-supplies-prep)
+    - [Bring to sectioning](#bring-to-sectioning)
+    - [Sectioning protocol](#sectioning-protocol)
+  - [10.5. Sectioning for Laser Capture Microdissection](#105-sectioning-for-laser-capture-microdissection)
   - [Table for test run](#table-for-test-run)
 
-## Materials
+## Materials 
+
+This lists materials needed for tissue prep only, sectioning materials are listed in the "Sectioning" section below.
 
 ### Reagents and solutions
 1. Ethanol (100%, molecular biology grade)
@@ -160,10 +166,68 @@ Old embedding Protocol [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook
     1.  Add an extra dab of OCT on the bottom where the mold was and freeze on parafilm on dry ice
 15. Transfer to labelled, cooled cryovial, and immediately transfer (on dry ice) to -80 freezer
 
-### 10. Sectioning and LCM, details to come
+### 10. Sectioning
 
 [Section](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Cryosectioning-Protocol/) , prototocl refined [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2024-07-18-LCM-Test-4.md) and finalized [here](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/LCM-Exp-Sample-Prep/)
 
+#### Tissue + other supplies prep
+
+1. 30 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container.
+2. Also put brushes, forceps, and other supplies that will be used in the cryostat at -20 ºC to speed up equibriation to cryostat temperature when you get there
+3. Transport tissue and these supplies to cryostat on dry ice.
+
+#### Bring to sectioning
+
+1. 100% Ethanol 
+1. [OCT Embedding Medium](https://www.fishersci.com/shop/products/tissue-plus-o-c-t-compound/23730571#?keyword=o.c.t%20cryo)
+2. [Microtome blades](https://www.fishersci.com/shop/products/edge-rite-disposable-microtome-blades/1407060)
+3. [Glass Superfrost Plus slides](https://www.fishersci.com/shop/products/fisherbrand-superfrost-plus-microscope-slides-2/p-45174#?keyword=superfrost%20plus)
+4. Prepared PEN slides (above)
+5. Cling wrap
+6. Forceps
+7. Paintbrushes
+8. Razor Blades
+9. Falcon tubes with silica dessicant pouches
+10. [Slide mailers for staining/storing slides](https://www.amazon.com/Heathrow-Scientific-HD15986-Natural-Polypropylene/dp/B0061OTA00/ref=sr_1_6?crid=3TZF8W5FSYV3L&keywords=slide+mailer&qid=1697471771&s=industrial&sprefix=slide+mailer%2Cindustrial%2C181&sr=1-6)
+
+#### Sectioning protocol
+
+Can ignore the RNAseZap steps if only taking slides for morphology/confocal and not for any RNA applications.
+    
+1. Regularly clean gloves and high touch areas of the cryostat (& other supplies) with RNaseZap. Pure RNase Zap will freeze inside the cryostat, so only use the 1:1 RNaseZap/70% ethanol mixture inside there.
+2. Clean cryostat, microtome blade, and tools with 1:1 RNaseZap/70% ethanol mixture, then 95% ethanol. Wipe dry.
+   1. (ref: [Roy et al 2020](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/protocols/BioProtoc-10-01-3475.pdf))
+   2. <img width="500" alt="cryostat" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/protocols/cryosection/cryostat.jpeg?raw=true">
+3. Cover internal surfaces with clingwrap.
+   1. <img width="500" alt="cryostat_clingwrap" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/protocols/cryosection/cryostat_clingwrap.jpeg?raw=true">
+4. Place tissue blocks and all tools in cryostat to equilibrate to temperature (~30 mins if they were not yet at -20 ºC).
+5. Mount sample onto chuck with OCT drop.
+   1. For POR blocks, I have been mounting the blocks perpendicular to the chucks (will add pic)
+6.  Place chuck in holder and tighten screws.
+7.  Insert microtome blade and lock all clamps.
+8.  "Face" tissue using trim setting (~30-50 µm) until you get a clean, flat section across the whole block. Adjust angle as needed.
+   1. **Lock wheel when adjusting; stay clear of blade.**
+   2. Use brushes to remove unwanted sections and regularly clean any residue from the blade with kimwipes
+   3. If you have a good sense of where the tissue is in the block, trim excess OCT around the tissue with a razor blade to minimize section area.
+9.  Begin sectioning:
+    1.  Switch to fresh blade or fresh area of the blade.
+    2.  Turn off trim setting; set thickness to **10 µm** (thicker sections may reduce rolling issues).
+    3.  **Important tips**:
+        1.  Use brushes to keep sections flat.
+            1.  Adjust the temperature colder (for crumpling/bunching) or warmer (for ripping/cracking/splintering).
+            2.  I have had success with -15 ºC - -24ºC.
+        2.  Clean blade regularly.
+        3.  Keep brushes and materials inside the cryostat and try to minimize body heat warming them up. If things are sticking too much, the chamber and tools might be too warm. Close the cryostat and let it come back to the right temperature every once and a while.
+10. Make glass slides for confocal/H&E morphology:
+    1.  Label and make a few glass slides for confocal/H&E morphology visualization
+    2.  Pick up sections on slide with rolling motion; warm back of slide to melt section. Refreeze on cryostat plate.
+    3.  Transfer slide to falcon tube with dessicant, keep on dry ice until transfer to -80 ºC freezer.
+11. Remove block from chuck with razor blade or forceps. Cover exposed tissue with OCT, freeze, and keep in dry ice until transfer to -80 ºC.
+12. Remove clingwrap, clean cryostat with 70% ethanol, dispose of blades in sharps bin.
+
+### 10.5. Sectioning for Laser Capture Microdissection
+
+See LCM protocol [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2026-04-25-LCM-Protocol.md)
 
 ### Table for test run
 
