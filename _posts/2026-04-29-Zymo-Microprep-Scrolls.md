@@ -26,7 +26,7 @@ Procedure:
 
 ### Materials and Equipment
 
-- Zymo Quick-DNA/RNA Microprep Plus [kit](https://www.zymoresearch.com/products/quick-dna-rna-microprep-plus-kit) 
+- Zymo Quick-RNA Microprep [kit](https://files.zymoresearch.com/protocols/_r1050_r1051_quick-rna_microprep_kit.pdf?_gl=1*z4zz5q*_gcl_au*MTY5MDg1ODAwNi4xNzcxMjc1NDY5) 
 - Zymo 2X Digestion [buffer](https://www.zymoresearch.com/products/2x-digestion-buffer?srsltid=AfmBOop0gp6GyCtXs4Qi-pCuDoVlobNYvJYh_SltuvPrhrdoHUBYU2dV)
 - Tris-EDTA (TE) [1X buffer, pH 8.0](https://www.fishersci.com/shop/products/tris-edta-1x-solution-ph-8-0-molecular-biology-fisher-bioreagents-3/bp24731#?keyword=BP24731) for DNA elution
 - Heating block capable of heating to 60ºC
