@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026-04-29 LCM RNA Microprep Extraction Tests, Cryosectioned tissue
+title: 2026-04-29 Zymo RNA Microprep Extraction Tests, Cryosectioned tissue
 date: '2026-04-29'
 categories: Processing, Protocols
 tags: [Pocillopora, Porites, Montipora, RNA, Protocol]
