@@ -132,26 +132,22 @@ tags: [Pocillopora, Porites, LCM]
 
 ### Testing how to remove more OCT while maintaining POR tissue integrity
 
-1. Test 1: What if i dont do the 100% Ethanol fix at the cryostat + what if more of the OCT is removed before the stain
+#### Version 1: Still too much OCT
 
-2. Slide 1/2: At cryostat, don't do 100% ethanol fixation and air dry 1-2 mins before dry ice transfer
-3. Both slides: Stain with slightly altered staining protocol
-4. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
+Test 1: What if i dont do the 100% Ethanol fix at the cryostat + what if more of the OCT is removed before the stain, and also what if we try to remove OCT before the stain
+
+1. Slide 1/2: At cryostat, don't do 100% ethanol fixation and air dry 1-2 mins before dry ice transfer
+2. Both slides: Stain with slightly altered staining protocol
+3. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
    1. 30 minutes at -20 ºC
    2. 30 minutes at 4°C
    3. 15 minutes at room temp
-5. Remove OCT with ice cold solutions
-   1. Option 1
-      1. 2 min - RNAse-free 75% ethanol
-   2. Option 2 -- if Option 1 is not removing the OCT
-      1. 1 min - RNAse-free 70% ethanol
-      2. 45 s - RNAse-free 50% ethanol
-      3. 30 s - RNAse-free 30% ethanol
-      4. **maybe - 30 s RNAse free Water**
-6. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
-7. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
+4. Remove OCT with ice cold solutions
+   1. 2 min - RNAse-free 75% ethanol
+5. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
+6. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
    1. **maybe decrease time??**
-8. Remove stain and dehydrate
+7. Remove stain and dehydrate
    1. 30 s dips - RNAse-free 75% ethanol
    2. 30 s - RNAse-free 96% ethanol
    3. 1 min - 100% ethanol
@@ -165,6 +161,45 @@ Tubes to prepare:
    1. 38.4 mL ethanol + 1.6 mL RNAse-free H2O
 4. Post-stain: 100% ethanol, ice-cold
 5. Post-stain: Fresh 100% ethanol, ice-cold
+
+#### Version 2: 
+
+Test 1: What if i dont do the 100% Ethanol fix at the cryostat + what if more of the OCT is removed before the stain, and also what if we try to remove OCT before the stain
+
+1. Slide 1/2: At cryostat, don't do 100% ethanol fixation and air dry 1-2 mins before dry ice transfer
+2. Both slides: Stain with slightly altered staining protocol
+3. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
+   1. 30 minutes at -20 ºC
+   2. 30 minutes at 4°C
+   3. 15 minutes at room temp
+4. Remove OCT with ice cold solutions
+   1. 1 min - RNAse-free 75% ethanol
+   2. 45 s - RNAse-free 50% ethanol
+   3. 30 s - RNAse-free 30% ethanol
+   4. **maybe - 30 s RNAse free Water**
+5. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
+6. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
+   1. **maybe decrease time??**
+7. Remove stain and dehydrate
+   1. 30 s dips - RNAse-free 75% ethanol
+   2. 30 s - RNAse-free 96% ethanol
+   3. 1 min - 100% ethanol
+
+Tubes to prepare:
+1. Pre-stain: 75% ethanol, ice-cold
+   1. 30 mL ethanol + 10 mL RNAse-free H2O
+2. Pre-stain: 50% ethanol, ice-cold
+   1. 20 mL ethanol + 20 mL RNAse-free H2O
+3. Pre-stain: 30% ethanol, ice-cold
+   1. 12 mL ethanol + 28 mL RNAse-free H2O
+4. Pre-stain: RNAse-free H2O, ice-cold
+   1. 40 mL RNAse-free H2O
+5. Post-stain: 75% ethanol, ice-cold
+   1. 30 mL ethanol + 10 mL RNAse-free H2O
+6. Post-stain: 96% ethanol, ice-cold
+   1. 38.4 mL ethanol + 1.6 mL RNAse-free H2O
+7. Post-stain: 100% ethanol, ice-cold
+8. Post-stain: Fresh 100% ethanol, ice-cold
 
 ## LCM
 
@@ -225,7 +260,7 @@ How to use Leica LMD7000 [presentation](https://github.com/zdellaert/ZD_Putnam_L
 
 ## Downstream:
 
-1. [RNA extraction](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2024-09-13-LCM-Exp-Extractions.md)
+1. [DNA/RNA extraction](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2024-09-13-LCM-Exp-Extractions.md)
 2. [Library prep](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2026-04-24-LCM-TS-Low-Input-RNA-Library-Prep.md)
 
 ## Helpful vidoes and references
