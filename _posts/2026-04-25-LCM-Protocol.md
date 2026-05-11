@@ -164,23 +164,24 @@ Tubes to prepare:
 
 #### Version 2: 
 
-Test 1: What if i dont do the 100% Ethanol fix at the cryostat + what if more of the OCT is removed before the stain, and also what if we try to remove OCT before the stain
+Test 1: Improve OCT removal
 
-1. Slide 1/2: At cryostat, don't do 100% ethanol fixation and air dry 1-2 mins before dry ice transfer
-2. Both slides: Stain with slightly altered staining protocol
-3. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
+- Stain in petri dishes and not falcon tubes 
+
+1. Slide 3: At cryostat, don't do 100% ethanol fixation and air dry 1-2 mins before dry ice transfer
+2. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
    1. 30 minutes at -20 ºC
    2. 30 minutes at 4°C
    3. 15 minutes at room temp
-4. Remove OCT with ice cold solutions
+3. Remove OCT with ice cold solutions
    1. 1 min - RNAse-free 75% ethanol
    2. 45 s - RNAse-free 50% ethanol
    3. 30 s - RNAse-free 30% ethanol
    4. **maybe - 30 s RNAse free Water**
-5. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
-6. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
+4. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
+5. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
    1. **maybe decrease time??**
-7. Remove stain and dehydrate
+6. Remove stain and dehydrate
    1. 30 s dips - RNAse-free 75% ethanol
    2. 30 s - RNAse-free 96% ethanol
    3. 1 min - 100% ethanol

@@ -92,3 +92,15 @@ Quick reference:
   - The RNA is going to be at least a little degraded, and will be difficult to detect simply because of the low volume. 
   - However, I have had success with achieving faint 16S/18S bands and concentrations generally around 0.3 ng/uL, which has been good enough for the low-input RNA library prep kit I am using.
   - [DV200 values](https://www.agilent.com/en/promotions/tapestation-dv200-determination) are a metric of RNA integrity for degraded RNA, and a DV200 of ~60% or higher is generally a good sign that there is RNA in the sample that is usable.
+
+
+## LCM samples 5/6/26
+
+- AM of 5/8/26
+  - followed above protocol exactly, totally failed
+- PM of 5/8/26
+  - followed above protocol with 1hr 52 ºC proK digestion instead of 15 mins RT, maybe marginally better?
+
+Next steps:
+- try LCM again with more OCT removal in the staining
+- try extracting from Slide 1 or from the 4/28 LCM samples
