@@ -60,13 +60,13 @@ Example images:
 
 ![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/POR_LCM/20260428/Slide2_OV_5X.jpg)
 
-![SLIDE1_SECTION1_AREA1_TUBE11_OE_1.TIF](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/POR_LCM/20260428/SLIDE1_SECTION1_AREA1_TUBE11_OE_1.TIF)
+<img width="500" alt="OE" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/POR_LCM/20260428/SLIDE1_SECTION1_AREA1_TUBE11_OE_1.jpeg?raw=true">
 
-![SLIDE1_SECTION1_AREA1_TUBE12_OG_1.TIF](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/POR_LCM/20260428/SLIDE1_SECTION1_AREA1_TUBE12_OG_1.TIF)
+<img width="500" alt="OG" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/POR_LCM/20260428/SLIDE1_SECTION1_AREA1_TUBE12_OG_1.jpeg?raw=true">
 
-![SLIDE1_SECTION5_AREA2.TIF](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/POR_LCM/20260428/SLIDE1_SECTION5_AREA2.TIF)
+<img width="500" alt="OE" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/POR_LCM/20260428/SLIDE1_SECTION5_AREA2.jpeg?raw=true">
 
-![SLIDE1_SECTION5_AREA2_TUBE2_OG_2.TIF](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/POR_LCM/20260428/SLIDE1_SECTION5_AREA2_TUBE2_OG_2.TIF)
+<img width="500" alt="OG" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/POR_LCM/20260428/SLIDE1_SECTION5_AREA2_TUBE2_OG_2.jpeg?raw=true">
 
 ---
 
