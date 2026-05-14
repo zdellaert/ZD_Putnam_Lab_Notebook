@@ -41,6 +41,9 @@ tags: [Pocillopora, Porites, LCM]
 
 1. 30 minutes before sectioning, move block containing tissue to -20 ºC freezer. Keep in sealed container.
 2. Also put brushes, forceps, and other supplies that will be used in the cryostat at -20 ºC to speed up equibriation to cryostat temperature when you get there
+   1. brushes
+   2. forceps
+   3. razor blades
 3. Transport tissue and these supplies to cryostat on dry ice.
 
 ### Bring to sectioning
@@ -51,11 +54,14 @@ tags: [Pocillopora, Porites, LCM]
 3. [Glass Superfrost Plus slides](https://www.fishersci.com/shop/products/fisherbrand-superfrost-plus-microscope-slides-2/p-45174#?keyword=superfrost%20plus)
 4. Prepared PEN slides (above)
 5. Cling wrap
-6. Forceps
-7. Paintbrushes
-8. Razor Blades
-9. Falcon tubes with silica dessicant pouches
-10. [Slide mailers for staining/storing slides](https://www.amazon.com/Heathrow-Scientific-HD15986-Natural-Polypropylene/dp/B0061OTA00/ref=sr_1_6?crid=3TZF8W5FSYV3L&keywords=slide+mailer&qid=1697471771&s=industrial&sprefix=slide+mailer%2Cindustrial%2C181&sr=1-6)
+6. 70% ethanol and RNAse away for cleaning
+7. Kimwipes + paper towels
+8. Forceps
+9. Sharpie, pen, & pencil
+10. Paintbrushes
+11. Razor Blades
+12. Falcon tubes with silica dessicant pouches
+13. [Slide mailers for staining/storing slides](https://www.amazon.com/Heathrow-Scientific-HD15986-Natural-Polypropylene/dp/B0061OTA00/ref=sr_1_6?crid=3TZF8W5FSYV3L&keywords=slide+mailer&qid=1697471771&s=industrial&sprefix=slide+mailer%2Cindustrial%2C181&sr=1-6)
 
 ### Sectioning protocol
 
@@ -206,20 +212,21 @@ Tubes to prepare:
 
 ### Bring to LCM
 
-   1. Benchtop mini-centrifuge
-   2. Lab notebook
-   3. 70% ethanol and RNAse away for cleaning
-   4. Kimwipes + paper towels
-   5. Gloves
-   6. p200 + tips
-   7. Dry ice for tubes (& slides when done dissecting)
-   8. PCR tube racks (or empty tip boxes)
+   1. Benchtop mini centrifuge
+   2. Benctop mini vortex
+   3. Lab notebook
+   4. 70% ethanol and RNAse away for cleaning
+   5. Kimwipes + paper towels
+   6. Gloves
+   7. p200 + tips
+   8. Dry ice for tubes (& slides when done dissecting)
+   9. PCR tube racks (or empty tip boxes)
       1.  (Keep one rack with clean closed tubes at RT and one in the dry ice cooler)
-   9. RNAse free 0.2 mL PCR tubes
-   10. Digestion buffer:
+   10. RNAse free 0.2 mL PCR tubes
+   11. Digestion buffer:
        1.  Zymo 2X Digestion Buffer (95 µL) + RNAse-free water (95 µL) + Proteinase K (10 µL, 20 mg/mL stock = 1 mg/mL final).
        2.  Need 40 uL per tube, make enough for the amount of tubes you need (200 uL above is enough for 5 tubes)
-   11. LCM slides prepared above
+   12. LCM slides prepared above
 
 ### Protocol
 
