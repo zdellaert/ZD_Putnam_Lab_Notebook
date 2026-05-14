@@ -82,6 +82,7 @@ Slide 2:
    1. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
    2. **Attempt to remove OCT by submerging ice-cold 75% ethanol for 2 mins**
    3. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
+      1. **Incubated for closer to 30 seconds**
    4. Rinse off stain by (pipetting) with ice-cold 70% ethanol
    5. And then place back on clean petri dish and cover slide with ice-cold 70% ethanol
       1. (ideally the ethanol just stays on the slide but if it rolls off then gently submerge the slide in 70% ethanol)
@@ -235,10 +236,13 @@ Example images:
 <img width="300" alt="OG" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/POR_LCM/20260513/Slide2_Section2_Tube53_BULK.jpeg">
 
 ## Current thoughts
-- Original protocol of **70% EtOH + RNase‑free water + 100% EtOH** gives the best OCT removal but tissue quality still isn't ideal
-- **Ethanol‑only** (70/75/96/100) is safer for tissue adhesion but leaves too much OCT to see tissue layers
-- Full **PAXgene‑like** (75/50/30 + water) protocol is really good for OCT removal but the adhesion isn't good enough  
-- Next step/goal:
+- Original protocol of **70% EtOH + RNase‑free water + 100% EtOH** gives the best OCT removal with tissue present but tissue quality still isn't ideal
+- **Ethanol‑only** (75/96/100) is safer for tissue adhesion but leaves too much OCT to see tissue layers
+- **PAXgene‑like** (75/50/30 + water) protocol is really good for OCT removal but the tissue is horrendous
+
+### Next time I stain/section // for the Time Series if we feel okay moving forward:
+
+- Maybe we could move forward with the stain-less protocol and swap the RNAse free H2O step for a 50% ethanol step?
   1. 3 min 70% EtOH
   2. 2 min 70% EtOH
   3. **30 s 50% EtOH**
@@ -246,6 +250,8 @@ Example images:
   5. 30s 96% EtOH
   6. 1 min 100% EtOH
   7. Dried in fume hood
+
+- Or possibly add back in very light staining because it does help (like May 6)
 
 ## RNA extraction results:
 
