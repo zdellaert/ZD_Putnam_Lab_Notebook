@@ -182,7 +182,7 @@ Tubes collected on 5/13/26: 60-63
    1. 3 min 70% EtOH
    2. 2 min 70% EtOH
    3. 10 s RNAse free H2O
-   4. 30s min 70% EtOH
+   4. 30s 70% EtOH
    5. 30s 96% EtOH
    6. 1 min 100% EtOH
    7. Dried in fume hood
@@ -203,7 +203,14 @@ Example images:
 ![](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/random/POR_LCM/20260513/POR_R72_C2_Slide2_Nostain_5x_OV.jpg)
 
 ## Current interpretation
-- **70% EtOH + RNase‑free water + 100% EtOH** gives the best OCT removal but consistently damages adhesion on PEN.  
-- **Ethanol‑only** (70/75/96/100) is safer mechanically but leaves too much OCT to comfortably see tissue layers.  
-- Full PAXgene‑like 75/50/30 + water is too harsh for this FxF/PEN/handling combination: great OCT but tons of tissue loss.  
-- A workable compromise will likely be a **short, robust 70% EtOH series**, possibly with a *very* limited 50% step, and **no water**, plus acceptance of some residual OCT and/or use of separate QC H&E slides for orientation.
+- Original protocol of **70% EtOH + RNase‑free water + 100% EtOH** gives the best OCT removal but tissue quality still isn't ideal
+- **Ethanol‑only** (70/75/96/100) is safer for tissue adhesion but leaves too much OCT to see tissue layers
+- Full **PAXgene‑like** (75/50/30 + water) protocol is really good for OCT removal but the adhesion isn't good enough  
+- Next step/goal:
+  1. 3 min 70% EtOH
+  2. 2 min 70% EtOH
+  3. **30 s 50% EtOH**
+  4. 30s 70% EtOH
+  5. 30s 96% EtOH
+  6. 1 min 100% EtOH
+  7. Dried in fume hood
