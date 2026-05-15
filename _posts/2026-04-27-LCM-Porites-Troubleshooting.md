@@ -303,13 +303,12 @@ Best results seem to come from **1 hr 56C 1400rpm** protocol.
 | POR_R72_C2_1           | 2                                        | 60     | 5                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 343,268               | 1 hr 56C 1400rpm   | 1                          | 35.4            | 283        | 0.0008  |
 | POR_R72_C2_1           | 2                                        | 61     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26   | 239,654               | 15 min 56C 1400rpm | 2                          | 26.5            | 212        | 0.0009  |
 
-<img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-AM.png">
-
-<img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-PM.png">
-
-<img width="300" alt="2026-05-13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-13.png">
-
-<img width="300" alt="2026-05-14.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-14.png">
+|   |   |
+|--|--|
+| <img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-AM.png"> | 17, 18, 21 |
+| <img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-PM.png"> | 22, 23, 24 |
+| <img width="300" alt="2026-05-13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-13.png"> | 1, 2, 9, 13, 31, 32, 33, 34 |
+| <img width="300" alt="2026-05-14.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-14.png"> |  51, 52, 55, 60, 61 |
 
 ## RNA Library Prep:
 
