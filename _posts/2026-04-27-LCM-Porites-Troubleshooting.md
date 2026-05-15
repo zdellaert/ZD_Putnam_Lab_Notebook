@@ -252,6 +252,19 @@ Example images:
   7. Dried in fume hood
 
 - Or possibly add back in very light staining because it does help (like May 6)
+   1. Cover with ice-cold **70% ethanol for 2-3 mins**
+   2. Replace with fresh ice-cold **70% ethanol for 2 mins**
+   3. Apply cresyl violet staining (in 100% ethanol), incubate **30 seconds**
+   4. Pour off excess stain
+   5. Cover slide with **ice-cold 70% ethanol**, 30s
+   6. Pour off excess stain
+   7. Cover slide with fresh **ice-cold 70% ethanol**, 30s
+   8.  If any OCT remains, rinse or gently submerge slide in **ice-cold RNAse-free water for 10s**
+   9.  Dehydrate:
+       1.  30s 70% EtOH
+       2.  30s 96% EtOH
+       3.  1 min 100% EtOH
+       4.  Dry in fume hood
 
 ## RNA extraction results:
 
@@ -289,6 +302,14 @@ Best results seem to come from **1 hr 56C 1400rpm** protocol.
 | POR_R72_C2_2_unstained | 3                                        | 55     | 6                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 276,815               | 1 hr 56C 1400rpm   | 2                          | 24.4            | 195        | 0.0007  |
 | POR_R72_C2_1           | 2                                        | 60     | 5                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 343,268               | 1 hr 56C 1400rpm   | 1                          | 35.4            | 283        | 0.0008  |
 | POR_R72_C2_1           | 2                                        | 61     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26   | 239,654               | 15 min 56C 1400rpm | 2                          | 26.5            | 212        | 0.0009  |
+
+<img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-AM.png">
+
+<img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-PM.png"
+
+<img width="300" alt="2026-05-13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-13.png"
+
+<img width="300" alt="2026-05-14.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-14.png"
 
 ## RNA Library Prep:
 
