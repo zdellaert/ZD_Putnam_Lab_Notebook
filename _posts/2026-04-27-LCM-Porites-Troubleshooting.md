@@ -321,3 +321,26 @@ As noted above, my RNA concentrations are much much lower than I am used to for 
 | POR_R72_C2_1 | 2                                        | 61     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26 | 239,654               | 15 min 56C 1400rpm | 2.0                        | 26.5            | 212        | 0.0009  |
 
 [Library Prep Protocol Here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2026-04-24-LCM-TS-Low-Input-RNA-Library-Prep.md)
+
+
+### 5/15/26 cDNA Results
+
+I used 20 cycles for cDNA amplification (Step 2.4.3). They look pretty great!
+
+<img width="600" alt="cDNA-all.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_D5000.png">
+
+<img width="600" alt="cDNA_13.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_13.png">
+
+<img width="600" alt="cDNA_34.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_34.png">
+
+<img width="600" alt="cDNA_61.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_61.png">
+
+cDNA and planned cycles/indeces
+
+| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles  for final step | Index_ID  | index  |
+|--------------|--------------------|----------------------------------|------------|-----------|--------|
+| #13          | 2.26               | 58.76                            |            |   |   |
+| #34          | 3.09               | 80.34                            |            |   |   |
+| #64          | 3.05               | 79.30                            |            |   |   |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000.pdf).
