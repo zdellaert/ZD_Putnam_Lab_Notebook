@@ -327,7 +327,7 @@ As noted above, my RNA concentrations are much much lower than I am used to for 
 
 I used 20 cycles for cDNA amplification (Step 2.4.3). They look pretty great!
 
-<img width="600" alt="cDNA-all.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_D5000.png">
+<img width="200" alt="cDNA-all.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_D5000.png">
 
 <img width="600" alt="cDNA_13.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_13.png">
 
@@ -337,10 +337,10 @@ I used 20 cycles for cDNA amplification (Step 2.4.3). They look pretty great!
 
 cDNA and planned cycles/indeces
 
-| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles  for final step | Index_ID  | index  |
-|--------------|--------------------|----------------------------------|------------|-----------|--------|
-| #13          | 2.26               | 58.76                            |            |   |   |
-| #34          | 3.09               | 80.34                            |            |   |   |
-| #64          | 3.05               | 79.30                            |            |   |   |
+| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles for final step | Index_ID  | index  |
+|--------------|--------------------|----------------------------------|------------|--------------|--------|
+| #13          | 2.26               | 58.76                            |            |  E7500S-18   | GTCCGC |
+| #34          | 3.09               | 80.34                            |            |  E7500S-22   | CGTACG |
+| #61          | 3.05               | 79.30                            |            |  E7500S-23   | GAGTGG |
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000.pdf).
