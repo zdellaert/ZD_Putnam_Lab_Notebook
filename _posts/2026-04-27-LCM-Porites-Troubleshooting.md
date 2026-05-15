@@ -305,11 +305,11 @@ Best results seem to come from **1 hr 56C 1400rpm** protocol.
 
 <img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-AM.png">
 
-<img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-PM.png"
+<img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-PM.png">
 
-<img width="300" alt="2026-05-13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-13.png"
+<img width="300" alt="2026-05-13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-13.png">
 
-<img width="300" alt="2026-05-14.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-14.png"
+<img width="300" alt="2026-05-14.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-14.png">
 
 ## RNA Library Prep:
 
