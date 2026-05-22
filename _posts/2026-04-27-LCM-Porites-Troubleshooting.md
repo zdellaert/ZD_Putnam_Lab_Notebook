@@ -252,16 +252,19 @@ Example images:
   7. Dried in fume hood
 
 - Or possibly add back in very light staining because it does help (like May 6)
+- Trying 5/22/26:
    1. Cover with ice-cold **70% ethanol for 2-3 mins**
    2. Replace with fresh ice-cold **70% ethanol for 2 mins**
-   3. Apply cresyl violet staining (in 100% ethanol), incubate **30 seconds**
-   4. Pour off excess stain
-   5. Cover slide with **ice-cold 70% ethanol**, 30s
-   6. Pour off excess stain
-   7. Cover slide with fresh **ice-cold 70% ethanol**, 30s
-   8.  If any OCT remains, rinse or gently submerge slide in **ice-cold RNAse-free water for 10s**
-   9.  Dehydrate:
-       1.  30s 70% EtOH
+   3. Replace with 100% ethanol for 30s
+   4. Apply cresyl violet staining (in 100% ethanol), incubate **30 seconds**
+   5. Pour off excess stain
+   6. Cover slide with **ice-cold 70% ethanol**, 30s
+   7. Pour off excess stain
+   8. Cover slide with fresh **ice-cold 70% ethanol**, 30s
+   9.  If any OCT remains, rinse or gently submerge slide in **ice-cold RNAse-free water for 10s**
+   10. Then immediately back into **ice-cold 70% ethanol**
+   11. Dehydrate:
+       1.  30-60s 70% EtOH
        2.  30s 96% EtOH
        3.  1 min 100% EtOH
        4.  Dry in fume hood
