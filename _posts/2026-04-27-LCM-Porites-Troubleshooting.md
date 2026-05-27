@@ -235,12 +235,88 @@ Example images:
 
 <img width="300" alt="OG" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/POR_LCM/20260513/Slide2_Section2_Tube53_BULK.jpeg">
 
-## Current thoughts
+#### Current thoughts
 - Original protocol of **70% EtOH + RNase‑free water + 100% EtOH** gives the best OCT removal with tissue present but tissue quality still isn't ideal
 - **Ethanol‑only** (75/96/100) is safer for tissue adhesion but leaves too much OCT to see tissue layers
 - **PAXgene‑like** (75/50/30 + water) protocol is really good for OCT removal but the tissue is horrendous
 
-### Next time I stain/section // for the Time Series if we feel okay moving forward:
+### Thursday, 5/21/26
+
+Sectioned two slides each of POR_R3_H1 & POR_R72_H1. Did 12 um thick sections. Dried 2 mins in cryostat, then put in 50 mL tube with silica packet at room temperature for 15 minutes, then transferred to dry ice.
+
+### Friday AM, 5/22/26
+
+1. Cover with ice-cold **70% ethanol for 2-3 mins**
+2. Replace with fresh ice-cold **70% ethanol for 2 mins**
+3. Replace with 100% ethanol for 30s
+4. Apply cresyl violet staining (in 100% ethanol), incubate **30 seconds**
+5. Pour off excess stain
+6. Cover slide with **ice-cold 70% ethanol**, 30s
+7. Pour off excess stain
+8. Cover slide with fresh **ice-cold 70% ethanol**, 30s
+9.  If any OCT remains, rinse or gently submerge slide in **ice-cold RNAse-free water for 10s**
+10. Then immediately back into **ice-cold 70% ethanol**
+11. Dehydrate:
+   1.  30-60s 70% EtOH
+   2.  30s 96% EtOH
+   3.  1 min 100% EtOH
+   4.  Dry in fume hood
+
+#### LCM Staining + Tissue Quality Assessment
+
+Did not look good. Collected tubes 101-108. Tube 107 spilled.
+
+### Friday PM, 5/22/26
+
+0. Did all staining in reagent troughs
+1. Cover with ice-cold **70% ethanol for 2-3 mins**
+2. Dunk in cold RNAse free water 5-6 times to try to remove OCT
+3. Dunk in 70% ethanol to remove water
+4. Apply cresyl violet staining (in 100% ethanol), incubate **30 seconds**
+5. Dunk in 70% ethanol to remove stain
+6. Cover with ice-cold **70% ethanol for 30s**
+7. Cover slide with **100% ethanol**, 1 minute
+8. Dry in fume hood
+
+#### LCM Staining + Tissue Quality Assessment
+
+POR R7 H2 slide was basically ruined, all the tissue came off while dunking in water. POR R3 H1 worked okay but looked bad on the scope. A lot of tissue loss.
+
+Collected 2 tubes 109-110.
+
+### Tuesday, 5/26/26
+
+- POC R3 C2 - 2 slides, one with 70% ethanol at cryostat one without
+- POR R72 H1 - 1 slide with 70% ethanol at cryostat
+- Ones with ethanol:
+  - Dried 1 minute in cryostat
+  - Dried 1 minute at RT in petri dish
+  - Covered with cold 70% ethanol for 30s-1 min with swirling
+  - Dried and then put in falcon tube with silica to dry fully at RT for 10-15 mins before putting on dry ice
+
+### Wednesday AM, 5/27/26
+
+Try standard protocol on the POC slides.
+
+*Procedure:*
+1. Morning of LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
+   1. 30 minutes at -20 ºC
+   2. 30 minutes at 4°C
+   3. 15 minutes at room temp
+2. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
+3. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 1 minute, swivel gently
+4. Rinse off stain by (pipetting) with ice-cold 70% ethanol
+5. And then place back on clean petri dish and cover slide with ice-cold 70% ethanol
+   1. (ideally the ethanol just stays on the slide but if it rolls off then gently submerge the slide in 70% ethanol)
+   2. **Ideally this removes all the OCT**. And hopefully no tissue.
+   3. Be as gentle as possible and keep everything as cold as possible
+6. If any OCT remains, rinse or gently submerge slide in ice-cold RNAse-free water
+   1. make sure this is not directly over dry ice but elevated, it will freeze if not
+7. Then submerge in or cover slide with ice-cold 100% ethanol for 1 minute to fully dry tissue and remove any excess water
+8. Air dry sample 1-2 in drying chamber with desiccant (or falcon tube with silica) or fume hood
+   1. Proceed to LCM now, transport slide in falcon tube with silica packet
+
+### Other potenital ideas:
 
 - Maybe we could move forward with the stain-less protocol and swap the RNAse free H2O step for a 50% ethanol step?
   1. 3 min 70% EtOH
@@ -250,24 +326,6 @@ Example images:
   5. 30s 96% EtOH
   6. 1 min 100% EtOH
   7. Dried in fume hood
-
-- Or possibly add back in very light staining because it does help (like May 6)
-- Trying 5/22/26:
-   1. Cover with ice-cold **70% ethanol for 2-3 mins**
-   2. Replace with fresh ice-cold **70% ethanol for 2 mins**
-   3. Replace with 100% ethanol for 30s
-   4. Apply cresyl violet staining (in 100% ethanol), incubate **30 seconds**
-   5. Pour off excess stain
-   6. Cover slide with **ice-cold 70% ethanol**, 30s
-   7. Pour off excess stain
-   8. Cover slide with fresh **ice-cold 70% ethanol**, 30s
-   9.  If any OCT remains, rinse or gently submerge slide in **ice-cold RNAse-free water for 10s**
-   10. Then immediately back into **ice-cold 70% ethanol**
-   11. Dehydrate:
-       1.  30-60s 70% EtOH
-       2.  30s 96% EtOH
-       3.  1 min 100% EtOH
-       4.  Dry in fume hood
 
 ## RNA extraction results:
 
