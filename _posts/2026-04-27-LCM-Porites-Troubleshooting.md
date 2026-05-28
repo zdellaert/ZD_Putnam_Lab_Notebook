@@ -388,13 +388,13 @@ As noted above, my RNA concentrations are much much lower than I am used to for 
 
 I used 20 cycles for cDNA amplification (Step 2.4.3). They look pretty great!
 
-<img width="200" alt="cDNA-all.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_D5000.png">
+<img width="200" alt="cDNA-all.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_D5000.png">
 
-<img width="600" alt="cDNA_13.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_13.png">
+<img width="600" alt="cDNA_13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_13.png">
 
-<img width="600" alt="cDNA_34.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_34.png">
+<img width="600" alt="cDNA_34.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_34.png">
 
-<img width="600" alt="cDNA_61.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_61.png">
+<img width="600" alt="cDNA_61.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/2026-05-15-NEB-cDNA-D5000/cDNA_61.png">
 
 cDNA and planned cycles/indeces
 
@@ -411,13 +411,13 @@ Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Note
 
 I used 8 cycles for Final Library amplification (Step 2.10.3). They look amazing!!
 
-<img width="200" alt="lib-all.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_all.png">
+<img width="200" alt="lib-all.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_all.png">
 
-<img width="600" alt="lib_13.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_13.png">
+<img width="600" alt="lib_13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_13.png">
 
-<img width="600" alt="lib_34.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_34.png">
+<img width="600" alt="lib_34.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_34.png">
 
-<img width="600" alt="lib_61.png" src="https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_61.png">
+<img width="600" alt="lib_61.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_61.png">
 
 Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-Lib.pdf).
 
