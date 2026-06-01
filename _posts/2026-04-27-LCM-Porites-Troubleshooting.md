@@ -235,10 +235,110 @@ Example images:
 
 <img width="300" alt="OG" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/random/POR_LCM/20260513/Slide2_Section2_Tube53_BULK.jpeg">
 
-#### Current thoughts
+## RNA extraction results (up to 5/14/26):
+
+My [RNA concentrations](https://docs.google.com/spreadsheets/d/1iXE60arOpAE1sDYm0sR2PGPPH7mQKXzS5cIpavmqhCU/edit?usp=sharing) are much much lower than I am used to for LCM.
+
+[Extraction Protocol Here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2026-05-08-LCM-RNA-Microprep.md). I follow this closely, but there are some modifications I have tried in increase yield, noted in the table below:
+- Different cell collection buffers (my normal PK buffer, DNA/RNA shield, or RNA Lysis buffer)
+- Different digestion times
+  - 15 min RT  = 15 minutes room temperature 
+  - 15 min 56C 1400rpm = 15 minutes at 56 ºC on thermomixer 1400 rpm
+  - 1 hr 56C 1400rpm = 1 hour at 56 ºC on thermomixer 1400 rpm
+  - 1 hr 52C = 1 hour at 52 ºC in the Incubator Genie, gentle shaking
+  - Overnight 56C = Overnight (5pm-10:30am) at 56 ºC in the Incubator Genie, no shaking
+
+Best results seem to come from **1 hr 56C 1400rpm** protocol.
+
+| Slide                  | Section | Tube # | Number dissections | Tissue             | Extraction Buffer | Notes               | Total Dissection Area | Digestion          | Tapestation assessment 1-3 | TS Conc (pg/uL) | pg in 8 uL | pg/area |
+|------------------------|------------------------------------------|--------|--------------------|--------------------|-------------------|---------------------|-----------------------|--------------------|----------------------------|-----------------|------------|---------|
+| POR_3_Slide1           | 5                                        | 1      | 5                  | oral epidermis     | PK Buffer         | extracted 5/13/26   | 160,516               | 15 min RT          | 1                          | 44.6            | 357        | 0.0022  |
+| POR_3_Slide1           | 5                                        | 2      | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/13/26   | 86,158                | 1 hr 56C 1400rpm   | 1                          | 54.9            | 439        | 0.0051  |
+| POR_3_Slide1           | 4                                        | 9      | 1                  | bulk - all tissues | PK Buffer         | extracted 5/13/26   | 3,215,616             | 15 min RT          | 2                          | 48.1            | 385        | 0.0001  |
+| POR_3_Slide1           | 1                                        | 13     | 2                  | bulk - all tissues | PK Buffer         | extracted 5/13/26   | 6,681,317             | 1 hr 56C 1400rpm   | 3                          | 108.0           | 864        | 0.0001  |
+| POR_4_Slide1           | 1                                        | 17     | 3                  | oral epidermis     | PK Buffer         | extracted 5/8/26 PM | 234,535               | 1 hr 52C           | 1                          | 33.0            | 264        | 0.0011  |
+| POR_4_Slide1           | 1                                        | 18     | 3                  | oral gastrodermis  | PK Buffer         | extracted 5/8/26 PM | 183,347               | 1 hr 52C           | 1                          | 33.9            | 271        | 0.0015  |
+| POR_4_Slide1           | 4                                        | 21     | 5                  | oral epidermis     | PK Buffer         | extracted 5/8/26 AM | 346,744               | 15 min RT          | 1                          | 43.5            | 348        | 0.0010  |
+| POR_4_Slide1           | 4                                        | 22     | 6                  | oral gastrodermis  | PK Buffer         | extracted 5/8/26 AM | 303,230               | 15 min RT          | 1                          | 44.7            | 358        | 0.0012  |
+| POR_4_Slide1           | 5                                        | 23     | 1                  | bulk - all tissues | PK Buffer         | extracted 5/8/26 PM | 830,657               | 1 hr 52C           | 2                          | 33.1            | 265        | 0.0003  |
+| POR_4_Slide1           | 5                                        | 24     | 1                  | bulk - all tissues | PK Buffer         | extracted 5/8/26 AM | 1,002,718             | 15 min RT          | 2                          | 38.3            | 306        | 0.0003  |
+| POR_4_Slide3           | 1                                        | 31     | 1                  | bulk               | DNA/RNA Shield    | extracted 5/13/26   | 2,401,591             | 15 min RT          | 1                          | 46.3            | 370        | 0.0002  |
+| POR_4_Slide3           | 2                                        | 32     | 1                  | bulk               | DNA/RNA Shield    | extracted 5/13/26   | 2,575,547             | 15 min 56C 1400rpm | 2                          | 46.1            | 369        | 0.0001  |
+| POR_4_Slide3           | 4                                        | 33     | 1                  | bulk               | RNA Lysis Buffer  | extracted 5/13/26   | 1,861,138             | 15 min RT          | 1                          | 48.4            | 387        | 0.0002  |
+| POR_4_Slide3           | 5                                        | 34     | 1                  | bulk               | PK Buffer         | extracted 5/13/26   | 2,534,590             | 15 min 56C 1400rpm | 3                          | 65.9            | 527        | 0.0002  |
+| POR_R72_C2_2_unstained | 2                                        | 51     | 5                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 110,765               | Overnight 56C      | 1                          | 31.4            | 251        | 0.0023  |
+| POR_R72_C2_2_unstained | 2                                        | 52     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26   | 84,931                | 1 hr 56C 1400rpm   | 1                          | 27.1            | 217        | 0.0026  |
+| POR_R72_C2_2_unstained | 3                                        | 55     | 6                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 276,815               | 1 hr 56C 1400rpm   | 2                          | 24.4            | 195        | 0.0007  |
+| POR_R72_C2_1           | 2                                        | 60     | 5                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 343,268               | 1 hr 56C 1400rpm   | 1                          | 35.4            | 283        | 0.0008  |
+| POR_R72_C2_1           | 2                                        | 61     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26   | 239,654               | 15 min 56C 1400rpm | 2                          | 26.5            | 212        | 0.0009  |
+
+|   |   |
+|--|--|
+| <img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-AM.png"> | 17, 18, 21 |
+| <img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-PM.png"> | 22, 23, 24 |
+| <img width="300" alt="2026-05-13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-13.png"> | 1, 2, 9, 13, 31, 32, 33, 34 |
+| <img width="300" alt="2026-05-14.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-14.png"> |  51, 52, 55, 60, 61 |
+
+## RNA Library Prep:
+
+As noted above, my RNA concentrations are much much lower than I am used to for LCM. But I still want to test these samples to see what we can get. So started library prep on 5/14/26 for the following samples:
+
+| Slide        | Section | Tube # | Number dissections | Tissue             | Extraction Buffer | Notes             | Total Dissection Area | Digestion          | Tapestation assessment 1-3 | TS Conc (pg/uL) | pg in 8 uL | pg/area |
+|--------------|------------------------------------------|--------|--------------------|--------------------|-------------------|-------------------|-----------------------|--------------------|----------------------------|-----------------|------------|---------|
+| POR_3_Slide1 | 1                                        | 13     | 2                  | bulk - all tissues | PK Buffer         | extracted 5/13/26 | 6,681,317             | 1 hr 56C 1400rpm   | 3                          | 108.0           | 864        | 0.0001  |
+| POR_4_Slide3 | 5                                        | 34     | 1                  | bulk               | PK Buffer         | extracted 5/13/26 | 2,534,590             | 15 min 56C 1400rpm | 3                          | 65.9            | 527        | 0.0002  |
+| POR_R72_C2_1 | 2                                        | 61     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26 | 239,654               | 15 min 56C 1400rpm | 2.0                        | 26.5            | 212        | 0.0009  |
+
+[Library Prep Protocol Here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2026-04-24-LCM-TS-Low-Input-RNA-Library-Prep.md)
+
+
+### 5/15/26 cDNA Results
+
+I used 20 cycles for cDNA amplification (Step 2.4.3). They look pretty great!
+
+<img width="200" alt="cDNA-all.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_D5000.png">
+
+<img width="600" alt="cDNA_13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_13.png">
+
+<img width="600" alt="cDNA_34.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_34.png">
+
+<img width="600" alt="cDNA_61.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_61.png">
+
+cDNA and planned cycles/indeces
+
+| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles for final step | Index_ID  | index  |
+|--------------|--------------------|----------------------------------|------------|--------------|--------|
+| #13          | 2.26               | 58.76                            |            |  E7500S-18   | GTCCGC |
+| #34          | 3.09               | 80.34                            |            |  E7500S-22   | CGTACG |
+| #61          | 3.05               | 79.30                            |            |  E7500S-23   | GAGTGG |
+
+Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000.pdf).
+
+
+### 5/15/26 Final Library Results
+
+I used 8 cycles for Final Library amplification (Step 2.10.3). They look amazing!!
+
+<img width="200" alt="lib-all.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_all.png">
+
+<img width="600" alt="lib_13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_13.png">
+
+<img width="600" alt="lib_34.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_34.png">
+
+<img width="600" alt="lib_61.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_61.png">
+
+Full results can be found [here](https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads//master/images/tapestation/2026-05-15-NEB-Lib.pdf).
+
+### Pooling
+
+Submitting a pool of 50 uL at 4 nM concentration.
+
+## Current thoughts
 - Original protocol of **70% EtOH + RNase‑free water + 100% EtOH** gives the best OCT removal with tissue present but tissue quality still isn't ideal
 - **Ethanol‑only** (75/96/100) is safer for tissue adhesion but leaves too much OCT to see tissue layers
 - **PAXgene‑like** (75/50/30 + water) protocol is really good for OCT removal but the tissue is horrendous
+
+## Further testing
 
 ### Thursday, 5/21/26
 
@@ -316,111 +416,93 @@ Try standard protocol on the POC slides.
 8. Air dry sample 1-2 in drying chamber with desiccant (or falcon tube with silica) or fume hood
    1. Proceed to LCM now, transport slide in falcon tube with silica packet
 
-### Other potenital ideas:
+#### LCM Staining + Tissue Quality Assessment
 
-- Maybe we could move forward with the stain-less protocol and swap the RNAse free H2O step for a 50% ethanol step?
-  1. 3 min 70% EtOH
-  2. 2 min 70% EtOH
-  3. **30 s 50% EtOH**
-  4. 30s 70% EtOH
-  5. 30s 96% EtOH
-  6. 1 min 100% EtOH
-  7. Dried in fume hood
+POC slides looked good, the one without 70% ethanol was marginally better than the one with. However, I want to keep in mind that my original POC success ahd a 100% ethanol step at the cryostat, which I should consider again.
 
-## RNA extraction results:
+Collected tubes 201-214.
 
-My [RNA concentrations](https://docs.google.com/spreadsheets/d/1iXE60arOpAE1sDYm0sR2PGPPH7mQKXzS5cIpavmqhCU/edit?usp=sharing) are much much lower than I am used to for LCM.
+Extraction notes: didn't go super well. Really low concentrations for POC. 
 
-[Extraction Protocol Here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2026-05-08-LCM-RNA-Microprep.md). I follow this closely, but there are some modifications I have tried in increase yield, noted in the table below:
-- Different cell collection buffers (my normal PK buffer, DNA/RNA shield, or RNA Lysis buffer)
-- Different digestion times
-  - 15 min RT  = 15 minutes room temperature 
-  - 15 min 56C 1400rpm = 15 minutes at 56 ºC on thermomixer 1400 rpm
-  - 1 hr 56C 1400rpm = 1 hour at 56 ºC on thermomixer 1400 rpm
-  - 1 hr 52C = 1 hour at 52 ºC in the Incubator Genie, gentle shaking
-  - Overnight 56C = Overnight (5pm-10:30am) at 56 ºC in the Incubator Genie, no shaking
+### Friday, 5/29/26
 
-Best results seem to come from **1 hr 56C 1400rpm** protocol.
+- POR R72 C2 - 2 slides with 100% ethanol at cryostat
+  - Dried 1 minute in cryostat
+  - Dried 1 minute at RT in petri dish
+  - Covered with cold 100% ethanol for 30s-1 min with swirling
+  - Dried and then put in falcon tube with silica to dry fully at RT for 10-15 mins before putting on dry ice
 
-| Slide                  | Section | Tube # | Number dissections | Tissue             | Extraction Buffer | Notes               | Total Dissection Area | Digestion          | Tapestation assessment 1-3 | TS Conc (pg/uL) | pg in 8 uL | pg/area |
-|------------------------|------------------------------------------|--------|--------------------|--------------------|-------------------|---------------------|-----------------------|--------------------|----------------------------|-----------------|------------|---------|
-| POR_3_Slide1           | 5                                        | 1      | 5                  | oral epidermis     | PK Buffer         | extracted 5/13/26   | 160,516               | 15 min RT          | 1                          | 44.6            | 357        | 0.0022  |
-| POR_3_Slide1           | 5                                        | 2      | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/13/26   | 86,158                | 1 hr 56C 1400rpm   | 1                          | 54.9            | 439        | 0.0051  |
-| POR_3_Slide1           | 4                                        | 9      | 1                  | bulk - all tissues | PK Buffer         | extracted 5/13/26   | 3,215,616             | 15 min RT          | 2                          | 48.1            | 385        | 0.0001  |
-| POR_3_Slide1           | 1                                        | 13     | 2                  | bulk - all tissues | PK Buffer         | extracted 5/13/26   | 6,681,317             | 1 hr 56C 1400rpm   | 3                          | 108.0           | 864        | 0.0001  |
-| POR_4_Slide1           | 1                                        | 17     | 3                  | oral epidermis     | PK Buffer         | extracted 5/8/26 PM | 234,535               | 1 hr 52C           | 1                          | 33.0            | 264        | 0.0011  |
-| POR_4_Slide1           | 1                                        | 18     | 3                  | oral gastrodermis  | PK Buffer         | extracted 5/8/26 PM | 183,347               | 1 hr 52C           | 1                          | 33.9            | 271        | 0.0015  |
-| POR_4_Slide1           | 4                                        | 21     | 5                  | oral epidermis     | PK Buffer         | extracted 5/8/26 AM | 346,744               | 15 min RT          | 1                          | 43.5            | 348        | 0.0010  |
-| POR_4_Slide1           | 4                                        | 22     | 6                  | oral gastrodermis  | PK Buffer         | extracted 5/8/26 AM | 303,230               | 15 min RT          | 1                          | 44.7            | 358        | 0.0012  |
-| POR_4_Slide1           | 5                                        | 23     | 1                  | bulk - all tissues | PK Buffer         | extracted 5/8/26 PM | 830,657               | 1 hr 52C           | 2                          | 33.1            | 265        | 0.0003  |
-| POR_4_Slide1           | 5                                        | 24     | 1                  | bulk - all tissues | PK Buffer         | extracted 5/8/26 AM | 1,002,718             | 15 min RT          | 2                          | 38.3            | 306        | 0.0003  |
-| POR_4_Slide3           | 1                                        | 31     | 1                  | bulk               | DNA/RNA Shield    | extracted 5/13/26   | 2,401,591             | 15 min RT          | 1                          | 46.3            | 370        | 0.0002  |
-| POR_4_Slide3           | 2                                        | 32     | 1                  | bulk               | DNA/RNA Shield    | extracted 5/13/26   | 2,575,547             | 15 min 56C 1400rpm | 2                          | 46.1            | 369        | 0.0001  |
-| POR_4_Slide3           | 4                                        | 33     | 1                  | bulk               | RNA Lysis Buffer  | extracted 5/13/26   | 1,861,138             | 15 min RT          | 1                          | 48.4            | 387        | 0.0002  |
-| POR_4_Slide3           | 5                                        | 34     | 1                  | bulk               | PK Buffer         | extracted 5/13/26   | 2,534,590             | 15 min 56C 1400rpm | 3                          | 65.9            | 527        | 0.0002  |
-| POR_R72_C2_2_unstained | 2                                        | 51     | 5                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 110,765               | Overnight 56C      | 1                          | 31.4            | 251        | 0.0023  |
-| POR_R72_C2_2_unstained | 2                                        | 52     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26   | 84,931                | 1 hr 56C 1400rpm   | 1                          | 27.1            | 217        | 0.0026  |
-| POR_R72_C2_2_unstained | 3                                        | 55     | 6                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 276,815               | 1 hr 56C 1400rpm   | 2                          | 24.4            | 195        | 0.0007  |
-| POR_R72_C2_1           | 2                                        | 60     | 5                  | oral epidermis     | PK Buffer         | extracted 5/14/26   | 343,268               | 1 hr 56C 1400rpm   | 1                          | 35.4            | 283        | 0.0008  |
-| POR_R72_C2_1           | 2                                        | 61     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26   | 239,654               | 15 min 56C 1400rpm | 2                          | 26.5            | 212        | 0.0009  |
+*Procedure:*
+1. Same day LCM: Bring slide up to room temperature, slowly to avoid formation of water condensation inside the container. Did the following:
+   1. 30 minutes at -20 ºC
+   2. 30 minutes at 4°C
+   3. 15 minutes at room temp
+2. Place slide on petri dish; on tube rack over dry ice (not immediately on the dry ice otherwise the 70% ethanol can freeze)
 
-|   |   |
-|--|--|
-| <img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-AM.png"> | 17, 18, 21 |
-| <img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-08-PM.png"> | 22, 23, 24 |
-| <img width="300" alt="2026-05-13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-13.png"> | 1, 2, 9, 13, 31, 32, 33, 34 |
-| <img width="300" alt="2026-05-14.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-14.png"> |  51, 52, 55, 60, 61 |
+SLIDE 1 (Pre-wash):
 
-## RNA Library Prep:
+1. Cover with ice-cold 70% ethanol to remove excess OCT, 30s
+2. Replace with fresh ice-cold 70% ethanol
+3. Cover with ice-cold 96% ethanol, 10 s
+4. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 30s, swivel gently
+5.  Rinse off stain by (pipetting) with ice-cold 100% ethanol
+6.  Will need to rinse a few times to remove all the stain
+7. Then submerge in or cover slide with ice-cold 100% ethanol for 1 minute to fully dry tissue and remove any excess water
+8.  Air dry sample 1-2 in drying chamber with desiccant (or falcon tube with silica) or fume hood
+   1. Proceed to LCM now, transport slide in falcon tube with silica packet
 
-As noted above, my RNA concentrations are much much lower than I am used to for LCM. But I still want to test these samples to see what we can get. So started library prep on 5/14/26 for the following samples:
+SLIDE 2:
 
-| Slide        | Section | Tube # | Number dissections | Tissue             | Extraction Buffer | Notes             | Total Dissection Area | Digestion          | Tapestation assessment 1-3 | TS Conc (pg/uL) | pg in 8 uL | pg/area |
-|--------------|------------------------------------------|--------|--------------------|--------------------|-------------------|-------------------|-----------------------|--------------------|----------------------------|-----------------|------------|---------|
-| POR_3_Slide1 | 1                                        | 13     | 2                  | bulk - all tissues | PK Buffer         | extracted 5/13/26 | 6,681,317             | 1 hr 56C 1400rpm   | 3                          | 108.0           | 864        | 0.0001  |
-| POR_4_Slide3 | 5                                        | 34     | 1                  | bulk               | PK Buffer         | extracted 5/13/26 | 2,534,590             | 15 min 56C 1400rpm | 3                          | 65.9            | 527        | 0.0002  |
-| POR_R72_C2_1 | 2                                        | 61     | 5                  | oral gastrodermis  | PK Buffer         | extracted 5/14/26 | 239,654               | 15 min 56C 1400rpm | 2.0                        | 26.5            | 212        | 0.0009  |
+1. Apply Cresyl violet staining solution (in 100% ethanol) directly with syringe and sterile filter to the section and incubate for 30s, swivel gently
+2.  Rinse off stain by (pipetting) with ice-cold 100% ethanol
+3.  And then place back on clean petri dish and cover slide with ice-cold 70% ethanol to remove excess stain and OCT
+4.  Will need to rinse a few times to remove all the stain
+5.  Cover with ice-cold 96% ethanol, 10 s
+6.  Then submerge in or cover slide with ice-cold 100% ethanol for 1 minute to fully dry tissue and remove any excess water
+7.  Air dry sample 1-2 in drying chamber with desiccant (or falcon tube with silica) or fume hood
+   1. Proceed to LCM now, transport slide in falcon tube with silica packet
 
-[Library Prep Protocol Here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/_posts/2026-04-24-LCM-TS-Low-Input-RNA-Library-Prep.md)
+#### LCM Staining + Tissue Quality Assessment
 
+The prewashed slide was easier to cut but outside tissue layers looked less intact than the non-prewashed slide. But the non-prewashed slide had a ton of OCT left and a lot of cracking of the OCT. Difficult to cut due to so much OCT.
 
-### 5/15/26 cDNA Results
+Collected tubes 215-224.
 
-I used 20 cycles for cDNA amplification (Step 2.4.3). They look pretty great!
+| Slide                    | Section (#d from labelled part of slide) | Tube # | Number dissections | Tissue            | Extraction Buffer | Notes                                     | Total Dissection Area | Total Dissection Area / 40 (approx # cells) | Approx Tissue Area, quick measurements -- will redo | Ratio Dissection/Tissue | Approx Tissue Area / 40 (approx # cells) |
+|--------------------------|------------------------------------------|--------|--------------------|-------------------|-------------------|-------------------------------------------|-----------------------|---------------------------------------------|-----------------------------------------------------|-------------------------|------------------------------------------|
+| POR_R72_C2_2_529         | 3                                        | 215    | 6                  | oral epidermis    | PK Buffer         | extracted 5/30                            | 405,830               | 10,146                                      | 113,703                                             | 3.57                    | 2843                                     |
+| POR_R72_C2_2_529         | 3                                        | 216    | 7                  | oral gastrodermis | PK Buffer         | extracted 5/30                            | 334,040               | 8,351                                       | 165,866                                             | 2.01                    | 4147                                     |
+| POR_R72_C2_2_529         | 2                                        | 217    | 3                  | oral epidermis    | PK Buffer         |                                           | 213,808               | 5,345                                       | 45,312                                              | 4.72                    | 1133                                     |
+| POR_R72_C2_2_529         | 2                                        | 218    | 3                  | oral gastrodermis | PK Buffer         |                                           | 160,971               | 4,024                                       | 86,392                                              | 1.86                    | 2160                                     |
+| POR_R72_C2_2_529         | 4                                        | 219    | 2                  | bulk              | PK Buffer         | extracted 5/30                            | 442,544               | 11,064                                      | 293,360                                             | 1.51                    | 7334                                     |
+| POR_R72_C2_2_529         | 5                                        | 220    | 3                  | bulk              | PK Buffer         |                                           | 425,766               | 10,644                                      | 311,347                                             | 1.37                    | 7784                                     |
+| POR_R72_C2_1_529_Prewash | 1                                        | 221    | 2                  | oral epidermis    | PK Buffer         | tissue looked worse but way easier to cut | 177,470               | 4,437                                       | 29,699                                              | 5.98                    | 742                                      |
+| POR_R72_C2_1_529_Prewash | 1                                        | 222    | 2                  | oral gastrodermis | PK Buffer         |                                           | 85,555                | 2,139                                       | 53,941                                              | 1.59                    | 1349                                     |
+| POR_R72_C2_1_529_Prewash | 1                                        | 223    | 1                  | bulk              | PK Buffer         |                                           | 1,325,972             | 33,149                                      | 828,061                                             | 1.60                    | 20702                                    |
+| POR_R72_C2_1_529_Prewash | 4                                        | 224    | 1                  | bulk              | PK Buffer         |                                           | 1,063,735             | 26,593                                      | 581,598                                             | 1.83                    | 14540                                    |
 
-<img width="200" alt="cDNA-all.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_D5000.png">
+### Extraction: 5/30/26
 
-<img width="600" alt="cDNA_13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_13.png">
-
-<img width="600" alt="cDNA_34.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-cDNA-D5000/cDNA_34.png">
-
-<img width="600" alt="cDNA_61.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/2026-05-15-NEB-cDNA-D5000/cDNA_61.png">
-
-cDNA and planned cycles/indeces
-
-| Sample Type  | cDNA concentration | amount cDNA input (conc * 26 uL) | PCR cycles for final step | Index_ID  | index  |
-|--------------|--------------------|----------------------------------|------------|--------------|--------|
-| #13          | 2.26               | 58.76                            |            |  E7500S-18   | GTCCGC |
-| #34          | 3.09               | 80.34                            |            |  E7500S-22   | CGTACG |
-| #61          | 3.05               | 79.30                            |            |  E7500S-23   | GAGTGG |
-
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-cDNA-D5000.pdf).
+| Slide            | Section (#d from labelled part of slide) | Tube # | Number dissections | Tissue            | Extraction Buffer | Notes             | Total Dissection Area | Digestion          | Tapestation assessment worst (1)-best(3) | TS Conc (pg/uL) | pg in 8 uL | pg/area |
+|------------------|------------------------------------------|--------|--------------------|-------------------|-------------------|-------------------|-----------------------|--------------------|------------------------------------------|-----------------|------------|---------|
+| POR_R72_C2_2_529 | 2                                        | 216    | 5                  | oral gastrodermis | PK Buffer         | extracted 5/30/26 | 334,040               | 15 min 56C 1400rpm | 2                                        | 60.3            | 482        | 0.0014  |
+| POR_R72_C2_2_529 | 2                                        | 215    | 5                  | oral epidermis    | PK Buffer         | extracted 5/30/26 | 405,830               | 15 min 56C 1400rpm | 2                                        | 42.7            | 342        | 0.0008  |
+| POR_R72_C2_2_529 | 2                                        | 219    | 5                  | bulk              | PK Buffer         | extracted 5/30/26 | 442,544               | 15 min 56C 1400rpm | 1                                        | 35.0            | 280        | 0.0006  |
 
 
-### 5/15/26 Final Library Results
+### Extraction validation: Is the issue the kit or just the volume of dissected tissue?
 
-I used 8 cycles for Final Library amplification (Step 2.10.3). They look amazing!!
+"Bulk" below refers to fresh adult tissue in DNA/RNA shield tube. Bulk in all instances above refers to microdissected tissues that were not tissue-layer specific but instead were big chunks of tissue. 
 
-<img width="200" alt="lib-all.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_all.png">
+| Tube | Sample Type        | Input / Source | PK Digestion        | Kit       | Elution (µL) | Conc (pg/µL) | Total RNA (pg) | Total RNA (ng) | dv200 (% >200 nt) | Notes        |
+|------|-----------------------------------------|-------------------------------------|-------------------------------|-----------|--------------|--------------|----------------|----------------|--------------------|------------------------------------|
+| 1A   | Fresh tissue in DNA/RNA Shield| 150 µL Shield  | 15 min RT| MicroPrep | 15 | 3,770        | 56,550         | 56.6 | 81.6     | Good      |
+| 1B   | Fresh tissue in DNA/RNA Shield| 150 µL Shield  | 15 min 56 °C, 1400 rpm        | MicroPrep | 15 | 4,740        | 71,100         | 71.1 | 81.0       | More degraded         |
+| 1C   | Fresh tissue in DNA/RNA Shield| 150 µL Shield  | 1 hr 56 °C, 1400 rpm| MicroPrep | 15 | 4,460        | 66,900         | 66.9 | 55.0        | Over‑digested, really degraded |
+| 1D   | Fresh tissue in DNA/RNA Shield (control)| 300 µL Shield  | 15 min RT| Miniprep  | 100| 5,270        | 527,000        | 527  | 79.7       | Best extraction, followed my standard DNA/RNA shield bulk tissue protocol  |
 
-<img width="600" alt="lib_13.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_13.png">
-
-<img width="600" alt="lib_34.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_34.png">
-
-<img width="600" alt="lib_61.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/2026-05-15-NEB-lib-D5000/Lib_61.png">
-
-Full results can be found [here](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-05-15-NEB-Lib.pdf).
-
-### Pooling
-
-Submitting a pool of 50 uL at 4 nM concentration.
+| Tube | Sample Type        | Source         | PK Digestion        | Kit       | Elution (µL) | Conc (pg/µL) | Total RNA (pg) | Total RNA (ng) | dv200 (% >200 nt) | Notes        |
+|------|-----------------------------------------|-------------------------------------|-------------------------------|-----------|--------------|--------------|----------------|----------------|--------------------|------------------------------------|
+| 2A   | Whole Porites section, prewashed slide  | 1 section from POR_R72_C2_1_Prewash| 15 min RT| MicroPrep | 15 | 157| 2,355| 2.36 | 70.2     | Very good     |
+| 2B   | Whole Porites section, prewashed slide  | 1 section from POR_R72_C2_1_Prewash| 15 min 56 °C, 1400 rpm        | MicroPrep | 15 | 191| 2,865| 2.87 | 68.3     | More degraded than 2A     |
+| 2C   | Whole Porites section, prewashed slide  | 1 section from POR_R72_C2_1_Prewash| 1 hr 56 °C, 1400 rpm| MicroPrep | 15 | 133| 1,995| 2.00 | 57.3   | Still >50% dv200, more smear-y       |
