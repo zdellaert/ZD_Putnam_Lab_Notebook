@@ -230,17 +230,14 @@ A few representative fields from the time‑series slides illustrate why these d
 
 - LCM of OE and OG across the 12 time‑series fragments is **logistically feasible** but challenging
 - Ethanol‑only, no‑stain slide prep gave cuttable tissue and reasonable dissection areas per tube, but there remained much OCT on the slides that made the LCM difficult (many dissections had to be cut over and over again), likely contributing to the severe RNA degredation
-
-### What didn’t work for this batch
-
 - **RNA integrity is poor** in the time‑series LCM extracts:
   - dv200 typically ~10–30%; most extractions had no visible rRNA peaks.
   - By contrast, POR_3/POR_4 LCM and validation extractions had dv200 >50–70 with small but clear peaks.
-- **cDNA yield is extremely low** for the small subset of RNA extracts I tested:
-  - POR_R72_C1_362 (OE): 20.7 pg/µL, dv200 16.4, no peaks, cDNA 0.465 ng/µL.
-  - POR_R72_C1_363 (OG): 38.7 pg/µL, dv200 30.2, tiny peaks, cDNA 0.642 ng/µL.
+  - cDNA yield is low for the small subset of RNA extracts I tested:
+    - POR_R72_C1_362 (OE): 20.7 pg/µL, dv200 16.4, no peaks, cDNA 0.465 ng/µL.
+    - POR_R72_C1_363 (OG): 38.7 pg/µL, dv200 30.2, tiny peaks, cDNA 0.642 ng/µL.
 
-**Net result:** this time‑series batch, at this time, is unlikely to support a full 24‑library LCM RNA‑seq dataset at usable quality without further optimization. A few tubes (e.g. 362, 363) could yield libraries, but the RNA is degraded and they would be sub-optimial. There's a chance the tubes I have not yet extracted yield much better RNA, but this seems unlikely.
+At this time, I am unlikely to achieve a full 24‑library LCM RNA‑seq dataset at usable quality without further optimization. A few tubes (e.g. 362, 363) could yield libraries, but the RNA is degraded and they would be sub-optimial. There's a chance the tubes I have not yet extracted yield much better RNA, but this seems unlikely.
 
 ## Preserved for Future Use
 
