@@ -380,7 +380,7 @@ Did not look good. Collected tubes 101-108. Tube 107 spilled.
 
 #### LCM Staining + Tissue Quality Assessment
 
-POR R7 H2 slide was basically ruined, all the tissue came off while dunking in water. POR R3 H1 worked okay but looked bad on the scope. A lot of tissue loss.
+POR R72 H1 slide was basically ruined, all the tissue came off while dunking in water. POR R3 H1 worked okay but looked bad on the scope. A lot of tissue loss.
 
 Collected 2 tubes 109-110.
 
