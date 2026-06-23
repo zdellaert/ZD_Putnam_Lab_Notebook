@@ -174,10 +174,16 @@ Extraction results so far have not been promisng, so we are pausing this project
 
 **Tapestation reports:**
 
-- [6/21 RNA Extractions](../images/tapestation/2026-06-21-POR-TS-RNA-1.pdf)
-- [6/22 RNA Extractions](../images/tapestation/2026-06-22-POR-TS-RNA-2.pdf)
-- [6/21 cDNA](../images/tapestation/2026-06-22-POR-TS-cDNA-1.pdf)
-- [6/22 cDNA](../images/tapestation/2026-06-22-POR-TS-cDNA-2.pdf)
+|   |   |
+|--|--|
+| <img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/POR-TS-RNA/TS_1.png"> | 345, 346, 370, 371 |
+| <img width="300" alt="2026-05-08-AM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/POR-TS-RNA/TS_2.png"> | 347, 348, 362, 363 |
+| <img width="300" alt="2026-05-08-PM.png" src="https://raw.githubusercontent.com/zdellaert/ZD_Putnam_Lab_Notebook/refs/heads/master/images/tapestation/POR-TS-RNA/363_trace.png"> | 363 |
+
+- [6/21 RNA Extractions](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-06-21-POR-TS-RNA-1.pdf)
+- [6/22 RNA Extractions](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-06-22-POR-TS-RNA-2.pdf)
+- [6/21 cDNA](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-06-22-POR-TS-cDNA-1.pdf)
+- [6/22 cDNA](https://github.com/zdellaert/ZD_Putnam_Lab_Notebook/blob/master/images/tapestation/2026-06-22-POR-TS-cDNA-2.pdf)
 
 **Observations:**
 
