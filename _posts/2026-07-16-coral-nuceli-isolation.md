@@ -6,46 +6,49 @@ categories: Protocols, Processing
 tags: [Pocillopora, Porites, Montipora]
 ---
 
-# Nuclei isolation notes, NYC trip
+# Nuclei Isolation for Coral single nuclei RNA-seq 
 
-- [](#)
+- [**Protocol**](#protocol)
     - [Levitas protocol notes (https://levitasbio.com/leviprep/nuclei-kit/)](#levitas-protocol-notes-httpslevitasbiocomleviprepnuclei-kit)
 - [**Final Nuclei QC:**](#final-nuclei-qc)
   - [Montipora](#montipora)
   - [Porites](#porites)
   - [Pocillopora](#pocillopora)
 
-## 
+## Protocol
 
 1. Soak frozen tissue in Ca2+ Mg2+ free PBS for 20 minutes (7 mL + 3 uL RNAseOut)
-2. Pour off PBS and immediately waterpik as much tissue off the skeleton with fresh PBS 
+    1. 7 mL PBS (ph 7.2, Ca2+/Mg2+-free, Thermo Fisher Cat #20012027) with 3 μL RNAseOut RNAse inhibitor (Thermo Fisher Cat #10777019). 
+3. Pour off PBS and immediately waterpik as much tissue off the skeleton with fresh PBS
+   1. _CVS Water Flosser Cat #638777_
    1. try to use < 30 mL PBS total per fragment
    2. Realistically we had to use ~ 45 mL per fragment
-3. Filter slurry through 70 um filter into new conical tube
-4. Spin tissue slurry at 100 rcf for 10 min at 4 ºC
+4. Filter slurry through 70 um filter into new conical tube
+5. Spin tissue slurry at 100 rcf for 10 min at 4 ºC
    1. GOAL: pellet syms, not nuclei -- will naturally lose nuclei.
-5. Move supernatant to new tube and spin this at 700 rcf for 5 minutes at 4 ºC
+6. Move supernatant to new tube and spin this at 700 rcf for 5 minutes at 4 ºC
    1. GOAL: pellet nuclei
-6. Discard supernatant (save if nervous)
-7. Immediatelly proceed with Levitas protocol for NIB lysis of pellet:
+7. Discard supernatant (save if nervous)
+8. Immediatelly proceed with Levitas protocol for NIB lysis of pellet:
    1. Resuspend pellet in 200-500 uL of NIB (we shot for a 1:2 ratio of pellet to lysis buffer) with a wide-bore tip and move to a 1.5 mL tube
    2. Recipie at end of protocol
-   3. https://levitasbio.com/leviprep/nuclei-kit/
-8. Homogenize slurry with a sterile pestle, 10X
+   3. Buffer NIB, LeviPrep Nuclei Kit II; Levitas #1005055
+   4. https://levitasbio.com/leviprep/nuclei-kit/
+9. Homogenize slurry with a sterile pestle, 10X
    1. Do not over homogenize!
-9. Incubate homogenized tissue on ice for 5 min
-10. Pre-wet a 40 um strainer over a pre-labelled 50 mL tube with 500 uL of 1X Wash buffer 
-11. Pipet the entire sample through the 40 um strainer into the 50 mL tube
-12. Rinse the 1.5 mL tube and strainer with 4 mL of ice-cold 1X Wash Buffer. Total volume should be 5 mL
-13. Centrifuge the sample 4 ºC, 500 rcf for 3 min at 4 ºC
-14. *Here the levitas protocol has another wash which we skipped due to pre-filtering and wanting to process the nuclei as fast as possible*
-15. Remove supernatant (as much as comfortable) and resuspend in 50 uL PBS-BSA with a wide-bore tip
+10. Incubate homogenized tissue on ice for 5 min
+11. Pre-wet a 40 um strainer over a pre-labelled 50 mL tube with 500 uL of 1X Wash buffer 
+12. Pipet the entire sample through the 40 um strainer into the 50 mL tube
+13. Rinse the 1.5 mL tube and strainer with 4 mL of ice-cold 1X Wash Buffer. Total volume should be 5 mL
+14. Centrifuge the sample 4 ºC, 500 rcf for 3 min at 4 ºC
+15. *Here the levitas protocol has another wash which we skipped due to pre-filtering and wanting to process the nuclei as fast as possible*
+16. Remove supernatant (as much as comfortable) and resuspend in 50 uL PBS-BSA with a wide-bore tip
     1.  Because of leftover supernatant in pellet, final resuspension volume will be closer to 150 uL 
-16. QC nuceli in final pellet and prepare for chromium
+17. QC nuceli in final pellet and prepare for chromium
     1.  to QC: 5 uL Trypan Blue + 5 uL Nuclei suspension, count on hemocytometer
-17. If there is still clumps of debris in the QC, pass whole suspension through a Flow-Mi filter
-18. Dilute nuclei suspension as needed to achieve between 300 (minimum) - 2000 nuclei/uL
-19. Proceed immediately with Chromium Gem-X 3' Chip loading for a targeted recovery of 6,000 cells.
+18. If there is still clumps of debris in the QC, pass whole suspension through a Flow-Mi filter
+19. Dilute nuclei suspension as needed to achieve between 300 (minimum) - 2000 nuclei/uL
+20. Proceed immediately with Chromium Gem-X 3' Chip loading for a targeted recovery of 6,000 cells.
 
 #### Levitas protocol notes (https://levitasbio.com/leviprep/nuclei-kit/)
 
