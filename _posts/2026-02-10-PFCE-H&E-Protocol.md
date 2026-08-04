@@ -28,9 +28,9 @@ This is a general protocol for H&E staining that is as RNAse-free and RNA-safe a
 10. Eosin Y Solution, Alcoholic ([Sigma-Aldrich Cat# HT110116](https://www.sigmaaldrich.com/US/en/product/sigma/ht110116))
     1.  concentration: 0.5 % (w/v) in acidified ethanol
 11. Bluing buffer
-   1. I make a homemade version for normal H&E staining: https://ihcworld.com/2024/03/05/scotts-tap-water-substitute/
-      1. Magnesium sulfate + sodium bicarbonate in RNAse free water (add exact amounts!!)
-   2. 10X recommends [Bluing Buffer, Dako](https://www.agilent.com/en/product/hematoxylin-eosin/h-e-reagents/bluing-buffer-dako-75869?srsltid=AfmBOoplP5JsqRThEMkMTHJqXQQsYcmWvfEFTpVOp9HadfppjjXW2CjY)
+    1.  I make a homemade version for normal H&E staining: https://ihcworld.com/2024/03/05/scotts-tap-water-substitute/
+        1.  Magnesium sulfate + sodium bicarbonate in RNAse free water (add exact amounts!!)
+    2.  10X recommends [Bluing Buffer, Dako](https://www.agilent.com/en/product/hematoxylin-eosin/h-e-reagents/bluing-buffer-dako-75869?srsltid=AfmBOoplP5JsqRThEMkMTHJqXQQsYcmWvfEFTpVOp9HadfppjjXW2CjY)
 12. Glycerol
 13. Wide-bore pipette tips
 14. Cover slips ([Fisherbrand Cat # 12-541-033](https://www.fishersci.com/shop/products/rectangular-cover-glasses-23/12541033))
@@ -73,8 +73,8 @@ Max 2 at a time. Make sure whenever you place the slide down that the tissue fac
 6. Cover with another 1 mL of warmed 1X PBS
 7. Incubate for *1 minute*
 8. Pour off 1X PBS
-   1. **To avoid disturbing tissue, pipette at least 1 cm away from the tissue edge and avoid pipetting at an angle.**
-9. Add 1 ml **Hematoxylin** per slide
+9.  Add 1 ml **Hematoxylin** per slide
+    1.  **To avoid disturbing tissue, pipette at least 1 cm away from the tissue edge and avoid pipetting at an angle.**
 10. Incubate *1 minute*
 11. Pour off Hematoxylin
 12. Immerse slides 5x in Water Beaker 1.
@@ -104,4 +104,4 @@ Max 2 at a time. Make sure whenever you place the slide down that the tissue fac
 5. Let the glycerol spread and settle on a nonabosrbent surface for a few seconds, then wick away any excess from the side of slide using a kimwipe - do not move coverslip.
 6.  Seal slide with nail polish. 
 
-Protocol credit goes to [10X fresh-frozen tissue H&E protocol](https://cdn.10xgenomics.com/image/upload/v1756505803/support-documents/CG000804_Visium_HD_3_Fresh_Frozen_Tissue_Preparation_Handbook_Rev_B.pdf), and I have made modifications for coral tissue fixed in Paxgene fixitive that has been decalcified + cryosectioned.
+Protocol credit goes to [10X fresh-frozen tissue H&E protocol](https://cdn.10xgenomics.com/image/upload/v1756505803/support-documents/CG000804_Visium_HD_3_Fresh_Frozen_Tissue_Preparation_Handbook_Rev_B.pdf), and I have made modifications for coral tissue fixed in Paxgene fixative that has been decalcified + cryosectioned.
