@@ -29,7 +29,7 @@ This is a general protocol for H&E staining that is as RNAse-free and RNA-safe a
     1.  concentration: 0.5 % (w/v) in acidified ethanol
 11. Bluing buffer
     1.  I make a homemade version for normal H&E staining: https://ihcworld.com/2024/03/05/scotts-tap-water-substitute/
-        1.  Magnesium sulfate + sodium bicarbonate in RNAse free water (add exact amounts!!)
+        1.  **50 mL MilliQ or Molecular grade water, 0.5 g Magnesium sulfate, 0.033 g sodium bicarbonate**
     2.  10X recommends [Bluing Buffer, Dako](https://www.agilent.com/en/product/hematoxylin-eosin/h-e-reagents/bluing-buffer-dako-75869?srsltid=AfmBOoplP5JsqRThEMkMTHJqXQQsYcmWvfEFTpVOp9HadfppjjXW2CjY)
 12. Glycerol
 13. Wide-bore pipette tips
