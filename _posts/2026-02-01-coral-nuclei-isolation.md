@@ -44,7 +44,7 @@ tags: [Pocillopora, Porites, Montipora]
 15. *Here the levitas protocol has another wash which we skipped due to pre-filtering and wanting to process the nuclei as fast as possible*
 16. Remove supernatant (as much as comfortable) and resuspend in 50 uL PBS-BSA with a wide-bore tip
     1.  Because of leftover supernatant in pellet, final resuspension volume will be closer to 150 uL 
-17. QC nuceli in final pellet and prepare for chromium
+17. QC nuclei in final pellet and prepare for chromium
     1.  to QC: 5 uL Trypan Blue + 5 uL Nuclei suspension, count on hemocytometer
 18. If there is still clumps of debris in the QC, pass whole suspension through a Flow-Mi filter
 19. Dilute nuclei suspension as needed to achieve between 300 (minimum) - 2000 nuclei/uL
